@@ -4,3 +4,4 @@ yfinance
 httpx
 python-dotenv
 TA-Lib
+google-generativeai
