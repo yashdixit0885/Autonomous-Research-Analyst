@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import analyze
+from app.routes import sec_rag
 
 app = FastAPI(
     title="Autonomous Investment Research Analyst",
@@ -18,3 +19,4 @@ app.add_middleware(
 )
 
 app.include_router(analyze.router, prefix="/analyze")
+app.include_router(sec_rag.router, prefix="/sec-rag")
