@@ -32,7 +32,6 @@ An AI-powered stock research assistant that mimics a Wall Street analyst — bui
 
 ### 🧩 Backend (FastAPI)
 
-```bash
 cd backend-folder
 pip install -r requirements.txt
 uvicorn app.main:app --reload
@@ -41,14 +40,14 @@ Make sure .env contains:
 GEMINI_API_KEY=your_key_here
 FINNHUB_API_KEY=your_key_here
 
-💻 Frontend (React + Tailwind):
+### 💻 Frontend (React + Tailwind):
 cd investment-analyst-frontend
 npm install
 npm run dev
 Visit: http://localhost:5173
 
-📬 Feedback Welcome!
+## 📬 Feedback Welcome!
 This is an early MVP — open to feedback, suggestions, and contributors.
 
-📄 License
+## 📄 License
 MIT
