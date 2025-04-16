@@ -27,7 +27,6 @@ flatbuffers==25.2.10
 frozendict==2.4.6
 frozenlist==1.5.0
 fsspec==2025.3.2
-google-ai-generativelanguage==0.6.17
 google-api-core==2.24.2
 google-api-python-client==2.167.0
 google-auth==2.39.0
