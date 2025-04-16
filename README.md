@@ -1,54 +1,54 @@
 # 🧠 Autonomous Investment Research Analyst
 
-An AI-powered backend API that mimics a Wall Street research analyst.  
-It retrieves live stock data, performs basic analysis, and will soon generate professional research reports using LLMs.
+An AI-powered stock research assistant that mimics a Wall Street analyst — built with FastAPI, Gemini LLM, and a stylish React + Tailwind frontend.
 
 ---
 
-## 🚀 Features (MVP)
-- 📊 Pulls stock fundamentals via Yahoo Finance
-- 🧪 Technical indicators (coming next)
-- 🗞️ Company news summaries (coming soon)
-- 🧠 Gemini LLM-powered research generation (coming soon)
+## ✨ Features
+
+- 🔍 **Search any stock ticker** (e.g., AAPL, TSLA, NVDA)
+- 📊 **Company fundamentals + technical analysis**
+- 📰 **Recent news headlines**
+- 🤖 **AI-generated investment research report** (Buy / Hold / Sell)
+- 🧾 **Downloadable AI report**
+- 🌗 **Dark/Light mode toggle**
+- 🌀 **Animated loading states**
+- 🎨 Fully styled with Tailwind CSS v3
 
 ---
 
-## 📦 Project Structure
+## 🧪 Technologies Used
 
-autonomous-research-analyst/
-│
-├── app/
-│   ├── main.py              # FastAPI app entrypoint
-│   ├── routes/
-│   │   └── analyze.py       # Route for /analyze endpoint
-│   ├── services/
-│   │   └── stock_data.py    # Logic for pulling stock data (fundamentals, technicals)
-│   └── utils/
-│       └── helpers.py       # Reusable helper functions
-│
-├── .env                     # For API keys and secrets
-├── requirements.txt         # Python dependencies
-├── README.md
-├── .gitignore
+| Layer      | Tech                     |
+|------------|--------------------------|
+| Frontend   | React + Tailwind + Vite  |
+| Backend    | FastAPI (Python)         |
+| LLM        | Gemini `gemini-1.5-pro`  |
+| Data APIs  | yFinance, Finnhub        |
 
 ---
 
-## 🧪 How to Run
+## 🖥️ How to Run Locally
+
+### 🧩 Backend (FastAPI)
 
 ```bash
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
+cd backend-folder
 pip install -r requirements.txt
-
-# Run the API
 uvicorn app.main:app --reload
-Visit: http://localhost:8000/analyze?ticker=AAPL
 
-🌐 Deployment
-Coming soon — this backend will connect to a React frontend and eventually host Gemini-powered reports.
+Make sure .env contains:
+GEMINI_API_KEY=your_key_here
+FINNHUB_API_KEY=your_key_here
 
-📘 License
-MIT - Use freely, improve openly.
+💻 Frontend (React + Tailwind):
+cd investment-analyst-frontend
+npm install
+npm run dev
+Visit: http://localhost:5173
+
+📬 Feedback Welcome!
+This is an early MVP — open to feedback, suggestions, and contributors.
+
+📄 License
+MIT
