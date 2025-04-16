@@ -12,11 +12,14 @@ app = FastAPI(
 # ✅ Add this block to enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Your frontend origin
+    allow_origins=[
+        "https://ai-research-analyst.vercel.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 app.include_router(analyze.router, prefix="/analyze")
 app.include_router(sec_rag.router, prefix="/sec-rag")
