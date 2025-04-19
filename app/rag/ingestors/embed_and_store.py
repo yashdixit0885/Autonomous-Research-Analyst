@@ -5,6 +5,8 @@ from langchain_mistralai import MistralAIEmbeddings
 from langchain_community.vectorstores import Chroma
 import os
 from dotenv import load_dotenv
+from chromadb.config import Settings as ClientSettings
+
 
 load_dotenv()
 api_key = os.getenv("MISTRALAI_API_KEY")
@@ -30,8 +32,12 @@ def ingest_filing(ticker: str, form_type: str, persist_path="chroma_store"):
         documents=docs,
         embedding=embeddings,
         persist_directory=persist_path,
-        collection_metadata={"hnsw:space": "cosine"},
-        client_settings={"num_threads": 1}  # 👈 important fix
+        client_settings=ClientSettings(  # ✅ correct usage
+            chroma_db_impl="duckdb+parquet",
+            persist_directory=persist_path,
+            anonymized_telemetry=False,
+            num_threads=1  # ✅ this fixes Render's thread issue
+        )
     )
 
     vectordb.persist()
