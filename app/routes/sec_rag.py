@@ -22,7 +22,8 @@ def ask_sec_filing(ticker: str = Query(...), question: str = Query(...)):
         # Load vector DB with the embedding function
         vectordb = Chroma(
             persist_directory=persist_path,
-            embedding_function=embedding
+            embedding_function=embedding,
+            client_settings={"num_threads": 1}
         )
         print("Total documents stored:", vectordb._collection.count())
 
