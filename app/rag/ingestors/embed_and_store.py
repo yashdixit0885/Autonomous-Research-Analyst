@@ -35,8 +35,7 @@ def ingest_filing(ticker: str, form_type: str, persist_path="chroma_store"):
         client_settings=ClientSettings(  # ✅ correct usage
             chroma_db_impl="duckdb+parquet",
             persist_directory=persist_path,
-            anonymized_telemetry=False,
-            num_threads=1  # ✅ this fixes Render's thread issue
+            anonymized_telemetry=False
         )
     )
 
