@@ -46,3 +46,14 @@ def generate_gemini_report(summary, technicals, news):
     model = genai.GenerativeModel("gemini-1.5-pro")
     response = model.generate_content(prompt)
     return response.text
+
+def gemini_chat(prompt: str) -> str:
+    """
+    Lightweight LLM wrapper for generic chat prompts.
+    """
+    try:
+        model = genai.GenerativeModel("gemini-1.5-pro")
+        response = model.generate_content(prompt)
+        return response.text
+    except Exception as e:
+        return f"❌ Error generating response: {e}"

@@ -9,6 +9,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import analyze
 from app.routes import sec_rag
+from app.routes import full_report 
 
 app = FastAPI(
     title="Autonomous Investment Research Analyst",
@@ -16,10 +17,11 @@ app = FastAPI(
     version="0.1"
 )
 
-# ✅ Add this block to enable CORS
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        "http://localhost:5173",
         "https://ai-research-analyst.vercel.app"
     ],
     allow_credentials=True,
@@ -30,3 +32,4 @@ app.add_middleware(
 
 app.include_router(analyze.router, prefix="/analyze")
 app.include_router(sec_rag.router, prefix="/sec-rag")
+app.include_router(full_report.router, prefix="/full-report") 
