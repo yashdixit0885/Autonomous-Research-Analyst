@@ -5,7 +5,7 @@ from langchain_mistralai import MistralAIEmbeddings
 from fastapi import Body
 from app.rag.ingestors.embed_and_store import ingest_filing
 import os
-
+from chromadb.config import Settings as ClientSettings
 router = APIRouter()
 
 @router.get("/ask-sec")
@@ -23,7 +23,12 @@ def ask_sec_filing(ticker: str = Query(...), question: str = Query(...)):
         vectordb = Chroma(
             persist_directory=persist_path,
             embedding_function=embedding,
-            client_settings={"num_threads": 1}
+                client_settings=ClientSettings(
+                persist_directory=persist_path,
+                chroma_db_impl="duckdb+parquet",
+                anonymized_telemetry=False,
+                num_threads=1
+            )
         )
         print("Total documents stored:", vectordb._collection.count())
 
