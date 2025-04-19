@@ -29,7 +29,9 @@ def ingest_filing(ticker: str, form_type: str, persist_path="chroma_store"):
     vectordb = Chroma.from_documents(
         documents=docs,
         embedding=embeddings,
-        persist_directory=persist_path
+        persist_directory=persist_path,
+        collection_metadata={"hnsw:space": "cosine"},
+        client_settings={"num_threads": 1}  # 👈 important fix
     )
 
     vectordb.persist()
