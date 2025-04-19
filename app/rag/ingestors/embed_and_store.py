@@ -1,63 +1,40 @@
-from app.rag.loaders.edgar_loader import fetch_10k_text
+from app.rag.loaders.edgar_loader import fetch_filing_text
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain.docstore.document import Document
 from langchain_mistralai import MistralAIEmbeddings
-from dotenv import load_dotenv
+from langchain_community.vectorstores import Chroma
 import os
-import time
+from dotenv import load_dotenv
 
 load_dotenv()
 api_key = os.getenv("MISTRALAI_API_KEY")
 
-def ingest_ticker(ticker: str, persist_path="chroma_store"):
-    start_time = time.time()
-    print(f"\n📥 Starting ingestion for {ticker}...")
-    
-    # Pull 10-K document from EDGAR
-    print("📄 Fetching 10-K document...")
-    fetch_start = time.time()
-    raw_text = fetch_10k_text(ticker)
-    if not raw_text:
-        print(f"❌ Failed to fetch 10-K for {ticker}")
-        return False
-    print(f"✅ Fetched {len(raw_text)} characters in {time.time() - fetch_start:.2f}s")
-    
-    # Chunk the document
-    print("✂️ Splitting document into chunks...")
-    split_start = time.time()
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=200,
-        length_function=len,
-        separators=["\n\n", "\n", " ", ""]
-    )
-    docs = splitter.create_documents([raw_text])
-    print(f"✅ Split into {len(docs)} chunks in {time.time() - split_start:.2f}s")
-    
-    # Embed using Mistral
-    print("🔢 Generating embeddings...")
-    embed_start = time.time()
-    embeddings = MistralAIEmbeddings(
-        model="mistral-embed",
-        mistral_api_key=api_key
-    )
-    
-    # Store in Chroma
-    print("💾 Storing in vector database...")
-    store_start = time.time()
+def ingest_filing(ticker: str, form_type: str, persist_path="chroma_store"):
+    text = fetch_filing_text(ticker, form_type=form_type)
+    print("✅ Filing text loaded (first 500 chars):\n", text[:500])
+    if not text:
+        print(f"No {form_type} found for {ticker}")
+        return
+
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    docs = splitter.create_documents([text])
+
+    # Add metadata for filtering
+    for d in docs:
+        d.metadata["form_type"] = form_type
+        d.metadata["ticker"] = ticker.upper()
+
+    embeddings = MistralAIEmbeddings(model="mistral-embed", mistral_api_key=api_key)
+
     vectordb = Chroma.from_documents(
         documents=docs,
         embedding=embeddings,
-        persist_directory=persist_path,
-        collection_name=ticker.lower()  # Ensure consistent case
+        persist_directory=persist_path
     )
+
     vectordb.persist()
-    print(f"✅ Stored in {time.time() - store_start:.2f}s")
-    
-    total_time = time.time() - start_time
-    print(f"✨ Completed ingestion in {total_time:.2f}s")
-    return True
+    print(f"✅ Ingested {form_type} for {ticker} — {len(docs)} chunks")
 
 if __name__ == "__main__":
-    ticker = "AMD"
-    ingest_ticker(ticker)
+    for form in ["10-K", "10-Q", "8-K", "DEF 14A"]:
+        ingest_filing("AMD", form)

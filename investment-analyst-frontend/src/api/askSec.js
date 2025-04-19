@@ -1,8 +1,14 @@
-const baseUrl = import.meta.env.VITE_API_BASE_URL;
+//prod
+// const baseUrl = import.meta.env.VITE_API_BASE_URL;
 
-export async function askSecFiling(ticker, question) {
+//dev
+// const BASE_URL = "http://localhost:8000";
+const baseUrl = import.meta.env.VITE_API_BASE_URL;
+// const baseUrl = "http://localhost:8000";
+
+export async function askSECQuestion(ticker, question) {
     const url = `${baseUrl}/sec-rag/ask-sec?ticker=${ticker}&question=${encodeURIComponent(question)}`;
-    const res = await fetch(url);
-    if (!res.ok) throw new Error("Failed to query SEC RAG endpoint");
-    return res.json();
+    const response = await fetch(url);
+    const data = await response.json();
+    return data.answer?.result || "No answer available.";
 }

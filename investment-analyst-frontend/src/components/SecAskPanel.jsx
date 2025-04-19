@@ -1,51 +1,58 @@
+// src/components/SecAskPanel.jsx
 import { useState } from "react";
-import { askSecFiling } from "../api/askSec";
+import { askSECQuestion } from "../api/askSec";
 
 export default function SecAskPanel({ ticker }) {
-const [question, setQuestion] = useState("");
-const [answer, setAnswer] = useState(null);
-const [loading, setLoading] = useState(false);
+  const [input, setInput] = useState("");
+  const [answer, setAnswer] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
-const handleAsk = async () => {
-    if (!question.trim()) return;
+  const handleAsk = async () => {
+    if (!input) return;
     setLoading(true);
+    setError(null);
     setAnswer(null);
     try {
-    const response = await askSecFiling(ticker, question);
-    setAnswer(response.answer);
+      const res = await askSECQuestion(ticker, input);
+      setAnswer(res);
     } catch (err) {
-    setAnswer({ result: "Error fetching answer from 10-K." });
+      console.error("Ask SEC failed:", err);
+      setError("Something went wrong while fetching the answer.");
     } finally {
-    setLoading(false);
+      setLoading(false);
     }
-};
+  };
 
-return (
-    <div className="bg-gray-800 p-6 rounded-xl shadow border border-gray-700 h-fit">
-    <h2 className="text-xl font-bold mb-4 text-blue-300">📄 Ask {ticker}'s 10-K</h2>
-    <div className="flex flex-col gap-3">
-        <input
-        type="text"
-        placeholder="e.g., What are the risks?"
-        value={question}
-        onChange={(e) => setQuestion(e.target.value)}
-        className="p-2 rounded text-black"
-        />
-        <button
+  return (
+    <div className="sticky top-10 bg-gray-900 text-white p-6 rounded-xl shadow-xl border border-gray-700/30 h-fit">
+      <h3 className="text-xl font-bold text-yellow-400 mb-2">Ask about SEC Filings</h3>
+      <p className="text-sm mb-4 text-gray-400">You can ask questions about 10-K, 10-Q, 8-K, or Proxy statements.</p>
+
+      <textarea
+        className="w-full rounded p-2 text-black text-sm mb-2"
+        rows={3}
+        placeholder="What are the key risks?"
+        value={input}
+        onChange={(e) => setInput(e.target.value)}
+      />
+
+      <button
         onClick={handleAsk}
-        className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition"
-        >
-        Ask
-        </button>
-    </div>
+        disabled={loading || !input.trim()}
+        className="bg-yellow-400 hover:bg-yellow-500 text-black font-semibold px-3 py-1.5 rounded w-full text-sm"
+      >
+        {loading ? "Thinking..." : "Ask"}
+      </button>
 
-    {loading && <p className="text-blue-300 mt-4">Loading 10-K response...</p>}
+      {error && <p className="text-red-400 text-sm mt-2">{error}</p>}
 
-    {answer?.result && (
-        <div className="mt-6 whitespace-pre-wrap bg-gray-900 text-gray-100 p-4 rounded border border-gray-700">
-        {answer.result}
+      {answer && (
+        <div className="mt-4 text-sm bg-gray-800 p-3 rounded text-gray-200">
+          <h4 className="text-yellow-300 font-semibold mb-1">Answer:</h4>
+          <p className="whitespace-pre-wrap leading-relaxed">{answer}</p>
         </div>
-    )}
+      )}
     </div>
-);
+  );
 }
