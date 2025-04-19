@@ -26,8 +26,7 @@ def ask_sec_filing(ticker: str = Query(...), question: str = Query(...)):
                 client_settings=ClientSettings(
                 persist_directory=persist_path,
                 chroma_db_impl="duckdb+parquet",
-                anonymized_telemetry=False,
-                num_threads=1
+                anonymized_telemetry=False
             )
         )
         print("Total documents stored:", vectordb._collection.count())
