@@ -2,6 +2,8 @@ from fastapi import APIRouter, Query
 from langchain_community.vectorstores import Chroma
 from app.services.gemini_engine import gemini_chat
 from langchain_mistralai import MistralAIEmbeddings
+from fastapi import Body
+from app.rag.ingestors.embed_and_store import ingest_filing
 import os
 
 router = APIRouter()
@@ -65,3 +67,16 @@ Be concise, evidence-based, and clear.
     except Exception as e:
         print("❌ Backend error:", e)
         return {"error": str(e)}
+
+
+
+@router.post("/ingest")
+def ingest_on_demand(
+    ticker: str = Body(...),
+    form: str = Body(default="10-K")
+):
+    try:
+        ingest_filing(ticker.upper(), form_type=form)
+        return {"status": "success", "message": f"{ticker} - {form} ingested"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
