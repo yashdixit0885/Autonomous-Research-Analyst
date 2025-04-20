@@ -7,7 +7,7 @@ __pycache__/
 *.log
 .env
 chroma_store*/
-chroma_store_backup_*/
+chroma_store_backup*/
 sec_filings/
 *.ipynb_checkpoints
 ara/lib/
@@ -17,3 +17,23 @@ node_modules/
 ara/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib
 ara/lib/python3.11/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so
 ara/lib/python3.11/site-packages/onnxruntime/capi/libonnxruntime.1.21.0.dylib
+
+# Python virtual environment
+/ara/
+/venv/
+/.venv/
+/env/
+
+# Large binary files
+*.dylib
+*.so
+
+# ChromaDB storage
+/chroma_store/
+/chroma_store_backup*/
+*.sqlite3
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
