@@ -1,3 +1,16 @@
-venv/
+# .gitignore
 __pycache__/
+*.py[cod]
+*.sqlite3
+*.dylib
+*.so
+*.log
 .env
+chroma_store*/
+chroma_store_backup_*/
+sec_filings/
+*.ipynb_checkpoints
+ara/lib/
+venv/
+.env.*
+node_modules/
