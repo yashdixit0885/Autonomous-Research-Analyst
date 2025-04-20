@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routes import analyze, full_report, sec_rag
+from app.routes import analyze, full_report, sec_rag
 
 app = FastAPI()
 

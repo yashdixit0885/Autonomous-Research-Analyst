@@ -1,5 +1,5 @@
-from services.stock_data import fetch_stock_summary
-from services.gemini_engine import gemini_chat
+from app.services.stock_data import fetch_stock_summary
+from app.services.gemini_engine import gemini_chat
 
 def run_fundamentals_agent(ticker: str):
     metrics = fetch_stock_summary(ticker)

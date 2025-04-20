@@ -1,17 +1,17 @@
-from services.gemini_engine import gemini_chat
+from app.services.gemini_engine import gemini_chat
 
-def generate_final_report(ticker, fundamentals, technicals, risks):
+def generate_final_report(fundamentals_analysis: str, technical_analysis: str, risk_analysis: str):
     prompt = f"""
 You are a Wall Street analyst. Write a full research report for {ticker} using the following:
 
 --- Fundamentals ---
-{fundamentals['ai_summary']}
+{fundamentals_analysis}
 
 --- Technical Analysis ---
-{technicals['ai_summary']}
+{technical_analysis}
 
 --- Risk Disclosures ---
-{risks['risk_summary']}
+{risk_analysis}
 
 Structure it like a professional report with clear insights, concise explanations, and a Buy/Hold/Sell recommendation at the end.
 """

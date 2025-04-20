@@ -12,7 +12,7 @@ def full_report(ticker: str = Query(...)):
     fundamentals = run_fundamentals_agent(ticker)
     technicals = run_technical_agent(ticker)
     risks = run_risk_agent(ticker)
-    report = generate_final_report(ticker, fundamentals, technicals, risks)
+    report = generate_final_report(fundamentals['ai_summary'], technicals['ai_summary'], risks['risk_summary'])
 
     return {
         "ticker": ticker,

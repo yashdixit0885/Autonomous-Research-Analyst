@@ -1,5 +1,7 @@
+from datetime import datetime
+from app.services.gemini_engine import gemini_chat
+from app.services.stock_data import fetch_stock_summary
 import yfinance as yf
-from services.gemini_engine import gemini_chat
 
 def run_technical_agent(ticker: str):
     data = yf.download(ticker, period="6mo")

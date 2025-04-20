@@ -13,7 +13,7 @@ def analyze(ticker: str = Query(...), generateReport: bool = Query(False)):
     technicals = run_technical_agent(ticker)
     risks = run_risk_agent(ticker)
 
-    final_report = generate_final_report(ticker, fundamentals, technicals, risks) if generateReport else ""
+    final_report = generate_final_report(fundamentals['ai_summary'], technicals['ai_summary'], risks['risk_summary']) if generateReport else ""
 
     return {
         "ticker": ticker,

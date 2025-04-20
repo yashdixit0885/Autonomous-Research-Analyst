@@ -1,8 +1,11 @@
 # app/routes/sec_rag.py
 
 from fastapi import APIRouter, Query, Body
-from rag.ingestors.embed_and_store import ingest_filing
-from services.gemini_engine import gemini_chat
+from typing import List
+from datetime import datetime
+from app.rag.ingestors.embed_and_store import ingest_filing
+from app.rag.query_engine.query_engine import query_filings
+from app.services.gemini_engine import gemini_chat
 from langchain_community.vectorstores import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 import os
@@ -79,5 +82,24 @@ def ingest_on_demand(
     try:
         ingest_filing(ticker.upper(), form_type=form)
         return {"status": "success", "message": f"{ticker} - {form} ingested"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
+
+@router.get("/ingest")
+def ingest_filings(ticker: str = Query(...), filing_type: str = Query(...), start_date: str = Query(...), end_date: str = Query(...)):
+    try:
+        start = datetime.strptime(start_date, "%Y-%m-%d")
+        end = datetime.strptime(end_date, "%Y-%m-%d")
+        
+        ingest_filing(ticker, filing_type, start, end)
+        return {"status": "success", "message": "Filings ingested successfully"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
+
+@router.post("/query")
+def query_filing(ticker: str = Query(...), query: str = Body(...)):
+    try:
+        response = query_filings(ticker, query)
+        return {"status": "success", "response": response}
     except Exception as e:
         return {"status": "error", "message": str(e)}

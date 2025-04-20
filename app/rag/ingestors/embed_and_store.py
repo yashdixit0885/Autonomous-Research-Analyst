@@ -10,12 +10,18 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 import chromadb
 from chromadb.utils import embedding_functions
-from rag.loaders.edgar_loader import fetch_filing_text
+from datetime import datetime
+from app.rag.loaders.edgar_loader import fetch_filing_text
 import re
+from langchain_community.vectorstores import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from typing import List, Dict
 
 # Load environment variables
 load_dotenv()
-CHROMA_PATH = "/data/chroma_store"
+
+# Set up storage path in the project directory
+CHROMA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))), "data", "chroma_store")
 
 # Ensure the directory exists
 os.makedirs(CHROMA_PATH, exist_ok=True)
@@ -54,12 +60,12 @@ def clean_filing_text(filing_text):
     
     return filing_text
 
-def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool = False):
+def ingest_filing(ticker: str, filing_type: str, start_date: datetime, end_date: datetime, reset_collection: bool = False):
     """Ingest an SEC filing for a given ticker and form type."""
-    print(f"\n📡 Fetching {form_type} for {ticker.upper()}")
+    print(f"\n📡 Fetching {filing_type} for {ticker.upper()}")
     
     # Format collection name to meet ChromaDB requirements
-    collection_name = f"sec-{ticker.lower()}-{form_type.lower().replace(' ', '-')}"
+    collection_name = f"sec-{ticker.lower()}-{filing_type.lower().replace(' ', '-')}"
     
     # Step 1: Create ChromaDB client
     client = chromadb.PersistentClient(path=CHROMA_PATH)
@@ -77,7 +83,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
         collection = client.get_or_create_collection(
             name=collection_name,
             embedding_function=embedding_function,
-            metadata={"source": f"{ticker}-{form_type}"}
+            metadata={"source": f"{ticker}-{filing_type}"}
         )
         print(f"Collection ready: {collection_name}")
     except Exception as e:
@@ -88,7 +94,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
             collection = client.create_collection(
                 name=collection_name,
                 embedding_function=embedding_function,
-                metadata={"source": f"{ticker}-{form_type}"}
+                metadata={"source": f"{ticker}-{filing_type}"}
             )
             print(f"Collection recreated: {collection_name}")
         except Exception as e2:
@@ -97,9 +103,9 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
     
     # Step 4: Fetch and clean filing text
     try:
-        filing_text = fetch_filing_text(ticker.upper(), form_type=form_type)
+        filing_text = fetch_filing_text(ticker.upper(), form_type=filing_type)
         if not filing_text or not filing_text.strip():
-            print(f"❌ No text retrieved for {form_type} of {ticker}")
+            print(f"❌ No text retrieved for {filing_type} of {ticker}")
             return False
             
         # Clean the text
@@ -122,7 +128,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
     success_count = 0
     
     # Create batches for processing
-    for i in tqdm(range(0, len(docs), batch_size), desc=f"Ingesting {form_type}"):
+    for i in tqdm(range(0, len(docs), batch_size), desc=f"Ingesting {filing_type}"):
         batch = docs[i:i + batch_size]
         
         ids = []
@@ -131,7 +137,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
         
         # Process each document in the batch
         for j, doc in enumerate(batch):
-            doc_id = f"{ticker}-{form_type}-{i+j}"
+            doc_id = f"{ticker}-{filing_type}-{i+j}"
             text = doc.page_content.strip()
             
             # Skip invalid content
@@ -145,7 +151,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
             ids.append(doc_id)
             texts.append(text)
             metadatas.append({
-                "source": f"{ticker}-{form_type}",
+                "source": f"{ticker}-{filing_type}",
                 "chunk_index": i+j,
                 "length": len(text)
             })
@@ -156,7 +162,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
             continue
             
         # Debug info
-        print(f"\n🔍 Debug - Batch {i}:")
+        print(f"\n Debug - Batch {i}:")
         print(f"Documents: {len(ids)}")
         print(f"First document length: {len(texts[0])}")
         print(f"First document start: {texts[0][:100]}")
@@ -172,7 +178,7 @@ def ingest_filing(ticker: str, form_type: str = "10-K", reset_collection: bool =
         except Exception as e:
             print(f"❌ Failed adding batch {i}: {str(e)}")
             
-    print(f"✅ Ingested {success_count} chunks from {ticker} {form_type}")
+    print(f"✅ Ingested {success_count} chunks from {ticker} {filing_type}")
     return True
 
 def main():
@@ -181,10 +187,14 @@ def main():
     forms = ["10-K", "10-Q", "8-K", "DEF 14A"]
     tickers = ["AMD"]
     
+    # Set date range for filings
+    start_date = datetime(2020, 1, 1)  # Start from January 1, 2020
+    end_date = datetime.now()  # End at current date
+    
     for ticker in tickers:
         for form in forms:
             try:
-                success = ingest_filing(ticker, form_type=form, reset_collection=True)
+                success = ingest_filing(ticker, filing_type=form, start_date=start_date, end_date=end_date, reset_collection=True)
                 if success:
                     print(f"✅ Successfully ingested {form} for {ticker}")
                 else:

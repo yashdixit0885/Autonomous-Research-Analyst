@@ -1,4 +1,5 @@
-from services.gemini_engine import gemini_chat
+from app.services.gemini_engine import gemini_chat
+from app.services.stock_data import fetch_stock_summary
 
 def run_risk_agent(ticker: str):
     try:
