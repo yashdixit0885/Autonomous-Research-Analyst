@@ -1,41 +1,84 @@
+import os
 import requests
 from bs4 import BeautifulSoup
-from app.rag.loaders.utils import get_cik_from_ticker
 import html2text
+from sec_edgar_downloader import Downloader
+import re
 
-SEC_HEADERS = {
-    "User-Agent": "Yash Dixit yashdixit0885@gmail.com"
+# ✅ Add required SEC header to avoid 403 errors
+HEADERS = {
+    "User-Agent": "Yash Dixit (yashdixit0885@gmail.com)"  # <-- Use your real email here
 }
 
+def clean_sec_text(text: str) -> str:
+    """Clean SEC filing text to remove unwanted content and formatting."""
+    # Remove HTML entities
+    text = re.sub(r'&[^;]+;', ' ', text)
+    
+    # Remove XML/HTML tags and their content
+    text = re.sub(r'<[^>]+>', ' ', text)
+    
+    # Remove special characters but keep basic punctuation
+    text = re.sub(r'[^\w\s.,;:!?()-]', ' ', text)
+    
+    # Remove repeated patterns
+    text = re.sub(r'\([\s\(]+M\([\s\(]+\)', ' ', text)
+    text = re.sub(r'[A-Z0-9]{5,}', ' ', text)  # Remove long sequences of caps and numbers
+    
+    # Remove CSS styles and attributes
+    text = re.sub(r'style="[^"]*"', '', text)
+    text = re.sub(r'class="[^"]*"', '', text)
+    
+    # Remove XBRL references and metadata
+    text = re.sub(r'xbrl\.sec\.gov.*?(?=\s|$)', '', text)
+    text = re.sub(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '', text)
+    
+    # Normalize whitespace
+    text = re.sub(r'\s+', ' ', text)
+    text = text.strip()
+    
+    return text
+
 def fetch_filing_text(ticker: str, form_type: str = "10-K") -> str:
-    cik = get_cik_from_ticker(ticker)
-    if not cik:
-        raise ValueError("CIK not found.")
+    print(f"📥 Downloading latest {form_type} filing for {ticker}...")
 
-    padded_cik = cik.zfill(10)
-    url = f"https://data.sec.gov/submissions/CIK{padded_cik}.json"
-    print(f"📡 SEC JSON Lookup: {url}")
+    # ✅ Provide email in Downloader to stay compliant with SEC access rules
+    dl = Downloader(company_name="Autonomous Research Analyst", email_address="yashdixit0885@gmail.com")
+    dl.get(form_type, ticker, limit=1)
 
-    res = requests.get(url, headers=SEC_HEADERS)
-    if res.status_code != 200:
-        raise ValueError("Failed to fetch SEC submission data.")
+    base_path = f"sec-edgar-filings/{ticker}/{form_type}"
+    if not os.path.exists(base_path):
+        raise FileNotFoundError(f"❌ Filing folder not found at {base_path}")
 
-    data = res.json()
-    filings = data.get("filings", {}).get("recent", {})
+    latest_dir = sorted(os.listdir(base_path))[-1]
+    html_path = os.path.join(base_path, latest_dir, "full-submission.txt")
 
-    accession_nums = filings.get("accessionNumber", [])
-    form_types = filings.get("form", [])
-    primary_docs = filings.get("primaryDocument", [])
-    dates = filings.get("filingDate", [])
+    if not os.path.exists(html_path):
+        raise FileNotFoundError(f"❌ Filing document not found at {html_path}")
 
-    for i, form in enumerate(form_types):
-        if form.upper() == form_type:
-            acc_num = accession_nums[i].replace("-", "")
-            doc = primary_docs[i]
-            filing_url = f"https://www.sec.gov/Archives/edgar/data/{int(cik)}/{acc_num}/{doc}"
-            print(f"✅ Found {form_type} → {filing_url}")
-            response = requests.get(filing_url, headers=SEC_HEADERS)
-            return html2text.html2text(response.text)
+    print(f"📄 Fetching {form_type} HTML filing for {ticker}")
 
-    print(f"⚠️ No {form_type} filing found for {ticker}")
-    return None
+    # ✅ Read and parse HTML
+    with open(html_path, "r", encoding="utf-8") as file:
+        raw_html = file.read()
+
+    # Parse HTML with BeautifulSoup
+    soup = BeautifulSoup(raw_html, "html.parser")
+    
+    # Remove unwanted elements
+    for tag in soup(["script", "style", "table", "img", "svg", "math", "head", "meta", "link"]):
+        tag.decompose()
+    
+    # Get text content
+    text = soup.get_text(separator=' ', strip=True)
+    
+    # Clean the text
+    text = clean_sec_text(text)
+    
+    # Validate the cleaned text
+    if len(text) < 100:
+        raise ValueError("Text too short after cleaning")
+    if len(re.sub(r'[^A-Za-z]', '', text)) < 50:
+        raise ValueError("Text contains too few alphabetic characters")
+    
+    return text

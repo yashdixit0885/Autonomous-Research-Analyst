@@ -6,7 +6,7 @@ yfinance
 html2text
 langchain
 langchain-community
-langchain-mistralai
+langchain-huggingface
 langchain-google-genai
 chromadb
 python-dotenv
@@ -14,3 +14,6 @@ python-dotenv
 # Gemini integration
 google-generativeai==0.8.4
 google-ai-generativelanguage==0.6.15
+
+chromadb[client]==0.4.13
+sec-edgar-downloader

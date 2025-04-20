@@ -1,10 +1,20 @@
+# ✅ gemini_engine.py
+
 import os
 import google.generativeai as genai
 from dotenv import load_dotenv
 
 load_dotenv()
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
+def gemini_chat(prompt: str) -> str:
+    try:
+        model = genai.GenerativeModel("gemini-1.5-pro")
+        response = model.generate_content(prompt)
+        return response.text
+    except Exception as e:
+        print("❌ Gemini error:", e)
+        return "Model error: unable to complete request."
 
 def build_prompt(summary, technicals, news):
     news_block = "\n".join(
@@ -43,17 +53,4 @@ Now write a research note in natural language including your rating.
 
 def generate_gemini_report(summary, technicals, news):
     prompt = build_prompt(summary, technicals, news)
-    model = genai.GenerativeModel("gemini-1.5-pro")
-    response = model.generate_content(prompt)
-    return response.text
-
-def gemini_chat(prompt: str) -> str:
-    """
-    Lightweight LLM wrapper for generic chat prompts.
-    """
-    try:
-        model = genai.GenerativeModel("gemini-1.5-pro")
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as e:
-        return f"❌ Error generating response: {e}"
+    return gemini_chat(prompt)

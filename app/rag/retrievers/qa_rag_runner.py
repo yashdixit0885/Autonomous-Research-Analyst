@@ -1,7 +1,7 @@
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
-from langchain_mistralai import MistralAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from dotenv import load_dotenv
@@ -10,14 +10,15 @@ import os
 load_dotenv()
 
 # Set up retriever
-embedding = MistralAIEmbeddings(
-    model="mistral-embed",
-    mistral_api_key=os.getenv("MISTRALAI_API_KEY")
+embedding_model = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2",
+    model_kwargs={"device": "cpu"},
+    encode_kwargs={"batch_size": 32, "normalize_embeddings": True}
 )
 
 vectordb = Chroma(
     persist_directory="chroma_store",
-    embedding_function=embedding
+    embedding_function=embedding_model
 )
 
 retriever = vectordb.as_retriever(search_kwargs={"k": 5})

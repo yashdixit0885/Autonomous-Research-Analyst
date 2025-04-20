@@ -15,7 +15,7 @@ import re
 
 # Load environment variables
 load_dotenv()
-CHROMA_PATH = "/data/chroma_store"
+CHROMA_PATH = "chroma_store"
 
 # Ensure the directory exists
 os.makedirs(CHROMA_PATH, exist_ok=True)

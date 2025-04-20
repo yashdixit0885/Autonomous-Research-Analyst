@@ -1,34 +1,31 @@
-from fastapi import APIRouter, Query
+# app/routes/sec_rag.py
+
+from fastapi import APIRouter, Query, Body
+from rag.ingestors.embed_and_store import ingest_filing
+from services.gemini_engine import gemini_chat
 from langchain_community.vectorstores import Chroma
-from app.services.gemini_engine import gemini_chat
-from langchain_mistralai import MistralAIEmbeddings
-from fastapi import Body
-from app.rag.ingestors.embed_and_store import ingest_filing
+from langchain_huggingface import HuggingFaceEmbeddings
 import os
-from chromadb.config import Settings as ClientSettings
+
 router = APIRouter()
 
 @router.get("/ask-sec")
-def ask_sec_filing(ticker: str = Query(...), question: str = Query(...)):
+def ask_sec_filing(ticker: str = Query(...), question: str = Query(...), filing_type: str = Query("10-K")):
     try:
-        persist_path = f"chroma_store/{ticker.upper()}"
-
-        # Load Mistral embedding function
-        embedding = MistralAIEmbeddings(
-            model="mistral-embed",
-            mistral_api_key=os.getenv("MISTRALAI_API_KEY")
-        )
-
-        # Load vector DB with the embedding function
+        # Use the same naming pattern as your ingestion code
+        collection_name = f"sec-{ticker.lower()}-{filing_type.lower().replace(' ', '-')}"
+        
+        # Use the same embedding model as your ingestion code
+        embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        
+        # Load vector DB with the correct collection name
         vectordb = Chroma(
-            persist_directory=persist_path,
-            embedding_function=embedding,
-                client_settings=ClientSettings(
-                persist_directory=persist_path,
-                chroma_db_impl="duckdb+parquet",
-                anonymized_telemetry=False
-            )
+            collection_name=collection_name,
+            persist_directory="chroma_store",
+            embedding_function=embedding
         )
+        
+        # Rest of your code remains the same
         print("Total documents stored:", vectordb._collection.count())
 
         # Search filings for relevant content
@@ -72,7 +69,6 @@ Be concise, evidence-based, and clear.
     except Exception as e:
         print("❌ Backend error:", e)
         return {"error": str(e)}
-
 
 
 @router.post("/ingest")
