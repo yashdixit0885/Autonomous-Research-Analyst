@@ -14,3 +14,6 @@ ara/lib/
 venv/
 .env.*
 node_modules/
+ara/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib
+ara/lib/python3.11/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so
+ara/lib/python3.11/site-packages/onnxruntime/capi/libonnxruntime.1.21.0.dylib
