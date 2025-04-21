@@ -7,7 +7,7 @@ from app.agents.llm_coordinator import generate_final_report
 
 router = APIRouter()
 
-@router.get("/analyze")
+@router.get("/")
 def analyze(ticker: str = Query(...), generateReport: bool = Query(False)):
     fundamentals = run_fundamentals_agent(ticker)
     technicals = run_technical_agent(ticker)

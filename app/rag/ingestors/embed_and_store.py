@@ -26,9 +26,11 @@ CHROMA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.pa
 # Ensure the directory exists
 os.makedirs(CHROMA_PATH, exist_ok=True)
 
-# Set up the embedding function
+# Set up the embedding function with memory optimization
 embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
+    model_name="sentence-transformers/all-MiniLM-L6-v2",
+    device="cpu",  # Force CPU usage to save memory
+    normalize_embeddings=True
 )
 
 def clean_filing_text(filing_text):
@@ -67,8 +69,15 @@ def ingest_filing(ticker: str, filing_type: str, start_date: datetime, end_date:
     # Format collection name to meet ChromaDB requirements
     collection_name = f"sec-{ticker.lower()}-{filing_type.lower().replace(' ', '-')}"
     
-    # Step 1: Create ChromaDB client
-    client = chromadb.PersistentClient(path=CHROMA_PATH)
+    # Step 1: Create ChromaDB client with memory optimization
+    client = chromadb.PersistentClient(
+        path=CHROMA_PATH,
+        settings=chromadb.Settings(
+            anonymized_telemetry=False,
+            allow_reset=True,
+            is_persistent=True
+        )
+    )
     
     # Step 2: Delete collection if reset is requested
     if reset_collection:
