@@ -1,0 +1,1271 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SmSnawCzWepMueIZg6fczu8Kul1rHwS7qETR0IZAg5eV/jS2ERhOjUCsqzX6T/n/
+ AbFnFirrOoEXK9RTZEiYUw==
+
+<SEC-DOCUMENT>0000898430-03-000149.txt : 20030121
+<SEC-HEADER>0000898430-03-000149.hdr.sgml : 20030120
+<ACCEPTANCE-DATETIME>20030121081026
+ACCESSION NUMBER:		0000898430-03-000149
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030116
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20030121
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		03518589
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="5" COLOR="#000000"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Washington, D.C. 20549 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"
+COLOR="#000000"><B>Form 8-K </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Current Report Pursuant to Section 13 or 15(d) of
+</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The Securities Exchange Act of 1934 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">Date of Report (date of earliest event reported):&nbsp;&nbsp;January 16, 2003 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="35%" COLOR="#000000"><DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Exact name of registrant as
+specified in its charter) </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>DELAWARE</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>1-7882</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>94-1692300</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(State or other jurisdiction</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">of
+incorporation)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Commission</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">File Number)</FONT></DIV>
+</TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(I.R.S. Employer</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Identification
+No.)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>One AMD Place,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>P.O. Box
+3453</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Sunnyvale, California</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV><FONT SIZE=2><BR></FONT></DIV> <DIV><FONT SIZE=2><BR></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>94088-3453</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(address of principal executive offices)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Zip Code)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="31%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Registrant&#146;s telephone number,</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">including area
+code:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV><FONT SIZE=2><BR></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>(408) 732-2400</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD> </TR>
+ </TABLE> </DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>Item 5.</U>&nbsp;&nbsp;&nbsp;&nbsp;<U>Other Events.</U> </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">On January 16, 2003, AMD reported sales of $686,430,000 and a net loss of $854,740,000 for the quarter ended December 29, 2002. The net
+loss amounted to $2.49 per share. Excluding the effects of restructuring and other charges</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>1</SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><SUP></SUP> to show the
+company&#146;s results from ongoing operations, the fourth quarter net loss was $235,145,000, or $0.68 per share. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Fourth quarter sales declined by 28 percent from the fourth quarter of 2001 and increased by 35 percent from the third quarter of 2002. In the fourth quarter of 2001, AMD reported sales of $951,873,000 and a net loss of $15,842,000,
+or $0.05 per share. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">In the third quarter of 2002, AMD reported sales of $508,227,000 and a net loss of
+$254,171,000, or $0.74 per share. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">For the full year ended December 29, 2002, sales declined by 31 percent from
+2001. AMD reported sales of $2,697,029,000 and a net loss of $1,303,012,000, or $3.81 per share. AMD reported sales in 2001 of $3,891,754,000 and a net loss of $60,581,000, or $0.18 per share. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Excluding the effects of one-time charges</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>1</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><SUP></SUP> in 2002 and 2001, the company recorded a net loss from ongoing operations of $683,417,000 or $2.00 per share in 2002, and net income of $28,924,000 or $0.09 per share in 2001. The fourth quarter 2002 operating loss,
+excluding one-time charges, was $217,370,000, down approximately $100 million or 31 percent, from the third quarter operating loss of $315,084,000. The fourth quarter 2001 operating loss was $18,059,000. </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">In the fourth quarter of 2002 the Company recorded one-time charges totaling $620 million, equivalent to $1.81 per share. These fourth
+quarter charges included: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></DIV></TD>
+<TD WIDTH="006" VALIGN="top"><DIV>&nbsp;</DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Restructuring and other special charges of $331 million primarily relating to severance for staff reductions, the consolidation of facilities and asset
+impairments. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></DIV></TD>
+<TD WIDTH="006" VALIGN="top"><DIV>&nbsp;</DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Other charges of $46 million primarily relating to a one-time research and development expense in connection with product development services received in the
+fourth quarter. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></DIV></TD>
+<TD WIDTH="006" VALIGN="top"><DIV>&nbsp;</DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Income tax expense charge of $243 million to establish a 100% valuation allowance against net deferred tax assets. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="8%" COLOR="#000000" ALIGN="left">
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>1</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><SUP></SUP></FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">As shown in the attached Reconciliation of GAAP to Pro-forma Non-GAAP Consolidated Statements of Operations. </FONT></DIV> </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>Item 7.</U>&nbsp;&nbsp;&nbsp;&nbsp;<U>Financial Statements, Pro Forma Financial Information and
+Exhibits.</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(c)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Exhibits </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="48" ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="85%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="42" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="7%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="85%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Financial Statements</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>SIGNATURES</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD COLSPAN="3"> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">ADVANCED MICRO DEVICES, INC.</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="16"> </TD> </TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Date:&nbsp;&nbsp;January 17, 2003</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="2%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">By:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></DIV> </TD> </TR>
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Senior Vice President, Chief Financial Officer</FONT></DIV> </TD>
+</TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>Exhibit Index</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="48" ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="92%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="42" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="7%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="92%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Financial Statements</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV>
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>FINANCIAL STATEMEMTS
+<TEXT>
+<HTML><HEAD>
+<TITLE>Financial Statememts</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Exhibit 99.1 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Advanced Micro Devices, Inc. </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>CONSOLIDATED BALANCE SHEETS </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>(Thousands) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 29,<BR>2002</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 30,<BR>2001*</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(unaudited)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2"> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Assets</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Current assets:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Cash, cash equivalents and short-term investments</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,037,705</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">869,997</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Accounts receivable, net</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">395,828</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">659,783</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Inventories</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">432,603</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">380,474</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Deferred income taxes</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">155,898</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Prepaid expenses and other current assets</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">153,542</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">286,957</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:10%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Total current assets</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,019,678</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,353,109</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Property, plant and equipment, net</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,880,809</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,739,138</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Investment in joint venture</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">382,942</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">363,611</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Deferred income taxes</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Other assets</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">335,752</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">191,384</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,619,181</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,647,242</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" COLSPAN="8" WIDTH="10%"> <HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"></TD> </TR>
+<TR>
+<TD HEIGHT="16"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Liabilities and Stockholders&#146; Equity</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Current liabilities:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Accounts payable</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">352,438</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">304,990</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Accrued compensation and benefits</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">185,744</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">129,042</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Accrued liabilities</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">593,778</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">443,995</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Income taxes payable</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">21,246</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">56,234</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Deferred income on shipments to distributors</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">57,184</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">47,978</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Current portion of long-term debt, capital lease obligations and other</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">161,689</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">331,698</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:10%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Total current liabilities</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,372,079</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,313,937</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Deferred income taxes</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">105,305</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Long-term debt, capital lease obligations and other, less current portion</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,779,837</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">672,945</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Stockholders&#146; equity:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Capital stock:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:10%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Common stock, par value</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,445</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,405</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Capital in excess of par value</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,921,247</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,889,217</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Retained earnings</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">492,668</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,795,680</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Accumulated other comprehensive income (loss)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">49,905</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(133,247</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" WIDTH="79%"> <DIV STYLE="margin-left:10%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Total stockholders&#146; equity</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,467,265</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,555,055</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="2"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,619,181</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,647,242</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" COLSPAN="8" WIDTH="10%"> <HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"></TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>*Derived from the December 30, 2001 audited financial statements of Advanced Micro
+Devices, Inc. </I></B></FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Advanced Micro Devices, Inc. </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>CONSOLIDATED STATEMENTS OF OPERATIONS </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>(Thousands except per share amounts) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="10" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Quarter Ended</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Year Ended</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="11"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="7"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 29,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>2002</B></FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Unaudited)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Sept. 29</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>2002</B></FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Unaudited)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 30,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>2001</B></FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Unaudited)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 29,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>2002</B></FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Unaudited)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Dec. 30,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>2001*</B></FONT></DIV>
+</TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Net sales</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">686,430</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">508,227</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">951,873</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,697,029</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,891,754</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Cost of sales</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">506,613</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">453,884</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">644,662</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,105,661</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2,589,747</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Research and development</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">244,848</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">220,959</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">160,871</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">816,114</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">650,930</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Marketing, general and administrative</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">194,389</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">158,568</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">163,684</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">670,065</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">620,030</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Restructuring and other special charges</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">330,575</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">330,575</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">89,305</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1,276,425</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">833,411</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">969,217</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,922,415</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3,950,012</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Operating loss</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(589,995</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(325,184</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(17,344</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1,225,386</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(58,258</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Interest and other income, net</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">992</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">12,941</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,784</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">32,132</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">25,695</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Interest expense</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(22,296</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(21,166</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(9,570</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(71,349</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(61,360</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Loss before income taxes and equity in net income (loss) of joint venture</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(611,299</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(333,409</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(21,130</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1,264,603</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(93,923</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Provision (benefit) for income taxes</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">243,470</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(73,350</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(5,705</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">44,586</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(14,463</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Loss before equity in net income (loss) of joint venture</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(854,769</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(260,059</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(15,425</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1,309,189</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(79,460</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Equity in net income (loss) of joint venture</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">29</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5,888</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(417</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">6,177</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">18,879</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Net loss</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(854,740</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(254,171</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(15,842</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1,303,012</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(60,581</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Net loss per common share</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Basic</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(2.49</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.74</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.05</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(3.81</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.18</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Diluted</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(2.49</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.74</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.05</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(3.81</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(0.18</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Shares used in per share calculation</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151; Basic</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">343,949</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">342,780</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">340,119</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">342,334</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">332,407</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="49%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151; Diluted</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">343,949</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">342,780</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">340,119</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">342,334</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">332,407</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>*Derived from the December 30, 2001 audited financial statements of Advanced Micro
+Devices, Inc. </I></B></FONT></DIV>
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

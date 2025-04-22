@@ -1,0 +1,1452 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Nf79DtSBgYySGyB9tHnklS8U+9bNc+ebL7JuwgksDRkuqH8Fj4cNSqvf9gud611E
+ OdsCtvNsSPrnmljgeEMVmQ==
+
+<SEC-DOCUMENT>0000898430-96-002040.txt : 19960517
+<SEC-HEADER>0000898430-96-002040.hdr.sgml : 19960517
+ACCESSION NUMBER:		0000898430-96-002040
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19960331
+FILED AS OF DATE:		19960515
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		96567286
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                   Form 10-Q
+
+
+     (Mark One)
+(X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+     For the quarterly period ended    March 31, 1996
+                                       --------------
+
+                              OR
+
+(_)  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the transition period from __________ to __________
+
+Commission File Number      1-7882
+                      ------------------
+
+                          ADVANCED MICRO DEVICES, INC
+            ------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+            Delaware                                 94-1692300
+- --------------------------------        ------------------------------------
+  State or other jurisdiction           (I.R.S. Employer Identification No.)
+of incorporation or organization
+
+             One AMD Place
+             P. O. Box 3453
+         Sunnyvale, California                                 94088-3453
+- ----------------------------------------                    ---------------
+(Address of principal executive offices)                       (Zip Code)
+
+Registrant's telephone number, including area code:  (408) 732-2400
+                                                     --------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                  Yes   X     No
+                                      -----      -----
+
+The number of shares of $0.01 par value common stock outstanding as of May 3,
+1996:  134,864,625.
+<PAGE>
+ 
+ADVANCED MICRO DEVICES, INC.
+- ----------------------------
+
+INDEX
+- -----
+
+<TABLE>
+<CAPTION>
+                                                                     Page No. 
+                                                                     --------
+<S>                                                                  <C> 
+Part I.   Financial Information  
+          ---------------------
+ 
+          Item 1.  Financial Statements
+ 
+                   Condensed Consolidated Statements of Income--
+                     Quarters Ended March 31, 1996
+                     and April 2, 1995                                    3
+ 
+                   Condensed Consolidated Balance Sheets--
+                     March 31, 1996 and December 31, 1995                 4
+ 
+                   Condensed Consolidated Statements of Cash Flows--
+                     Quarters Ended March 31, 1996
+                     and April 2, 1995                                    5
+ 
+                   Notes to Condensed Consolidated Financial
+                     Statements                                           6
+ 
+          Item 2.  Management's Discussion and Analysis of Results
+                     of Operations and Financial Condition                10
+ 
+Part II.  Other Information
+          -----------------
+ 
+          Item 1.  Legal Proceedings                                      17
+ 
+          Item 4.  Submission of Matters to a Vote of 
+                     Security Holders                                     19
+ 
+          Item 6.  Exhibits and Report on Form 8-K                        20
+
+          Signature                                                       21
+          ----------                                                  
+</TABLE> 
+
+                                       2
+<PAGE>
+ 
+I. FINANCIAL INFORMATION
+   ---------------------
+
+   ITEM 1.                   FINANCIAL STATEMENTS
+   ------                    --------------------
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                  CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                  -------------------------------------------
+                                  (Unaudited)
+                     (Thousands except per share amounts)
+
+
+<TABLE> 
+<CAPTION> 
+                                                            Quarter Ended
+                                                        ---------------------
+                                                                     April 2,
+                                                        March 31,      1995
+                                                          1996     (Restated)*
+                                                        --------    --------- 
+<S>                                                     <C>         <C> 
+Net sales                                               $544,212    $627,381
+
+Expenses:
+   Cost of sales                                         368,735     305,685
+   Research and development                               94,780      96,874
+   Marketing, general, and administrative                103,011     102,734
+                                                        --------    --------
+                                                         566,526     505,293
+                                                        --------    --------
+
+Operating income (loss)                                  (22,314)    122,088
+
+Interest income and other, net                            28,059       7,058
+Interest expense                                          (1,981)       (578)
+                                                        --------    --------
+
+Income before income taxes and equity in joint venture     3,764     128,568
+Provision for income taxes                                     -      42,824
+                                                        --------    --------
+
+Income before equity in joint venture                      3,764      85,744
+Equity in net income (loss) of joint venture              21,563      (1,414)
+                                                        --------    --------
+
+Net income                                                25,327      84,330
+
+Preferred stock dividends                                      -          10
+                                                        --------    --------
+
+Net income applicable to common stockholders            $ 25,327    $ 84,320
+                                                        ========    ========  
+
+Net income per common share:
+   Primary                                              $    .18    $    .66
+                                                        ========    ========  
+   Fully diluted                                        $    .18    $    .63
+                                                        ========    ========  
+Shares used in per share calculation:
+   Primary                                               138,399     127,181
+                                                        ========    ========  
+   Fully diluted                                         138,399     134,421
+                                                        ========    ========  
+</TABLE> 
+
+*Restated from previously released financial information to reflect the
+ January 1996 merger with NexGen, Inc., which has been accounted for under
+ the pooling-of-interests method.
+
+See accompanying notes
+- ----------------------
+
+                                     3
+   
+<PAGE>
+ 
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                     -------------------------------------
+                                  (Thousands)
+
+<TABLE> 
+<CAPTION>
+                                                                                                              December 31,
+                                                                                              March 31,          1995    
+                                                                                                 1996         (Unaudited)
+                                                                                             (Unaudited)      (Restated)*
+                                                                                            ------------     -------------
+<S>                                                                                         <C>              <C>         
+Assets                                                                                                                   
+- ------                                                                                                                   
+                                                                                                                         
+Current assets:                                                                                                          
+  Cash and cash equivalents                                                                 $    85,382       $   126,316
+  Short-term investments                                                                        323,917           383,349
+                                                                                            -----------       -----------
+    Total cash, cash equivalents, and short-term investments                                    409,299           509,665
+  Accounts receivable, net                                                                      235,159           284,238
+  Inventories:                    
+    Raw materials                                                                                38,384            29,494
+    Work-in-process                                                                              81,726            68,827
+    Finished goods                                                                               48,063            57,665
+                                                                                            -----------       -----------
+      Total inventories                                                                         168,173           155,986
+  Deferred income taxes                                                                         151,089           147,489
+  Prepaid expenses and other current assets                                                      49,230            40,564
+                                                                                            -----------       -----------
+    Total current assets                                                                      1,012,950         1,137,942
+Property, plant, and equipment, at cost                                                       3,028,089         2,946,901
+Accumulated depreciation and amortization                                                    (1,367,783)       (1,305,267)
+                                                                                            -----------       -----------
+    Property, plant, and equipment, net                                                       1,660,306         1,641,634
+Investment in joint venture                                                                     175,382           176,821
+Other assets                                                                                    106,171           122,070
+                                                                                            -----------       -----------
+                                                                                            $ 2,954,809       $ 3,078,467
+                                                                                            ===========       ===========
+
+Liabilities and Stockholders' Equity
+- ------------------------------------
+
+Current liabilities:           
+  Notes payable to banks                                                                    $    13,870       $    26,770
+  Accounts payable                                                                              159,043           241,916
+  Accrued compensation and benefits                                                              67,639           106,347
+  Accrued liabilities                                                                            96,213           103,404
+  Income tax payable                                                                             49,396            56,297
+  Deferred income on shipments to distributors                                                  107,331           100,057
+  Current portion of long-term debt and capital lease obligations                                39,244            41,642
+                                                                                            -----------       -----------
+    Total current liabilities                                                                   532,736           676,433
+
+Deferred income taxes                                                                            94,207            84,607
+Long-term debt and capital lease obligations, less current portion                              205,918           214,965
+Commitments and contingencies                                                                         -                 -
+
+Stockholders' equity:                   
+  Capital stock:
+    Common stock, par value                                                                       1,394             1,050
+  Capital in excess of par value                                                                926,353           908,989
+  Retained earnings                                                                           1,194,201         1,192,423
+                                                                                            -----------       -----------
+    Total stockholders' equity                                                                2,121,948         2,102,462
+                                                                                            -----------       -----------
+                                                                                            $ 2,954,809       $ 3,078,467
+                                                                                            ===========       ===========
+</TABLE> 
+
+*Restated from previously released financial information to reflect the January
+ 1996 merger with NexGen, Inc., which has been accounted for under the pooling-
+ of-interests method.
+
+See accompanying notes.
+- ----------------------
+
+                                       4
+<PAGE>
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                -----------------------------------------------
+                                  (Unaudited)
+                                  (Thousands)
+
+<TABLE> 
+<CAPTION> 
+                                                         Three Months Ended
+                                                        ---------------------
+                                                        March 31,   April 2,
+                                                          1996        1995
+                                                                   (Restated)*
+                                                        ---------  ---------- 
+<S>                                                     <C>        <C> 
+Cash flows from operating activities:
+   Net income                                           $  25,327   $  84,330
+   Adjustments to reconcile net income to net
+    cash provided by operating activities:
+       Depreciation and amortization                       75,807      57,928
+       Net loss on sale of property, plant,
+        and equipment                                         416         398
+       Write-down of property, plant, and equipment            84          27
+       Net gain realized on sale of available-for-sale
+         securities                                       (24,743)          -
+       Compensation recognized under employee
+        stock plans                                           687       1,079
+       Undistributed (income) loss of joint venture       (21,563)      1,414
+       Changes in operating assets and liabilities:
+         Net (increase) decrease in receivables,
+          inventories, prepaid expenses, 
+          and other assets                                 22,768     (12,131)
+         Payment of litigation settlement                       -     (20,000)
+         Net (increase) decrease in deferred income       
+          taxes                                             6,000      (5,551)
+         Increase (decrease) in income tax payable         (6,901)     46,794
+         Net increase (decrease) in payables and
+          accrued liabilities                            (102,423)      6,020
+                                                        ---------   ---------
+Net cash (used in) provided by operating activities       (24,541)    160,308
+                                                        ---------   ---------
+Cash flows from investing activities:
+   Purchase of property, plant, and equipment             (95,329)   (196,575)
+   Proceeds from sale of property, plant, and equipment       802         583
+   Purchase of available-for-sale securities             (236,331)   (140,657)
+   Proceeds from sale of available-for-sale securities    322,128     137,680
+   Purchase of held-to-maturity debt securities                 -    (230,488)
+   Proceeds from maturities of held-to-maturity debt
+    securities                                                  -     162,151
+   Investment in joint venture                                  -     (18,019)
+                                                        ---------   ---------
+Net cash used in investing activities                      (8,730)   (285,325)
+                                                        ---------   ---------
+Cash flows from financing activities:
+   Proceeds from borrowings                                15,125     171,808
+   Payments on capital lease obligations and other debt   (39,812)    (28,731)
+   Proceeds from issuance of stock                         17,024      18,001
+   Redemption of preferred stock and stockholder rights         -      (2,501)
+   Payments of preferred stock dividends                        -         (10)
+                                                        ---------   ---------
+Net cash (used in) provided by financing activities        (7,663)    158,567
+                                                        ---------   ---------
+Net increase (decrease) in cash and cash equivalents      (40,934)     33,550
+Cash and cash equivalents at beginning of period          126,316      85,966
+                                                        ---------   ---------
+Cash and cash equivalents at end of period              $  85,382   $ 119,516
+                                                        =========   =========
+Supplemental disclosures of cash flow information:
+   Cash paid during the first three months for:
+      Interest (net of amounts capitalized)             $       -   $       -
+                                                        =========   =========
+      Income taxes                                      $     464   $   1,668
+                                                        =========   =========
+   Non-cash financing activities:
+      Equipment capital leases                          $     342   $   4,192
+                                                        =========   =========
+      Conversion of preferred stock to common stock     $       -   $ 164,127
+                                                        =========   =========
+</TABLE> 
+
+* Restated from previously released financial information to reflect the January
+  1996 merger with NexGen, Inc., which has been accounted for under the pooling-
+  of-interests method.
+
+See accompanying notes
+- ----------------------
+                                       5
+                           
+
+<PAGE>
+ 
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+              ----------------------------------------------------
+
+1.  The results of operations for the interim periods shown in this report are
+    not necessarily indicative of results to be expected for the fiscal year. In
+    the opinion of management, the information contained herein reflects all
+    adjustments necessary to make the results of operations for the interim
+    periods a fair statement of such operations. All such adjustments are of a
+    normal recurring nature.
+
+    The company uses a 52 to 53 week fiscal year ending on the last Sunday in
+    December. The quarters ended March 31, 1996 and April 2, 1995 included 13
+    and 14 weeks, respectively.
+
+    On January 17, 1996, the company acquired NexGen, Inc. (NexGen) which was
+    accounted for as a pooling-of-interests. All financial data and footnote
+    information of the company, including the company's previously issued
+    financial statements for the periods presented in this Form 10-Q, have been
+    restated to include the historical financial information of NexGen in
+    accordance with generally accepted accounting principles.
+
+    Certain prior year amounts on the Condensed Consolidated Financial
+    Statements have been reclassified to conform to the 1996 presentation.
+
+2.  No tax provision was recorded in the first quarter of 1996 due to the lower
+    earnings during the period. The income tax rate was 33 percent in the first
+    quarter of 1995. The company currently estimates that there will be no tax
+    provision in 1996.
+
+                                       6
+<PAGE>
+ 
+3.  The following is a summary of available-for-sale securities included in cash
+    and cash equivalents and short-term investments as of March 31, 1996 (in
+    thousands):
+
+<TABLE> 
+    <S>                                              <C> 
+    Cash equivalents
+      Treasury notes                                $  2,017
+      Federal agency notes                            23,444
+      Security repurchase agreements                  29,100
+      Commercial paper                                 5,000
+      Other debt securities                              740
+                                                    --------
+      Total cash equivalents                        $ 60,301
+                                                    ========
+    Short-term investments                       
+      Certificates of deposit                       $ 45,575
+      Municipal notes and bonds                       53,257
+      Corporate notes                                 47,861
+      Treasury notes                                  57,790
+      Commercial paper                                36,534
+      Money market auction preferred stocks           82,900
+                                                    --------
+      Total short-term investments                  $323,917
+                                                    ========
+</TABLE> 
+
+    As of March 31, 1996, the company held $12.9 million of available-for-sale
+    equity securities with a fair value of $35.3 million which are included in
+    other assets. The net unrealized gain on these equity securities is included
+    in retained earnings. During the first quarter of 1996, the company sold a
+    portion of its available-for-sale equity securities and realized a pre-tax
+    gain of $24.7 million.
+
+                                       7
+<PAGE>
+ 
+4.  The primary net income per common share computation is based on the weighted
+    average number of common shares outstanding plus dilutive common share
+    equivalents. The fully diluted computation also includes other dilutive
+    convertible securities. In the first quarter of 1995, the company called for
+    redemption of all outstanding shares of its Convertible Preferred Stock. As
+    a result, all of its outstanding Preferred Stock was either redeemed or
+    converted to the company's common stock. Shares used in the per share
+    computations are as follows:
+
+<TABLE> 
+<CAPTION> 
+                                                Quarter Ended
+                                           ------------------------
+                                           March 31,       April 2,
+                                             1996            1995
+                                           ---------       --------
+                                                  (Thousands)
+    <S>                                    <C>             <C> 
+    Primary:
+    Common shares outstanding               133,229         120,590
+    Employee stock plans                      4,374           6,003
+    Warrants                                    796             588
+                                            -------         -------
+                                            138,399         127,181
+                                            =======         =======
+
+    Fully diluted:
+    Common shares outstanding               133,229         120,590
+    Employee stock plans                      4,374           6,542
+    Dilutive convertible securities               -             145
+    Warrants                                    796           1,772
+    Preferred stock                               -           5,372
+                                            -------         -------
+                                            138,399         134,421
+                                            =======         =======
+</TABLE> 
+
+5.  On January 17, 1996, the company acquired NexGen in a tax-free
+    reorganization in which NexGen was merged directly into the company. The
+    company has issued approximately 29.3 million shares of AMD common stock and
+    has reserved for issuance approximately 4.3 million additional shares for
+    issuance pursuant to the NexGen options and warrants assumed by the company.
+    The 33.6 million total shares to be issued represent eight-tenths (0.8) of a
+    share of the common stock of AMD for each share of the common stock of
+    NexGen outstanding or subject to an assumed warrant or option. The merger
+    has been accounted for under the pooling-of-interests method and all
+    financial data of the company prior to the merger has been restated to
+    include the historical financial information of NexGen. Merger related costs
+    of $8.7 million were charged to operations during the three month period
+    ended March 31,
+                                        8
+<PAGE>
+ 
+    1996. NexGen maintained its financial records on a calendar month fiscal
+    year ending on June 30. The December 31, 1995 restated consolidated balance
+    sheet includes the balance sheet of NexGen as of December 31, 1995. The
+    restated consolidated statements of income and cash flows for the quarter
+    ended April 2, 1995 include NexGen's statements of operations and cash flows
+    for the quarter ended March 31, 1995. No significant adjustments were
+    required to conform the accounting policies of the company and NexGen.
+    Financial information as of March 31, 1995 and for the quarter then ended
+    reflects the company's and NexGen's operations for those periods.
+
+    Separate results of the combining entities for the three months ended March
+    31, 1995 are as follows:
+
+<TABLE> 
+<CAPTION> 
+                                       (Thousands)
+    <S>                               <C> 
+    Net sales:       
+      AMD                             $620,096
+      NexGen                             7,285
+                                      --------
+                                      $627,381
+                                      ========
+    Net income (loss):
+      AMD                             $102,352
+      NexGen                           (18,022)
+                                      --------
+                                      $ 84,330
+                                      ========
+</TABLE> 
+ 
+
+                                       9
+<PAGE>
+ 
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+- -------  -----------------------------------------------------------------
+          FINANCIAL CONDITION
+          -------------------
+
+The following discussion should be read in conjunction with the attached
+condensed consolidated financial statements and notes thereto, and with the
+company's audited financial statements and notes thereto for the fiscal year
+ended December 31, 1995. All financial data and footnote information of the
+company, including the company's previously issued financial statements for the
+periods discussed herein have been restated to include the historical financial
+information of NexGen.
+
+RESULTS OF OPERATIONS
+- ---------------------
+
+Net sales for the first quarter of 1996 decreased by 13 percent from the first
+quarter of 1995. This decrease was primarily attributable to a decline in
+Am486(R) microprocessor sales, which more than offset increased Flash memory
+sales. Net sales for the first quarter of 1996 decreased 9 percent from the
+immediate prior quarter. This decrease was primarily attributable to a decline
+in microprocessor sales and, secondarily, due to a decline in Flash memory
+sales.
+
+First quarter sales of Flash memory devices increased significantly from the
+same period a year ago primarily due to higher average selling prices and,
+secondarily, due to growth in unit shipments. Flash memory sales declined in the
+first quarter of 1996 as compared to the immediate prior quarter due to a
+decrease in unit shipments. Prices are currently declining during the second
+quarter of 1996, which may contribute to decreased revenue from Flash memory
+devices in the second quarter. The company plans to continue to meet projected
+long-term demand for Flash memory devices primarily through its manufacturing
+joint venture, Fujitsu AMD Semiconductor Limited (FASL), located in Aizu-
+Wakamatsu, Japan, in which AMD has a 49.95 percent equity interest. A
+significant portion of the company's revenues in the first quarter of 1996 were
+derived from Flash memory products. The company presently anticipates demand for
+the company's Flash memory products to be adversely affected in the second
+quarter due to continued inventory adjustments by the company's customers.
+
+Am486, MACH, AMD-K5, and Nx586 are registered trademarks of AMD.
+K86, K86 RISC SUPERSCALAR, AMD-K5, AMD-K6, SLAC, and Nx686 are trademarks 
+of AMD.
+Microsoft and Windows are registered trademarks of Microsoft Corporation.
+
+                                       10
+<PAGE>
+ 
+In addition to sales of Flash memory devices, revenues from communication
+products for the first quarter of 1996 increased as compared to the same period
+a year ago primarily due to increased sales of AMD's SLIC (subscriber line
+interface circuit), SLAC(TM) (subscriber line audio-processing circuit), and
+FDDI (Fiber Distributed Data Interface) circuit products. For the first quarter
+of 1996, EPROM sales increased as compared to the first quarter of 1995 due to
+increases in average selling prices.
+
+Sales of CMOS programmable logic devices in the first quarter of 1996 increased
+from the same quarter in 1995 primarily due to increases in average selling
+prices.
+
+In the first quarter of 1996 compared to the same period in 1995, Am486
+microprocessor sales decreased significantly primarily due to decreases in unit
+sales and, secondarily, due to average selling price declines. Price and unit
+shipment declines are anticipated to continue in the remainder of 1996.
+
+At the end of the first quarter of 1996, the company began shipments of the AMD-
+K5(TM) microprocessor, the first member of the K86 family. This microprocessor
+is a fifth-generation, superscalar device that is fully compatible with the
+Microsoft(R) Windows(R) operating system. On January 17, 1996, NexGen, Inc.
+merged with and into AMD. The company plans to bring to production status
+NexGen's sixth-generation design as the AMD-K6(TM) microprocessor. The company
+does not expect any sales of AMD-K6 in 1996.
+
+Gross margin of 32 percent for the first quarter of 1996 declined approximately
+19 percent from the comparable period in 1995. The three main factors
+contributing to the decrease in gross margin in the first quarter of 1996, in
+order of significance, were first, Am486 price declines; second, increasing
+sales volume of FASL products, with purchase prices higher than the
+costs of similar products manufactured internally; and third, the
+underutilization of Fab 25. These factors are expected to contribute to further
+declines in gross margin and increased operating losses in the second quarter of
+1996 than in the immediate prior quarter.
+
+
+Research and development expenses remained relatively flat in the first quarter
+of 1996 compared to the same quarter last year.
+
+Marketing, general, and administrative expenses remained relatively flat in the
+first quarter of 1996 compared to the first quarter of 1995. A non-recurring
+charge of $8.7 million for expenses associated with AMD's merger with NexGen is
+included in marketing, general, and administrative expenses in the first quarter
+of 1996.
+
+Interest income and other, net increased in the first quarter of 1996 compared
+to the corresponding quarter a year ago due to a pre-tax gain of $24.7 million
+resulting from a sale of equity securities. Interest expense increased in the
+first quarter of 1996 compared to the same period of 1995 due to lower
+capitalized interest mainly related to the construction of Fab 25.
+
+                                       11
+<PAGE>
+ 
+No tax provision was recorded in the first quarter of 1996 due to the lower
+earnings during the period. The income tax rate was 33 percent in the first
+quarter of 1995. The company currently estimates that there will be no tax
+provision in 1996.
+
+International sales were 52 percent of total sales in the first quarter of 1996
+as compared to 58 percent for the comparable period in 1995. In the first
+quarter of 1996, approximately 16 percent of the company's net sales were
+denominated in foreign currencies. The company does not have sales denominated
+in local currencies in those countries which have highly inflationary economies.
+(A highly inflationary economy is defined in accordance with the Statement of
+Financial Accounting Standard No. 52 as one in which the cumulative inflation
+over a three-year consecutive period approximates 100 percent or more.) The
+impact on the company's operating results from changes in foreign currency rates
+individually and in the aggregate has not been material.
+
+The company enters into foreign exchange forward contracts to buy and sell
+currencies as economic hedges of the company's foreign net monetary asset
+position including the company's liabilities for products purchased from FASL.
+In the first quarter of 1996, these hedging transactions were denominated in
+lira, yen, French franc, deutsche mark, and pound sterling. The maturities of
+these contracts are generally short-term in nature. The company believes its
+foreign exchange contracts do not subject the company to material risk from
+exchange rate movements because gains and losses on these contracts are designed
+to offset losses and gains on the net monetary asset position being hedged. Net
+foreign currency gains and losses have not been material. As of March 31, 1996,
+the company had approximately $73 million (notional amount) of foreign exchange
+forward contracts.
+
+The company has engaged in interest rate swaps primarily to reduce its interest
+rate exposure by changing a portion of the company's interest rate obligation
+from a floating rate to a fixed rate basis. At the end of the first quarter of
+1996, the net outstanding notional amount of interest rate swaps was $190
+million, of which $150 million will mature in 1996 and $40 million will mature
+in 1997. Gains and losses related to these interest rate swaps have been
+immaterial.
+
+The company primarily addresses market risk by participating as an end user in
+various derivative markets to manage its exposure to interest and foreign
+currency exchange rate fluctuations. The counterparties to the company's foreign
+exchange forward contracts and interest rate swaps consist of a number of major,
+high credit quality, international financial institutions. The company does not
+believe that there is significant risk of nonperformance by these counterparties
+because the company monitors the credit ratings of such counterparties, and
+reduces the financial exposure by limiting the amount of agreements entered into
+with any one financial institution.
+
+                                       12
+<PAGE>
+ 
+In 1995, the Financial Accounting Standards Board released the Statement of
+Financial Accounting Standard No. 121 (SFAS 121), "Accounting for the Impairment
+of Long-Lived Assets and for Long-Lived Assets to be Disposed of." The company
+adopted SFAS 121 in the first quarter of 1996 and there was no material impact
+on the company's financial condition or results of operations.
+
+The company accounts for its stock option plans and its employee stock purchase
+plan in accordance with provisions of the Accounting Principles Board's Opinion
+No. 25 (APB 25), "Accounting For Stock Issued to Employees." In 1995, the
+Financial Accounting Standards Board released the Statement of Financial
+Accounting Standard No. 123 (SFAS 123), "Accounting for Stock Based
+Compensation." SFAS 123 provides an alternative to APB 25 and is effective for
+fiscal years beginning after December 15, 1995. The company expects to continue
+to account for its employee stock plans in accordance with the provisions of APB
+25. Accordingly, SFAS 123 is not expected to have any material impact on the
+company's financial condition or results of operations.
+
+
+FINANCIAL CONDITION
+- -------------------
+
+Cash, cash equivalents, and short-term investments decreased by $100 million for
+the first quarter of 1996 primarily due to investments in property, plant and
+equipment to expand manufacturing capacity mainly related to Fab 25. The
+company's operations required the use of $24.5 million in cash during the
+quarter.
+
+The company's total cash investment in FASL was $160 million at the end of the
+first quarter of 1996 and at the end of 1995. No additional cash investment is
+currently planned for the remainder of 1996. In March of 1996, FASL began
+construction of a second Flash memory fab, FASL II, at a site contiguous to the
+existing FASL facility in Aizu-Wakamatsu, Japan. The facility is expected to
+cost approximately $1.1 billion when fully equipped. Capital expenditures for
+FASL II construction are expected to be funded by the cash anticipated to be
+generated from FASL operations and, if necessary, bank borrowings by FASL.
+However, in the event that FASL is unable to secure the necessary funds for FASL
+II, AMD is required to contribute cash or guarantee third-party loans in
+proportion to its percentage of interest in FASL. The planned FASL II costs are
+denominated in yen and, therefore, are subject to change due to foreign exchange
+rate fluctuations. Volume production in FASL II is currently scheduled to begin
+in late 1997 assuming continued demand for flash products.
+
+The company is currently planning to build a submicron wafer fabrication and
+design facility in Dresden, Germany, at an estimated cost of approximately $1.5
+billion over 5 years. The German federal and state governments will provide
+financing assistance to the facility through grants and allowances, loan
+guarantees, and interest subsidies. As of December 31, 1995, the company had
+commitments to make cash investments and loans, in aggregate, in this facility
+amounting to approximately $350 million over
+
+                                       13
+<PAGE>
+ 
+the next 4 years. The company plans to continue to make significant capital
+investments throughout 1996, including an estimated $240 million for Fab 25 and
+$75 million for the new facility in Dresden. The company presently anticipates
+that it will augment its working capital and fund a portion of its capital
+expenditures in the remainder of 1996 through external financing.
+
+As of the end of the first quarter of 1996, the company had the following
+financing arrangements: unsecured committed bank lines of credit of $250
+million, unutilized; long-term secured equipment lease lines of $132 million,
+which were fully utilized; short-term, unsecured uncommitted bank credit in the
+amount of $93 million, of which $14 million was utilized; and an outstanding
+$150 million four-year term loan.
+
+The company's current capital plan and requirements are based on the
+availability of external financing, various product-mix, selling-price, and
+unit-demand assumptions and are, therefore, subject to revision due to future
+market conditions. The company presently anticipates that it may not remain in
+compliance during the second quarter of 1996 with the cash and cash equivalent
+requirements of the modified quick ratio covenants in certain of its bank credit
+agreements without additional external financing. Failure to meet these
+financial covenants would constitute an event of default under the company's
+agreements with its lenders, permitting the lenders, at their discretion, among
+other things, to demand repayment of all amounts owed to them and to refuse any
+further borrowings or advances. The company is currently exploring a number of
+alternatives to obtain external financing and/or a waiver or modification of its
+existing bank agreements. Although the company believes that it will be able to
+arrange external financing or renegotiate its bank agreements prior to June 30,
+1996 in a manner that will eliminate any possible violation of the modified
+quick ratio covenants, no agreements or commitments have been obtained by the
+company to date and no assurance can be given as to whether or when any such
+financing, or modifications to or waivers under the bank agreements, can be
+obtained or the terms thereof.
+
+On May 25, 1994, the Securities and Exchange Commission declared effective the
+company's shelf registration statement covering up to $400 million of its
+securities, which may be either debt securities, preferred stock, depositary
+shares representing fractions of shares of preferred stock, common stock,
+warrants to purchase common stock, or any combination of the foregoing which the
+company may offer from time to time in the future. To date, the company has not
+offered or sold any securities registered under the $400 million registration
+statement. The nature and terms of the securities will be established at the
+time of their sale. The company may offer the securities through underwriters to
+be named in the future, through agents or otherwise. It is presently expected
+that the net proceeds of any offering would be used for general corporate
+purposes including but not limited to the reduction of outstanding indebtedness,
+working capital increases, and capital expenditures.
+
+                                       14
+<PAGE>
+ 
+The company believes that cash flows from operations and current cash balances,
+together with current and anticipated external financing, will be sufficient to
+fund operations and capital investments currently planned for the remainder of
+1996.
+
+CAUTIONARY STATEMENT
+- --------------------
+
+The statements in this Management's Discussion and Analysis that are forward
+looking, for example, estimates of 1996 gross margin, microprocessor and Flash
+memory business and prospects, capital spending, impact of the NexGen merger,
+external financing plans, financial instruments, and FASL II, are based on
+current expectations and actual results may differ materially. Forward looking
+statements contained in this Management's Discussion and Analysis involve
+numerous risks and uncertainties that could cause actual results to differ
+materially, including but not limited to the timely development and market
+acceptance of new products, the impact of competitive products and pricing, the
+timely development of wafer fabrication process technologies, the effect of
+changing economic conditions, business conditions and growth in the personal
+computer market, continued demand for the company's microprocessor and Flash
+memory products, the company's ability to access external sources of capital,
+and such risks and uncertainties detailed from time to time in the company's SEC
+reports and filings, including the Form 10-K for the 1995 fiscal year.
+
+
+RISK FACTORS
+- ------------
+
+The semiconductor industry is generally characterized by a highly competitive
+and rapidly changing environment in which operating results are subject to the
+effects of new product introductions, manufacturing technology innovations,
+rapid fluctuations in product demand, the availability of manufacturing
+capacity, and the ability to secure and maintain intellectual property rights.
+While the company attempts to identify and respond to rapidly changing events
+and conditions as soon as possible, the anticipation of and reaction to such
+events are an ongoing challenge. The company's future results of operations and
+financial condition may be adversely impacted by various factors. Certain of
+these risk factors are detailed in the description of the company's business,
+operations and financial condition in the company's Form 10-K for the fiscal
+year ended December 31, 1995 under the captions "Business" and "Management's
+Discussion and Analysis of Results of Operations and Financial Condition." In
+addition to those factors, the following risk factors should be considered by
+holders of AMD common stock.
+
+The company's manufacturing facilities may be underutilized for the remainder of
+1996. Such underutilization could materially adversely impact the company's
+quarterly and annual financial condition and operating results.
+
+                                      15
+<PAGE>
+ 
+The company has recently introduced its first generation of K86 products which
+are now in volume production. The company's production and sales plans are
+subject to numerous risks and uncertainties, including customer inventory levels
+and orders for the company's products, changed industry and company forecasts of
+demand, the timing of introduction of higher-performance fifth generation
+microprocessors and other products, the pace at which the company is able to
+ramp production of fifth generation microprocessors in Feb 25, the effects of
+marketing and pricing strategies adopted by Intel Corporation which has a
+dominant position in the microprocessor market, the possibility that products
+newly introduced by the company may fail to achieve market acceptance or may be
+found defective, adverse conditions in the personal computer market and
+unexpected interruptions in the company's manufacturing operations. Lack of
+acceptance of the company's first generation K86 products would have a material
+adverse effect on the company's quarterly and annual financial condition and
+results of operations.
+
+The company's future operations, financial condition, and stock price may be
+subject to volatility. Based on the trading history of its stock, the company
+believes that factors such as quarterly fluctuations in the company's financial
+results, announcements of new products by the company or its competitors, and
+general conditions in the semiconductor industry have caused and are likely to
+continue to cause the market price of AMD common stock to fluctuate
+substantially. Technology company stocks in general have experienced extreme
+price and volume fluctuations that often have been unrelated to the operating
+performance of the companies. This market volatility may adversely affect the
+market price of AMD common stock. In addition, an actual or anticipated
+shortfall in revenue, gross margin, or earnings from securities analysts'
+expectations could have an immediate effect on the trading price of the
+company's common stock in any given period.
+
+The company's current business plan envisions substantial cash outlays requiring
+external capital financing.  In addition, as discussed in Financial Condition, 
+above, the company anticipates that external financing will be required in order
+to remain in compliance with certain of its financial covenants in its bank 
+credit agreements.  There can be no assurance that capital will be available on 
+terms favorable to the company in sufficient amounts to enable the company to 
+implement its current business plan.  In the event such capital is not 
+available, the company may be required to reduce or eliminate one or more of its
+existing three product development areas: computations, communications and 
+components, and programmable logic devices.
+
+                                       16
+<PAGE>
+ 
+II.  OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+SEC Investigation. The Securities and Exchange Commission (SEC) began an
+informal investigation of the company in 1993 regarding the company's
+disclosures about the development of its AM486SX microcode in a development
+process and the extent to which it included access to Intel's 386 microcode.
+These disclosures were the subject of securities class actions and a derivative
+suit that were settled and dismissed with prejudice. The company has cooperated
+fully with the SEC's requests for information. Based on information currently
+known, management does not believe that the informal investigation will have a
+material effect on the financial condition or results of operations of the
+company.
+
+Irving Karton and Jason Lyons v. S. Atiq Raza, et al. (Case No. CV753583, Cal.
+Sup. Ct., County of Santa Clara, California). On November 1, 1995, two alleged
+shareholders of NexGen filed suit against NexGen, its board of directors and a
+former director of NexGen. The complaint, as amended, alleged that the
+consideration which NexGen stockholders would receive pursuant to the Merger was
+inadequate; the defendants had therefore breached the directors' fiduciary
+duties to the stockholders of NexGen; the Merger consideration was below the
+fair or inherent value of NexGen; the defendants had not considered other
+potential purchases of NexGen or its stock; and there had been inadequate
+disclosure of material facts concerning the business and prospects of NexGen as
+they related to the Merger. The amended complaint sought an injunction against
+the Merger, rescission of the Merger, if consummated, unspecified damages,
+attorney's fees and other relief. A settlement was reached pursuant to which the
+agreement governing the Merger was amended in certain respects; a stockholder
+rights plan adopted by NexGen was amended in certain respects; and NexGen made
+certain disclosures to its stockholders in connection with the Merger which were
+requested by the plaintiffs. On February 19, 1996, the court entered an order
+giving its final approval to the settlement and awarding plaintiffs' attorneys
+fees and expenses. The settlement and the attorneys fees and expenses award will
+not have a material adverse effect upon the financial condition or results of
+operations of the company.
+
+Advanced Micro Devices, Inc. v. Altera Corporation (Case No. C94-20567-RMW, U.S.
+District Ct., San Jose, California). This litigation, which began in 1994,
+involves multiple claims and counterclaims for patent infringement relating to
+the company's and Altera Corporation's programmable logic devices. On March 11,
+1996, the court has dismissed most of Altera's counterclaim, the remainder of
+which AMD intends to continue to contest vigorously. Based upon information
+presently known to management the company does not believe that the ultimate
+resolution of this lawsuit will have a material adverse effect upon the
+financial condition or results of operations of the company.
+
+                                       17
+<PAGE>
+ 
+Thorn EMI North America, Inc. v Advanced Micro Devices, Inc. (Case No. 95-199-
+RRM, U.S. District Ct., Wilmington, Delaware). This litigation was filed in 1995
+and alleged that AMD infringed a patent owned by Thorn EMI North America, Inc.
+relating to processes used by AMD to manufacture microprocessors. The action
+sought unspecified damages for past infringement and an injunction against
+alleged further infringement. The litigation was settled and has been dismissed.
+The settlement will not have a material adverse effect upon the financial
+condition or results of operations of the company.
+
+                                       18
+<PAGE>
+ 
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+A special meeting of the company's stockholders was held on January 16, 1996 at
+which the stockholders were asked to approve proposals to (1) approve and adopt
+an Agreement and Plan of Merger among AMD, AMD Merger Corporation, a wholly-
+owned subsidiary of AMD, and NexGen, Inc., as amended, and the transactions
+contemplated thereby ("Proposal No. 1") and (2) approve an Amendment to the
+Advanced Micro Devices, Inc. 1991 Stock Purchase Plan to increase the number of
+shares of AMD Common Stock issuable thereunder from 2,500,000 shares to
+3,600,000 shares ("Proposal No.2"). Both proposals were approved by the
+requisite vote. The results of the voting on Proposals No. 1 and No. 2 were:
+ 
+                            For        Against     Abstain    Broker Non-Votes
+                         ----------   ---------   ---------   ----------------
+ 
+     Proposal No. 1      58,114,751   3,006,579   1,154,092   25,121,794
+ 
+     Proposal No. 2      82,799,025   3,280,044   1,318,147   Not applicable
+
+                                       19
+<PAGE>
+ 
+Item 6.  Exhibits and Reports on Form 8-K
+
+         (a).  Exhibits      10.23(g)      Fujitsu Joint Development Agreement
+                                           Amendment (confidential treatment has
+                                           been requested as to certain portions
+                                           of this Exhibit)
+
+                             27.1          Financial Data Schedule
+
+         (b).  Reports on Form 8-K
+
+               The following reports on Form 8-K were filed during the quarter
+               for which this report is filed:
+
+               1.  Current Report on Form 8-K dated January 5, 1996 reporting
+                   under Item 5 - Other Information-the execution of a
+                   comprehensive patent cross license agreement between the
+                   company and Intel Corporation.
+
+               2.  Current Report on Form 8-K dated January 10, 1996 reporting
+                   under Item 5 - Other Information-the financial results for
+                   the year ended December 31, 1995.
+
+               3.  Current Report on Form 8-K dated January 12, 1996 reporting
+                   under Item 5 - Other Information-NexGen, Inc.'s expected
+                   financial results for its second fiscal quarter ended
+                   December 31, 1995.
+
+               4.  Current Report on Form 8-K dated January 17, 1996 reporting
+                   under Item 2 - Acquisition or Disposition of Assets and
+                   Item 7 - Financial Statements and Exhibits-the completion of
+                   the company's acquisition of NexGen, Inc.
+
+                                       20
+<PAGE>
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                            ADVANCED MICRO DEVICES, INC.
+
+
+
+
+Date: May 15, 1996                          By:  /s/ Geoffrey Ribar
+     ---------------                             ------------------
+                                            Geoffrey Ribar
+                                            Vice President and
+                                            Corporate Controller
+
+                                            Signing on behalf of the
+                                            registrant and as the principal
+                                            accounting officer
+
+                                       21
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+                                 -------------
+
+
+<TABLE> 
+<CAPTION>      
+Exhibits
+- --------
+<C>            <S> 
+10.23(g)       Fujitsu Joint Development Agreement Amendment (Confidential
+               treatment has been requested as to certain portions of this
+               Exhibit.)
+
+27.1           Financial Data Schedule
+</TABLE> 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.23(G)
+<SEQUENCE>2
+<DESCRIPTION>JOINT DEVELOPMENT AGREEMENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                EXHIBIT 10.23(g)
+
+
+            ADDITIONS TO ATTACHMENTS TO JOINT DEVELOPMENT AGREEMENT
+
+
+This is to confirm that ADVANCED MICRO DEVICES, INC. and FUJITSU LIMITED have 
+agreed upon the below-listed Additions to Attachments to the Joint Development 
+Agreement between both parties dated March 26, 1993:
+
+
+     First Addition re Memory Cards (PC) to each of the Attachments A, B and C 
+     to the Joint Development Agreement.
+
+     Second Addition re Memory Cards (PCMCIA-ATA) to each of the Attachments A, 
+     B and C to the Joint Development Agreement.
+
+
+All the above-listed Additions mutually agreed upon are set forth in the eight 
+pages attached hereto.
+
+    ADVANCED MICRO DEVICES, INC.                 FUJITSU LIMITED
+
+
+     /s/ Clive Ghest                             /s/ Hirofumi Takeda
+    -----------------------------                ------------------------
+   
+    Name:  Clive Ghest                           Name:  Hirofumi Takeda
+         ------------------------                     -------------------
+           Vice President
+    Title: Clive Ghest                           Title: General Manager
+          -----------------------                      ------------------
+    
+    Date:  February 27, 1996                     Date:  December 20, 1995
+         ------------------------                     -------------------
+
+
+- -------------------------------------------------------------------------------
+Confidential portions of this document have been deleted and filed separately 
+with the Securities and Exchange Commission pursuant to a request for 
+confidential treatment.
+- -------------------------------------------------------------------------------
+
+<PAGE>
+ 
+                                ATTACHMENT A TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                       FIRST ADDITION--MEMORY CARDS (PC)
+                       ---------------------------------
+
+
+This First Addition is for the joint development of Memory Cards (described in
+the Technology Cross-License Agreement). These Memory Cards will be designated
+as PC (Personal Computer) Cards which will use software drivers and Flash file
+management software, and currently are designated as D-series. The D-series
+Memory Cards will utilize the [CONFIDENTAL INFORMATION OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION] Flash Memory Products.
+
+[CONFIDENTIAL INFORMATION OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION] It is contemplated that design, development, test and
+evaluation work will be carried out by either AMD or Fujitsu as will be
+designated by the Joint Development Committee as appropriate. Both parties will,
+at the request of either party, discuss joint development of PC Cards other than
+D-series.
+
+
+
+     Joint Development Committee:
+
+     Fujitsu Initial:  H.T. Date: 2/12/95 AMD Initial: /s/RCG  Date:  2/27/96
+                      -----       -------              ------        --------
+
+                                      19A
+<PAGE>
+ 
+                                ATTACHMENT B TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                       FIRST ADDITION--MEMORY CARDS (PC)
+                       ---------------------------------
+
+This First Addition describes the design information for these PC Cards to be 
+developed and exchanged so AMD and Fujitsu (and/or their respective 
+Subsidiaries) will both be able to manufacture or have manufactured these PC 
+Cards.
+
+A.   ASIC Product Specifications
+     a)   Catalog specification including Card Datasheet
+     b)   Architectual information
+
+B.   Design Data
+     a)   Circuit diagrams and Schematic layouts
+     b)   Layout data supplemental information
+     c)   Functional Block specifications
+     d)   Configuration & Control Registers
+     e)   Net List
+
+C.   Device Evaluation Data
+     a)   Functional test results of sample cards
+     b)   Electrical characteristics of sample cards
+     c)   Reliability data of sample cards
+     d)   Control parameters and their tolerance
+     e)   Test specifications
+     f)   Test programs
+
+D.   Software Drivers - Preliminary List
+     a)   SystemSoft - MTD
+     b)   Award - MTD
+     c)   Phoenix - MTD
+     d)   SCM-FTL filesystem support
+     e)   Datalight - FFS/FTL filesystem support
+     f)   Data I/O - PSX programmer support
+
+[CONFIDENTIAL INFORMATION OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION.]
+
+     Joint Development Committee:
+
+     Fujitsu Initial:  H.T.  Date: 2/12/95  AMD Initial: /s/RCG  Date: 2/27/96
+                      -----        -------               ------        -------
+
+                                      20A
+<PAGE>
+ 
+                                ATTACHMENT C TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                       FIRST ADDITION--MEMORY CARDS (PC)
+                       ---------------------------------
+
+
+D-Series:
+- ---------
+
+Item Phase                   Start Date               Completion Date
+- ----------                   ----------               ---------------
+
+Specification                [CONFIDENTIAL INFORMATION DELETED AND FILED 
+Development                   SEPARATELY WITH THE SECURITIES AND EXCHANGE 
+Prototype ASIC**              COMMISSION]
+Prototype Card
+Software Drive
+Qualification
+
+
+
+*TBE:     To be established
+**ASIC:   Application Specific Integrated Circuitry
+
+
+
+     Joint Development Committee:
+
+     Fujitsu Initial: H.T. Date: 2/12/95 AMD Initial: /s/RCG Date: 2/27/96
+                     -----      --------             -------      --------
+
+                                      21A
+<PAGE>
+ 
+                                ATTACHMENT A TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                   SECOND ADDITION--MEMORY CARDS (PCMCIA-ATA)
+                   ------------------------------------------
+
+
+This Second Addition is for the joint development of Memory Cards (described in 
+the Technology Cross-License Agreement) containing controllers, application 
+specific integrated circuitry, and firmware.  These Memory Cards will have all 
+pertinent software and manage Flash files on the cards.  These Memory Cards will
+be designated as PCMCIA-ATA (Personal Computer Memory Card Interface 
+Association-Advanced Technology Attachment) Cards.
+
+[CONFIDENTIAL INFORMATION DELETED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION]  It is contemplated that product planning, design, 
+development, test and evaluation work will be carried out by either AMD or 
+Fujitsu as will be designated by the Joint Development Committee as appropriate.
+
+[CONFIDENTIAL INFORMATION DELETED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION]
+
+                                      19A
+<PAGE>
+ 
+ATTACHMENT A TO
+JOINT DEVELOPMENT AGREEMENT
+SECOND ADDITION--MEMORY CARDS (PCMCIA-ATA)
+Page 2 of 3
+
+
+
+[CONFIDENTIAL INFORMATION DELETED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION]
+
+                                      19A
+<PAGE>
+
+ATTACHMENT A TO
+JOINT DEVELOPMENT AGREEMENT
+SECOND ADDITION--MEMORY CARDS (PCMCIA-ATA)
+Page 3 of 3
+
+
+[CONFIDENTIAL INFORMATION DELETED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION]
+
+PCMCIA-ATA Cards to be developed hereunder will utilize the [CONFIDENTIAL
+INFORMATION DELETED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE
+COMMISSION] Flash Memory Products.
+
+Both parties will, at the request of either party, discuss joint development of 
+PCMCIA-ATA Cards utilizing other Flash Memory Products.
+
+
+Joint Development Committee:
+
+Fujitsu Initial: H.T. Date: 2/12/96 AMD Initial: /s/RCG Date: 2/27/96
+                 ----       -------              ------       ------- 
+ 
+                                      19A
+
+
+
+
+
+<PAGE>
+ 
+                                ATTACHMENT B TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                   SECOND ADDITION--MEMORY CARDS (PCMCIA-ATA)
+                   ------------------------------------------
+
+This Second Addition describes the design information for these PCMCIA-ATA Cards
+to be developed and exchanged so AMD and Fujitsu and/or their respective 
+Subsidiaries will both be able to manufacture or have manufactured these 
+PCMCIA-ATA Cards.  Fujitsu shall negotiate in good faith with AMD about the 
+supply of components required to manufacture ATA Cards, and vice versa.
+
+A.   Product Specifications
+     a)   Catalog specification including Card Datasheet
+     b)   Device specification
+          i)   PCB material used
+          ii)  Gerber files
+     c)   Architectural information
+
+B.   Design Data
+     a)   Circuit diagrams and Schematic layouts
+     b)   Layout data supplemental information
+     c)   Functional Block specifications
+     d)   ATA and Flash media interface
+     e)   Configuration & Control Registers
+     f)   SRAM Buffer Controller
+     g)   Power management functions
+
+C.   MIcroCode and Firmware Code
+     Source Code for Firmware & Microcontroller code including:
+
+     a)   Flash media file management
+          i)   Copy, Erase, and Read functions
+          ii)  Garbage Collection protocols
+     b)   ECC implementation
+
+D.   Device Evaluation Data
+     a)   Functional test results of sample cards
+     b)   Electrical characteristics of sample cards
+     c)   Reliability data of sample cards
+     d)   Control parameters and their tolerance
+     e)   Test specifications
+     f)   Test programs
+
+Joint Development Committee:  Fujitsu Initial: H.T. Date: 2/12/95 
+                                              -----      -------- 
+                              AMD Initial: /s/RCG  Date: 2/27/96
+                                          -------      --------
+
+                                      20A
+<PAGE>
+ 
+                                 ATTACHMENT C
+                                      TO
+                          JOINT DEVELOPMENT AGREEMENT
+                          ---------------------------
+                   SECOND ADDITION--MEMORY CARDS (PCMCIA-ATA)
+                   ------------------------------------------
+
+
+Item Phase                      Start Date        Completion Date
+- ----------                      ----------        ---------------
+
+Specification                  [CONFIDENTIAL INFORMATION DELETED AND FILED 
+                                SEPARATELY WITH THE SECURITIES AND EXCHANGE 
+Development                     COMMISSION]
+
+Prototyping
+
+Qualification
+
+
+
+Joint Development Committee:
+
+Fujitsu Initial: H.T. Date: 2/12/95 AMD Initial: /s/RCG Date: 2/27/96
+                 ----       -------              ------       -------
+
+                                      21A
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-29-1996
+<PERIOD-START>                             JAN-01-1996
+<PERIOD-END>                               MAR-31-1996
+<CASH>                                          85,382
+<SECURITIES>                                   323,917
+<RECEIVABLES>                                  245,719
+<ALLOWANCES>                                  (10,560)
+<INVENTORY>                                    168,173
+<CURRENT-ASSETS>                             1,012,950
+<PP&E>                                       3,028,089
+<DEPRECIATION>                             (1,367,783)
+<TOTAL-ASSETS>                               2,954,809
+<CURRENT-LIABILITIES>                          532,736
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,394
+<OTHER-SE>                                   2,120,554
+<TOTAL-LIABILITY-AND-EQUITY>                 2,954,809
+<SALES>                                        544,060
+<TOTAL-REVENUES>                               544,212
+<CGS>                                          368,735
+<TOTAL-COSTS>                                  368,735
+<OTHER-EXPENSES>                               197,791
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,981
+<INCOME-PRETAX>                                  3,764
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                             25,327
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    25,327
+<EPS-PRIMARY>                                     0.18
+<EPS-DILUTED>                                     0.18
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

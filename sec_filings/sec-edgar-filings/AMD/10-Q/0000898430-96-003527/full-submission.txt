@@ -1,0 +1,2932 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PAIIL5n3Ah53Ut31ocFrZ5zT0apX6ZOBSj2i1a40ofXE9/Qwa0UydOuwozJ4aBzi
+ Qtkld3F9dIwSUtqKg6+OdA==
+
+<SEC-DOCUMENT>0000898430-96-003527.txt : 19960809
+<SEC-HEADER>0000898430-96-003527.hdr.sgml : 19960809
+ACCESSION NUMBER:		0000898430-96-003527
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19960630
+FILED AS OF DATE:		19960808
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		96605752
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                   Form 10-Q
+
+
+      (Mark One)
+(X)   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d)
+      OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+      For the quarterly period ended    June 30, 1996
+                                    --------------------
+
+                              OR
+
+( )   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+      OF THE SECURITIES EXCHANGE ACT OF 1934
+
+      For the transition period from __________ to __________
+
+Commission File Number            1-7882
+                      ------------------------------------------
+
+                    ADVANCED MICRO DEVICES, INC.
+- ------------------------------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+           Delaware                                94-1692300
+- --------------------------------        ------------------------------------
+State or other jurisdiction             (I.R.S. Employer Identification No.)
+of incorporation or organization
+
+One AMD Place
+P. O. Box 3453
+Sunnyvale, California                                   94088-3453
+- ------------------------------------------          ------------------
+(Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code:  (408) 732-2400
+                                                     --------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                          Yes   X        No
+                             -------       -------    
+
+The number of shares of $0.01 par value common stock outstanding as of August 1,
+1996:  135,202,701.
+       ----------- 
+<PAGE>
+ 
+ADVANCED MICRO DEVICES, INC.
+- ----------------------------
+
+
+INDEX
+- -----
+<TABLE>
+<CAPTION>
+ 
+Part I.   Financial Information                                      Page No.
+          ---------------------                                      --------
+<S>       <C>       <C>                                              <C>
+          Item 1.   Financial Statements
+ 
+                    Condensed Consolidated Statements of 
+                       Operations-- Quarters Ended June 30, 
+                       1996 and July 2, 1995, and Six Months 
+                       Ended June 30, 1996 and July 2, 1995              3
+ 
+                    Condensed Consolidated Balance Sheets--
+                       June 30, 1996 and December 31, 1995               4
+ 
+                    Condensed Consolidated Statements of 
+                       Cash Flows-- Six Months Ended June
+                       30, 1996 and July 2, 1995                         5
+ 
+                    Notes to Condensed Consolidated 
+                       Financial Statements                              6
+ 
+          Item 2.   Management's Discussion and Analysis of
+                       Results of Operations and Financial
+                       Condition                                         9 
+
+ 
+Part II.  Other Information
+          -----------------
+ 
+ 
+          Item 1.   Legal Proceedings                                   29
+ 
+          Item 4.   Submission of Matters to a Vote of
+                       Security Holders                                 30
+ 
+          Item 6.   Exhibits and Reports on Form 8-K                    31
+
+ 
+          Signature                                                     32
+          ---------                                                  
+</TABLE> 
+
+
+                                       2
+<PAGE>
+ 
+
+
+
+
+I.      FINANCIAL INFORMATION
+        ---------------------
+
+        ITEM 1.
+        -------
+
+                             FINANCIAL STATEMENTS
+                             --------------------
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                -----------------------------------------------
+                                  (Unaudited)
+                     (Thousands except per share amounts)
+
+<TABLE> 
+<CAPTION> 
+                                                               Quarter Ended                      Six Months Ended
+                                                  -------------------------------------   -----------------------------------
+                                                                            July 2,                              July 2,
+                                                      June 30,               1995             June 30,             1995
+                                                       1996                (Restated)*          1996            (Restated)*
+                                                  -----------------    ----------------   ---------------    ---------------
+
+<S>                                               <C>                  <C>                <C>                <C> 
+Net sales                                             $     455,077    $      638,867        $    999,289       $  1,266,248
+                                                                                                                
+Expenses:                                                                                                       
+        Cost of sales                                       379,779           315,905             748,514            621,590
+        Research and development                             92,768           105,695             187,548            202,569
+        Marketing, general and administrative                83,063           106,602             186,074            209,336
+                                                       ------------       -----------        ------------       ------------
+                                                            555,610           528,202           1,122,136          1,033,495
+                                                       ------------       -----------        ------------       ------------
+
+Operating income (loss)                                    (100,533)          110,665            (122,847)           232,753
+                                                                                                                
+Interest income and other, net                               23,039             6,975              51,098             14,033
+Interest expense                                             (1,812)             (501)             (3,793)            (1,079)
+                                                       ------------       -----------        ------------       ------------
+                                                                                                                
+Income (loss) before income taxes                                                                               
+        and equity in joint venture                         (79,306)          117,139             (75,542)           245,707
+Provision (benefit) for income taxes                        (31,723)           39,016             (31,723)            81,840
+                                                       ------------       -----------        ------------       ------------
+                                                                                                                
+Income (loss) before equity in joint venture                (47,583)           78,123             (43,819)           163,867
+Equity in net income of joint venture                        12,911             2,529              34,474              1,115
+                                                       ------------       -----------        ------------       ------------
+                                                                                                                
+Net income (loss)                                           (34,672)           80,652              (9,345)           164,982
+                                                                                                                
+Preferred stock dividends                                         -                 -                   -                 10
+                                                       ------------       -----------        ------------       ------------
+                                                                    
+Net income (loss) applicable to common stockholders    $    (34,672)      $    80,652        $     (9,345)      $    164,972
+                                                       ============       ===========        ============       ============
+
+Net income (loss) per common share                     $       (.26)      $       .59        $       (.07)      $       1.24
+                                                       ============       ===========        ============       ============
+Shares used in per share calculation                        135,266           136,950             134,487            132,722
+                                                       ============       ===========        ============       ============ 
+                                                       
+</TABLE> 
+* Restated from previously released financial information to reflect the January
+  1996 merger with NexGen, Inc., which has been accounted for under the pooling-
+  of-interests method.
+
+See accompanying notes
+- ----------------------
+
+                                       3
+<PAGE>
+ 
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                     -------------------------------------
+                                  (Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                                             December 31,
+                                                                                   June 30,                     1995
+                                                                                     1996                     (Audited)
+                                                                                  (Unaudited)                 (Restated)*
+                                                                               ----------------           -------------------
+<S>                                                                             <C>                        <C>
+Assets
+- ------
+Current assets:
+        Cash and cash equivalents                                               $        77,806             $       126,316
+        Short-term investments                                                          203,852                     383,349
+                                                                                ----------------           -----------------
+             Total cash, cash equivalents, and short-term investments                   281,658                     509,665
+                                                                                                                           
+        Accounts receivable, net                                                        209,691                     284,238
+        Inventories:
+             Raw materials                                                               31,924                      29,494
+             Work-in-process                                                             99,683                      68,827
+             Finished goods                                                              44,230                      57,665
+                                                                                ----------------           -----------------
+                 Total inventories                                                      175,837                     155,986
+        Deferred income taxes                                                           141,089                     147,489
+        Prepaid expenses and other current assets                                        64,236                      40,564
+                                                                                ----------------           -----------------
+                Total current assets                                                    872,511                   1,137,942
+Property, plant, and equipment, at cost                                               3,117,829                   2,946,901
+Accumulated depreciation and amortization                                            (1,436,709)                 (1,305,267)
+                                                                                ----------------           -----------------
+                Property, plant, and equipment, net                                   1,681,120                   1,641,634
+Investment in joint venture                                                             187,881                     176,821
+Other assets                                                                            103,513                     122,070
+                                                                                ----------------            ----------------
+                                                                                $     2,845,025             $     3,078,467
+                                                                                ================            ================
+Liabilities and Stockholders' Equity
+- ------------------------------------
+
+Current liabilities:
+        Notes payable to banks                                                  $        11,878             $        26,770
+        Accounts payable                                                                177,240                     241,916
+        Accrued compensation and benefits                                                57,178                     106,347
+        Accrued liabilities                                                              96,916                     103,404
+        Income tax payable                                                                3,000                      56,297
+        Deferred income on shipments to distributors                                     93,990                     100,057
+        Current portion of long-term debt and capital lease obligations                  27,739                      41,642
+                                                                                ----------------            ----------------
+                Total current liabilities                                               467,941                     676,433
+
+Deferred income taxes                                                                   103,807                      84,607
+Long-term debt and capital lease obligations, less current portion                      201,922                     214,965
+
+Stockholders' equity:
+        Capital stock:
+            Common stock, par value                                                       1,404                       1,050
+        Capital in excess of par value                                                  936,475                     908,989
+        Retained earnings                                                             1,133,476                   1,192,423
+                                                                                ----------------            ----------------
+                Total stockholders' equity                                            2,071,355                   2,102,462
+                                                                                ----------------            ----------------
+                                                                                 $    2,845,025              $    3,078,467
+                                                                                ================            ================
+
+</TABLE>
+
+* Restated from previously released financial information to reflect the January
+  1996 merger with NexGen, Inc., which has been accounted for under the 
+  pooling-of-interests method.
+
+See accompanying notes                 4
+- ----------------------
+<PAGE>
+ 
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                -----------------------------------------------
+                                  (Unaudited)
+                                  (Thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                                                           Six Months Ended
+                                                                                ---------------------------------------
+                                                                                                             July 2,
+                                                                                  June 30,                    1995
+                                                                                    1996                   (Restated)*
+                                                                                -------------               ----------
+<S>                                                                             <C>                        <C>
+Cash flows from operating activities:
+   Net income (loss)                                                            $      (9,345)             $   164,982
+   Adjustments to reconcile net income (loss) to net cash provided
+     by (used in) operating activities:
+        Depreciation and amortization                                                 163,805                  114,096
+        Net (gain) loss on sale of property, plant, and equipment                         678                       (9)
+        Write-down of property, plant, and equipment                                      986                      380
+        Net gain realized on sale of available-for-sale securities                    (41,028)                       -
+        Compensation recognized under employee stock plans                              1,403                    1,467
+        Undistributed income of joint venture                                         (34,474)                  (1,115)
+        Changes in operating assets and liabilities:
+          Net (increase) decrease in receivables, inventories,
+            prepaid expenses, and other assets                                          8,134                  (63,677)
+        Payment of litigation settlement                                                    -                  (20,000)
+        Net (increase) decrease in deferred income taxes                               25,600                  (10,595)
+        Increase (decrease) in income tax payable                                     (58,473)                  68,078
+        Net increase (decrease) in payables and accrued liabilities                  (107,325)                  82,452
+                                                                                -------------              ------------
+
+Net cash provided by (used in) operating activities                                   (50,039)                 336,059
+                                                                                -------------              ------------
+
+Cash flows from investing activities:
+  Purchase of property, plant, and equipment                                         (205,647)                (325,695)
+  Proceeds from sale of property, plant, and equipment                                  1,248                    1,400
+  Purchase of available-for-sale securities                                          (351,631)                (466,120)
+  Proceeds from sale of available-for-sale securities                                 574,799                  384,547
+  Purchase of held-to-maturity debt securities                                              -                 (358,019)
+  Proceeds from maturities of held-to-maturity debt securities                              -                  326,644
+  Investment in joint venture                                                               -                  (18,019)
+                                                                                -------------              ------------
+
+
+Net cash provided by (used in) investing activities                                    18,769                 (455,262)
+                                                                                -------------              ------------
+
+
+Cash flows from financing activities:
+  Proceeds from borrowings                                                             26,231                  208,855
+  Payments on capital lease obligations and other debt                                (68,411)                 (84,660)
+  Proceeds from issuance of stock                                                      24,940                   88,581
+  Redemption of preferred stock and stockholder rights                                      -                   (2,501)
+  Payments of preferred stock dividends                                                     -                      (10)
+                                                                                -------------              ------------
+
+
+Net cash provided by (used in) financing activities                                   (17,240)                 210,265
+                                                                                -------------              ------------
+
+Net increase (decrease) in cash and cash equivalents                                  (48,510)                  91,062
+Cash and cash equivalents at beginning of period                                      126,316                   85,966
+                                                                                -------------              ------------
+
+
+Cash and cash equivalents at end of period                                      $      77,806              $   177,028
+                                                                                =============              ============
+
+
+Supplemental disclosures of cash flow information:
+  Cash paid during the first six months for:
+    Interest (net of amounts capitalized)                                       $           -              $     2,541
+                                                                                =============              ============
+
+    Income taxes                                                                $       2,128              $    24,010
+                                                                                =============              ============
+
+  Non-cash financing activities:
+    Equipment capital leases                                                    $         342              $    16,508
+                                                                                =============              ============
+
+    Conversion of preferred stock to common stock                               $           -              $   270,328
+                                                                                =============              ============
+</TABLE>
+
+* Restated from previously released financial information to reflect the January
+  1996 merger with NexGen, Inc., which has been accounted for under the pooling-
+  of-interests method.
+
+See accompanying notes                         5
+- ----------------------
+<PAGE>
+ 
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+       ----------------------------------------------------
+
+     1.  The results of operations for the interim periods shown in this report
+         are not necessarily indicative of results to be expected for the fiscal
+         year.  In the opinion of management, the information contained herein
+         reflects all adjustments necessary to make the results of operations
+         for the interim periods a fair statement of such operations.  All such
+         adjustments are of a normal recurring nature.
+
+         The Company uses a 52 to 53 week fiscal year ending on the last Sunday
+         in December. The quarters ended June 30, 1996 and July 2, 1995 included
+         13 weeks. The six months ended June 30, 1996 and July 2, 1995 included
+         26 and 27 weeks, respectively.
+ 
+         Certain prior year amounts on the Condensed Consolidated Financial
+         Statements have been reclassified to conform to the 1996 presentation.
+
+     2.  The following is a summary of available-for-sale securities included in
+         cash and cash equivalents and short-term investments as of June 30,
+         1996 (in thousands):
+
+             Cash equivalents                                 
+               Treasury notes                                $   2,017
+               Federal agency notes                             28,197
+               Security repurchase agreements                   13,200 
+               Commercial paper                                  5,000
+               Other debt securities                               368     
+                                                             ----------
+               Total cash equivalents                        $  48,782  
+                                                             ==========
+             Short-term investments
+               Certificates of deposit                       $  25,597
+               Municipal notes and bonds                        30,109
+               Corporate notes                                  37,915
+               Treasury notes                                   62,790
+               Commercial paper                                 31,941
+               Money market auction preferred stocks            15,500
+                                                             ----------
+               Total short-term investments                  $ 203,852
+                                                             ==========
+
+
+
+         As of June 30, 1996, the Company held $11.8 million of available-for-
+         sale equity securities with a fair value of $17.8 million which are
+         included in other assets. The net unrealized gain on these equity
+         securities is included in retained earnings. During the second quarter
+         and first six months of 1996, the Company sold a portion of its
+         available-for-sale equity securities and realized pre-tax gains of
+         $16.3 million and $41.0 million, respectively.
+
+                                       6
+<PAGE>
+ 
+     3.  The primary net income per common share computation is based on the
+         weighted average number of common shares outstanding plus dilutive
+         common share equivalents. The primary net loss per common share
+         computation excludes common share equivalents as their effect on the
+         net loss per share would be anti-dilutive.  In the first quarter of
+         1995, the Company called for redemption of all outstanding shares of
+         its Convertible Preferred Stock.  As a result, all of its outstanding
+         preferred stock was either redeemed or converted to the Company's
+         common stock.  Shares used in the per share computations are as
+         follows:
+
+<TABLE> 
+<CAPTION> 
+                                      Quarter Ended        Six Months Ended
+                                 ---------------------  ----------------------
+                                  June 30,    July 2,    June 30,     July 2,
+                                    1996       1995        1996        1995
+                                 ----------  ---------  ----------   ---------
+                                      (Thousands)            (Thousands)
+
+         <S>                      <C>         <C>         <C>         <C> 
+         Common shares 
+           outstanding            135,027     128,020     134,259     124,306
+         Employee stock plans         239       6,759         228       6,453
+         Warrants                       -       2,171           -       1,963
+                                 ---------   ---------   ---------   ---------
+                                  135,266     136,950     134,487     132,722
+                                 =========   =========   =========   =========
+</TABLE> 
+
+
+     4.  On January 17, 1996, the Company acquired NexGen, Inc. (NexGen) in a
+         transaction accounted for as a pooling-of-interests. All financial data
+         and footnote information of the Company, including the Company's
+         previously issued financial statements for the periods presented in
+         this Form 10-Q, have been restated to include the historical financial
+         information of NexGen in accordance with generally accepted accounting
+         principles.
+
+
+         Separate results of the combining entities for the quarter and six
+         months ended July 2, 1995 are as follows:
+
+                                       7
+<PAGE>
+ 
+<TABLE> 
+<CAPTION> 
+                                      Quarter Ended        Six Months Ended
+                                       July 2, 1995          July 2, 1995    
+                                       (Thousands)           (Thousands)   
+                                      --------------        --------------    
+         <S>                           <C>                  <C> 
+         Net sales:                                  
+           AMD                         $  626,214           $    1,246,310
+           NexGen                          12,653                   19,938
+                                       -----------          --------------
+                                       $  638,867           $    1,266,248
+                                       ===========          ==============
+
+         Net income (loss):
+           AMD                         $   97,029           $      199,381
+           NexGen                         (16,377)                 (34,399)
+                                       -----------          --------------
+                                       $   80,652           $      164,982
+                                       ===========          ==============
+</TABLE> 
+
+                                       8
+<PAGE>
+ 
+     Item 2.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF
+     -------     --------------------------------------------------
+                 OPERATIONS AND FINANCIAL CONDITION
+                 ----------------------------------
+
+     CAUTIONARY STATEMENT REGARDING FORWARD LOOKING STATEMENTS
+     ---------------------------------------------------------
+
+     The statements in this Management's Discussion and Analysis of Results of
+     Operations and Financial Condition that are forward looking are based on
+     current expectations and beliefs and involve numerous risks and
+     uncertainties that could cause actual results to differ materially. The
+     forward looking statements include estimates of 1996 gross margin,
+     operating results, capital expenditures and adequacy of resources to fund
+     operations and capital investments; the planned sale of the Senior Secured
+     Notes (as defined below); the description of the New Credit Agreement (as
+     defined below); future business prospects for microprocessors, Flash memory
+     device products and other product lines; the development, validation,
+     certification, introduction, market acceptance and pricing of the K86(TM)
+     products; the impact of the Company's acquisition of NexGen, Inc. (NexGen);
+     the Company's commitment to research and development; the planned build-
+     out of Fab 25; external financing plans and financial instruments; and the
+     proposed Dresden and FASL II manufacturing facilities. FASL II is the
+     second Flash memory device wafer fabrication facility to be built by the
+     Company's manufacturing joint venture with Fujitsu Limited, Fujitsu AMD
+     Semiconductor Limited ("FASL"). See "Financial Condition" and "Risk
+     Factors" below, as well as such other risks and uncertainties as are
+     detailed in the Company's Securities and Exchange Commission reports and
+     filings for a discussion of the factors that could cause the actual results
+     to differ materially from the forward looking statements.
+
+     The following discussion should be read in conjunction with the attached
+     Condensed Consolidated Financial Statements and Notes thereto, and with the
+     Company's Supplemental Consolidated Financial Statements and Notes thereto
+     at December 31, 1995 and December 25, 1994, and for each of the three years
+     in the period ended December 31, 1995.  On January 17, 1996, the Company
+     acquired NexGen in a transaction accounted for as a pooling-of-interests.
+     All financial data and footnote information of the Company, including the
+     Company's previously issued financial statements for the periods discussed
+     herein, have been restated to give retroactive effect to the merger with
+     NexGen.
+
+
+     Am486 and Nx586 are registered trademarks of AMD.
+     K86, K86 RISC SUPERSCALAR, AMD-K5, AMD-K6, SLAC, and Nx686 are trademarks
+     of AMD.
+     Windows and WindowsNT are registered trademarks of Microsoft Corporation.
+
+                                       9
+<PAGE>
+ 
+     RESULTS OF OPERATIONS
+     ---------------------
+     Net sales were $455.1 million for the second quarter of 1996 as compared to
+     $638.9 million for the same period in 1995 and $544.2 million for the first
+     quarter of 1996.  For the six month period ended June 30, 1996, net sales
+     decreased to $999.3 million from $1,266.2 million for the comparable period
+     in 1995.  Net sales decreased in the second quarter of 1996 and for the six
+     month period ended June 30, 1996 as compared to the corresponding periods
+     in 1995 primarily due to a decline in Am486(R) microprocessor sales, as 
+     both unit volume and average selling prices decreased significantly. Net
+     sales in the second quarter of 1996 decreased from the immediately prior
+     quarter primarily due to a decline in Flash memory device sales, as both
+     unit volume and average selling prices declined, and secondarily due to a
+     continued decline in Am486 microprocessor sales caused by a continued
+     decline in average selling prices.
+
+     Communications and Components Group ("CCG") net sales were $290.1 million
+     for the second quarter of 1996 as compared to $279.4 million for the same
+     period in 1995 and $348.3 million for the first quarter of 1996.  For the
+     six month period ended June 30, 1996, CCG net sales increased to $638.5
+     million from $535.1 million for the comparable period in 1995.  CCG net
+     sales increased in the second quarter of 1996 as compared to the same
+     period in 1995 due to higher unit shipments of communications products.
+     CCG net sales in the second quarter of 1996 decreased from the immediately
+     prior quarter primarily due to sales declines in Flash memory devices,
+     which constitute a significant portion of CCG net sales, and secondarily
+     due to a decline in unit shipments of other CCG products, slightly offset
+     by increases in sales of  SLIC and SLAC(TM) devices.  CCG net sales 
+     increased in the six month period ended June 30, 1996 as compared to the
+     corresponding period in 1995 due to increased unit shipments of Flash
+     memory devices and communications products.  The market for the Company's
+     Flash memory devices in 1996 has been characterized by increasing
+     competition from all major manufacturers, falling prices, and weak unit
+     demand.  There can be no assurance that these trends will not continue or
+     accelerate.
+
+     Programmable Logic Division ("PLD") net sales were $61.6 million for the
+     second quarter of 1996 as compared to $61.4 million for the same period in
+     1995 and $69.6 million for the first quarter of 1996.  For the six month
+     period ended June 30, 1996, PLD net sales increased to $131.1 million from
+     $118.8 million for the comparable period in 1995.  PLD net sales in the
+     second quarter of 1996 decreased from the immediately prior quarter due to
+     decreased unit shipments and declines in average selling prices,
+     principally involving simple programmable logic devices.  The Company
+     believes this decline is attributable to decreased market demand in the
+     simple and complex programmable logic market.  Net sales in the six month
+     period ended June 30, 1996 increased as compared to the corresponding
+     period in 1995 due to increased unit shipments of complex programmable
+     logic devices, which have higher average selling prices than simple
+     programmable logic devices.
+
+                                       10
+<PAGE>
+ 
+     Computation Products Group ("CPG") net sales were $103.4 million for the
+     second quarter of 1996 as compared to $298.1 million for the same period in
+     1995 and $126.3 million for the first quarter of 1996. For the six month
+     period ended June 30, 1996, CPG net sales decreased to $229.7 million from
+     $612.4 million for the comparable period in 1995. The decline in CPG net
+     sales was in each case due to increased market acceptance of higher
+     performance fifth generation microprocessors from Intel Corporation,
+     coupled with the Company's delay in introducing competitive fifth
+     generation microprocessors. The market for fourth generation micro-
+     processors, including the Company's Am486 microprocessor, has continued to
+     decline as the product life cycle is ending and the Company anticipates
+     that the decline in Am486 microprocessor unit demand and average selling
+     prices will continue and may accelerate during the remainder of 1996. The
+     Company's fifth generation microprocessor, the AMD-K5(TM) microprocessor,
+     was introduced relatively late in the life cycle of fifth generation
+     products. As such, the Company believes the AMD-K5 microprocessor will be a
+     transitional product and will be unlikely to result in the levels of
+     revenues for the Company achieved by the Am486 microprocessor. The Company
+     believes that the success of the Company's fifth generation microprocessor
+     products during the remainder of 1996 will depend on market acceptance of
+     the Company's 100 megahertz ("MHz") AMD-K5 product and the ability of the
+     Company to develop and introduce on a timely basis subsequent higher
+     performance fifth generation microprocessors. The Company does not expect
+     any sales of the AMD-K6(TM) products in 1996. The Company intends to begin
+     volume shipments of the AMD-K6 products in the first half of 1997, although
+     no assurance can be made that such shipments will occur.
+
+     Gross margins were 17 percent for the second quarter of 1996 as compared to
+     51 percent for the same period in 1995 and 32 percent for the first quarter
+     of 1996.  For the six month period ended June 30, 1996, gross margins
+     decreased to 25 percent from 51 percent for the comparable period in 1995.
+     The decline in gross margins was in each case due to lower sales,
+     underutilization of the Company's high fixed cost production facilities,
+     particularly at its newest manufacturing facility, located in Austin, Texas
+     ("Fab 25"), and provisions against higher than expected Flash memory device
+     inventory levels. These factors may contribute to further declines in gross
+     margins during the remainder of 1996.
+
+     Research and development expenses were $92.8 million for the second quarter
+     of 1996 as compared to $105.7 million for the same period in 1995 and $94.8
+     million for the first quarter of 1996. For the six month period ended June
+     30, 1996, research and development expenses decreased to $187.5 million
+     from $202.6 million for the comparable period in 1995. The decline in
+     research and development expenses was in each case due to a
+     recategorization of Fab 25 expenses from research and development to cost
+     of sales as Fab 25 commenced production in the third quarter of 1995.
+
+     Marketing, general and administrative expenses were $83.1 million for the
+     second quarter of 1996 as compared to $106.6 million for the same period in
+     1995 and $103.0 million for the first quarter of 1996.  For the six month
+     period ended June 30, 1996, marketing, general and administrative expenses
+     decreased to $186.1 million from $209.3 million for the comparable period
+     in 1995.  Marketing, general and administrative expenses in the second
+     quarter of 1996 decreased from the immediately prior quarter primarily due
+     to non-recurring costs associated with the 
+
+                                       11
+<PAGE>
+ 
+     NexGen merger in the first quarter of 1996. The decline in marketing,
+     general and administrative expenses was in each other case due to the
+     cessation of promotional expenses associated with NexGen's products, which
+     the Company no longer offers.
+
+     The Company incurred operating losses of $100.5 million for the second
+     quarter of 1996 as compared to operating income of $110.7 million for the
+     same period in 1995 and operating losses of $22.3 million for the first
+     quarter of 1996.  For the six month period ended June 30, 1996, operating
+     losses were $122.8 million as compared to operating income of $232.8
+     million for the comparable period in 1995. The decline in operating income
+     was in each case due to lower sales and underutilization of the Company's
+     high fixed cost production facilities, particularly Fab 25. The Company can
+     give no assurance of any improvement in its operating results in the third
+     quarter of 1996.
+
+     Interest income and other, net was $23.0 million for the second quarter of
+     1996 as compared to $7.0 million for the same period in 1995 and $28.1
+     million for the first quarter of 1996.  For the six month period ended June
+     30, 1996, interest income and other, net increased to $51.1 million from
+     $14.0 million for the comparable period in 1995. The Company's quarter and
+     six-month results for the periods ended June 30, 1996 include pre-tax gains
+     of $16.3 million and $41.0 million, respectively, resulting from the sales
+     of equity investments.
+
+     Interest expense was $1.8 million for the second quarter of 1996 as
+     compared to $0.5 million for the same period in 1995 and $2.0 million for
+     the first quarter of 1996.  For the six month period ended June 30, 1996,
+     interest expense increased to $3.8 million from $1.1 million for the
+     comparable period in 1995.  Interest expense increased in all periods of
+     1996 from 1995 due to lower capitalized interest mainly related to the
+     completion of the first phase of construction of Fab 25.
+
+     During the second quarter of 1996, the Company recorded a tax credit of
+     $31.7 million. This results in an effective tax rate (benefit) of
+     approximately 40 percent for the quarter and year-to-date reflecting the
+     benefit of operating loss carrybacks to prior years. The income tax rate
+     was 33 percent in both the second quarter and the first six months of 1995.
+
+     The Company incurred net losses of $34.7 million, or $0.26 per share, for
+     the second quarter of 1996 as compared to net income of $80.7 million, or
+     $0.59 per share fully diluted, for the same period in 1995 and net income
+     of $25.3 million, or $0.18 per share fully diluted, for the first quarter
+     of 1996.  For the six month period ended June 30, 1996, net losses were
+     $9.3 million, or $0.07 per share, as compared to net income of $165.0
+     million, or $1.21 per share fully diluted, for the comparable period in
+     1995.
+
+     International sales were 53 percent of net sales in the second quarter of
+     1996 as compared to 58 percent for the same period in 1995 and 52 percent
+     for the first quarter of 1996. For the six month period ended June 30,
+     1996, international sales 
+
+                                       12
+<PAGE>
+ 
+     decreased to 52 percent of net sales from 57 percent for the comparable
+     period in 1995. Approximately 17 percent of the Company's net sales were
+     denominated in foreign currencies in the first six months of 1996. The
+     Company does not have sales denominated in local currencies in those
+     countries which have highly inflationary economies. (A highly inflationary
+     economy is defined in accordance with the Statement of Financial Accounting
+     Standards No. 52 as one in which the cumulative inflation over a three-year
+     consecutive period approximates 100 percent or more.) The impact on the
+     Company's operating results from changes in foreign currency rates
+     individually and in the aggregate has not been material.
+
+     The Company enters into foreign exchange forward contracts to buy and sell
+     currencies as economic hedges of the Company's foreign net monetary asset
+     position including the Company's liabilities for products purchased from
+     FASL. In 1995 and 1996, these hedging transactions were denominated in
+     lira, yen, French franc, Deutsche mark, and pound sterling. The maturities
+     of these contracts are generally short-term in nature. The Company believes
+     its foreign exchange contracts do not subject the Company to material risk
+     from exchange rate movements because gains and losses on these contracts
+     are designed to offset losses and gains on the net monetary asset position
+     being hedged. Net foreign currency gains and losses have not been material.
+     As of June 30, 1996, the Company had approximately $36.5 million (notional
+     amount) of foreign exchange forward contracts as compared to $72.8 million
+     at March 31, 1996.
+
+     The Company has engaged in interest rate swaps primarily to reduce its
+     interest rate exposure by changing a portion of the Company's interest rate
+     obligation from a floating rate to a fixed rate basis.  At June 30, 1996,
+     the net outstanding notional amount of interest rate swaps was $165.0
+     million, of which $125.0 million will mature in 1996 and $40.0 million will
+     mature in 1997.  Gains and losses related to these interest rate swaps have
+     been immaterial.
+
+     The Company primarily addresses market risk by participating as an end user
+     in various derivative markets to manage its exposure to interest and
+     foreign currency exchange rate fluctuations.  The counterparties to the
+     Company's foreign exchange forward contracts and interest rate swaps
+     consist of a number of major, high credit quality, international financial
+     institutions.  The Company does not believe that there is significant risk
+     of nonperformance by these counterparties because the Company monitors the
+     credit ratings of such counterparties, and reduces the financial exposure
+     by limiting the amount of agreements entered into with any one financial
+     institution.
+
+                                       13
+<PAGE>
+ 
+     FINANCIAL CONDITION
+     -------------------
+
+     The Company's working capital balance decreased to $404.6 million at June
+     30, 1996 from $480.2 million at March 31, 1996 and from $461.5 million at
+     December 31, 1995 primarily due to continued capital spending, particularly
+     on Fab 25.  The Company's operations required the use of $50.0 million in
+     cash for the six months ended June 30, 1996.  The Company's cash, cash
+     equivalents and short-term investments balance was approximately $281.7
+     million at June 30, 1996 compared to $409.3 million at March 31, 1996 and
+     $509.7 million at December 31, 1995.
+
+     The Company's capital investments and its recent operating performance have
+     resulted in significant negative cash flow and the Company anticipates
+     negative cash flow through the remainder of 1996. The Company is continuing
+     to make substantial capital investments in its process technology and
+     manufacturing capacity based, in part, upon Company and industry
+     projections regarding future growth in the market for integrated circuits.
+     The Company plans to continue to make significant capital investments
+     through the remainder of 1996, including an estimated $215.0 million for
+     Fab 25 and $75.0 million related to the proposed Dresden submicron
+     integrated circuit manufacturing facility, as described below. During the
+     six months ended June 30, 1996, the Company made capital investments of
+     approximately $108.0 million in Fab 25.
+
+     The Company is currently planning to construct an 875,000 square foot
+     submicron integrated circuit manufacturing and design facility in Dresden,
+     in the State of Saxony, Germany (the "Dresden Facility") over the next five
+     years at a presently estimated cost in Deutsche marks equivalent to
+     approximately $1.5 billion (under current exchange rates). It is presently
+     intended that the Dresden Facility will be dedicated to the production of
+     microprocessors and other advanced logic products. The governments of the
+     Federal Republic of Germany and the State of Saxony have agreed to provide
+     financing assistance for the Dresden Facility through grants and allowances
+     in Deutsche marks in an aggregate amount equivalent to approximately $350.0
+     million at current exchange rates, interest subsidies in Deutsche marks in
+     an aggregate amount equivalent to approximately $200.0 million at current
+     exchange rates, and loan guarantees. Between 1996 and 1999, AMD currently
+     intends to invest in the Dresden Facility, through a wholly owned
+     subsidiary or through a wholly owned intermediate holding company, as
+     appropriate (the "German Subsidiary"), an aggregate amount in Deutsche
+     marks which is equivalent to approximately $350.0 million at current
+     exchange rates; of this amount, the Deutsche mark equivalent of $150.0
+     million would be invested in the form of equity and approximately $200.0
+     million would be invested in the form of equity or subordinated loans. The
+     German Subsidiary will construct, own and operate the Dresden Facility, but
+     the Company, as sole shareholder of the German Subsidiary, will control it.
+     The German Subsidiary has signed an agreement to acquire the land necessary
+     to commence construction of the Dresden Facility for a purchase price in
+     Deutsche marks in an amount equivalent to approximately $10.0 million at
+     current exchange rates. The parcel consists of approximately 120 acres.
+
+                                       14
+<PAGE>
+ 
+     The German Subsidiary is expected to incur substantial project-related debt
+     in the form of a syndicated Deutsche mark bank loan in an aggregate amount
+     up to approximately $1.1 billion at current exchange rates, the terms of
+     which loan are currently under discussion with Dresdner Bank AG, as agent
+     for the prospective lenders.  No commitment has been issued by Dresdner
+     Bank AG regarding the syndicated loan.  This loan will be secured by the
+     Dresden Facility and substantially all of the German Subsidiary's other
+     assets, will be guaranteed as to payment of 65 percent of the principal and
+     interest by the Federal Republic of Germany and the State of Saxony and
+     will be nonrecourse to the Company. The Company will pledge all of the
+     shares of the German Subsidiary to Dresdner Bank AG in connection with the
+     syndicated loan. The Company will commit to provide the German Subsidiary
+     an additional $100.0 million to $150.0 million, depending on the outcome of
+     negotiations with Dresdner Bank AG, for the German Subsidiary's use with
+     respect to the German Subsidiary's syndicated loan obligations. This
+     obligation will expire once the Dresden Facility is completed, after which
+     time the Company has been requested by Dresdner Bank AG to make available
+     up to $100.0 million for the German Subsidiary to draw upon should it fail
+     to meet certain financial covenants. Assuming successful completion of
+     negotiations, it is currently expected that the initial draw down on the
+     loan will be made in 1997. Construction of the Dresden Facility is expected
+     to commence in the first half of 1997 and initial volume production is
+     planned to begin in 1999.
+
+     The Company is currently negotiating substantially all of the agreements
+     relating to the construction, operation and financing of the Dresden
+     Facility.  It is presently expected that such agreements will be finalized
+     during the fourth quarter of 1996.  The negotiations presently contemplate
+     that, in addition to the obligations discussed above, the Company (directly
+     or indirectly) may be required to agree to (1) return all federal and state
+     government grants, allowances and interest subsidies, or replace all such
+     subsidies that are not made available, if the Company or the German
+     Subsidiary fails to meet certain material obligations to the Federal
+     Republic of Germany or the State of Saxony; (2) purchase the output of the
+     Dresden Facility at transfer prices to be set pursuant to specific
+     formulas, except where the Dresden Facility is operating at less than 75%
+     capacity because of a lack of market demand for the products being
+     fabricated there (the Company's product purchase obligation can be
+     terminated once the syndicated loan has been repaid or under circumstances
+     relating to a change of control of the German Subsidiary or the destruction
+     or abandonment of the Dresden Facility); (3) cause the German Subsidiary to
+     undertake bona fide research and development activities at the design
+     center of the Dresden Facility; (4) grant a non-exclusive license to the
+     German Subsidiary to use, at the Dresden Facility and in products
+     manufactured at the Dresden Facility, intellectual property developed at
+     the Dresden design center; and (5) make equity contributions or
+     subordinated loans to the German Subsidiary to fund cost overruns,
+     exceeding certain amounts, in constructing the Dresden Facility.
+
+     In the event AMD agrees to purchase products from the German Subsidiary,
+     the Indenture ("Indenture") under which Senior Secured Notes of the Company
+     will be issued as described below provides that such purchases must occur
+     at prices that 
+
+                                       15
+<PAGE>
+ 
+     would provide the Company with a minimum contribution margin as defined in
+     the Indenture.
+
+     No assurance can be given that the Company will be able to negotiate final
+     agreements relating to the construction, operation and financing of the
+     Dresden Facility on terms satisfactory to it, that the terms of any such
+     agreements will not be materially different from those described, or that
+     the financial exposure of the Company in connection with the Dresden
+     Facility will not materially exceed the proposed terms described herein.
+     Certain terms in the Indenture limit the amount and timing of the Company's
+     investments in the German Subsidiary.
+
+     The Company's total cash investment in FASL was $160.4 million at the end
+     of  the second quarter of 1996 and at the end of 1995.  No additional cash
+     investment is currently planned for the remainder of 1996.  In March of
+     1996, FASL began construction of FASL II at a site contiguous to the
+     existing FASL facility in Aizu-Wakamatsu, Japan. The facility is expected
+     to cost approximately $1.1 billion when fully equipped.  Capital
+     expenditures for FASL II construction are expected to be funded by the cash
+     anticipated to be generated from FASL operations and, if necessary, bank
+     borrowings by FASL.  However, in the event that FASL is unable to secure
+     the necessary funds for FASL II, AMD may be required to contribute cash or
+     guarantee third-party loans in proportion to its percentage interest in
+     FASL. The planned FASL II costs are denominated in yen and, therefore, are
+     subject to change due to foreign exchange rate fluctuations.
+
+     The Company is currently offering for sale $400.0 million of Senior Secured
+     Notes (the "Offering") due August 1, 2003 under its shelf registration
+     statement declared effective by the Securities and Exchange Commission on
+     May 17, 1994. The Offering is being underwritten by Donaldson, Lufkin &
+     Jenrette Securities Corporation and BA Securities, Inc. It is presently
+     anticipated that the closing of the Offering will occur during the week of
+     August 12, 1996. Upon the sale of the Senior Secured Notes, the Company
+     will have fully utilized its existing shelf registration statement.
+     Interest on the Senior Secured Notes will accrue at the rate of 11 percent
+     per annum and will be payable semi-annually in arrears on February 1 and
+     August 1 of each year, commencing February 1, 1997. Except as described
+     under "Asset Sales, Collateral Asset Sales and Events of Loss" and "Change
+     of Control" in the Indenture under which the Senior Secured Notes will be
+     issued, the Company will not be required to make mandatory redemption or
+     sinking fund payments with respect to the Senior Secured Notes. The Senior
+     Secured Notes will not be redeemable at the Company's option prior to
+     August 1, 2001. Thereafter, the Senior Secured Notes will be subject to
+     redemption at the option of the Company, in whole or in part, at a premium.
+
+     On July 19, 1996, the Company entered into an agreement, which was amended
+     on August 7, 1996, with three commercial banks which provides for a new
+     $400.0 million term loan and revolving credit facility which will become
+     available concurrently with the sale of the Senior Secured Notes (as
+     amended, the "New Credit Agreement"). Prior to January 1, 1997 the
+     Indenture will limit the aggregate borrowings which can be made under the
+     New Credit Agreement to $250.0 million. The New Credit Agreement will
+     replace the Company's existing unsecured, and currently unused, $250.0
+     million line of credit and its unsecured $150.0 million four-year term
+     loan. The Company will use a portion of the proceeds of the Offering to
+     repay the existing $150.0 million term loan. The New Credit Agreement
+     provides for a $150.0 million three-year secured revolving line of credit
+     (which can be extended for one additional year, subject to
+
+                                         16
+<PAGE>
+ 
+     approval of the lending banks) and a $250.0 million four-year secured term
+     loan which is available to the Company for a period of six months after the
+     effective date of the New Credit Agreement (July 19, 1996) and which the
+     Company expects to utilize fully. Borrowings under the New Credit Agreement
+     are subject to the issuance of the Senior Secured Notes among other
+     conditions. The Senior Secured Notes and borrowings under the New Credit
+     Agreement will be secured by one or more deeds of trust and security
+     agreements representing a first priority security interest, subject to the
+     terms of an intercreditor and collateral agency agreement between the bank
+     lenders under the New Credit Agreement and the Indenture Trustee under the
+     Indenture pursuant to which the Senior Secured Notes will be issued, in
+     substantially all of the Company's real property, plant and equipment at
+     Fab 25 and ancillary buildings.
+
+     Assuming consummation of the Offering, the net proceeds to the Company from
+     the Offering, after deducting underwriting discounts and commissions and
+     estimated expenses of the Offering, are expected to be approximately $389.0
+     million.  The Company intends to use $150.0 million of the net proceeds to
+     repay its existing four-year term bank loan which matures on January 5,
+     1999.  The Company expects to use the balance of the net proceeds of
+     approximately $238.5 million for general corporate purposes.
+
+     As of June 30, 1996, the Company's available financial resources were (i)
+     $281.7 million of cash, cash equivalents, and short-term investments, (ii)
+     unsecured committed bank lines of credit of $250.0 million, and (iii)
+     short-term, unsecured uncommitted bank credit in the amount of $80.0
+     million.
+
+     Assuming consummation of the Offering and following the intended use of
+     $150.0 million of the net proceeds to repay the Company's existing $150.0
+     million four-year term loan, the Company's available financial resources,
+     as of June 30, 1996, would consist on a pro forma basis of (i) $520.2
+     million of cash, cash equivalents and short-term investments, (ii) the
+     undrawn $150.0 million three-year secured and revolving line of credit
+     discussed above, (iii) the undrawn $250.0 million secured term loan
+     discussed above, and (iv) short-term, unsecured uncommitted bank credit in
+     the amount of $80.0 million.
+
+     The Company's current capital plan and requirements are based on the
+     availability of financial resources and various product-mix, selling-price,
+     and unit-demand assumptions and are, therefore, subject to revision.
+
+     The Company's present business plan envisions substantial outlays requiring
+     external capital financing which the Company intends to obtain from the
+     proceeds of the sale of the Senior Secured Notes and borrowings under the
+     New Credit Agreement.  If the 
+
+                                       17
+<PAGE>
+ 
+     sale of the Senior Secured Notes is not consummated, the credit facilities
+     provided for in the New Credit Agreement will not become available to the
+     Company. There can be no assurance that the sale of the Senior Secured
+     Notes will be consummated. Failure to obtain the requisite external capital
+     financing could have a material adverse effect on the Company.
+
+     The Company believes that current cash balances, together with cash flows,
+     including anticipated external financing provided by the Offering and the
+     New Credit Agreement, will be sufficient to fund operations and capital
+     investments currently planned for the remainder of 1996.
+
+
+     RISK FACTORS
+     ------------
+
+     The Company's business, results of operations and financial condition are
+     subject to the following risk factors:
+
+
+     Microprocessor Products
+
+     Intel Dominance. Intel Corporation ("Intel") has long held a dominant
+     position in the market for microprocessors used in personal computers
+     ("PCs"). Intel's dominant market position has to date allowed it to set x86
+     microprocessor standards and thus dictate the type of product the market
+     requires of Intel's competitors. In addition, Intel's financial strength
+     has enabled it to reduce prices on its microprocessor products within a
+     short period of time following their introduction, which reduces the
+     margins and profitability of its competitors. AMD believes that the process
+     technologies used in the fabrication of the Company's microprocessors are
+     currently somewhat behind those of Intel. The Company expects Intel to
+     continue to invest heavily in research and development and new manufac-
+     turing facilities and to maintain its dominant position through
+     advertising campaigns designed to engender brand loyalty to Intel among PC
+     purchasers. In addition to its dominant microprocessor market share, Intel
+     also dominates the PC platform in other manners. For example, Intel has
+     obtained a dominant market share in sales of 64-bit or Pentium-class core
+     logic chip sets, has emerged as the world's largest motherboard
+     manufacturer, has become a significant manufacturer of personal computers,
+     incorporating Intel microprocessors, chip sets, motherboards and other
+     Intel-designed components for resale by third-party original equipment
+     manufacturers ("OEMs") under such OEMs' names, and has purchased an equity
+     interest in Phoenix Technologies Ltd., a company which has a significant
+     share of the market for BIOS software (basic input/output system software
+     encoded in read-only memory which controls access to devices connected to a
+     PC, such as the monitor and the serial communications port).  The Company
+     does not have the financial resources to compete with Intel on such a large
+     scale. As long as Intel remains in this dominant position, its product
+     introduction 
+
+                                       18
+<PAGE>
+ 
+     schedule, product pricing strategy and customer brand loyalty may continue
+     to have a material adverse effect on the Company, as they have had in the
+     past.
+
+     As Intel has expanded its role in designing and setting standards for PC
+     systems, many PC OEMs have reduced their system development expenditures
+     and have begun to purchase microprocessors in conjunction with chip sets or
+     in assembled motherboards. In marketing its microprocessors to these OEMs
+     and dealers, AMD is dependent upon companies other than Intel for the
+     design and manufacture of core-logic chip sets, motherboards, BIOS software
+     and other components. In recent years, these third-party designers and
+     manufacturers have lost market share to Intel. In addition, these companies
+     are able to produce chip sets, motherboards, BIOS software and other
+     components to support each new generation of Intel's microprocessors only
+     to the extent that Intel makes its related proprietary technology
+     available. Any delay in the availability of such technologies would make it
+     increasingly difficult for them to retain or regain market share. To
+     compete with Intel in this market in 1996 and beyond, the Company intends
+     to form closer relationships with third-party designers and manufacturers
+     of core-logic chip sets, motherboards, BIOS software and other components,
+     expand its chip set and system design capabilities, and sell a portion of
+     the Company's processors along with chip sets and license system designs
+     incorporating the Company's processors and products resulting from AMD's
+     relationships with such third party designers and manufacturers to OEMs.
+     There can be no assurance, however, that such efforts by the Company will
+     be successful. The Company expects that as Intel introduces future
+     generations of microprocessors, chip sets and motherboards, the design of
+     chip sets and higher level board products which support Intel
+     microprocessors will become increasingly dependent on the Intel
+     microprocessor design and may become incompatible with non-Intel PC
+     systems. If the infrastructure of third-party designers and manufacturers
+     which supports non-Intel PC platforms were to fail to continue to support
+     the Company's products or to offer products competitive with Intel's, the
+     Company could experience difficulties marketing its microprocessors, which
+     could have a material adverse effect on the Company.
+
+     Dependence on New AMD Microprocessor Products. Am486 microprocessor
+     products contributed a significant portion of AMD's revenues, profits and
+     margins in 1994 and 1995. AMD expects Am486 microprocessor revenues,
+     profits and margins in 1996 to be significantly below those of 1995. As the
+     product life cycle of fourth-generation x86 products declines, AMD's
+     ability to maintain or expand its current levels of revenues from
+     microprocessor products, and its ability to benefit fully from the
+     substantial financial commitments it has made to process technologies and
+     integrated circuit manufacturing facilities dedicated to the production of
+     microprocessors, will depend upon its success in developing and marketing
+     in a timely manner its next generations of microprocessor products, the K86
+     RISC Superscalar(TM) products. The Company recently began shipping its
+     first K86 products including the 100 MHz AMD-K5 products which are designed
+     to be competitive with the Pentium, Intel's fifth generation
+     microprocessor. The Company anticipates
+
+                                       19
+<PAGE>
+ 
+     that the AMD-K5 microprocessor, which was introduced relatively late in the
+     life cycle of fifth generation microprocessor products, will be a
+     transitional product, unlikely to result in the levels of revenue for the
+     Company realized from the Am486 microprocessor. The Company's AMD-K5
+     products have not, to date, achieved substantial market acceptance, which
+     has had and continues to have a material adverse effect on the Company. The
+     Company acquired NexGen, Inc. ("NexGen") in January 1996, in part, to
+     accelerate the introduction of its microprocessor products, particularly
+     its sixth generation products. The Company is modifying NexGen's sixth-
+     generation design using AMD's design, verification and manufacturing
+     technologies. With these changes, AMD intends to develop and produce the
+     AMD-K6 microprocessor. AMD does not expect any sales of the AMD-K6 products
+     in 1996. The Company intends to begin volume shipments of the AMD-K6
+     products in the first half of 1997, although no assurance can be given that
+     such shipments will occur. The Company's production and sales plans for K86
+     microprocessors, including the AMD-K6 microprocessor, are subject to
+     numerous risks and uncertainties, including the timing of the introduction
+     of future AMD-K5 products and of AMD-K6 products, the possibility that
+     volume shipments of the AMD-K6 may be delayed due to the time required to
+     verify operating systems and application software compatibility, the
+     development of market acceptance for the AMD-K5 and AMD-K6 products
+     particularly with leading OEMs of PCs, the effects of marketing and pricing
+     strategies adopted by Intel, the possible adverse effects of existing and
+     future customer inventory levels, the pace at which the Company is able to
+     ramp production of fifth and sixth generation microprocessors in Fab 25,
+     the possibility that products newly introduced by the Company may be found
+     to be defective, possible adverse conditions in the personal computer
+     market and unexpected interruptions in the Company's manufacturing
+     operations. A failure of the Company's K86 products, particularly the AMD-
+     K6, to be timely introduced or to achieve market acceptance, would have a
+     material adverse effect on the Company.
+
+     Dependence on Market Acceptance of x86 Standard and Dominance of Windows.
+     Customer acceptance of AMD's K86 products will depend upon the continued
+     demand for x86-based personal computers, including the continued
+     development of application software programs for such computers. There can
+     be no assurance of the continued acceptance of the x86 standard or that
+     software developers will continue to develop software compatible with this
+     standard.  AMD's K86 products will face competition not only from x86
+     products manufactured by Intel and others but also from products based upon
+     an increasing number of different architectures which have been developed
+     or are under development by Hewlett-Packard, IBM, Motorola, Silicon
+     Graphics, Sun Microsystems, Digital Equipment Corporation and other
+     manufacturers of integrated circuits. Several of these manufacturers, such
+     as Motorola, Digital Equipment Corporation, Silicon Graphics and Sun
+     Microsystems, produce microprocessors which are designed to be compatible
+     with such operating systems as WindowsNT(R) and UNIX but not with 
+     Windows(R). Currently, as a result of the dominance of the Windows
+     operating system, which operates with x86 based PCs, AMD is able to market
+     its microprocessors without significant competition from these
+     manufacturers. AMD would lose much of this advantage if the Microsoft
+     Windows operating system should be displaced as the dominant operating
+     system software by one or more other systems, such as WindowsNT or UNIX. 
+     A reduction 
+
+                                       20
+<PAGE>
+ 
+     in the market acceptance of either the x86 standard or the Windows
+     operating system could have a material adverse effect on the Company.
+
+     Compatibility Certifications. For its future generations of K86 micro-
+     processors, AMD intends to obtain Windows and Windows 95 certifications 
+     from Microsoft and other appropriate certifications from recognized testing
+     organizations. A failure to obtain certification from Microsoft would
+     prevent the Company from describing and labeling its K86 microprocessors as
+     Microsoft Windows compatible. This could substantially impair the Company's
+     ability to market the products and could have a material adverse effect on
+     the Company.
+
+     Acquisition of NexGen. AMD believes that its acquisition of NexGen is
+     important to the development and introduction of its K86 products,
+     particularly the AMD-K6 microprocessor. Achieving the anticipated benefits
+     of the acquisition will depend in part upon whether the integration of the
+     two companies' businesses is accomplished in an efficient and effective
+     manner, and there can be no assurance that this will occur. The inability
+     of management to integrate the operations of the two companies successfully
+     could have a material adverse effect on the Company. In addition, as
+     commonly occurs with mergers of technology companies, aggressive
+     competitors may undertake formal initiatives during the integration phase
+     to attract customers and to recruit key employees through various
+     incentives. AMD has acquired and is currently developing new technologies
+     to manufacture its sixth generation microprocessor which will utilize
+     NexGen's sixth generation design as modified by AMD. A costly
+     reconfiguration of its facilities may be required to implement these new
+     technologies. There can be no assurance that AMD will be successful in
+     implementing these new technologies even with a reconfiguration of its
+     facilities. If the new technologies cannot be successfully implemented or
+     if AMD encounters other difficulties in manufacturing its sixth generation
+     microprocessors, such an event would have a material adverse effect on the
+     Company.
+
+     Fluctuation in PC Market. Since most of AMD's microprocessor products are
+     used in personal computers and related peripherals, AMD's future growth is
+     closely tied to the performance of the PC industry. The Company could be
+     materially and adversely affected by industry-wide fluctuations in the PC
+     marketplace in the future.
+
+     Possible Rights of Others. Prior to its acquisition by AMD, NexGen granted
+     limited manufacturing rights regarding certain of its current and future
+     microprocessors, including the Nx586(R) and Nx686(TM), to IBM and Compaq. 
+     The Company does not intend to produce any NexGen products as it is the
+     Company's position that its forthcoming AMD-K6 products are AMD products
+     and not NexGen products. There can be no assurance that neither IBM nor
+     Compaq will seek to establish rights with respect to the products. If
+     either IBM or Compaq or both were deemed to have rights to produce AMD's
+     AMD-K6 products for their own use and IBM were deemed to have the right to
+     produce limited volumes of such products for sale to third parties, such
+     production could reduce the potential market for microprocessor products
+
+                                       21
+<PAGE>
+ 
+     produced by AMD, the profit margin achievable with respect to such
+     products, or both.
+
+     Manufacturing
+
+     Underutilized Capacity. The Company's manufacturing facilities are
+     currently underutilized as a result of reduced demand for certain of the
+     Company's products and may remain so until the Company has developed new
+     products and such products have achieved market acceptance. The Company's
+     operations related to microprocessors are particularly affected by this
+     situation. The underutilization of the Company's manufacturing facilities
+     is having, and could continue to have, a material adverse effect on the
+     Company. The Company plans to increase its manufacturing capacity by making
+     significant capital investments in Fab 25 and in its German Subsidiary
+     which will construct an integrated circuit manufacturing facility, which is
+     presently intended to be dedicated to the production of microprocessors and
+     other advanced logic products. In addition, FASL plans to construct a
+     second Flash memory device manufacturing facility. There can be no
+     assurance that the industry projections regarding future growth in the
+     markets for integrated circuits upon which the Company is basing its
+     strategy of increasing its manufacturing capacity will prove to be
+     accurate. If demand for the Company's products does not increase, the
+     underutilization of the Company's manufacturing facilities will likely
+     increase and have a material adverse effect on the Company.
+
+     Process Technology. Manufacturers of integrated circuits are constantly
+     seeking to improve the process technologies used to manufacture their
+     products. In order to remain competitive, the Company must make continuing
+     substantial investments in improving its process technologies. In
+     particular, the Company has made and continues to make significant research
+     and development investments in the technologies and equipment used in the
+     fabrication of its microprocessor products and by FASL in the fabrication
+     of Flash memory devices. Portions of these investments might not be
+     recoverable if the Company's K86 microprocessors fail to gain market
+     acceptance or if the market for its Flash memory products should
+     significantly deteriorate. This could have a material adverse effect on the
+     Company. In addition, any inability of the Company to remain competitive
+     with respect to process technology could have a material adverse effect on
+     the Company.
+
+     Commitments to Facilities Dedicated to Specific Products. The Company has
+     made and plans to continue to make substantial capital investments in
+     integrated circuit manufacturing facilities dedicated to the production of
+     specific product lines. AMD has invested over $860.0 million in the Fab 25
+     integrated circuit manufacturing facility and ancillary buildings as of
+     June 30, 1996, and currently expects to have invested over $1.2 billion by
+     the end of 1997 and over $1.6 billion by the end of 1999, although the
+     Company is not obligated to make such further investments. Fab 25 is
+     currently dedicated to the production of Microsoft Windows compatible
+     microprocessors. Other facilities of the Company are also dedicated to the
+     production 
+
+                                       22
+<PAGE>
+ 
+     of specific product lines. In addition, the Company's German Subsidiary
+     currently plans to construct a semiconductor manufacturing facility, at an
+     estimated cost of $1.5 billion over 5 years, which will be dedicated to the
+     production of microprocessors. Significant time and expense would be
+     incurred were the Company to alter any of its facilities so that they could
+     be used to produce other integrated circuit products. Any such alteration,
+     resulting from a need to respond to changes in the markets for the
+     Company's products or otherwise, could have a material adverse effect on
+     the Company.
+
+     Manufacturing Constraints. While the Company's manufacturing facilities are
+     currently underutilized, there have been situations in the past in which
+     the Company's manufacturing facilities were inadequate to enable the
+     Company to meet demand for certain of its products. In addition to having
+     its own fabrication facilities, AMD has foundry arrangements for the
+     production of its products by third parties. Any inability of AMD to
+     generate sufficient manufacturing capabilities to meet demand, either in
+     its own facilities or through foundry or similar arrangements with others,
+     could have a material adverse effect on the Company.
+
+     Manufacturing Interruptions. Any substantial interruption with respect to
+     any of AMD's manufacturing operations, either as a result of a labor
+     dispute, equipment failure or other cause, could have a material adverse
+     effect on the Company. The Company may also be materially adversely
+     affected by fluctuations in manufacturing yields.
+
+     Essential Manufacturing Materials. Certain of the raw materials used by AMD
+     in the manufacture of its products are available from a limited number of
+     suppliers. For example, several types of the integrated circuit packages
+     purchased by AMD, as well as by the majority of other companies in the
+     semiconductor industry, are principally supplied by Japanese companies.
+     Shortages could occur in various essential materials due to interruption of
+     supply or increased demand in the industry. If AMD were unable to procure
+     certain of such materials from any source, it would be required to reduce
+     its manufacturing operations which could have a material adverse effect on
+     the Company.
+
+     International Manufacturing. Nearly all product assembly and final testing
+     of AMD's products are performed at its manufacturing facilities in Penang,
+     Malaysia; Singapore; and Bangkok, Thailand; or by subcontractors in Asia.
+     Foreign manufacturing entails political and economic risks, including
+     political instability, expropriation, currency controls and fluctuations,
+     changes in freight and interest rates, and loss or modification of
+     exemptions for taxes and tariffs. For example, if AMD were unable to
+     assemble and test its products abroad, or if air transportation between the
+     United States and AMD's overseas facilities were disrupted, there could be
+     a material adverse effect on the Company.
+     
+
+                                       23
+<PAGE>
+ 
+     Other Risk Factors
+
+     Debt Restrictions.   The New Credit Agreement contains, and the indenture
+     to be entered into in connection with the sale of the Senior Secured Notes
+     (the "Indenture") will contain, significant covenants that will limit the
+     Company's and its subsidiaries' ability to engage in various transactions
+     and, in certain cases, require satisfaction of specified financial
+     performance criteria.  In addition, the occurrence of certain events
+     (including, without limitation, failure to comply with the foregoing
+     covenants, material inaccuracies of representations and warranties, certain
+     defaults under or acceleration of other indebtedness and events of
+     bankruptcy or insolvency) would, in certain cases after notice and grace
+     periods, constitute events of default permitting acceleration of the
+     indebtedness under the New Credit Agreement and the Indenture.  The
+     limitations imposed by the New Credit Agreement and the Indenture will be
+     substantial, and failure to comply with such limitations could have a
+     material adverse effect on the Company.
+
+     Importance of Flash Memory Device Business; Recent Pricing Weakness. The
+     market for Flash memory devices has recently experienced rapid growth and
+     is likely to become increasingly competitive as additional manufacturers
+     introduce competitive products and production capacity in the industry
+     increases. The Company's primary competition with respect to Flash memory
+     devices is Intel. A substantial portion of the Company's revenues are
+     derived from sales of Flash memory devices, and the Company expects that
+     this will continue to be the case. In the first quarter of 1996, the
+     Company experienced declines in the selling prices of Flash memory devices,
+     and in the second quarter, both demand for the products and their selling
+     prices declined. There can be no assurance that the Company will be able to
+     maintain its market share in Flash memory devices or that price declines
+     may not accelerate as the market develops and as new competitors emerge. A
+     decline in the Company's Flash memory device business could have a material
+     adverse effect on the Company.
+
+     Dependence on Third Party for PLD Software; Possible Acquisition by
+     Competitor of Existing PLD Software Supplier. Customers utilizing
+     programmable logic devices must use special software packages, generally
+     provided by the suppliers of the programmable logic devices, to program the
+     programmable logic devices. AMD currently provides its programmable logic
+     device customers with software which it licenses from MINC, Inc. ("MINC"),
+     an unaffiliated company, and is dependent upon MINC for the software and
+     continuing improvements in the software. Recently, AMD has been advised
+     orally by MINC that it intends to enter into an agreement to be acquired by
+     one of the Company's major competitors in the market for programmable logic
+     devices. Such an acquisition could have an adverse effect on the existing
+     relationship between the Company and MINC, as a result of which the Company
+     might seek to develop its own software internally or to license alternative
+     software from another third party. No assurance can be given that the
+     Company would be successful in either endeavor. An inability of AMD to
+     continue to obtain appropriate software and improvements from MINC, to
+     license alternative software from another third party, or to develop its
+     own software internally could adversely affect AMD's PLD business,
+     including the timing of new or improved product introductions, which could
+     have a material adverse effect on the Company.
+
+     Technological Change and Industry Standards. The market for AMD's products
+     is generally characterized by rapid technological developments, evolving
+     industry standards, changes in customer requirements, frequent new product
+     introductions and 
+
+                                       24
+<PAGE>
+ 
+     enhancements, short product life cycles and severe price competition. The
+     establishment of industry standards is a function of market acceptance.
+     Currently accepted industry standards may change at any time. AMD's success
+     depends substantially upon its ability, on a cost-effective and timely
+     basis, to continue to enhance its existing products and to develop and
+     introduce new products that take advantage of technological advances and
+     adhere to evolving industry standards. An unexpected change in one or more
+     of the technologies related to its products, in market demand for products
+     based on a particular technology or in accepted industry standards could
+     have a material adverse effect on the Company. There can be no assurance
+     that AMD will be able to develop new products in a timely and satisfactory
+     manner to address new industry standards and technological changes, or to
+     respond to new product announcements by others, or that any such new
+     products will achieve market acceptance.
+
+     Product Incompatibility. While AMD submits its products to rigorous
+     internal and external testing, there can be no assurance that AMD's
+     products will be compatible with all industry standard software and
+     hardware. Any inability of AMD's customers to achieve such compatibility 
+     or compatibility with other software or hardware after AMD's products are
+     shipped in volume could have a material adverse effect on the Company.
+     There can be no assurance AMD will be successful in correcting any such
+     compatibility problems that are discovered or that such corrections will be
+     acceptable to customers or made in a timely manner. In addition, the mere
+     announcement of an incompatibility problem relating to the Company's
+     products could have a material adverse effect on the Company.
+
+     Competition. The integrated circuit industry is intensely competitive and,
+     historically, has experienced rapid technological advances in product and
+     system technologies together with substantial price reductions in maturing
+     products. After a product is introduced, prices normally decrease over time
+     as production efficiency and competition increase, and a successive
+     generation of products is developed and introduced for sale. Technological
+     advances in the industry result in frequent product introductions, regular
+     price reductions, short product life cycles and increased product
+     capabilities that may result in significant performance improvements.
+     Competition in the sale of integrated circuits is based upon performance,
+     product quality and reliability, price, adherence to industry standards,
+     software and hardware compatibility, marketing and distribution capability,
+     brand recognition, financial strength and ability to deliver in large
+     volumes on a timely basis.
+
+     In each particular market in which it participates, the Company faces
+     competition from different groups of companies. AMD, Fujitsu and Intel are
+     the world's largest producers of Flash memory devices. Sharp and Atmel
+     Corporation are also participants in the market. With respect to CCG's
+     other product lines, the Company's primary competitors are: SGS Thomson and
+     Texas Instruments with respect to EPROMs; Siemens, NEC, LM Erickson,
+     Alcatel and other large producers of voice communications equipment with
+     respect to line cards; National Semiconductor, 
+
+                                       25
+<PAGE>
+ 
+     3Com and Intel with respect to networking products; and Motorola, Intel,
+     Texas Instruments and SGS Thomson with respect to embedded processors. In
+     PLD's market, the Company's principal competitors are Altera, Lattice
+     Semiconductor and other smaller companies focused on programmable logic
+     device development and production. With respect to microprocessors, Intel
+     holds a dominant position which has to date allowed it to set x86
+     microprocessor standards and thus dictate the type of product the market
+     requires of Intel's competitors. See "--Microprocessor Products--Intel
+     Dominance." The Company's principal competitors with respect to the network
+     and I/O products include: National Semiconductor, Intel, 3Com, Digital
+     Equipment Corporation, Fujitsu and Seeq with respect to Ethernet local area
+     network products; and Western Digital and Hyundai with respect to SCSI disk
+     host controllers.
+
+     Fluctuations in Operating Results. AMD's operating results are subject to
+     substantial quarterly and other fluctuations due to a variety of factors,
+     including the effects of competition with Intel in the microprocessor
+     industry, competitive pricing pressures, anticipated decreases in unit
+     average selling prices of AMD's products, fluctuations in manufacturing
+     yields, availability and cost of products from AMD's suppliers, the gain or
+     loss of significant customers, new product introductions by AMD or its
+     competitors, changes in the mix of products sold and in the mix of sales by
+     distribution channels, market acceptance of new or enhanced versions of
+     AMD's products, seasonal customer demand, the timing of significant orders
+     and the timing and extent of product development costs. In addition,
+     operating results could be adversely affected by general economic and other
+     conditions affecting the timing of customer orders, a downturn in the
+     market for PCs, and order cancellations or rescheduling. AMD's customers
+     may change delivery schedules or cancel orders without significant penalty.
+     Many of the factors listed above are outside of AMD's control. These
+     factors are difficult to forecast, and these or other factors could
+     materially adversely affect AMD's quarterly or annual operating results.
+
+     Order Revision and Cancellation Policies. AMD manufactures and markets a
+     standard line of products. Sales are made primarily pursuant to purchase
+     orders for current delivery, or agreements covering purchases over a period
+     of time, which are frequently subject to revision and cancellation without
+     penalty. As a result, AMD must commit resources to the production of
+     products without having received advance purchase commitments from
+     customers. Any inability to sell products to which it had devoted
+     significant resources could have a material adverse effect on the Company.
+     Distributors typically maintain an inventory of AMD's products. Pursuant to
+     the Company's agreements with the distributors, AMD protects its
+     distributors' inventory of AMD's products against price reductions as well
+     as products that are slow moving or have been discontinued. These
+     agreements, which may be canceled by either party on a specified notice,
+     generally contain a provision for the return of AMD's products in the event
+     the agreement with the distributor is terminated. The price protection and
+     return rights AMD offers to its distributors may materially adversely
+     affect the Company.
+
+                                       26
+<PAGE>
+ 
+     Key Personnel. AMD's future success depends upon the continued service of
+     numerous key engineering, manufacturing, sales and executive personnel.
+     There can be no assurance that AMD will be able to continue to attract and
+     retain qualified personnel necessary for the development and manufacture of
+     its products. Loss of the service of, or failure to recruit, key
+     engineering design personnel could be significantly detrimental to AMD's
+     product development programs or otherwise have a material adverse effect on
+     the Company.
+
+     Product Defects. One or more of AMD's products may possibly be found to be
+     defective after AMD has already shipped such products in volume, requiring
+     a product replacement, recall, or a software fix which would cure such
+     defect but impede performance. Product returns could impose substantial
+     costs on AMD and have a material adverse effect on the Company.
+
+     Intellectual Property Rights; Potential Litigation. Although AMD attempts
+     to protect its intellectual property rights through patents, copyrights,
+     trade secrets and other measures, there can be no assurance that AMD will
+     be able to protect its intellectual property adequately or that competitors
+     will not be able to develop similar technology independently. There can be
+     no assurance that any patent applications that AMD may file will be issued
+     or that foreign intellectual property laws will protect AMD's intellectual
+     property rights.  There can be no assurance that any patent licensed by or
+     issued to AMD will not be challenged, invalidated or circumvented or that
+     the rights granted thereunder will provide competitive advantages to AMD.
+     Furthermore, there can be no assurance that others will not independently
+     develop similar products, duplicate AMD's products or design around the
+     patents issued to or licensed by AMD.
+
+     From time to time, AMD has been notified that it may be infringing
+     intellectual property rights of others. If any such claims are asserted
+     against AMD, AMD may seek to obtain a license under the third party's
+     intellectual property rights. AMD could decide, in the alternative, to
+     resort to litigation to challenge such claims. Such challenges could be
+     extremely expensive and time consuming and could materially adversely
+     affect the Company. For example, for many years the Company was involved in
+     intellectual property litigation with Intel which was settled in 1995. The
+     litigation required substantial resources of the Company. No assurance can
+     be given that all necessary licenses can be obtained on satisfactory terms,
+     or that litigation may always be avoided or successfully concluded.
+
+     Environmental Regulations. The failure to comply with present or future
+     governmental regulations related to the use, storage, handling, discharge
+     or disposal of toxic, volatile or otherwise hazardous chemicals used in the
+     manufacturing process could result in fines being imposed on AMD,
+     suspension of production, alteration of AMD's manufacturing processes or
+     cessation of operations. Such regulations could require AMD to acquire
+     expensive remediation equipment or to incur other expenses 
+
+                                       27
+<PAGE>
+ 
+     to comply with environmental regulations. Any failure by AMD to control the
+     use, disposal or storage of, or adequately restrict the discharge of,
+     hazardous substances could subject AMD to future liabilities and could have
+     a material adverse effect on the Company.
+
+     International Sales. AMD derives a substantial portion of its revenues from
+     its subsidiaries located in Europe and Asia. AMD's international sales
+     operations entail political and economic risks, including expropriation,
+     currency controls, exchange fluctuations, changes in freight rates and
+     changes in rates for taxes and tariffs.
+
+     Domestic and International Economic Conditions. AMD's business is subject
+     to general economic conditions, both in the United States and abroad. A
+     significant decline in economic conditions in any significant geographic
+     area could have a material adverse effect upon the Company.
+
+     Volatility of Stock Price; Ability to Access Capital. Based on the trading
+     history of its stock, AMD believes factors such as quarterly fluctuations
+     in AMD's financial results, announcements of new products by AMD or its
+     competitors and general conditions in the semiconductor industry have
+     caused and are likely to continue to cause the market price of AMD common
+     stock to fluctuate substantially. Technology company stocks in general have
+     experienced extreme price and volume fluctuations that often have been
+     unrelated to the operating performance of the companies. This market
+     volatility may adversely affect the market price of AMD's common stock and
+     consequently limit the Company's ability to raise capital. In addition, an
+     actual or anticipated shortfall in revenue, gross margins or earnings from
+     securities analysts' expectations could have an immediate effect on the
+     trading price of AMD common stock in any given period.
+
+     Earthquake Danger. AMD's corporate headquarters, a portion of its
+     manufacturing facilities, assembly and research and development activities
+     and certain other critical business operations are located near major
+     earthquake fault lines. The Company could be materially adversely affected
+     in the event of a major earthquake.
+
+                                       28
+<PAGE>
+ 
+     II.  OTHER INFORMATION
+
+     Item 1.  Legal Proceedings
+
+     Advanced Micro Devices, Inc. v. Altera Corporation (Case No. C94-20567-RMW,
+     U.S. District Ct., San Jose, California).  This litigation, which began in
+     1994, involves multiple claims and counterclaims for patent infringement
+     relating to the Company's and Altera Corporation's programmable logic
+     devices.  On June 21, 1996, the jury returned a verdict favorable to
+     Altera.  The Company has filed a motion seeking to set aside the verdict.
+     If the motion is denied, the parties have stipulated that the court, not a
+     jury, will decide which of the AMD patents-in-suit fall within the scope of
+     the license that the jury found.  Based upon information presently known to
+     management the Company does not believe that the ultimate resolution of
+     this lawsuit will have a material adverse effect upon the financial
+     condition or results of operations of the Company.
+
+                                       29
+<PAGE>
+ 
+     Item 4.  Submission of Matters to a Vote of Security Holders
+
+                The Company's annual meeting of stockholders was held on April
+                25, 1996. The following are the results of the voting on the
+                proposals submitted to stockholders at the annual meeting.
+
+                Proposal No. 1 - Election of Directors. The following
+                individuals were elected as directors:
+
+<TABLE>
+<CAPTION>
+                NAME                   FOR              WITHHELD
+                <S>                    <C>              <C>
+
+                W. J. Sanders III      106,104,973      3,739,496
+                Friedrich Baur         106,195,691      3,648,778
+                Charles M. Blalack     106,421,611      3,422,858
+                R. Gene Brown          106,467,916      3,376,553
+                S. Atiq Raza           105,997,932      3,846,537
+                Richard Previte        106,159,355      3,685,114
+                Joe L. Roby            105,704,564      4,139,905
+                Leonard Silverman      106,439,767      3,404,702
+</TABLE>
+
+                Proposal No. 2 - The proposal to ratify the appointment of Ernst
+                & Young LLP, as the Company's independent auditors for the
+                current fiscal year was approved. 
+
+                For: 109,136,095    Against: 384,768     Abstain: 323,606
+ 
+                Proposal No. 3 - The proposal to approve the 1996 Stock
+                Incentive Plan was approved. 
+
+                For: 99,184,839     Against: 8,532,428   Abstain: 2,127,202
+
+                Proposal No. 4 - The proposal to approve the 1996 Executive
+                Incentive Plan was approved. 
+
+                For: 104,105,617    Against: 3,623,044   Abstain: 2,115,808
+
+                Other - A proposal by the New York City Employees' Retirement
+                System ("NYCERS") requesting that the Board of Directors
+                establish a nominating committee consisting solely of
+                independent directors (as defined in the proposal) was not
+                properly brought before the annual meeting for a vote because a
+                representative of NYCERS failed to attend the meeting and offer
+                the proposal for consideration and approval. If the proposal had
+                been properly presented, it would have been defeated based upon
+                the shares of AMD's common stock present in person or
+                represented by proxy and entitled to vote at the annual meeting.
+
+                                       30
+<PAGE>
+ 
+     Item 6.  Exhibits and Reports on Form 8-K
+
+     (a).     Exhibits    10.11     Advanced Micro Devices, Inc. 1996 Stock
+                                    Incentive Plan, filed as Exhibit 99 to the
+                                    Corporation's Form S-8 Registration
+                                    Statement (No. 333-04797) filed on May 30,
+                                    1996, is hereby incorporated by reference.
+
+                          10.14(b)  1996 Executive Incentive Plan
+
+                          10.37     1995 Stock Plan of NexGen, Inc.
+                                    (assumed by Advanced Micro Devices, 
+                                    Inc.) as amended.
+
+                          27.1      Financial Data Schedule
+
+
+        (b).  Reports on Form 8-K
+
+              The following reports on Form 8-K were filed during the quarter
+              for which this report is filed:
+
+              1.   Current Report on Form 8-K dated April 1, 1996 reporting
+                   under Item 5 - Other Events - lower than expected first
+                   quarter earnings.
+
+              2.   Current Report on Form 8-K dated April 9, 1996 reporting
+                   under Item 5 - Other Events - first quarter earnings.
+
+              3.   Current Report on Form 8-K dated June 19, 1996 reporting
+                   under Item 5 - Other Events - Supplemental Consolidated
+                   Financial Statements.
+
+              4.   Current Report on Form 8-K dated June 20, 1996 reporting
+                   under Item 5 - Other Events - lower than expected second
+                   quarter earnings.
+
+                                       31
+<PAGE>
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+     registrant has duly caused this report to be signed on its behalf by the
+     undersigned thereunto duly authorized.
+
+
+                       ADVANCED MICRO DEVICES, INC.
+
+
+
+
+     Date: August 7, 1996           By:  /s/ Geoffrey Ribar
+          -----------------              ------------------
+                                    Geoffrey Ribar
+                                    Vice President and
+                                    Corporate Controller
+ 
+                                    Signing on behalf of the
+                                    registrant and as the principal
+                                    accounting officer
+
+                                       32
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+                                 -------------
+
+     Exhibits
+     --------
+
+     10.11       Advanced Micro Devices, Inc. 1996 Stock Incentive Plan, filed
+                 as Exhibit 99 to the Corporation's Form S-8 Registration
+                 Statement (No. 333-04797) filed on May 30, 1996, is hereby
+                 incorporated by reference.
+
+     10.14(b)    1996 Executive Incentive Plan
+
+     10.37       1995 Stock Plan of NexGen, Inc. (assumed by Advanced Micro
+                 Devices, Inc.) as amended.
+
+     27.1        Financial Data Schedule
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>2
+<DESCRIPTION>1996 EXECUTIVE INCENTIVE PLAN
+<TEXT>
+
+<PAGE>
+ 
+                                                                EXHIBIT 10.14(b)
+
+                          ADVANCED MICRO DEVICES, INC.
+ 
+                            EXECUTIVE INCENTIVE PLAN
+                                 FEBRUARY, 1996
+ 
+1. PURPOSES
+ 
+The purposes of the Advanced Micro Devices, Inc. (AMD) Executive Incentive Plan
+are to motivate the Company's key employees to improve stockholder value by
+linking a portion of their cash compensation to the Company's financial
+performance, reward key employees for improving the Company's financial
+performance, and help attract and retain key employees.
+ 
+2. DEFINITIONS
+ 
+  A. "Award" means any cash incentive payment made under the Plan.
+ 
+  B. "Code" means the Internal Revenue Code of 1986, as amended.
+ 
+  C. "Committee" means the Compensation Committee of AMD's Board of Directors,
+     or such other committee designated by that Board of Directors, which is
+     authorized to administer the Plan under Section 3 hereof. The Committee
+     shall be comprised solely of directors who are outside directors under
+     Section 162(m) of the Code.
+ 
+  D. "Company" means AMD and any corporation or other business entity of which
+     AMD (i) directly or indirectly has an ownership interest of 50% or more,
+     or (ii) has a right to elect or appoint 50% or more of the board of
+     directors or other governing body.
+ 
+  E. "Key Employee" means any employee of the Company whose performance the
+     Committee determines can have a significant effect on the success of the
+     Company.
+ 
+  F. "Participant" means any Key Employee to whom an Award is granted under the
+     Plan.
+ 
+  G. "Plan" means this Plan, which shall be known as the AMD Executive Incentive
+     Plan.
+ 
+3. ADMINISTRATION
+ 
+  A. The Plan shall be administered by the Committee. The Committee shall have
+the authority to:
+ 
+<TABLE>
+     <S>     <C>
+        (i)  interpret and determine all questions of policy and expediency pertaining to
+             the Plan;
+       (ii)  adopt such rules, regulations, agreements and instruments as it deems necessary
+             for its proper administration;
+      (iii)  select Key Employees to receive Awards;
+       (iv)  determine the terms of Awards;
+        (v)  determine amounts subject to Awards (within the limits prescribed in the Plan);
+       (vi)  determine whether Awards will be granted in replacement of or as alternatives
+             to any other incentive or compensation plan of the Company or an acquired
+             business unit;
+      (vii)  grant waivers of Plan or Award conditions (other than Awards intended to
+             qualify under Section 162(m) of the Code);
+     (viii)  accelerate the payment of Awards (but with respect to Awards intended to
+             qualify under Section 162(m) of the Code, only as permitted under that
+             Section);
+       (ix)  correct any defect, supply any omission, or reconcile any inconsistency in the
+             Plan, any Award or any Award notice;
+        (x)  take any and all other actions it deems necessary or advisable for the proper
+             administration of the Plan;
+</TABLE>
+<PAGE>
+ 
+<TABLE>
+     <S>    <C>
+      (xi)  adopt such Plan procedures, regulations, subplans and the like as it deems are
+            necessary to enable Key Employees to receive Awards; and
+     (xii)  amend the Plan at any time and from time to time, provided however that no
+            amendment to the Plan shall be effective unless approved by the Company's
+            stockholders, to the extent such stockholder approval is required under Section
+            162(m) of the Code with respect to Awards which are intended to qualify under
+            that Section.
+</TABLE>
+ 
+  B. The Committee may delegate its authority to grant and administer Awards to
+     a separate committee; however, only the Committee may grant and administer
+     Awards which are intended to qualify as performance-based compensation
+     under Section 162(m) of the Code.
+ 
+4. ELIGIBILITY
+ 
+Only Key Employees as designated by the Committee are eligible to become
+Participants in the Plan.
+ 
+5. PERFORMANCE GOALS
+ 
+  A. The Committee shall establish performance goals applicable to a particular
+     fiscal year (or performance period) prior to its start, provided, however,
+     that such goals may be established after the start of the fiscal year (or
+     performance period) but while the outcome of the performance goal is
+     substantially uncertain if such a method of establishing performance goals
+     is permitted under proposed or final regulations issued under Code Section
+     162(m).
+ 
+  B. Each performance goal applicable to a fiscal year shall identify one or
+     more business criteria of the Company and/or any business unit that are to
+     be monitored during the fiscal year (or performance period), such as:
+ 
+     . Net income                           . Stockholder return
+     . Earnings per share                   . Revenue
+     . Return on investment                 . Revenue growth
+     . Operating income                     . Market share
+     . Strategic positioning programs       . Return on net assets 
+     . Cash flow                            . Return on equity     
+                                            . New product releases  
+                                            
+ 
+  C. The Committee shall determine the target level of performance that must be
+     achieved with respect to each criterion that is identified in a
+     performance goal in order for a performance goal to be treated as
+     attained.
+ 
+  D. The Committee may base performance goals on one or more of the foregoing
+     business criteria. In the event performance goals are based on more than
+     one business criterion, the Committee may determine to make Awards upon
+     attainment of the performance goal relating to any one or more of such
+     criteria, provided the performance goals, when established, are stated as
+     alternatives to one another at the time the performance goal is
+     established.
+ 
+6. AWARDS
+ 
+  A. Awards may be made on the basis of Company and/or business unit
+     performance goals and formulas determined by the Committee. During any
+     fiscal year of the Company, no Participant shall receive an Award of more
+     $5,000,000.
+ 
+  B. The Committee, in its discretion, may reduce or eliminate a Participant's
+     Award at any time before it is paid, whether or not calculated on the
+     basis of pre-established performance goals or formulas.
+ 
+                                       2
+<PAGE>
+ 
+  C. The payment of an Award requires that the Participant be on the Company's
+     payroll as of the last day of the fiscal year (or performance period). The
+     Committee may make exceptions to this requirement in the case of
+     retirement, death or disability, as determined by the Committee in its
+     sole discretion.
+ 
+  D. The Company shall withhold all applicable federal, state, local and
+     foreign taxes required by law to be paid or withheld relating to the
+     receipt or payment of any Award.
+ 
+  E. At the discretion of the Committee, payment of an Award or any portion
+     thereof may be deferred until a time established by the Committee.
+     Deferrals shall be unfunded and shall be made in accordance with
+     guidelines established by the Committee to ensure that such deferrals
+     comply with applicable requirements of the Code and its regulations.
+     Deferrals shall be initiated by the delivery of a written, irrevocable
+     election by the Participant to the Committee or its nominee. Such election
+     shall be made prior to the date specified by the Committee. The Committee
+     may also credit earnings on cash payments that are deferred and set the
+     rates of such interest.
+ 
+7. GENERAL
+ 
+  A. The Plan shall become effective as of January 1, 1996, subject to
+     stockholder approval of the Plan prior to January 1, 1996 or within twelve
+     months thereafter.
+ 
+  B. Any rights of a Participant under the Plan shall not be assignable by such
+     Participant, by operation of law or otherwise, except by will or the laws
+     of descent and distribution. No Participant may create a lien on any funds
+     or rights to which he or she may have an interest under the Plan, or which
+     is held by the Company for the account of the Participant under the Plan.
+ 
+  C. Participation in the Plan shall not give any Key Employee any right to
+     remain in the employ of the Company. Further, the adoption of this Plan
+     shall not be deemed to give any Key Employee or other individual the right
+     to be selected as a Participant or to be granted an Award.
+ 
+  D. To the extent any person acquires a right to receive payments from the
+     Company under this Plan, such rights shall be no greater than the rights
+     of an unsecured creditor of the Company.
+ 
+  E. The Plan shall be governed by and construed in accordance with the laws of
+     the State of California.
+ 
+  F. The Board may amend or terminate the Plan (i) at any time and for any
+     reason subject to stockholder approval and (ii) at any time and for any
+     reason if and to the extent the Plan's qualification under Section 162(m)
+     of the Code would not be adversely affected.
+ 
+                                       3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.37
+<SEQUENCE>3
+<DESCRIPTION>1995 STOCK PLAN OF NEXGEN, INC.
+<TEXT>
+
+<PAGE>
+ 
+                                 EXHIBIT 10.37
+
+
+
+
+
+
+                        1995 STOCK PLAN OF NEXGEN, INC.
+                        -------------------------------
+
+                     (As Amended Effective April 25, 1996)
+<PAGE>
+ 
+                               TABLE OF CONTENTS
+                               -----------------
+
+<TABLE>
+<CAPTION>
+                                                                          Page
+                                                                          ----
+<S>                                                                       <C>
+SECTION 1.  ESTABLISHMENT AND PURPOSE.....................................   1
+
+SECTION 2.  DEFINITIONS...................................................   1
+
+SECTION 3.  ADMINISTRATION................................................   4
+     (a)  Committee Membership............................................   4
+     (b)  Committee Procedures............................................   5
+     (c)  Committee Responsibilities......................................   5
+
+SECTION 4.  ELIGIBILITY...................................................   6
+     (a)  General Rules...................................................   6
+     (b)  Outside Directors...............................................   6
+     (c)  Ten-Percent Stockholders........................................   8
+     (d)  Attribution Rules...............................................   8
+     (e)  Outstanding Stock...............................................   8
+
+SECTION 5.  STOCK SUBJECT TO PLAN.........................................   8
+     (a)  Basic Limitation................................................   8
+     (b)  Additional Shares...............................................   9
+
+SECTION 6.  TERMS AND CONDITIONS OF AWARDS OR SALES.......................   9
+     (a)  Stock Purchase Agreement........................................   9
+     (b)  Duration of Offers and Nontransferability of Rights.............   9
+     (c)  Purchase Price..................................................   9
+     (d)  Withholding Taxes...............................................   9
+     (e)  Restrictions on Transfer of Shares..............................  10
+
+SECTION 7.  TERMS AND CONDITIONS OF OPTIONS...............................  10
+     (a)  Stock Option Agreement..........................................  10
+     (b)  Number of Shares................................................  10
+</TABLE>
+<PAGE>
+ 
+<TABLE>
+<S>                                                                         <C>
+     (c)  Exercise Price..................................................  10
+     (d)  Withholding Taxes...............................................  10
+     (e)  Exercisability..................................................  11
+     (f)  Term............................................................  11
+     (g)  Nontransferability..............................................  11
+     (h)  No Rights as a Stockholder......................................  11
+     (i)  Modification, Extension and Renewal of Options..................  11
+     (j)  Restrictions on Transfer of Shares..............................  12
+
+SECTION 8.  PAYMENT FOR SHARES............................................  12
+     (a)  General Rule....................................................  12
+     (b)  Surrender of Stock..............................................  12
+     (c)  Exercise/Sale...................................................  12
+     (d)  Exercise/Pledge.................................................  13
+     (e)  Services Rendered...............................................  13
+     (f)  Promissory Note.................................................  13
+
+SECTION 9.  ADJUSTMENT OF SHARES..........................................  13
+     (a)  General.........................................................  13
+     (b)  Reorganizations.................................................  14
+     (c)  Reservation of Rights...........................................  14
+
+SECTION 10.  SECURITIES LAWS..............................................  14
+
+SECTION 11.  NO RETENTION RIGHTS..........................................  14
+
+SECTION 12.  DURATION AND AMENDMENTS......................................  15
+     (a)  Term of the Plan................................................  15
+     (b)  Right to Amend or Terminate the Plan............................  15
+     (c)  Effect of Amendment or Termination..............................  15
+
+</TABLE> 
+<PAGE>
+ 
+                        1995 STOCK PLAN OF NEXGEN, INC.
+                        -------------------------------
+
+
+SECTION 1.  ESTABLISHMENT AND PURPOSE.
+- ---------   ------------------------- 
+
+     The Plan was adopted by the Board of Directors of NexGen, Inc. (the "NexGen
+Board") on March 12, 1995, thereafter amended by the NexGen Board on May 10,
+1995 and December 8, 1995. Effective upon the merger of NexGen, Inc. with and
+into Advanced Micro Devices, Inc. ("AMD") on January 17, 1996, AMD assumed the
+Plan as the successor to NexGen. The AMD Board of Directors amended the Plan on
+February 7, 1996 and April 25, 1996. The purpose is to offer to selected
+employees, consultants and promotional representatives an opportunity to acquire
+a proprietary interest in the success of the Company, or to increase such
+interest, by purchasing Shares of the Company's Common Stock. The Plan provides
+both for the direct award or sale of Shares and for the grant of Options to
+purchase Shares. Options granted under the Plan may include Nonstatutory Options
+as well as ISOs intended to qualify under section 422 of the Code.
+
+     The Plan is intended to comply in all respects with Rule 16b-3 (or its
+successor) under the Exchange Act and shall be construed accordingly.
+
+SECTION 2.  DEFINITIONS.
+- ---------   ----------- 
+
+     (a)  "Board of Directors" shall mean the Board of Directors of the Company,
+           ------------------                                                   
+as constituted from time to time.
+
+     (b)  "Change in Control" shall mean the occurrence of either of the
+           -----------------                                            
+following events:
+
+        (i)   any "person" (as such term is used in Sections 13(d) and 14(d) of
+     the Exchange Act) is or becomes the beneficial owner (as defined in Rule
+     13d-3 of the Exchange Act), directly or indirectly, of securities of the
+     Company (not including in the securities beneficially owned by such person
+     any securities acquired directly from the Company or any of its affiliates)
+     representing more than 20% of either the then outstanding shares of the
+     Common Stock of the Company or the combined voting power of the Company's
+     then outstanding voting securities;
+
+        (ii)  during any period of two consecutive years, individuals who at the
+     beginning of such period constituted the Board of Directors and any new
+     director (other than a director designated by a person who has entered into
+     an agreement or arrangement with the Company to effect a transaction
+     described in clause (i) or (iii) of this sentence) whose appointment,
+     election, or nomination for election by the Company's stockholders, was
+     approved by a vote of at least two-thirds (2/3) of the directors then still
+     in office who either were directors at the beginning of the period or whose
+     appointment, election, or nomination for election was previously so
+     approved, cease for any reason to constitute a majority of the Board of
+     Directors;
+
+        (iii) there is consummated a merger or consolidation of the Company or a
+     Subsidiary thereof with or into any other corporation, other than a merger
+     or consolidation which would result in the holders of the voting securities
+     of the Company outstanding immediately prior thereto holding securities
+     which represent immediately after such merger or consolidation more than
+     50% of the combined voting power of the voting securities of either the
+     Company or the other entity which survives such merger or consolidation or
+     the parent of the entity which survives such merger or consolidation; or
+
+        (iv)  the stockholders of the Company approve a plan of complete
+     liquidation of the Company or there is consummated the sale or disposition
+     by the Company of all or substantially all of the Company's assets, other
+     than a sale or disposition by the Company of all or substantially all of
+     the Company's assets to an entity, at least 80% of the combined voting
+     power of the voting securities of which are owned by persons in
+     substantially the same proportions as their ownership of the Company
+     immediately prior to such sale.
+
+        Notwithstanding the foregoing (i) no "Change of Control" shall be deemed
+to have occurred if there is consummated any transaction or series of integrated
+transactions immediately following which the record holders of the Common Stock
+of the Company immediately prior to such transaction or series of transactions
+continue to have substantially the same proportionate ownership in an entity
+which owns all or substantially all of the assets of the Company immediately
+prior to such transaction or series of transactions and (ii) "Change of Control"
+shall exclude the acquisition of securities representing more than 20% of either
+the then outstanding shares of the Common Stock of the Company or the combined
+voting power of the Company's then outstanding voting securities by the Company
+or any of its wholly owned Subsidiaries, or any trustee or other fiduciary
+holding securities of the Company under an employee benefit plan now or
+hereafter established by the Company.
+
+                                      -1-
+<PAGE>
+ 
+
+     (c)  "Code" shall mean the Internal Revenue Code of 1986, as amended.
+           ----                                                           
+
+     (d)  "Committee" shall mean a committee of the Board of Directors, as
+           ---------                                                      
+described in Section 3(a).
+
+     (e)  "Company" shall mean NexGen, Inc., a Delaware corporation, its parent
+           -------                                                             
+corporation, or its successor.
+
+     (f)  "Employee" shall mean:
+           --------             
+
+          (i)  Any individual who is a common-law employee of the Company or of
+     a Subsidiary;
+
+          (ii)  An Outside Director; and
+
+          (iii)  An independent contractor who performs services for the Company
+     or a Subsidiary and who is not a member of the Board of Directors.
+
+Service as an Outside Director or independent contractor shall be considered
+employment for all purposes of the Plan, except as provided in Section 4(a).
+
+     (g)  "Exchange Act" shall mean the Securities Exchange Act of 1934, as
+           ------------                                                    
+amended.
+
+     (h)  "Exercise Price" shall mean the amount for which one Share may be
+           --------------                                                  
+purchased upon exercise of an Option, as specified by the Committee in the
+applicable Stock Option Agreement.
+
+     (i)  "Fair Market Value" shall mean the market price of Stock, determined
+           -----------------                                                  
+by the Committee as follows:
+
+          (i)  If Stock was traded over-the-counter on the date in question but
+     was not traded on the Nasdaq system or the Nasdaq National Market System,
+     then the Fair Market Value shall be equal to the mean between the last
+     reported representative bid and asked prices quoted for such date by the
+     principal automated inter-dealer quotation system on which Stock is quoted
+     or, if Stock is not quoted on any such system, by the "Pink Sheets"
+     published by the National Quotation Bureau, Inc.;
+
+          (ii)  If Stock was traded over-the-counter on the date in question and
+     was traded on the Nasdaq system or the Nasdaq National Market System, then
+     the Fair Market Value
+
+                                      -2-
+<PAGE>
+ 
+     shall be equal to the last-transaction price quoted for such date by the
+     Nasdaq system or the Nasdaq National Market System;
+
+          (iii)  If Stock was traded on a stock exchange on the date in
+     question, then the Fair Market Value shall be equal to the closing price
+     reported by the applicable composite-transactions report for such date; and
+
+          (iv)  If none of the foregoing provisions is applicable, then the Fair
+     Market Value shall be determined by the Committee in good faith on such
+     basis as it deems appropriate.
+
+In all cases, the determination of Fair Market Value by the Committee shall be
+conclusive and binding on all persons.
+
+     (j)  "IPO" means the initial offering of Stock to the public pursuant to a
+           ---                                                                 
+registration statement filed with the Securities and Exchange Commission on Form
+S-1.
+
+     (k)  "ISO" shall mean an employee incentive stock option described in
+           ---                                                            
+section 422(b) of the Code.
+
+     (l)  "Nonstatutory Option" shall mean a stock option not described in
+           -------------------                                            
+sections 422(b) or 423(b) of the Code.
+
+     (m)  "Offeree" shall mean an individual to whom the Committee has offered
+           -------                                                             
+the right to acquire Shares under the Plan (other than upon exercise of an
+Option).
+
+     (n)  "Option" shall mean an ISO or Nonstatutory Option granted under the
+           ------                                                            
+Plan and entitling the holder to purchase Shares.
+
+     (o)  "Optionee" shall mean an individual who holds an Option.
+           --------                                               
+
+     (p)  "Outside Director" shall mean a member of the Board of Directors who
+           ----------------                                                   
+is not a common-law employee of the Company or of a Subsidiary.
+
+     (q)  "Plan" shall mean this 1995 Stock Plan of NexGen, Inc., as it may be
+           ----                                                               
+amended from time to time.
+
+     (r)  "Purchase Price" shall mean the consideration for which one Share may
+           --------------                                                      
+be acquired under the Plan (other than upon exercise of an Option), as specified
+by the Committee.
+
+     (s)  "Service" shall mean service as an Employee.
+           -------                                    
+
+     (t)  "Share" shall mean one share of Stock, as adjusted in accordance with
+           -----                                                               
+Section 9 (if applicable).
+
+                                      -3-
+<PAGE>
+ 
+     (u)  "Stock" shall mean the Common Stock of the Company.
+           -----                                             
+
+     (v)  "Stock Option Agreement" shall mean the agreement between the Company
+           ----------------------                                              
+and an Optionee which contains the terms, conditions and restrictions pertaining
+to his or her Option.
+
+     (w)  "Stock Purchase Agreement" shall mean the agreement between the
+           ------------------------                                      
+Company and an Offeree who acquires Shares under the Plan which contains the
+terms, conditions and restrictions pertaining to the acquisition of such Shares.
+
+     (x)  "Subsidiary" shall mean any corporation, if the Company and/or one or
+           ----------                                                          
+more other Subsidiaries own not less than 50 percent of the total combined
+voting power of all classes of outstanding stock of such corporation.  A
+corporation that attains the status of a Subsidiary on a date after the adoption
+of the Plan shall be considered a Subsidiary commencing as of such date.
+
+     (y)  "Total and Permanent Disability" shall mean that the Optionee is
+           ------------------------------                                 
+unable to engage in any substantial gainful activity by reason of any medically
+determinable physical or mental impairment which can be expected to result in
+death or which has lasted, or can be expected to last, for a continuous period
+of not less than one year.
+
+     (z)  "Vesting Start Date," in the case of an Outside Director, shall mean
+           ------------------                                                 
+the latest of:
+
+          (i)  The date of the IPO;
+
+          (ii)  The earliest date when the Outside Director no longer holds
+     unexercisable options to purchase more than 10,000 Shares that were granted
+     to him or her by the Company prior to the IPO; or
+
+          (iii)  The date when the Outside Director first joins the Board of
+     Directors.
+
+SECTION 3.  ADMINISTRATION.
+- ---------   -------------- 
+
+     (a)  Committee Membership.  The Plan shall be administered by the
+          --------------------                                        
+Committee.  The Committee shall consist of two or more members of the Board of
+Directors who meet the requirements established from time to time by:
+
+          (i)  The Securities and Exchange Commission for plans intended to
+     qualify for exemptions under Rule 16b-3 (or its successor) under the
+     Exchange Act; and
+
+          (ii)  The Internal Revenue Service for plans intended to qualify for
+     an exemption under section 162(m)(4)(C) of the Code.
+
+                                      -4-
+<PAGE>
+ 
+An Outside Director shall not fail to meet such requirements solely because he
+or she receives the Nonstatutory Options described in Section 4(b).  The Board
+of Directors may appoint a separate committee, consisting of one or more members
+of the Board of Directors who need not meet such requirements.  Such committee
+may administer the Plan with respect to Employees who are not officers or
+directors of the Company, may grant Shares and Options under the Plan to such
+Employees and may determine the timing, number of Shares and other terms of such
+grants.
+
+     (b)  Committee Procedures.  The Board of Directors shall designate one of
+          --------------------                                                
+the members of the Committee as chairman.  The Committee may hold meetings at
+such times and places as it shall determine.  The acts of a majority of the
+Committee members present at meetings at which a quorum exists, or acts reduced
+to or approved in writing by all Committee members, shall be valid acts of the
+Committee.
+
+     (c)  Committee Responsibilities.  Subject to the provisions of the Plan,
+          --------------------------                                         
+the Committee shall have full authority and discretion to take the following
+actions:
+
+          (i)  To interpret the Plan and to apply its provisions;
+
+          (ii)  To adopt, amend or rescind rules, procedures and forms relating
+     to the Plan;
+
+          (iii)  To authorize any person to execute, on behalf of the Company,
+     any instrument required to carry out the purposes of the Plan;
+
+          (iv)  To determine when Shares are to be awarded or offered for sale
+     and when Options are to be granted under the Plan;
+
+          (v)  To select the Offerees and Optionees;
+
+          (vi)  To determine the number of Shares to be offered to each Offeree
+     or to be made subject to each Option;
+
+          (vii)  To prescribe the terms and conditions of each award or sale of
+     Shares, including (without limitation) the Purchase Price, and to specify
+     the provisions of the Stock Purchase Agreement relating to such award or
+     sale;
+
+          (viii)  To prescribe the terms and conditions of each Option,
+     including (without limitation) the Exercise Price, to determine whether
+     such Option is to be classified as an ISO or as a Nonstatutory Option, and
+     to specify the provisions of the Stock Option Agreement relating to such
+     Option;
+
+          (ix)  To amend any outstanding Stock Purchase Agreement or Stock
+     Option Agreement, subject to applicable legal
+
+                                      -5-
+<PAGE>
+ 
+     restrictions and to the consent of the Offeree or Optionee who entered into
+     such agreement;
+
+          (x)  To prescribe the consideration for the grant of each Option or
+     other right under the Plan and to determine the sufficiency of such
+     consideration; and
+
+          (xi)  To take any other actions deemed necessary or advisable for the
+     administration of the Plan.
+
+All decisions, interpretations and other actions of the Committee shall be final
+and binding on all Offerees, all Optionees, and all persons deriving their
+rights from an Offeree or Optionee.  No member of the Committee shall be liable
+for any action that he or she has taken or has failed to take in good faith with
+respect to the Plan, any Option, or any right to acquire Shares under the Plan.
+
+SECTION 4.  ELIGIBILITY.
+- ---------   ----------- 
+
+     (a)  General Rules.  Only Employees (including, without limitation,
+          -------------                                                 
+independent contractors who are not members of the Board of Directors) shall be
+eligible for designation as Optionees or Offerees by the Committee.  In
+addition, only Employees who are common-law employees of the Company or a
+Subsidiary shall be eligible for the grant of ISOs.  Employees who are Outside
+Directors shall only be eligible for the grant of the Nonstatutory Options
+described in Subsection (b) below.
+
+     (b)  Outside Directors.  Any other provision of the Plan notwithstanding,
+          -----------------                                                   
+Outside Directors shall not participate in the Plan after February 7, 1996,
+although Options granted to Outside Directors prior to such date shall continue
+to be governed by the Plan as in effect prior to February 7, 1996.
+
+     (c)  Ten-Percent Stockholders.  An Employee who owns more than 10 percent
+          ------------------------                                            
+     of the total combined voting power of all classes of outstanding stock of
+     the Company or any of its Subsidiaries shall not be eligible for the grant
+     of an ISO unless:
+
+          (i)  The Exercise Price is at least 110 percent of the Fair Market
+     Value of a Share on the date of grant; and
+
+          (ii)  Such ISO by its terms is not exercisable after the expiration of
+     five years from the date of grant.
+
+     (d)  Attribution Rules.  For purposes of Subsection (c) above, in
+          -----------------                                           
+determining stock ownership, an Employee shall be deemed to own the stock owned,
+directly or indirectly, by or for such Employee's brothers, sisters, spouse,
+ancestors and lineal descendants.  Stock owned, directly or indirectly, by or
+for a corporation, partnership, estate or trust shall be deemed to be owned
+proportionately by or for its stockholders, partners or
+
+                                      -6-
+<PAGE>
+ 
+beneficiaries.  Stock with respect to which such Employee holds an option shall
+not be counted.
+
+     (e)  Outstanding Stock.  For purposes of Subsection (c) above, "outstanding
+          -----------------                                                     
+stock" shall include all stock actually issued and outstanding immediately after
+the grant.  "Outstanding stock" shall not include shares authorized for issuance
+under outstanding options held by the Employee or by any other person.
+
+SECTION 5.  STOCK SUBJECT TO PLAN.
+- ---------   --------------------- 
+
+     (a)  Basic Limitation.  Shares offered under the Plan shall be authorized
+          ----------------                                                    
+but unissued Shares or treasury Shares.  The aggregate number of Shares which
+is issued under the Plan (upon exercise of Options or other rights to acquire
+Shares) shall not exceed 2,250,741 Shares; provided that the number of Shares
+which is issued under the Plan upon exercise of ISOs shall in no event exceed
+1,200,000 Shares during the entire term of the Plan.  All limitations under this
+Subsection (a) shall be subject to adjustment pursuant to Section 9.  The number
+of Shares which are subject to Options or other rights outstanding at any time
+under the Plan shall not exceed the number of Shares which then remain available
+for issuance under the Plan.  The Company, during the term of the Plan, shall at
+all times reserve and keep available sufficient Shares to satisfy the
+requirements of the Plan.
+
+     (b)  Additional Shares.  In the event that any outstanding option granted
+          -----------------                                                   
+under this Plan or the 1987 Employee Stock Plan of NexGen, Inc. (the "Prior
+Plan") for any reason expires or is cancelled or otherwise terminated, the
+Shares allocable to the unexercised portion of such option shall become
+available for the purposes of this Plan.  In the event that Shares issued under
+this Plan or the Prior Plan are reacquired by the Company pursuant to a
+forfeiture provision, a right of repurchase or a right of first refusal, such
+Shares shall become available for the purposes of this Plan.
+
+SECTION 6.  TERMS AND CONDITIONS OF AWARDS OR SALES.
+- ---------   --------------------------------------- 
+
+     (a)  Stock Purchase Agreement.  Each award or sale of Shares under the Plan
+          ------------------------                                              
+(other than upon exercise of an Option) shall be evidenced by a Stock Purchase
+Agreement between the Offeree and the Company.  Such award or sale shall be
+subject to all applicable terms and conditions of the Plan and may be subject
+to any other terms and conditions  which are not inconsistent with the Plan and
+which the Committee deems appropriate for inclusion in a Stock Purchase
+Agreement.  The provisions of the various Stock Purchase Agreements entered into
+under the Plan need not be identical.
+
+     (b)  Duration of Offers and Nontransferability of Rights.  Any right to
+          ---------------------------------------------------               
+acquire Shares under the Plan (other than an Option) shall automatically expire
+if not exercised by the Offeree within 30 days after the grant of such right was
+communicated to the
+
+                                      -7-
+<PAGE>
+ 
+Offeree by the Committee.  Such right shall not be transferable and shall be
+exercisable only by the Offeree to whom such right was granted.
+
+     (c)  Purchase Price.  The Purchase Price of Shares to be offered under the
+          --------------                                                       
+Plan shall not be less than the par value of such Shares.  Subject to the
+preceding sentence, the Purchase Price shall be determined by the Committee at
+its sole discretion.  The Purchase Price shall be payable in a form described
+in Section 8.
+
+     (d)  Withholding Taxes.  As a condition to the award, sale or vesting of
+          -----------------                                                  
+Shares, the Offeree shall make such arrangements as the Committee may require
+for the satisfaction of any federal, state, local or foreign withholding tax
+obligations that arise in connection with such Shares.  The Committee may permit
+the Offeree to satisfy all or part of his or her tax obligations related to such
+Shares by having the Company withhold a portion of any Shares that otherwise
+would be issued to him or her or by surrendering any Shares that previously were
+acquired by him or her.  The Shares withheld or surrendered shall be valued at
+their Fair Market Value on the date when taxes otherwise would be withheld in
+cash.  The payment of taxes by assigning Shares to the Company, if permitted by
+the Committee, shall be subject to such restrictions as the Committee may
+impose, including any restrictions required by rules of the Securities and
+Exchange Commission.
+
+     (e)  Restrictions on Transfer of Shares.  Any Shares awarded or sold under
+          ----------------------------------                                   
+the Plan shall be subject to such special forfeiture conditions, rights of
+repurchase, rights of first refusal and other transfer restrictions as the
+Committee may determine.  Such restrictions shall be set forth in the applicable
+Stock Purchase Agreement and shall apply in addition to any general
+restrictions that may apply to all holders of Shares.
+
+SECTION 7.  TERMS AND CONDITIONS OF OPTIONS.
+- ---------   ------------------------------- 
+
+     (a)  Stock Option Agreement.  Each grant of an Option under the Plan shall
+          ----------------------                                               
+be evidenced by a Stock Option Agreement executed by the Optionee and the
+Company.  Such Option shall be subject to all applicable terms and conditions of
+the Plan and may be subject to any other terms and conditions which are not
+inconsistent with the Plan and which the Committee deems appropriate for
+inclusion in a Stock Option Agreement.  The provisions of the various Stock
+Option Agreements entered into under the Plan need not be identical.
+
+     (b)  Number of Shares.  Each Stock Option Agreement shall specify the
+          ----------------                                                
+number of Shares that are subject to the Option and shall provide for the
+adjustment of such number in accordance
+
+                                      -8-
+<PAGE>
+ 
+with Section 9.  Options granted to any Optionee in a single calendar year shall
+in no event cover more than 400,000 Shares, subject to adjustment in accordance
+with Section 9.  The Stock Option Agreement shall also specify whether the
+Option is an ISO or a Nonstatutory Option.
+
+     (c)  Exercise Price.  Each Stock Option Agreement shall specify the
+          --------------                                                
+Exercise Price.  The Exercise Price of an ISO shall not be less than 100 percent
+of the Fair Market Value of a Share on the date of grant, except as otherwise
+provided in Section 4(c).  The Exercise Price of a Nonstatutory Option shall
+not be less than the par value of a Share.  Subject to the preceding two
+sentences, the Exercise Price under any Option shall be determined by the
+Committee at its sole discretion.  The Exercise Price shall be payable in a form
+described in Section 8.
+
+     (d)  Withholding Taxes.  As a condition to the exercise of an Option, the
+          -----------------                                                   
+Optionee shall make such arrangements as the Committee may require for the
+satisfaction of any federal, state, local or foreign withholding tax obligations
+that arise in connection with such exercise.  The Optionee shall also make such
+arrangements as the Committee may require for the satisfaction of any federal,
+state, local or foreign withholding tax obligations that may arise in connection
+with the disposition of Shares acquired by exercising an Option.  The Committee
+may permit the Optionee to satisfy all or part of his or her tax obligations
+related to the Option by having the Company withhold a portion of any Shares
+that otherwise would be issued to him or her or by surrendering any Shares that
+previously were acquired by him or her.  Such Shares shall be valued at their
+Fair Market Value on the date when taxes otherwise would be withheld in cash.
+The payment of taxes by assigning Shares to the Company, if permitted by the
+Committee, shall be subject to such restrictions as the Committee may impose,
+including any restrictions required by rules of the Securities and Exchange
+Commission.
+
+     (e)  Exercisability.  Each Stock Option Agreement shall specify the date
+          --------------                                                     
+when all or any installment of the Option is to become exercisable.  The vesting
+of any Option shall be determined by the Committee at its sole discretion. If
+the employment of any Optionee who is a common law employee of the Company is
+terminated by the Company for any reason other than Misconduct or if applicable,
+by Constructive Termination, within one year after a Change of Control has
+occurred, then all Options held by such Optionee shall become fully vested for
+exercise upon the date of termination, irrespective of the vesting provisions of
+the Optionee's Stock Option Agreement. For purposes of this paragraph, the
+following definitions apply: (i) "Change of Control" shall have the meaning
+assigned by Section 2(b) of the Plan unless a different meaning is defined in an
+Optionee's Stock Option Agreement; (ii) "Misconduct" shall mean the commission
+of an act of theft, embezzlement, fraud, dishonesty, breach of fiduciary duty to
+the Company or any of its Subsidiaries (as determined by the Board of
+Directors), the deliberate disregard of the rules of the Company or any of its
+Subsidiaries, any unauthorized disclosure of any of the trade secrets or
+confidential information of the Company or any of its Subsidiaries, engaging in
+any conduct which constitutes unfair competition with the Company or any of its
+Subsidiaries, the inducement of any customer of the Company or any of its
+Subsidiaries to break any contract with the Company or any of its Subsidiaries,
+or the inducement of any principal for whom the Company or any of its
+Subsidiaries acts as agent to terminate such agency relationship; and (iii)
+"Constructive Termination" shall mean a resignation by an Optionee who has been
+elected by the Board of Directors as a corporate officer of the Company due to
+diminution of or adverse change in the circumstances of the Optionee's
+employment with the Company, as determined in good faith by the Optionee,
+including, without limitation, reporting relationships, job description, duties,
+responsibilities, compensation, perquisites, office or location of employment.
+Constructive Termination shall be communicated by written notice to the Company,
+and such termination shall be deemed to occur on the date such notice is
+delivered to the Company. 
+     A Stock Option Agreement may also provide for accelerated exercisability
+in the event of the Optionee's death, Total and Permanent Disability, retirement
+or upon other events.
+
+     (f)  Term.  Each Stock Option Agreement shall specify the term of the
+          ----                                                            
+Option.  The term of an ISO shall not exceed 10 years from the date of grant,
+except as otherwise provided in Section 4(c).  Subject to the preceding
+sentence, the Committee at its sole discretion shall determine when an Option is
+to expire.  A Stock Option Agreement may provide that the Option will expire
+
+                                      -9-
+<PAGE>
+ 
+before the end of its normal term in the event that the Optionee's Service
+terminates.
+
+     (g)  Nontransferability.  During an Optionee's lifetime, such Optionee's
+          ------------------                                                 
+Option(s) shall be exercisable only by him or her and shall not be transferable.
+In the event of an Optionee's death, such Optionee's Option(s) shall not be
+transferable other than by will, by written beneficiary designation or by the
+laws of descent and distribution.
+
+     (h)  No Rights as a Stockholder.  An Optionee, or a transferee of an
+          --------------------------                                      
+Optionee, shall have no rights as a stockholder with respect to any Shares
+covered by his or her Option until the date of the issuance of a stock
+certificate for such Shares.  No adjustments shall be made, except as provided
+in Section 9.
+
+     (i)  Modification, Extension and Renewal of Options.  Within the
+          ----------------------------------------------             
+limitations of the Plan, the Committee may modify, extend or renew outstanding
+Options or may accept the cancellation of outstanding Options (to the extent not
+previously exercised) in return for the grant of new Options at the same or a
+different price.  The foregoing notwithstanding, no modification of an Option
+shall, without the consent of the Optionee, impair such Optionee's rights or
+increase his or her obligations under such Option.
+
+     (j)  Restrictions on Transfer of Shares.  Any Shares issued upon exercise
+          ----------------------------------                                  
+of an Option may be subject to such special forfeiture conditions, rights of
+repurchase, rights of first refusal and other transfer restrictions as the
+Committee may determine.  Such restrictions shall be set forth in the 
+applicable Stock Option Agreement and shall apply in addition to any general
+restrictions that may apply to all holders of Shares.
+
+SECTION 8.  PAYMENT FOR SHARES.
+- ---------   ------------------ 
+
+     (a)  General Rule.  The entire Purchase Price or Exercise Price of Shares
+          ------------                                                        
+issued under the Plan shall be payable in lawful money of the United States of
+America at the time when such Shares are purchased, except as follows:
+
+          (i)  Stock Purchases.  In the case of Shares sold under the terms of a
+               ---------------                                                  
+     Stock Purchase Agreement subject to the Plan, payment shall be made only
+     pursuant to the express provisions of such Stock Purchase Agreement.
+     However, the Committee (at its sole discretion) may specify in the Stock
+     Purchase Agreement that payment may be made in one or both of the forms
+     described in Subsections (e) and (f) below.
+
+          (ii)  ISOs.  In the case of an ISO granted under the Plan, payment
+                ----                                                        
+     shall be made only pursuant to the express provisions of the applicable
+     Stock Option Agreement.  However, the Committee (at its sole discretion)
+     may specify in
+
+                                     -10-
+<PAGE>
+ 
+     the Stock Option Agreement that payment may be made pursuant to Subsections
+     (b), (c), (d) or (f) below.
+
+          (iii)  Nonstatutory Options.  In the case of a Nonstatutory Option
+                 --------------------                                        
+     granted under the Plan, the Committee (at its sole discretion) may accept
+     payment pursuant to Subsections (b), (c), (d) or (f) below.
+
+     (b)  Surrender of Stock.  To the extent that this Subsection (b) is
+          ------------------                                            
+applicable, payment may be made all or in part with Shares which have already
+been owned by the Optionee or his or her representative for more than 12 months
+and which are surrendered to the Company in good form for transfer.  Such Shares
+shall be valued at their Fair Market Value on the date when the new Shares are
+purchased under the Plan.
+
+     (c)  Exercise/Sale.  To the extent that this Subsection (c) is applicable,
+          -------------                                                        
+payment may be made by the delivery (on a form prescribed by the Company) of an
+irrevocable direction to a securities broker approved by the Company to sell
+Shares and to deliver all or part of the sales proceeds to the Company in
+payment of all or part of the Exercise Price and any withholding taxes.
+
+     (d)  Exercise/Pledge.  To the extent that this Subsection (d) is
+          ---------------                                             
+applicable, payment may be made by the delivery (on a form prescribed by the
+Company) of an irrevocable direction to pledge Shares to a securities broker or
+lender approved by the Company, as security for a loan, and to deliver all or
+part of the loan proceeds to the Company in payment of all or part of the
+Exercise Price and any withholding taxes.
+
+     (e)  Services Rendered.  To the extent that this Subsection (e) is
+          -----------------                                             
+applicable, Shares may be awarded under the Plan in consideration of services
+rendered to the Company or a Subsidiary prior to the award.  If Shares are
+awarded without the payment of a Purchase Price in cash, the Committee shall
+make a determination (at the time of the award) of the value of the services
+rendered by the Offeree and the sufficiency of the consideration to meet the
+requirements of Section 6(c).
+
+     (f)  Promissory Note.  To the extent that this Subsection (f) is
+          ---------------                                             
+applicable, a portion of the Purchase Price or Exercise Price, as the case may
+be, of Shares issued under the Plan may be payable by a full-recourse promissory
+note, provided that (i) the par value of such Shares must be paid in lawful
+money of the United States of America at the time when such Shares are
+purchased, (ii) the Shares are security for payment of the principal amount of
+the promissory note and interest thereon and (iii) the interest rate payable
+under the terms of the promissory note shall be no less than the minimum rate
+(if any) required to avoid the imputation of additional interest under the Code.
+Subject to the foregoing, the Committee (at its sole
+
+                                     -11-
+<PAGE>
+ 
+discretion) shall specify the term, interest rate, amortization requirements (if
+any) and other provisions of such note.
+
+SECTION 9.  ADJUSTMENT OF SHARES.
+- ---------   -------------------- 
+
+     (a)  General.  In the event of a subdivision of the outstanding Stock, a
+          -------                                                             
+declaration of a dividend payable in Shares, a declaration of a dividend payable
+in a form other than Shares in an amount that has a material effect on the value
+of Shares, a combination or consolidation of the outstanding Stock (by 
+reclassification or otherwise) into a lesser number of Shares, a
+recapitalization, a spinoff or a similar occurrence, the Committee shall make
+appropriate adjustments in one or more of:
+
+          (i)  The number of Shares available under Section 5 for future grants;
+
+          (ii)  The limit set forth in Section 7(b);
+
+          (iii)  The number of Nonstatutory Options to be granted to Outside
+     Directors under Section 4(b);
+
+          (iv)  The number of Shares covered by each outstanding Option; or
+
+          (v)  The Exercise Price under each outstanding Option.
+
+     (b)  Reorganizations.  In the event that the Company is a party to a merger
+          ---------------                                                       
+or other reorganization, outstanding Options shall be subject to the agreement
+of merger or reorganization.  Such agreement may provide, without limitation,
+for the assumption of outstanding Options by the surviving corporation or its
+parent, for their continuation by the Company (if the Company is a surviving
+corporation), for payment of a cash settlement equal to the difference between
+the amount to be paid for one Share under such agreement and the Exercise Price,
+or for the acceleration of their exercisability followed by the cancellation of
+Options not exercised, in all cases without the Optionees' consent.  Any
+cancellation shall not occur until after such acceleration is effective and
+Optionees have been notified of such acceleration.
+
+     (c)  Reservation of Rights.  Except as provided in this Section 9, an
+          ---------------------                                           
+Optionee or Offeree shall have no rights by reason of any subdivision or
+consolidation of shares of stock of any class, the payment of any dividend or
+any other increase or decrease in the number of shares of stock of any class.
+Any issue by the Company of shares of stock of any class, or securities
+convertible into shares of stock of any class, shall not affect, and no
+adjustment by reason thereof shall be made with respect to, the number or
+Exercise Price of Shares subject to an Option.  The grant of an Option pursuant
+to the Plan shall not affect in any way the right or power of the Company to
+make adjustments, reclassifications, reorganizations or changes of its capital
+or
+
+                                     -12-
+<PAGE>
+ 
+business structure, to merge or consolidate or to dissolve, liquidate, sell or
+transfer all or any part of its business or assets.
+
+SECTION 10.  SECURITIES LAWS.
+- ----------   --------------- 
+
+     Shares shall not be issued under the Plan unless the issuance and delivery
+of such Shares complies with (or is exempt from) all applicable requirements of
+law, including (without limitation) the Securities Act of 1933, as amended, the
+rules and regulations promulgated thereunder, state securities laws and
+regulations, and the regulations of any stock exchange on which the Company's
+securities may then be listed.
+
+SECTION 11.  NO RETENTION RIGHTS.
+- ----------   ------------------- 
+
+     Neither the Plan nor any Option shall be deemed to give any individual a
+right to remain an employee or consultant of the Company or a Subsidiary.  The
+Company and its Subsidiaries reserve the right to terminate the service of any
+employee or consultant at any time, with or without cause, subject to applicable
+laws and a written employment agreement (if any).
+
+SECTION 12.  DURATION AND AMENDMENTS.
+- ----------   ----------------------- 
+
+     (a)  Term of the Plan.  The Plan, as set forth herein, shall become
+          ----------------                                              
+effective as of May 10, 1995.  The Plan, if not extended, shall terminate
+automatically on March 11, 2005.  It may be terminated on any earlier date
+pursuant to Subsection (b) below.
+
+     (b)  Right to Amend or Terminate the Plan.  The Board of Directors may
+          ------------------------------------                             
+amend, suspend or terminate the Plan at any time and for any reason, except that
+the provisions of Section 4(b) relating to the amount, price and timing of
+grants to Outside Directors shall not be amended more than once in any six-month
+period.  An amendment of the Plan shall be subject to the approval of the
+Company's stockholders only to the extent required by applicable laws or
+regulations.
+
+     (c)  Effect of Amendment or Termination.  No Shares shall be issued or sold
+          ----------------------------------                                    
+under the Plan after the termination thereof, except upon exercise of an Option
+granted prior to such termination.  The termination of the Plan, or any
+amendment thereof, shall not affect any Share previously issued or any Option
+previously granted under the Plan.
+
+                                     -13-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>ARTICLE 5 FINANCIAL DATA SCHEDULE FOR 1996 10-Q
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-29-1996
+<PERIOD-START>                             JAN-01-1996
+<PERIOD-END>                               JUN-30-1996
+<CASH>                                          77,806
+<SECURITIES>                                   203,852
+<RECEIVABLES>                                  220,727
+<ALLOWANCES>                                  (11,036)
+<INVENTORY>                                    175,837
+<CURRENT-ASSETS>                               872,511
+<PP&E>                                       3,117,829
+<DEPRECIATION>                             (1,436,709)
+<TOTAL-ASSETS>                               2,845,025
+<CURRENT-LIABILITIES>                          467,941
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,404
+<OTHER-SE>                                   2,069,951
+<TOTAL-LIABILITY-AND-EQUITY>                 2,845,025
+<SALES>                                        998,996
+<TOTAL-REVENUES>                               999,289
+<CGS>                                          748,514
+<TOTAL-COSTS>                                  748,514
+<OTHER-EXPENSES>                               373,622
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               3,793
+<INCOME-PRETAX>                               (75,542)
+<INCOME-TAX>                                  (31,723)
+<INCOME-CONTINUING>                            (9,345)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   (9,345)
+<EPS-PRIMARY>                                   (0.07)
+<EPS-DILUTED>                                   (0.07)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

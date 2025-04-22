@@ -1,0 +1,899 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SWoWsMnanFKArKnbYlIVOoRjAbIcTe8ix2kaLJS8+kAFKQNgvSU4xAupYeCh1MQ2
+ c+/1uH5vBZjmR1R/o+mU7g==
+
+<SEC-DOCUMENT>0000898430-96-003346.txt : 19960729
+<SEC-HEADER>0000898430-96-003346.hdr.sgml : 19960729
+ACCESSION NUMBER:		0000898430-96-003346
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19960722
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19960726
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		96599477
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+ 
+                                    FORM 8-K
+ 
+               Current Report Pursuant to Section 13 or 15(d) of
+                      The Securities Exchange Act of 1934
+ 
+        Date of Report (date of earliest event reported): July 22, 1996
+ 
+                          ADVANCED MICRO DEVICES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+        DELAWARE                     1-7882                  94-1692300
+ 
+ 
+ 
+     (STATE OR OTHER        (COMMISSION FILE NUMBER)      (I.R.S. EMPLOYER
+     JURISDICTION OF                                   IDENTIFICATION NUMBER)
+     INCORPORATION)
+ 
+             ONE AMD PLACE,                             94088-3453
+             P.O. BOX 3453
+ 
+         SUNNYVALE, CALIFORNIA                         (ZIP CODE)
+ 
+    (ADDRESS OF PRINCIPAL EXECUTIVE
+                OFFICES)
+ 
+     REGISTRANT'S TELEPHONE NUMBER,                  (408) 732-2400
+          INCLUDING AREA CODE:
+<PAGE>
+ 
+ITEM 5. OTHER EVENTS.
+
+  Cautionary Statement Regarding Forward Looking Statements. The statements in 
+this report that are forward looking are based on current expectations and
+involve numerous risks and uncertainties that could cause actual results to
+differ materially. The forward looking statements include those regarding the
+availability of capital from the planned sale of the Notes (as defined below)
+and from the Credit Agreement described below; the planned construction of the
+Dresden Facility as described below; the development, validation, certification,
+introduction, market acceptance and pricing of K86(TM) products; the future
+impact of the Company's acquisition of NexGen, Inc.; future business prospects
+for microprocessor and Flash memory products and other product lines; the
+Company's future commitment to research and development; planned build-out and
+expected capability of Fab 25; and a proposed project in Japan. The risks and
+uncertainties that could cause actual results to differ materially include
+possible failure of the offering of the Notes; possible unavailability of the
+credit facilities established by the Credit Agreement due to a failure of the
+offering of the Notes or some other cause; the possibility that construction of
+the Dresden Facility may not proceed due to numerous factors including adverse
+business conditions affecting the Company's microprocessor or other product
+groups, a reduction in capital available to the Company resulting from a failure
+of the offering of the Notes or otherwise, and a failure to negotiate final
+agreements satisfactory to the Company; and such other risks and uncertainties
+as are set forth below in this report or detailed in the Company's other
+Securities and Exchange Commission reports and filings.
+
+FINANCING
+ 
+  On July 22, 1996, Advanced Micro Devices, Inc. ("AMD" or the "Company")
+announced that it is commencing an underwritten offering of up to $400,000,000
+of its Senior Secured Notes ("Notes") due 2003, pursuant to its shelf
+registration statement filed with the Securities and Exchange Commission and
+declared effective in 1994. AMD also announced that it has entered into a new
+Credit Agreement with Bank of America National Trust and Savings Association, as
+administrative agent and lender, ABN AMRO Bank, N.V. as syndication agent and
+lender and Canadian Imperial Bank of Commerce as documentation agent and lender,
+providing a three year revolving credit facility (subject to a one year
+extension) in an aggregate principal amount of $150,000,000 and a four year term
+loan of up to $250,000,000 available within the six month period following the
+closing of the offering of the Notes. The Company intends to utilize the term
+loan facility fully. These new credit facilities, which will become available to
+AMD concurrently with the sale of the Notes, will replace certain of AMD's
+current credit facilities. AMD intends to use approximately $150,000,000 of the
+net proceeds from the sale of the Notes to prepay AMD's existing four year term
+bank loan. The indebtedness under the Notes and the new credit facilities will
+be secured by substantially all of AMD's real property, plant and equipment at
+its integrated circuit manufacturing facility, commonly known as Fab 25, located
+in Austin, Texas. A copy of the press release is attached hereto as Exhibit 99.
+The Note offering will be made only by means of the prospectus, including the
+prospectus supplement, which has been filed with the Securities and Exchange
+Commission. A complete description of the Notes is contained in the prospectus,
+including the prospectus supplement.
+ 
+
+  The Company's current business plan envisions substantial outlays requiring 
+external capital financing which the Company intends to obtain from the proceeds
+of the sale of the Notes and borrowings under the Credit Agreement. If the sale 
+of the Notes is not consummated, the credit facilities provided for in the 
+Credit Agreement will not become available to the Company. There can be no
+assurance that the sale of the Notes will be consummated. Failure to obtain the
+requisite external capital financing could have a material adverse effect on the
+Company.
+
+DRESDEN FACILITY
+
+  AMD is currently planning to construct an 875,000 square foot submicron
+integrated circuit manufacturing and design facility in Dresden, in the State
+of Saxony, Germany (the "Dresden Facility") over the next five years at a
+presently estimated cost in Deutsche marks equivalent to approximately $1.5
+billion (under current exchange rates). The governments of the Federal
+Republic of Germany and the State of Saxony have agreed to provide financing
+assistance for the Dresden Facility through grants and allowances in Deutsche
+marks in an aggregate amount equivalent to approximately $350.0 million at
+current exchange rates, interest subsidies in Deutsche marks in an aggregate
+amount equivalent to approximately $200.0 million at current exchange rates,
+and loan guarantees. Between 1996 and 1999, AMD currently intends to invest in
+its wholly owned German subsidiary (the "Dresden, Germany Subsidiary") (either
+directly or through a wholly owned intermediate holding company, as
+appropriate) an aggregate amount in Deutsche marks which is equivalent to
+approximately $350.0 million at current exchange rates; of this amount, the
+Deutsche mark equivalent of approximately $150.0 million would be invested in
+the form of equity and approximately $200.0 million would be invested in the
+form of equity or subordinated loans. The Dresden, Germany Subsidiary will
+construct, own and operate the Dresden Facility, but AMD, as sole shareholder
+of the Dresden, Germany Subsidiary, will control the Dresden, Germany
+Subsidiary. The Dresden, Germany Subsidiary has signed an agreement to acquire
+the land necessary to commence construction of the Dresden Facility for a
+purchase price in Deutsche marks in an amount equivalent to approximately
+$10.0 million at current exchange rates. The parcel consists of approximately
+120 acres.
+
+                                       2
+<PAGE>
+ 
+  The Dresden, Germany Subsidiary is expected to incur substantial project-
+related debt in the form of a syndicated Deutsche mark bank loan in an
+aggregate amount up to approximately $1.1 billion at current exchange rates,
+the terms of which loan are currently under discussion with Dresdner Bank, as
+agent for the prospective lenders. No commitment has been issued by Dresdner
+Bank regarding the syndicated loan. This loan will be secured by the Dresden
+Facility and substantially all of the Dresden, Germany Subsidiary's other
+assets, will be guaranteed as to payment of principal and interest by the
+Federal Republic of Germany and the State of Saxony and will be nonrecourse to
+the Company. The Company will commit to provide the Dresden, Germany
+Subsidiary an additional $100.0 million to $150.0 million, depending on the
+outcome of negotiations with Dresdner Bank, for the Dresden, Germany
+Subsidiary's use with respect to the Dresden, Germany Subsidiary's syndicated
+loan obligations. This obligation will expire once the Dresden Facility is
+completed, after which time the Company has been requested by Dresdner Bank to
+make available up to $100.0 million for the Dresden, Germany Subsidiary to
+draw upon should it fail to meet certain financial covenants. Assuming
+successful completion of negotiations, it is currently expected that the
+initial draw down on the loan will be made in 1997. Construction of the
+Dresden Facility is expected to commence in the first half of 1997 and initial
+volume production is planned to begin in 1999.
+
+  AMD is currently negotiating substantially all of the agreements relating to
+the construction, operation and financing of the Dresden Facility. It is
+presently expected that such agreements will be finalized during the fourth
+quarter of 1996. The negotiations presently contemplate that, in addition to
+the obligations discussed above, AMD (directly or indirectly) may be required
+to agree to (1) return all federal and state government grants, allowances and
+interest subsidies, or replace all such subsidies that are not made available,
+if the Company or the Dresden, Germany Subsidiary fails to meet certain
+material obligations to the Federal Republic of Germany or the State of
+Saxony; (2) purchase the output of the Dresden facility at transfer prices to
+be set pursuant to specific formulas, except where the Dresden facility is
+operating at less than 75% capacity because of a lack of market demand for the
+products being fabricated there (AMD's product purchase obligation can be
+terminated once the syndicated loan has been repaid or under circumstances
+relating to a change of control of the Dresden, Germany Subsidiary or the
+destruction or abandonment of the Dresden Facility); (3) cause the Dresden,
+Germany Subsidiary to undertake bona fide research and development activities
+at the design center of the Dresden Facility; (4) grant a non-exclusive
+license to the Dresden, Germany Subsidiary to use, at the Dresden Facility and
+in products manufactured at the Dresden Facility, intellectual property
+developed at the Dresden design center; and (5) make equity contributions or
+subordinated loans to the Dresden, Germany Subsidiary to fund cost overruns,
+exceeding certain amounts, in constructing the Dresden Facility.
+
+  In the event AMD agrees to purchase products from the Dresden, Germany
+Subsidiary, the Indenture provides that such purchases must occur at prices
+that would provide AMD with a minimum contribution margin.
+
+  No assurance can be given that AMD will be able to negotiate final
+agreements relating to the construction, operation and financing of the
+Dresden Facility on terms satisfactory to it, that the terms of any such
+agreements will not be materially different from those described, or that the
+financial exposure of AMD in connection with the Dresden Facility will not
+materially exceed the proposed terms described herein. Certain terms in the
+Indenture limit the amount and timing of the Company's investments in the
+Dresden, Germany Subsidiary. 
+
+RISK FACTORS
+
+  The Company has indicated that its business, results of operation and
+financial condition are subject to the following risk factors in addition to the
+matters discussed in the second paragraph under "Financing" above:
+ 
+MICROPROCESSOR PRODUCTS
+ 
+  Intel Dominance. Intel Corporation ("Intel") has long held a dominant
+position in the market for microprocessors used in PCs. Intel's dominant
+market position has to date allowed it to set x86 microprocessor standards and
+thus dictate the type of product the market requires of Intel's competitors.
+In addition, Intel's financial strength has enabled it to reduce prices on its
+microprocessor products within a short period of time following their
+introduction, which reduces the margins and profitability of its competitors.
+AMD believes that the process technologies used in the fabrication of the
+Company's microprocessors are currently somewhat behind those of Intel. The
+Company expects Intel to continue to invest heavily in research and
+development and new manufacturing facilities and to maintain its dominant
+position through advertising campaigns designed to engender brand loyalty to
+Intel among PC purchasers. In addition to its dominant microprocessor market
+share, Intel also dominates the PC platform in other manners. For example,
+Intel has obtained a dominant market share in sales of 64-bit or Pentium-class
+core logic chip sets, has emerged as the world's largest motherboard
+manufacturer, has become a significant manufacturer of personal computers,
+incorporating Intel microprocessors, chip sets, motherboards and other Intel-
+designed components, for resale by third-party original equipment
+manufacturers ("OEMs") under such OEMs' names, and has purchased an equity
+interest in Phoenix
+ 
+                                       3
+<PAGE>
+ 
+Technologies Ltd., a company which has a significant share of the market for
+BIOS software (basic input/output system software encoded in read-only memory
+which controls access to devices connected to a PC, such as the monitor and
+the serial communications port). The Company does not have the financial
+resources to compete with Intel on such a large scale. As long as Intel
+remains in this dominant position, its product introduction schedule, product
+pricing strategy and customer brand loyalty may continue to have a material
+adverse effect on the Company, as they have had in the past.
+ 
+  As Intel has expanded its role in designing and setting standards for PC
+systems, many PC OEMs have reduced their system development expenditures and
+have begun to purchase microprocessors in conjunction with chip sets or in
+assembled motherboards. In marketing its microprocessors to these OEMs and
+dealers, AMD is dependent upon companies other than Intel for the design and
+manufacture of core-logic chip sets, motherboards, BIOS software and other
+components. In recent years, these third-party designers and manufacturers
+have lost market share to Intel. In addition, these companies are able to
+produce chip sets, motherboards, BIOS software and other components to support
+each new generation of Intel's microprocessors only to the extent that Intel
+makes its related proprietary technology available. Any delay in the
+availability of such technologies would make it increasingly difficult for
+them to retain or regain market share. To compete with Intel in this market in
+1996 and beyond, the Company intends to form closer relationships with third-
+party designers and manufacturers of core-logic chip sets, motherboards, BIOS
+software and other components, expand its chip set and system design
+capabilities, and sell a portion of the Company's processors along with chip
+sets and license system designs incorporating the Company's processors and
+products resulting from AMD's relationships with such third party designers
+and manufacturers to OEMs. There can be no assurance, however, that such
+efforts by the Company will be successful. The Company expects that as Intel
+introduces future generations of microprocessors, chip sets and motherboards,
+the design of chip sets and higher level board products which support Intel
+microprocessors will become increasingly dependent on the Intel microprocessor
+design and may become incompatible with non-Intel PC systems. If the
+infrastructure of third-party designers and manufacturers which supports non-
+Intel PC platforms were to fail to continue to support the Company's products
+or to offer products competitive with Intel's, the Company could experience
+difficulties marketing its microprocessors, which could have a material
+adverse effect on the Company.
+ 
+  Dependence on New AMD Microprocessor Products. Am486(R) microprocessor
+products contributed a significant portion of AMD's revenues, profits and
+margins in 1994 and 1995. AMD expects Am486 microprocessor revenues, profits and
+margins in 1996 to be significantly below those of 1995. As the product life
+cycle of fourth-generation x86 products declines, AMD's ability to maintain or
+expand its current levels of revenues from microprocessor products, and its
+ability to benefit fully from the substantial financial commitments it has made
+to process technologies and integrated circuit manufacturing facilities
+dedicated to the production of microprocessors, will depend upon its success in
+developing and marketing in a timely manner its next generations of
+microprocessor products, the K86 RISC Superscalar(TM) products. The Company
+recently began shipping its first K86(TM) products including the 100 Megahertz
+("MHz") AMD-K5(TM) products which are designed to be competitive with the
+Pentium, Intel's fifth generation microprocessor. The Company anticipates that
+the AMD-K5 microprocessor, which was introduced relatively late in the life
+cycle of fifth generation microprocessor products, will be a transitional
+product, unlikely to result in the levels of revenue for the Company realized
+from the Am486 microprocessor. The Company's AMD-K5 products have not, to date,
+achieved substantial market acceptance, which has had and continues to have a
+material adverse effect on the Company. The Company acquired NexGen, Inc.
+("NexGen") in January 1996, in part, to accelerate the introduction of its
+microprocessor products, particularly its sixth generation products. The Company
+is modifying NexGen's sixth-generation design using AMD's design, verification
+and manufacturing technologies. With these changes, AMD intends to develop and
+produce the AMD-K6(TM) microprocessor. AMD does not expect any sales of the AMD-
+K6 products in 1996. The Company intends to begin volume shipments of the AMD-K6
+products in the first half of 1997, although no assurance can be given that such
+shipments will occur. The Company's production and sales plans for K86
+microprocessors, including the AMD-K6 microprocessor, are subject to numerous
+risks and uncertainties, including the timing of the introduction of future AMD-
+K5 products and of AMD-K6 products, the development of market acceptance for
+such products particularly with leading OEMs of PCs, the effects of marketing 
+and
+                                       4
+<PAGE>
+ 
+pricing strategies adopted by Intel, the possible adverse effects of existing
+and future customer inventory levels, the pace at which the Company is able to
+ramp production of fifth and sixth generation microprocessors in its newest 
+integrated circuit manufacturing facility in Austin, Texas ("Fab 25"), the
+possibility that products newly introduced by the Company may be found to be
+defective, possible adverse conditions in the personal computer market and
+unexpected interruptions in the Company's manufacturing operations. A failure
+of the Company's K86 products, particularly the AMD-K6, to achieve market
+acceptance, would have a material adverse effect on the Company.
+ 
+  Dependence on Market Acceptance of x86 Standard and Dominance of
+Windows. Customer acceptance of AMD's K86 products will depend upon the
+continued demand for x86-based personal computers, including the continued
+development of application software programs for such computers. There can be
+no assurance of the continued acceptance of the x86 standard or that software
+developers will continue to develop software compatible with this standard.
+AMD's K86 products will face competition not only from x86 products
+manufactured by Intel and others but also from products based upon an
+increasing number of different architectures which have been developed or are
+under development by Hewlett-Packard, IBM, Motorola, Silicon Graphics, Sun
+Microsystems, Digital Equipment Corporation and other manufacturers of
+integrated circuits. Several of these manufacturers, such as Motorola, Digital
+Equipment Corporation, Silicon Graphics and Sun Microsystems, produce
+microprocessors which are designed to be compatible with such operating
+systems as WindowsNT(R) and UNIX but not with Windows(R). Currently, as a
+result of the dominance of the Windows operating system, which operates with
+x86 based PCs, AMD is able to market its microprocessors without significant
+competition from these manufacturers. AMD would lose much of this advantage if
+the Microsoft Windows operating system should be displaced as the dominant
+operating system software by one or more other systems, such as Windows NT or
+UNIX. A reduction in the market acceptance of either the x86 standard or the
+Windows operating system could have a material adverse effect on the Company.
+ 
+  Compatibility Certifications. For its future generations of K86
+microprocessors, AMD intends to obtain Windows and Windows 95 certifications
+from Microsoft and other appropriate certifications from recognized testing
+organizations. A failure to obtain certification from Microsoft would prevent
+the Company from describing and labeling its K86 microprocessors as Microsoft
+Windows compatible. This could substantially impair the Company's ability to
+market the products and could have a material adverse effect on the Company.
+ 
+  Acquisition of NexGen. AMD believes that its acquisition of NexGen is
+important to the development and introduction of its K86 products,
+particularly the AMD-K6 microprocessor. Achieving the anticipated benefits of
+the acquisition will depend in part upon whether the integration of the two
+companies' businesses is accomplished in an efficient and effective manner,
+and there can be no assurance that this will occur. The inability of
+management to integrate the operations of the two companies successfully could
+have a material adverse effect on the Company. In addition, as commonly occurs
+with mergers of technology companies, aggressive competitors may undertake
+formal initiatives during the integration phase to attract customers and to
+recruit key employees through various incentives. AMD has acquired and is
+currently developing new technologies to manufacture its sixth generation
+microprocessor which will utilize NexGen's sixth generation design as modified
+by AMD. A costly reconfiguration of its facilities may be required to
+implement these new technologies. There can be no assurance that AMD will be
+successful in implementing these new technologies even with a reconfiguration
+of its facilities. If the new technologies cannot be successfully implemented
+or if AMD encounters other difficulties in manufacturing its sixth generation
+microprocessors, such an event would have a material adverse effect on the
+Company.
+ 
+  Fluctuation in PC Market. Since most of AMD's microprocessor products are
+used in personal computers and related peripherals, AMD's future growth is
+closely tied to the performance of the PC industry. The Company could be
+materially and adversely affected by industry-wide fluctuations in the PC
+marketplace in the future.
+ 
+  Possible Rights of Others. Prior to its acquisition by AMD, NexGen granted
+limited manufacturing rights regarding certain of its current and future
+microprocessors, including the Nx586(R) and Nx686(TM), to IBM and Compaq. The
+Company does not intend to produce any NexGen products as it is the Company's
+position that its
+ 
+                                       5
+<PAGE>
+ 
+forthcoming AMD-K6 products are AMD products and not NexGen products. There
+can be no assurance that neither IBM nor Compaq will seek to establish rights
+with respect to the products. If either IBM or Compaq or both were deemed to
+have rights to produce AMD's AMD-K6 products for their own use and IBM were
+deemed to have the right to produce limited volumes of such products for sale
+to third parties, such production could reduce the potential market for
+microprocessor products produced by AMD, the profit margin achievable with
+respect to such products, or both.
+ 
+MANUFACTURING
+ 
+  Underutilized Capacity. The Company's manufacturing facilities are currently
+underutilized as a result of reduced demand for certain of the Company's
+products and may remain so until the Company has developed new products and
+such products have achieved market acceptance. The Company's operations
+related to microprocessors are particularly affected by this situation. The
+underutilization of the Company's manufacturing facilities is having, and
+could continue to have, a material adverse effect on the Company. The Company
+plans to increase its manufacturing capacity by making significant capital
+investments in Fab 25 and in a microprocessor manufacturing facility to be
+constructed in Dresden, Germany. In addition, the Company's joint venture with
+Fujitsu, Ltd., Fujitsu AMD Semiconductor Limited ("FASL"), which has built a
+flash memory device manufacturing facility in Aizu-Wakamatsu, Japan, plans to
+construct a second Flash memory device manufacturing facility. There can be no
+assurance that the industry projections regarding future growth in the markets
+for integrated circuits upon which the Company is basing its strategy of
+increasing its manufacturing capacity will prove to be accurate. If demand for
+the Company's products does not increase, the underutilization of the Company's
+manufacturing facilities will likely increase and have a material adverse effect
+on the Company.
+ 
+  Process Technology. Manufacturers of integrated circuits are constantly
+seeking to improve the process technologies used to manufacture their
+products. In order to remain competitive, the Company must make continuing
+substantial investments in improving its process technologies. In particular,
+the Company has made and continues to make significant research and
+development investments in the technologies and equipment used in the
+fabrication of its microprocessor products and by FASL in the fabrication of
+Flash memory devices. Portions of these investments might not be recoverable
+if the Company's K86 microprocessors fail to gain market acceptance or if the
+market for its Flash memory products should significantly deteriorate. This
+could have a material adverse effect on the Company. In addition, any
+inability of the Company to remain competitive with respect to process
+technology could have a material adverse effect on the Company.
+ 
+  Commitments to Facilities Dedicated to Specific Products. The Company has
+made and plans to continue to make substantial capital investments in
+integrated circuit manufacturing facilities dedicated to the production of
+specific product lines. AMD has invested over $860.0 million in Fab 25 and
+ancillary facilities as of June 30, 1996, and currently expects to have
+invested over $1.2 billion by the end of 1997 and over $1.6 billion by the end
+of 1999, although the Company is not obligated to make such further
+investments. Fab 25 is currently dedicated to the production of Microsoft
+Windows compatible microprocessors. Other facilities of the Company are also
+dedicated to the production of specific product lines. In addition, the
+Company currently plans to construct a semiconductor manufacturing facility in
+Dresden, Germany, at an estimated cost of $1.5 billion over five years, which
+will be dedicated to the production of microprocessors. Significant time and
+expense would be incurred were the Company to alter any of its facilities so
+that they could be used to produce other integrated circuit products. Any such
+alteration, resulting from a need to respond to changes in the markets for the
+Company's products or otherwise, could have a material adverse effect on the
+Company.
+ 
+  Manufacturing Constraints. While the Company's manufacturing facilities are
+currently underutilized, there have been situations in the past in which the
+Company's manufacturing facilities were inadequate to enable the Company to
+meet demand for certain of its products. In addition to having its own
+fabrication facilities, AMD has foundry arrangements for the production of its
+products by third parties. Any inability of AMD to generate sufficient
+manufacturing capabilities to meet demand, either in its own facilities or
+through foundry or similar arrangements with others, could have a material
+adverse effect on the Company.
+ 
+ 
+                                       6
+<PAGE>
+ 
+  Manufacturing Interruptions. Any substantial interruption with respect to
+any of AMD's manufacturing operations, either as a result of a labor dispute,
+equipment failure or other cause, could have a material adverse effect on the
+Company. The Company may also be materially adversely affected by fluctuations
+in manufacturing yields.
+ 
+  Essential Manufacturing Materials. Certain of the raw materials used by AMD
+in the manufacture of its products are available from a limited number of
+suppliers. For example, several types of the integrated circuit packages
+purchased by AMD, as well as by the majority of other companies in the
+semiconductor industry, are principally supplied by Japanese companies.
+Shortages could occur in various essential materials due to interruption of
+supply or increased demand in the industry. If AMD were unable to procure
+certain of such materials from any source, it would be required to reduce its
+manufacturing operations which could have a material adverse effect on the
+Company.
+ 
+  International Manufacturing. Nearly all product assembly and final testing
+of AMD's products are performed at its manufacturing facilities in Penang,
+Malaysia; Singapore; and Bangkok, Thailand; or by subcontractors in Asia.
+Foreign manufacturing entails political and economic risks, including
+political instability, expropriation, currency controls and fluctuations,
+changes in freight and interest rates, and loss or modification of exemptions
+for taxes and tariffs. For example, if AMD were unable to assemble and test
+its products abroad, or if air transportation between the United States and
+AMD's overseas facilities were disrupted, there could be a material adverse
+effect on the Company.
+ 
+OTHER RISK FACTORS
+
+  Debt Restrictions. The Credit Agreement contains, and the indenture to be
+entered into in connection with the sale of the Notes (the "Indenture") will
+contain, significant covenants that will limit the Company's and its
+subsidiaries' ability to engage in various transactions and, in certain cases,
+require satisfaction of specified financial performance criteria. In addition,
+the occurrence of certain events (including, without limitation, failure to
+comply with the foregoing covenants, material inaccuracies of representations
+and warranties, certain defaults under or acceleration of other indebtedness and
+events of bankruptcy or insolvency) would, in certain cases after notice and
+grace periods, constitute events of default permitting acceleration of the
+indebtedness under the Credit Agreement and the Notes. The limitations imposed
+by the Credit Agreement and the Indenture will be substantial, and failure to
+comply with such limitations could have a material adverse effect on the
+Company.
+
+  Importance of Flash Memory Device Business; Recent Pricing Weakness. The
+market for Flash memory devices has recently experienced rapid growth and is
+likely to become increasingly competitive as additional manufacturers
+introduce competitive products and production capacity in the industry
+increases. The Company's primary competition with respect to Flash memory
+devices is Intel. A substantial portion of the Company's revenues are derived
+from sales of Flash memory devices, and the Company expects that this will
+continue to be the case. In the first quarter of 1996, the Company experienced
+declines in the selling prices of Flash memory devices, and in the second
+quarter, both demand for the products and their selling prices declined. There
+can be no assurance that the Company will be able to maintain its market share
+in Flash memory devices or that price declines may not accelerate as the
+market develops and as new competitors emerge. A decline in the Company's
+Flash memory device business could have a material adverse effect on the
+Company.
+ 
+  Dependence on Third Party for PLD Software. Customers utilizing programmable
+logic devices ("PLD's") must use special software packages, generally provided
+by the suppliers of the programmable logic devices, to program the
+programmable logic devices. AMD provides its programmable logic device
+customers with software which it licenses from MINC, Inc. ("MINC") and is
+dependent upon MINC for continuing improvements in the quality of the
+software. AMD has recently taken actions to strengthen its relationship with
+MINC and to increase its efforts to continue to improve the software and the
+Company's ability to support the software itself, but there can be no
+assurance that these actions will be successful. If the software were to
+become unavailable to AMD or if MINC were to fail to make continuing upgrades
+of the software to keep pace with competitive software, AMD's PLD business
+could be adversely affected, which could have a material adverse effect on the
+Company.
+ 
+  Technological Change and Industry Standards. The market for AMD's products
+is generally characterized by rapid technological developments, evolving
+industry standards, changes in customer requirements, frequent new product
+introductions and enhancements, short product life cycles and severe price
+competition. The establishment of industry standards is a function of market
+acceptance. Currently accepted industry standards may change at any time.
+AMD's success depends substantially upon its ability, on a cost-effective and
+timely basis, to continue to enhance its existing products and to develop and
+introduce new products that take advantage of technological advances and
+adhere to evolving industry standards. An unexpected change in one or more of
+the technologies related to its products, in market demand for products based
+on a particular technology or in
+ 
+                                       7
+<PAGE>
+ 
+accepted industry standards could have a material adverse effect on the
+Company. There can be no assurance that AMD will be able to develop new
+products in a timely and satisfactory manner to address new industry standards
+and technological changes, or to respond to new product announcements by
+others, or that any such new products will achieve market acceptance.
+ 
+  Product Incompatibility. While AMD submits its products to rigorous internal
+and external testing, there can be no assurance that AMD's products will be
+compatible with all industry standard software and hardware. Any inability of
+AMD's customers to achieve such compatibility or compatibility with other
+software or hardware after AMD's products are shipped in volume could have a
+material adverse effect on the Company. There can be no assurance AMD will be
+successful in correcting any such compatibility problems that are discovered
+or that such corrections will be acceptable to customers or made in a timely
+manner. In addition, the mere announcement of an incompatibility problem
+relating to the Company's products could have a material adverse effect on the
+Company.
+ 
+  Competition. The integrated circuit industry is intensely competitive and,
+historically, has experienced rapid technological advances in product and
+system technologies together with substantial price reductions in maturing
+products. After a product is introduced, prices normally decrease over time as
+production efficiency and competition increase, and a successive generation of
+products is developed and introduced for sale. Technological advances in the
+industry result in frequent product introductions, regular price reductions,
+short product life cycles and increased product capabilities that may result
+in significant performance improvements. Competition in the sale of integrated
+circuits is based upon performance, product quality and reliability, price,
+adherence to industry standards, software and hardware compatibility,
+marketing and distribution capability, brand recognition, financial strength
+and ability to deliver in large volumes on a timely basis.
+ 
+  In each particular market in which it participates, the Company faces
+competition from different groups of companies. AMD, Fujitsu and Intel are the
+world's largest producers of Flash memory devices. Sharp and Atmel Corporation
+are also participants in the market. With respect to the Company's erasable
+programmable read only memories ("EPROM's"), voice and data communications
+products and embedded processors, the Company's primary competitors are: SGS
+Thomson and Texas Instruments with respect to EPROMs; Siemens, NEC, LM
+Erickson, Alcatel and other large producers of voice communications equipment
+with respect to line cards; National Semiconductor, 3Com and Intel with
+respect to networking products; and Motorola, Intel, Texas Instruments and SGS
+Thomson with respect to embedded processors. In the market for high speed
+programmable logic devices, the Company's principal competitors are Altera,
+Lattice Semiconductor and other smaller companies focused on programmable
+logic device development and production. With respect to microprocessors,
+Intel holds a dominant position which has to date allowed it to set x86
+microprocessor standards and thus dictate the type of product the market
+requires of Intel's competitors. The Company's principal competitors with
+respect to the Company's network and I/O products include: National
+Semiconductor, Intel, 3Com, Digital Equipment Corporation, Fujitsu and Seeq
+with respect to Ethernet local area network products; and Western Digital and
+Hyundai with respect to SCSI disk host controllers.
+ 
+  Fluctuations in Operating Results. AMD's operating results are subject to
+substantial quarterly and other fluctuations due to a variety of factors,
+including the effects of competition with Intel in the microprocessor
+industry, competitive pricing pressures, anticipated decreases in unit average
+selling prices of AMD's products, fluctuations in manufacturing yields,
+availability and cost of products from AMD's suppliers, the gain or loss of
+significant customers, new product introductions by AMD or its competitors,
+changes in the mix of products sold and in the mix of sales by distribution
+channels, market acceptance of new or enhanced versions of AMD's products,
+seasonal customer demand, the timing of significant orders and the timing and
+extent of product development costs. In addition, operating results could be
+adversely affected by general economic and other conditions affecting the
+timing of customer orders, a downturn in the market for PCs, and order
+cancellations or rescheduling. AMD's customers may change delivery schedules
+or cancel orders without significant penalty. Many of the factors listed above
+are outside of AMD's control. These factors are difficult to forecast, and
+these or other factors could materially adversely affect AMD's quarterly or
+annual operating results.
+ 
+ 
+                                       8
+<PAGE>
+ 
+  Order Revision and Cancellation Policies. AMD manufactures and markets a
+standard line of products. Sales are made primarily pursuant to purchase
+orders for current delivery, or agreements covering purchases over a period of
+time, which are frequently subject to revision and cancellation without
+penalty. As a result, AMD must commit resources to the production of products
+without having received advance purchase commitments from customers. Any
+inability to sell products to which it had devoted significant resources could
+have a material adverse effect on the Company. Distributors typically maintain
+an inventory of AMD's products. Pursuant to the Company's agreements with the
+distributors, AMD protects its distributors' inventory of AMD's products
+against price reductions as well as products that are slow moving or have been
+discontinued. These agreements, which may be canceled by either party on a
+specified notice, generally contain a provision for the return of AMD's products
+in the event the agreement with the distributor is terminated. The price
+protection and return rights AMD offers to its distributors may materially
+adversely affect the Company.
+ 
+  Key Personnel. AMD's future success depends upon the continued service of
+numerous key engineering, manufacturing, sales and executive personnel. There
+can be no assurance that AMD will be able to continue to attract and retain
+qualified personnel necessary for the development and manufacture of its
+products. Loss of the service of, or failure to recruit, key engineering
+design personnel could be significantly detrimental to AMD's product
+development programs or otherwise have a material adverse effect on the
+Company.
+ 
+  Product Defects. One or more of AMD's products may possibly be found to be
+defective after AMD has already shipped such products in volume, requiring a
+product replacement, recall, or a software fix which would cure such defect
+but impede performance. Product returns could impose substantial costs on AMD
+and have a material adverse effect on the Company.
+ 
+  Intellectual Property Rights; Potential Litigation. Although AMD attempts to
+protect its intellectual property rights through patents, copyrights, trade
+secrets and other measures, there can be no assurance that AMD will be able to
+protect its intellectual property adequately or that competitors will not be
+able to develop similar technology independently. There can be no assurance
+that any patent applications that AMD may file will be issued or that foreign
+intellectual property laws will protect AMD's intellectual property rights.
+There can be no assurance that any patent licensed by or issued to AMD will
+not be challenged, invalidated or circumvented or that the rights granted
+thereunder will provide competitive advantages to AMD. Furthermore, there can
+be no assurance that others will not independently develop similar products,
+duplicate AMD's products or design around the patents issued to or licensed by
+AMD.
+ 
+  From time to time, AMD has been notified that it may be infringing
+intellectual property rights of others. If any such claims are asserted
+against AMD, AMD may seek to obtain a license under the third party's
+intellectual property rights. AMD could decide, in the alternative, to resort
+to litigation to challenge such claims. Such challenges could be extremely
+expensive and time consuming and could materially adversely affect the
+Company. For example, for many years the Company was involved in intellectual
+property litigation with Intel which was settled in 1995. The litigation
+required substantial resources of the Company. No assurance can be given that
+all necessary licenses can be obtained on satisfactory terms, or that
+litigation may always be avoided or successfully concluded.
+ 
+  Environmental Regulations. The failure to comply with present or future
+governmental regulations related to the use, storage, handling, discharge or
+disposal of toxic, volatile or otherwise hazardous chemicals used in the
+manufacturing process could result in fines being imposed on AMD, suspension
+of production, alteration of AMD's manufacturing processes or cessation of
+operations. Such regulations could require AMD to acquire expensive
+remediation equipment or to incur other expenses to comply with environmental
+regulations. Any failure by AMD to control the use, disposal or storage of, or
+adequately restrict the discharge of, hazardous substances could subject AMD
+to future liabilities and could have a material adverse effect on the Company.
+ 
+  International Sales. AMD derives a substantial portion of its revenues from
+its subsidiaries located in Europe and Asia. AMD's international sales
+operations entail political and economic risks, including expropriation,
+currency controls, exchange fluctuations, changes in freight rates and changes
+in rates for taxes and tariffs.
+ 
+                                       9
+<PAGE>
+ 
+  Domestic and International Economic Conditions. AMD's business is subject to
+general economic conditions, both in the United States and abroad. A
+significant decline in economic conditions in any significant geographic area
+could have a material adverse effect upon the Company.
+ 
+  Volatility of Stock Price; Ability to Access Capital. Based on the trading
+history of its stock, AMD believes factors such as quarterly fluctuations in
+AMD's financial results, announcements of new products by AMD or its
+competitors and general conditions in the semiconductor industry have caused
+and are likely to continue to cause the market price of AMD common stock to
+fluctuate substantially. Technology company stocks in general have experienced
+extreme price and volume fluctuations that often have been unrelated to the
+operating performance of the companies. This market volatility may adversely
+affect the market price of AMD's common stock and consequently limit the
+Company's ability to raise capital. In addition, an actual or anticipated
+shortfall in revenue, gross margins or earnings from securities analysts'
+expectations could have an immediate effect on the trading price of AMD common
+stock in any given period.
+ 
+  Earthquake Danger. AMD's corporate headquarters, a portion of its
+manufacturing facilities, assembly and research and development activities and
+certain other critical business operations are located near major earthquake
+fault lines. The Company could be materially adversely affected in the event
+of a major earthquake.
+ 
+ITEM 7. FINANCIAL STATEMENTS AND EXHIBITS.
+ 
+(c)Exhibits:
+
+   99   Press release dated July 22, 1996
+ 
+                                      10
+<PAGE>
+ 
+                                  SIGNATURES
+ 
+  Pursuant to the requirements of the Securities Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+ 
+                                          ADVANCED MICRO DEVICES, INC.
+                                                    (Registrant)
+ 
+ Date: July 25, 1996
+                                          By: /s/ Marvin D. Burkett
+                                            ___________________________________
+                                                Marvin D. Burkett
+                                                Senior Vice President, Chief
+                                                Financial and Administrative
+                                                Officer and Treasurer
+ 
+                                      11
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+EXHIBIT NUMBER          EXHIBIT
+- --------------          -------
+<S>                     <C>
+     99                 Press release dated July 22, 1996
+
+</TABLE>
+
+                                      12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<DESCRIPTION>PRESS RELEASE DATED JULY 22, 1996
+<TEXT>
+
+<PAGE>
+ 
+                    [LETTERHEAD OF ADVANCED MICRO DEVICES]
+
+ 
+NEWS RELEASE                                                          EXHIBIT 99
+
+
+                                                        For further information:
+                                                                    Scott Allen
+                                                                  (408) 749-3311
+
+
+                     AMD COMMENCES UNDERWRITTEN OFFERING, 
+                        ENTERS INTO NEW CREDIT AGREEMENT
+
+
+     SUNNYVALE, CA - JULY 22, 1996 - AMD announced today that it is commencing 
+an underwritten offering of up to $400,000,000 of its senior secured notes due 
+2003, pursuant to its shelf-registration statement filed with the Securities and
+Exchange Commission declared effective in 1994.  Donaldson, Lufkin & Jenrette 
+Securities Corporation and BA Securities, Inc. are acting as underwriters of the
+offering.  The rate of interest on the notes will be determined prior to their 
+sale.
+
+     AMD also announced that it has entered into a new credit agreement with 
+Bank of America NT&SA as administrative agent and lender, and ABN AMRO Bank, 
+N.V. and Canadian Imperial Bank of Commerce as lenders.  The new credit 
+agreement provides a three-year revolving credit facility (subject to a one-year
+extension with the approval of the lenders) in an aggregate principal amount of 
+$150,000,000, and a four-year term loan available in one drawdown or in multiple
+draws within a six month period following the closing in an aggregate principal 
+amount of $250,000,000.  These new credit facilities, which will become 
+available to AMD when the senior secured notes are sold, will replace certain of
+AMD's current credit facilities.  AMD intends to use approximately $150,000,000 
+of the net proceeds from the sale of the senior secured notes to prepay the 
+company's existing four-year term bank loan.  The senior secured notes and the 
+indebtedness under the new credit agreement will be secured by substantially all
+of AMD's real property, plant and equipment at one of its fabrication 
+facilities, Fab 25, located in Austin, Texas.
+
+                                    (more)
+
+<PAGE>
+ 
+                                       2
+
+     The offering of the senior secured notes will be made only by means of a 
+prospectus, including a prospectus supplement, to be filed with the Securities 
+and Exchange Commission.  A copy of the prospectus describing the senior secured
+notes may be obtained from Donaldson, Lufkin & Jenrette Securities Corporation 
+and BA Securities, Inc. in New York, New York, and Chicago, Illinois, 
+respectively.
+
+     AMD is a global supplier of integrated circuits for the personal and 
+networked computer and communications markets.  A Fortune 500 company, AMD 
+produces processor, flash memories, programmable logic devices, and products for
+communications and networking applications.  Founded in 1969, AMD is based in 
+Sunnyvale, California, and has sales and manufacturing facilities worldwide.
+(NYSE:AMD)
+
+                                        ####
+
+WORLD WIDE WEB:  Press announcements and other information about AMD are 
+available on the Internet via the World Wide Web.  Type http://www.amd.com at 
+the URL prompt.
+
+AMD, the AMD logo and combinations thereof are trademarks of Advanced Micro 
+Devices, Inc.
+
+AMD news release #96CORP19                                       #9676
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -4,6 +4,8 @@ import SecAskPanel from "./components/SecAskPanel";
 import UnifiedReportSection from "./components/UnifiedReportSection";
 import { fetchAnalysis } from "./api/fetchAnalysis";
 
+const API_BASE_URL = "http://localhost:8000";
+
 export default function App() {
   const [data, setData] = useState(null);
   const [reportData, setReportData] = useState(null);
@@ -15,10 +17,12 @@ export default function App() {
     setReportData(null);
     try {
       const result = await fetchAnalysis(ticker);
+      console.log("Analysis result:", result);
       setData(result);
 
-      const response = await fetch(`https://ai-research-analyst.onrender.com/full-report/generate-full-report?ticker=${ticker}`);
+      const response = await fetch(`${API_BASE_URL}/full-report/generate-full-report?ticker=${ticker}`);
       const fullReport = await response.json();
+      console.log("Full report:", fullReport);
       setReportData(fullReport);
     } catch (err) {
       console.error("Error fetching data:", err);
@@ -28,8 +32,6 @@ export default function App() {
       setLoading(false);
     }
   };
-
-  const allDataReady = data?.summary && data?.news && reportData;
 
   return (
     <div
@@ -62,14 +64,14 @@ export default function App() {
         {loading && <div className="text-center text-blue-300 mt-4">Analyzing...</div>}
       </div>
 
-      {/* Main Grid */}
-      {allDataReady && (
+      {/* Main Content */}
+      {data && reportData && (
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-7xl mx-auto">
           {/* Left: Full Report Section */}
           <div className="md:col-span-2">
             <UnifiedReportSection
-              summary={data.summary}
-              news={data.news}
+              summary={data.fundamentals.metrics}
+              news={data.news || []}
               reportData={reportData}
               darkMode={darkMode}
             />
@@ -77,7 +79,7 @@ export default function App() {
 
           {/* Right: Ask the 10-K */}
           <div className="md:col-span-1">
-            <SecAskPanel ticker={data.summary.symbol} />
+            <SecAskPanel ticker={data.ticker} />
           </div>
         </div>
       )}

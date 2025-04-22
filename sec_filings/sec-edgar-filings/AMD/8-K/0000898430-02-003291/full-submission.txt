@@ -1,0 +1,170 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GVAEp5AfFLkGMyLfPBIbr7Y6FVuUQsu7f0rtenZWA+hYag1lsezqQiKIjJZXW/nP
+ xpi5lysdCAfnGlOjifyoUQ==
+
+<SEC-DOCUMENT>0000898430-02-003291.txt : 20020828
+<SEC-HEADER>0000898430-02-003291.hdr.sgml : 20020828
+<ACCEPTANCE-DATETIME>20020828091113
+ACCESSION NUMBER:		0000898430-02-003291
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020828
+ITEM INFORMATION:		
+FILED AS OF DATE:		20020828
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		02750229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Prepared by R.R. Donnelley Financial -- Form 8-K</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="4" NOSHADE COLOR="#000000" ALIGN="left"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"
+COLOR="#000000"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="3" COLOR="#000000"><B>Washington, D.C. 20549 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR NOSHADE
+WIDTH="17%" COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="5" COLOR="#000000"><B>Form 8-K </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>Current Report Pursuant to Section 13 or 15(d) of </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>The Securities Exchange Act of 1934 </B></FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Date of Report (date of earliest event reported): August 28, 2002 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR
+NOSHADE WIDTH="17%" COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="5" COLOR="#000000"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1" COLOR="#000000"><B>(Exact name of registrant as specified in its charter) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>DELAWARE</U></B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>1-7882</U></B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>94-1692300</U></B></FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(State or other jurisdiction</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>of
+incorporation)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Commission</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>File
+Number)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(I.R.S. Employer</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Identification
+No.)</B></FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" WIDTH="48%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>One AMD Place,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>P.O. Box
+3453</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunnyvale, California&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="48%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>94088-3453</U></B></FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="48%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(address of principal executive offices)</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="48%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Zip Code)</B></FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Registrant&#146;s telephone number, including area code: <U>(408)
+732-2400</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="4" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>ITEM 9.&nbsp;&nbsp;&nbsp;&nbsp;REGULATION FD DISCLOSURE </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">On August 28, 2002, the Registrant filed its Annual Report on Form 10-K/A for the fiscal year ended December 30, 2001 with the Securities
+and Exchange Commission. In connection with the filing of the Form 10-K/A, the Registrant has provided to the Securities and Exchange Commission the certification below, as required by 18 U.S.C &#167; 1350, as created by Section 906 of the
+Sarbanes-Oxley Act of 2002: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Certification of Chief Executive Officer and Chief Financial Officer </B></FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to 18 U.S.C. &#167; 1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, each of the undersigned
+officers of Advanced Micro Devices, Inc. (the &#147;Company&#148;) hereby certify that: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">(i)&nbsp;&nbsp;&nbsp;&nbsp;the accompanying Annual Report on Form 10-K/A of the Company for the fiscal year ended December 30, 2001 (the &#147;Report&#148;) fully complies with the requirements of Section 13(a) or Section 15(d), as
+applicable, of the Securities Exchange Act of 1934, as amended; and </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(ii)&nbsp;&nbsp;&nbsp;&nbsp;the information
+contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Dated August 28, 2002 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" ROWSPAN="2" WIDTH="47%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;H<SMALL>ECTOR</SMALL> <SMALL>DE</SMALL> J. R<SMALL>UIZ</SMALL></FONT></DIV> <HR NOSHADE COLOR="#000000"
+ALIGN="left"></TD> </TR>
+<TR> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="47%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Hector de J. Ruiz</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Chief Executive Officer</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" ROWSPAN="2" WIDTH="47%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET</SMALL></FONT></DIV> <HR NOSHADE COLOR="#000000" ALIGN="left"></TD> </TR>
+<TR> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="47%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Chief Financial Officer</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The foregoing certification is being furnished solely to accompany
+the Report pursuant to 18 U.S.C. &#167; 1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and is not to be incorporated by reference to any filing of the Company, whether made before or after
+the date hereof, regardless of any general incorporation language in such filing. </FONT></DIV> <P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>SIGNATURES</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3" WIDTH="62%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">ADVANCED MICRO DEVICES, INC.</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="16"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="52%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Date: August <U></U>28, 2002</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="3%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">By:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="62%"> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET</SMALL></FONT></DIV> <HR NOSHADE COLOR="#000000"
+ALIGN="left"></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="62%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Senior Vice President, Chief Financial Officer</FONT></DIV> </TD>
+</TR>
+ </TABLE> </DIV> <P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3 </FONT></DIV>
+
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

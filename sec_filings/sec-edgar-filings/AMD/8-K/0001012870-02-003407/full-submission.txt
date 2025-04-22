@@ -1,0 +1,475 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K0PuNN4ul/r3RSS+GCAEjgCHPH0IhXZAoQQ7EIEsNZOsJQ7wWL6sz/q7KadVZG5D
+ 5oWH8tyiIkGuumeP939RUw==
+
+<SEC-DOCUMENT>0001012870-02-003407.txt : 20020813
+<SEC-HEADER>0001012870-02-003407.hdr.sgml : 20020813
+<ACCEPTANCE-DATETIME>20020813085437
+ACCESSION NUMBER:		0001012870-02-003407
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20020813
+ITEM INFORMATION:		
+FILED AS OF DATE:		20020813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		02727986
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Prepared by R.R. Donnelley Financial -- Form 8-K</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">Washington, D.C. 20549 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Form
+8-K </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Current Report Pursuant to Section 13 or 15(d) of </FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The Securities Exchange Act of 1934 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000">Date of Report (date of earliest event reported):&nbsp;&nbsp;August 13, 2002 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000">ADVANCED MICRO DEVICES, INC. </FONT></DIV> <HR NOSHADE WIDTH="26%" COLOR="#000000"><DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Exact name of registrant as specified in its charter)
+</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">DELAWARE</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">1-7882</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">94-1692300</FONT></DIV> </TD> </TR>
+<TR>
+<TD> <HR NOSHADE WIDTH="91" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR NOSHADE WIDTH="48" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR NOSHADE WIDTH="82" COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(State or other jurisdiction</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">of
+incorporation)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Commission</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">File Number)</FONT></DIV> </TD>
+
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(I.R.S. Employer</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Identification
+No.)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">One AMD Place,</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">P.O. Box 3453</FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Sunnyvale, California</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">94088-3453</FONT></DIV> </TD> </TR>
+<TR>
+<TD> <HR NOSHADE WIDTH="135" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR NOSHADE WIDTH="82" COLOR="#000000"></TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(address of principal executive offices)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Zip Code)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="31%"> <DIV STYLE="margin-left:4%; text-indent:-4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Registrant&#146;s telephone number, including area code:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(408) 732-2400</FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR NOSHADE WIDTH="106" COLOR="#000000"></TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>ITEM 9.&nbsp;&nbsp;&nbsp;&nbsp;REGULATION FD DISCLOSURE </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">On August 13, 2002, the Registrant filed its Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2002 with the
+Securities and Exchange Commission. In connection with the filing of the Form 10-Q, the Registrant has provided to the Securities and Exchange Commission the certification below, as required by 18 U.S.C &#167; 1350, as created by Section 906 of the
+Sarbanes-Oxley Act of 2002: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Certification of Chief Executive Officer and Chief Financial Officer </B></FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to 18 U.S.C. &#167; 1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, each of the undersigned
+officers of Advanced Micro Devices, Inc. (the &#147;Company&#148;) hereby certify that: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(i)&nbsp;&nbsp;the
+accompanying Quarterly Report on Form 10-Q of the Company for the quarterly period ended June 30, 2002 (the &#147;Report&#148;) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of
+1934, as amended; and </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(ii)&nbsp;&nbsp;the information contained in the Quarterly Report fairly presents, in all
+material respects, the financial condition and results of operations of the Company. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" COLSPAN="3" WIDTH="53%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Dated: August 12, 2002</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="53%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;H<SMALL>ECTOR</SMALL> <SMALL>DE</SMALL> J. R<SMALL>UIZ&nbsp;&nbsp;&nbsp;&nbsp; </SMALL></FONT></DIV> <HR NOSHADE ALIGN="left"
+COLOR="#000000"></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="53%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Hector de J. Ruiz</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Chief Executive Officer</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="32"> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="53%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET&nbsp;&nbsp;&nbsp;&nbsp; </SMALL></FONT></DIV> <HR
+NOSHADE ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="53%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Chief Financial Officer</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The foregoing certification is being furnished solely to accompany the Report pursuant to
+18 U.S.C. &#167; 1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof,
+regardless of any general incorporation language in such filing. </FONT></DIV> <P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">2 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>ITEM 9.&nbsp;&nbsp;&nbsp;&nbsp;REGULATION FD DISCLOSURE </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Exhibits </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="2" NOSHADE WIDTH="44" ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="2" NOSHADE WIDTH="37" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="8%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Statement Under Oath of Principal Executive Officer and Principal Financial Officer Regarding Facts and Circumstances Relating to Exchange
+Filings</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="8"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="8%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.2</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Statement Under Oath of Principal Executive Officer and Principal Financial Officer Regarding Facts and Circumstances Relating to Exchange
+Filings</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The foregoing exhibits are being furnished as required by the
+Securities and Exchange Commission Order 4-460 and are not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. </FONT></DIV>
+<P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">3 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>SIGNATURES</U> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD HEIGHT="16"> </TD> </TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" WIDTH="43%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">ADVANCED MICRO DEVICES, INC.</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Date:&nbsp;&nbsp;August 13, 2002 </FONT></DIV> <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD HEIGHT="16"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="3%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">By:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="43%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET</SMALL></FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <HR NOSHADE COLOR="#000000"></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="43%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Senior Vice President, Chief Financial Officer</FONT></DIV> </TD>
+</TR>
+ </TABLE> </DIV> <P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">4 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>EXHIBIT INDEX </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="2" NOSHADE WIDTH="48" ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="2" NOSHADE WIDTH="42" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="8%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Statement Under Oath of Principal Executive Officer and Principal Financial Officer Regarding Facts and Circumstances Relating to Exchange
+Filings</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="8"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="8%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.2</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="100%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Statement Under Oath of Principal Executive Officer and Principal Financial Officer Regarding Facts and Circumstances Relating to Exchange
+Filings</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"></TD></TR></TABLE> <P></P>
+ <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">5 </FONT></DIV>
+
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>STATEMENT UNDER OATH
+<TEXT>
+<HTML><HEAD>
+<TITLE>Prepared by R.R. Donnelley Financial -- Statement Under Oath</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+
+ <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Exhibit 99.1 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>Statement Under Oath of Principal Executive Officer and Principal Financial Officer </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Regarding Facts and Circumstances Relating to Exchange Act Filings
+</B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">I, Hector de J. Ruiz, state and attest that: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">To the best of my knowledge, based upon a review of the covered reports of Advanced Micro Devices, Inc., and, except as corrected or supplemented in a
+subsequent covered report: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(a)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">no covered report contained an untrue statement of a material fact as of the end of the period covered by such report (or in the case of a report on Form 8-K or
+definitive proxy materials, as of the date on which it was filed); and </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(b)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">no covered report omitted to state a material fact necessary to make the statements in the covered report, in light of the circumstances under which they were
+made, not misleading as of the end of the period covered by such report (or in the case of a report on Form 8-K or definitive proxy materials, as of the date on which it was filed). </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(2)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">I have reviewed the contents of this statement with the Company&#146;s audit committee. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(3)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">In this statement under oath, each of the following, if filed on or before the date of this statement, is a &#147;covered report&#148;: </FONT></DIV>
+</TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(a)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Annual Report on Form 10-K for the year ended December 30, 2001 of Advanced Micro Devices, Inc.; </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(b)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">all reports on Form 10-Q, all reports on Form 8-K and all definitive proxy materials of Advanced Micro Devices, Inc. filed with the Commission subsequent to the
+filing of the Form 10-K identified above; and </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(c)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">any amendments to any of the foregoing. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" WIDTH="48%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;H<SMALL>ECTOR</SMALL> <SMALL>DE</SMALL> J. R<SMALL>UIZ</SMALL></FONT></DIV> <HR NOSHADE
+WIDTH="98%" COLOR="#000000" ALIGN="left"><DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Hector de J. Ruiz</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">August 12,
+2002</FONT></DIV> <DIV><FONT SIZE=2><BR></FONT></DIV> <DIV><FONT SIZE=2><BR></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="48%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Subscribed and sworn to before me this 12th day of August, 2002</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;L<SMALL>ISA</SMALL> H. V<SMALL>YVJALA</SMALL></FONT></DIV> <HR NOSHADE WIDTH="96%" COLOR="#000000" ALIGN="left"><DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Lisa H. Vyvjala,</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Notary Public in and for
+the</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">State of Texas</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">My Commission Expires: <U>9-15-03</U></FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <P></P>
+
+
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>4
+<FILENAME>dex992.htm
+<DESCRIPTION>STATEMENT UNDER OATH
+<TEXT>
+<HTML><HEAD>
+<TITLE>Prepared by R.R. Donnelley Financial -- Statement Under Oath</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Exhibit 99.2 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Statement Under Oath of Principal Executive Officer and Principal Financial Officer </B></FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Regarding Facts and Circumstances
+Relating to Exchange Act Filings </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">I, Robert J. Rivet, state and attest that: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(1)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">To the best of my knowledge, based upon a review of the covered reports of Advanced Micro Devices, Inc., and, except as corrected or supplemented in a
+subsequent covered report: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(a)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">no covered report contained an untrue statement of a material fact as of the end of the period covered by such report (or in the case of a report on Form 8-K or
+definitive proxy materials, as of the date on which it was filed); and </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(b)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">no covered report omitted to state a material fact necessary to make the statements in the covered report, in light of the circumstances under which they were
+made, not misleading as of the end of the period covered by such report (or in the case of a report on Form 8-K or definitive proxy materials, as of the date on which it was filed). </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(2)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">I have reviewed the contents of this statement with the Company&#146;s audit committee. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(3)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">In this statement under oath, each of the following, if filed on or before the date of this statement, is a &#147;covered report&#148;: </FONT></DIV>
+</TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(a)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Annual Report on Form 10-K for the year ended December 30, 2001 of Advanced Micro Devices, Inc.; </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(b)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">all reports on Form 10-Q, all reports on Form 8-K and all definitive proxy materials of Advanced Micro Devices, Inc. filed with the Commission subsequent to the
+filing of the Form 10-K identified above; and </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(c)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">any amendments to any of the foregoing. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" WIDTH="48%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET</SMALL></FONT></DIV> <HR NOSHADE WIDTH="98%"
+COLOR="#000000" ALIGN="left"><DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">August 12, 2002</FONT></DIV>
+<DIV><FONT SIZE=2><BR></FONT></DIV> <DIV><FONT SIZE=2><BR></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="48%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Subscribed and sworn to before me this 12th day of August, 2002</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;L<SMALL>ISA</SMALL> H. V<SMALL>YVJALA</SMALL></FONT></DIV> <HR NOSHADE WIDTH="96%" COLOR="#000000" ALIGN="left"><DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Lisa H. Vyvjala,</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Notary Public in and for
+the</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">State of Texas</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">My Commission Expires: <U>9-15-03</U></FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <P></P>
+
+
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

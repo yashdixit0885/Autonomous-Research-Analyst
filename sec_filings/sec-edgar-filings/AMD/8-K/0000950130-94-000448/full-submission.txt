@@ -1,0 +1,775 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ hoFwhXF5n7IXUPZLS8TxM13uslUu8n5aZy7RkUGatuDQD4mQei6dHCillabeIHLB
+ KBteXrr4gBNjmp4/MwHwPQ==
+
+<IMS-DOCUMENT>0000950130-94-000448.txt : 19940324
+<IMS-HEADER>0000950130-94-000448.hdr.sgml : 19940324
+ACCESSION NUMBER:		0000950130-94-000448
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940310
+ITEM INFORMATION:		5
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	3674
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		94517292
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 THOMPSON PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+ 
+                                   FORM 8-K
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+
+                        Date of Report:  March 10, 1994
+
+
+
+                         ADVANCED MICRO DEVICES, INC.
+             ----------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+          Delaware                       1-7882                  94-1692300
+- ------------------------------        ------------           -------------------
+(State or other jurisdiction          (Commission             (I.R.S. Employer
+      of incorporation)               File Number)           Identification No.)
+
+              One AMD Place
+              P.O. Box 3453
+          Sunnyvale, California                                       94088-3453
+- ---------------------------------------                               ----------
+(Address of principal executive office)                               (Zip Code)
+
+
+Registrant's telephone number, including area code:               (408) 732-2400
+
+
+<PAGE>
+ 
+Item 5  Other Events
+- ------  ------------
+
+I.  Litigation
+    ----------
+
+     A.  Intel
+         -----
+
+         General
+         -------
+
+     Advanced Micro Devices, Inc. ("AMD" or "Corporation") and Intel Corporation
+("Intel") are engaged in a number of legal proceedings involving AMD's x86
+products. The current status of such legal proceedings are described below. An
+unfavorable decision in the 287, 386 or 486 microcode cases could result in a
+material monetary award to Intel and/or preclude AMD from continuing to produce
+those Am386(Registered Trademark) and Am486(Trademark) products adjudicated to
+contain any copyrighted Intel microcode. The Am486 products are a material part
+of the Company's business and profits and such an unfavorable decision could
+have an immediate, materially adverse impact on the financial condition and
+results of the operations of AMD.
+
+     The AMD/Intel legal proceedings involve multiple interrelated and complex
+issues of fact and law.  The ultimate outcome of such legal proceedings cannot
+presently be determined.  Accordingly, no provision for any liability that may
+result upon an adjudication of any of the AMD/Intel legal proceedings has been
+made in the Corporation's financial statements.
+
+     On March 10, 1994, a federal court jury in San Jose, California returned
+verdicts in the 287 microcode litigation discussed in A.2 below finding that a
+1976 patent and copyright agreement between AMD and Intel (the "1976 Agreement")
+granted AMD rights to sell microchips containing Intel microcodes. The Court
+entered a judgment on the verdicts in AMD's favor on March 11, 1994. Prior to
+the jury's determination, AMD and Intel agreed that the jury's verdicts would be
+determinative of the question whether the 1976 Agreement grants AMD the right to
+copy microcodes contained in Intel microprocessors and peripheral microchips,
+including not only the 287 math co-processor, but generally as to all
+microprocessors and peripheral microchips, specifically including the 386 and
+486 microprocessors.
+
+     Intel has indicated that it intends to appeal the verdicts in the 287 case
+and it is expected that the appeal process will take at least one year. It is
+AMD's expectation that Intel, notwithstanding the March 10, 1994 verdicts or any
+other ruling adverse to Intel in the pending legal proceedings with AMD, will
+continue to pursue the remaining intellectual property claims in the pending
+litigations against the Corporation.
+
+         Status of Cases
+         ---------------
+
+         1.  AMD/Intel Technology Agreement Arbitration.  A 1982 technology
+             ------------------------------------------
+exchange agreement (the "1982 Agreement") between AMD and Intel has been the
+subject of a dispute which was submitted to Arbitration through the Superior
+Court of Santa Clara County, California and the matter is now at the California
+Supreme Court on appeal. The dispute centers
+
+                                       1
+<PAGE>
+ 
+around issues relating to whether Intel breached its agreement with AMD and
+whether that breach injured AMD, as well as the remedies available to AMD for
+such a breach.
+
+     In February 1992, the Arbitrator awarded AMD several remedies including the
+following:  a permanent, royalty-free, nonexclusive, nontransferable worldwide
+right to all Intel copyrights, patents, trade secrets and mask work rights, if
+any, contained in the then-current version of AMD's Am386 family of
+microprocessors; and a two-year extension, until December 31, 1997, of the
+copyright and patent rights granted to AMD.  Intel appealed this decision as it
+relates to the technology award.  On May 22, 1992, the Superior Court in Santa
+Clara County confirmed the Arbitrator's award and entered judgment in the
+Corporation's favor on June 1, 1992.  Intel appealed the decision confirming the
+Arbitrator's award in state court.  On June 4, 1993, the California Court of
+Appeal affirmed in all respects the Arbitrator's determinations that Intel
+breached the 1982 Agreement.  However, the Court of Appeal held that the
+Arbitrator exceeded his powers in awarding to AMD a license to Intel
+intellectual property, if any, in AMD's Am386 microprocessor and in extending
+the 1976 Agreement between AMD and Intel by two years.  As a result, the Court
+of Appeal ordered the lower court to correct the award to remove these rights
+and then confirm the award as so corrected.
+
+     On September 2, 1993, the California Supreme Court granted the
+Corporation's petition for review of the California Court of Appeal decision
+that the Arbitrator exceeded his authority.  The Corporation has requested that
+the California Supreme Court affirm the judgment confirming the Arbitrator's
+award to the Corporation, which includes the right to the Intel 386 microcode.
+
+     If the California Supreme Court reverses the decision of the California
+Court of Appeal and affirms the Arbitrator's award, the Corporation would 
+assert the Arbitrator's award as well as the verdicts in the 287 Microcode case
+discussed below as defenses against Intel's intellectual property claims in the
+386 and 486 Microcode Litigations discussed below. If sustained, both these
+defenses could preclude Intel from continuing to pursue its pending intellectual
+property and related damages claims regarding the Am386 microprocessors, and the
+Arbitrator's award also could preclude claims respecting the Am486SX
+microprocessors. If the Supreme Court does not reverse the decision of the
+California Court of Appeal it could among other things: (i) decide to remand
+the matter for a new Arbitration proceeding either on the merits or solely on
+the issue of relief including the damages due to the Corporation, or (ii) order
+no further proceedings which would affirm the decision of the Court of Appeal
+and prevent AMD from using the Arbitration award as a defense in the 386 or 486
+Microcode Litigations discussed below. The California Supreme Court is expected
+to decide the case by the end of 1994.
+
+     The Corporation believes it has the right to use Intel technology to
+manufacture and sell AMD's microprocessor products based on a variety of
+factors, including: (i) the 1982 Agreement, (ii) the Arbitrator's award in the
+Arbitration which is pending review by the California Supreme Court, and (iii)
+the 1976 Agreement. An unfavorable decision by the California Supreme Court
+could materially adversely affect other AMD/Intel microcode legal proceedings
+discussed herein. Such matters involve multiple interrelated and complex issues
+of fact and law. The ultimate outcome of the AMD/Intel legal proceedings cannot
+presently be
+
+                                       2
+<PAGE>
+ 
+determined.  Accordingly, no provision for any liability that may result upon
+the adjudication of the AMD/Intel legal proceedings has been made in the
+Corporation's financial statements.
+
+         2.  287 Microcode Litigation.  (Case No. C-90-20237, N.D. Cal.)  On
+             ------------------------
+April 23, 1990, Intel Corporation filed an action against the Corporation in the
+U.S. District Court, Northern District of California, seeking an injunction and
+damages with respect to the Corporation's 80C287, a math coprocessor designed to
+function with the 80286. Intel's suit alleges several causes of action,
+including infringement of Intel copyright on the Intel microcode used in its 287
+math coprocessor, mask work infringement, unfair competition by means of false
+advertising and unauthorized copying of the Intel 287 microcode by the third
+party developer of the AMD 80C287 microchips.
+
+     In June 1992, a jury determined that the Corporation did not have the right
+to use Intel microcode in the 80C287.  On December 2, 1992, the court denied the
+Corporation's request for declaratory relief to the effect it has the right,
+under the 1976 Agreement with Intel to distribute products containing Intel
+microcode.  The Corporation filed a motion on February 1, 1993, for a new trial
+based upon the discovery of AMD of evidence improperly withheld by Intel at the
+time of trial.
+
+     In April, 1993, the court granted AMD a new trial on the issue of whether
+the 1976 Agreement with Intel Corporation granted AMD a license to use Intel
+microcode in its products. The ruling vacated both an earlier jury verdict
+holding that the 1976 Agreement did not cover the rights to microcode contained
+in the Intel 80287 math coprocessor and the December 2, 1992 ruling (discussed
+above). A new trial commenced in January, 1994 and jury verdicts were returned
+in AMD's favor on March 10, 1994 finding that the 1976 Agreement granted AMD
+rights to sell microchips containing Intel microcodes. The court entered a
+judgment on the verdicts in AMD's favor on March 11, 1994. Prior to the jury's
+determination, AMD and Intel agreed that the jury's verdicts would be
+determinative of the question whether the 1976 Agreement grants AMD the right to
+copy microcodes contained in Intel microprocessors and peripheral microchips,
+including not only the 287 math co-processor, but generally as to all
+microprocessors and peripheral microchips, specifically including the 386 and
+486 microprocessors.
+
+     The impact of the ultimate outcome of the 287 Microcode Litigation is
+highly uncertain and dependent upon the scope and breadth of the final result in
+the case.  A decision of broad scope could not only result in a damages award
+but also impact the Corporation's ability to continue to ship and produce its
+Am486 products or other microprocessor products containing  any copyrighted
+Intel microcode.  The Corporation's inability to ship such products could have
+an immediate, material adverse impact on the Corporation's results of
+operations and financial condition.  The outcome of the 287 litigation could
+also materially impact the outcomes in the other AMD/Intel microcode legal
+proceedings.  Such matters involve multiple interrelated and complex issues of
+fact and law.  The ultimate outcome of the AMD/Intel legal proceedings cannot
+presently be determined.  Accordingly, no provision for any liability that may
+result upon the adjudication of the AMD/Intel legal proceedings has been made in
+the Corporation's financial statements.
+
+                                       3
+<PAGE>
+ 
+         3.  386 Microcode Litigation.  (Case No. A-91-CA-800, W.D. Texas and 
+             ------------------------
+Case No. C-92-20039, N.D. Cal.)  On October 9, 1991, Intel Corporation filed an
+action against the Corporation in the U.S. District Court for the Western
+District of Texas (Case No. A-91-CA-800, W.D. Texas), alleging the separate
+existence and copyrightability of the logic programming in a microprocessor and
+characterizing that logic as a "control program," and further alleging that the
+Corporation violated copyrights on this material and on the Intel microcode
+contained in the Am386 microprocessor.  This action has been transferred to the
+U.S. District Court, Northern District of California (Case No. C-92-20039, N.D.
+Cal.).  The complaint asserts claims for copyright infringement of what Intel
+describes as:  (1) its 386 microprocessor microcode program and revised
+programs, (2) its control program stored in a 386 microprocessor programmable
+logic array and (3) Intel In-Circuit Emulation (ICE) microcode. The complaint
+seeks damages and injunctive relief arising out of the Corporation's
+development, manufacture and sale of its Am386 microprocessors and seeks a
+declaratory judgment as to the Intel/AMD license agreements (1976 and 1982
+Agreements), including a claim for a declaratory judgment that AMD's license
+rights to Intel's microcodes expire on December 31, 1995, and that AMD may no
+longer sell product containing Intel microcode after that date. The monetary
+relief sought by Intel is unspecified. The Corporation has answered and
+counterclaimed seeking declaratory relief.
+
+     The Corporation believes that Intel's microcode copyright claims are
+substantively the same as claims made in the 287 Microcode Litigation (Case No.
+C-90-20237, N.D. Cal.) (discussed above). Intel has also asserted that federal
+law prevents the Corporation from asserting as a defense the intellectual
+property rights that were awarded in the Intel Arbitration (discussed above). On
+October 29, 1992, the court in the 386 Microcode Litigation granted the
+Corporation's motion to stay further proceedings pending resolution of the state
+court Arbitration appeal. On December 28, 1993, the U.S. Court of Appeals for
+the Ninth Circuit reversed the stay order and the case was remanded for further
+proceedings. The Corporation will file a petition for writ of certiorari in the
+Supreme Court of the United States. If the petition is granted, AMD will move to
+have the mandate of the Ninth Circuit recalled and stayed pending a decision by
+the U.S. Supreme Court on the correctness of the trial court's order to stay.
+Meanwhile, the 386 case is no longer stayed and the Corporation expects Intel to
+argue that the Arbitration is not a defense in this action. As discussed above,
+the jury verdicts in the 287 case resolve the issue of whether AMD has the right
+to use Intel's microcodes in AMD's AM386 microprocessor. However, the Company
+expects Intel to argue that the verdicts do not resolve the claims in the 386
+Microcode Litigation Act that AMD is not licensed to use (1) Intel's "control
+program" stored in Intel's 386 microprocessor's programmable logic array or (2)
+what Intel characterizes as "ICE microcode."
+
+     An unfavorable final decision in the 386 Microcode Litigation could result
+in a material monetary damages award to Intel and/or preclude the Corporation
+from continuing to produce the Am386 and any other microprocessors which contain
+any copyrighted Intel microcode, either of which could have an immediate,
+material adverse impact on the Corporation's results of operations and financial
+condition.  The AMD/Intel legal proceedings involve multiple interrelated and
+complex issues of fact and law.  The ultimate outcome of such proceedings cannot
+presently be determined.  Accordingly, no provision for any liability that may
+result upon
+
+                                       4
+<PAGE>
+ 
+the adjudication of the AMD/Intel legal proceedings has been made in the
+Corporation's financial statements.
+
+         4.  486 Microcode Litigation.  (Case No. C-93-20301 PVT, N.D. Cal.)  On
+             ------------------------
+April 28, 1993, Intel Corporation filed an action against AMD in the U.S.
+District Court, Northern District of California, seeking an injunction and
+damages with respect to the Corporation's Am486 microprocessor.  The suit
+alleges several causes of action, including infringement of various Intel
+copyrighted computer programs.
+
+     Intel's Fourth Amended Complaint was filed on November 2, 1993. The Fourth
+Amended Complaint seeks damages and injunctive relief based on the following
+claims: (1) AMD's alleged copying and distribution of 486 "Processor Microcode
+Programs" and "Control Programs"; (2) AMD's alleged copying of 486 "Processor
+Microcode" as an intermediate step in creating proprietary microcodes for the
+AMD version of the 486. The Fourth Amended Complaint also seeks a declaratory
+judgment that (1) AMD has induced third party copyright infringement through
+encouraging third parties to import Am486-based products ("Third Party
+Inducement Claim"); (2) AMD's license rights to Intel microcode expire as of
+December 31, 1995 and AMD may no longer sell any products containing Intel
+microcode after that date ("License Expiration Claim"); (3) AMD's license rights
+to Intel microcodes do not extend to In-Circuit Emulation (ICE) microcode ("ICE
+Claim"); and (4) AMD is not licensed to authorize third parties to copy the
+Intel microcode ("Have Copied Claim"). Intel's Fourth Amended Complaint further
+seeks damages and injunctive relief based on AMD's alleged copying and
+distribution of Intel's "386 Processor Microcode Program" in AMD's 486SX
+microprocessor. The Corporation answered the complaint in January, 1994.
+
+     On December 1, 1993, Intel moved for partial summary judgment on its claim
+for copyright infringement of what Intel terms its 486 ICE microcode.  This
+motion was heard on March 1, 1994.  The Court requested further briefing from
+the parties by March 9, 1994.  The Court has not yet ruled and the motion
+remains under submission.
+
+     By order dated December 21, 1993, the Court granted the Corporation's
+motion to stay Intel's claim that AMD's 486SX infringes Intel copyrights on its
+386 microcode.  In light of the Ninth Circuit decision discussed above in the
+386 Microcode Litigation reversing the Court's order staying the case, the stay
+order in this action may be vacated and/or appealed and the litigation
+concerning this claim may proceed.
+
+     AMD believes that the microcode copyright infringement claims made by Intel
+in the 486 Microcode Litigation are substantively the same as claims: (i) made
+in the 287 Microcode Litigation with regard to the Intel microcode, discussed
+above and (ii) made in the 386 Microcode Litigation with regard to AMD's rights
+to utilize the so-called Intel microcode, "control programs" and ICE microcode.
+Intel's License Expiration Claim contained in the 486 Microcode Litigation is
+also contained in the 386 but not the 287 Microcode Litigation.
+
+     As discussed above, the jury verdicts in the 287 case resolve the issue
+whether AMD has the right to use Intel's microcode in AMD's Am486
+microprocessor.  The Company expects
+
+                                       5
+<PAGE>
+ 
+Intel to argue that the verdicts do not resolve the claims in the 486 Microcode
+Litigation that AMD is not licensed to use (1) Intel's "control program" stored
+in Intel's 486 microprocessor's programmable logic array or (2) what Intel
+characterizes as "ICE microcode."
+
+     An unfavorable decision in the 287 or the 486 Microcode Litigations could
+affect the Corporation's ability to continue to ship and produce its Am486DX
+products or, in the case of the 486 Microcode Litigation, could result in a
+material monetary damages award to Intel, either of which could have an
+immediate, material adverse impact on the Corporation's results of operations
+and financial condition. The AMD/Intel legal proceedings involve multiple
+interrelated and complex issues of fact and law. The ultimate outcome of such
+proceedings cannot presently be determined. Accordingly, no provision for any
+liability that may result upon the adjudication of the AMD/Intel legal
+proceedings has been made in the Corporation's financial statements.
+
+         5.  Antitrust Case Against Intel.  On August 28, 1991, the Corporation
+             ----------------------------
+filed an antitrust complaint against Intel Corporation in the U.S. District
+Court for the Northern District of California (Case No. C-91-20541-JW-EAI),
+alleging that Intel engaged in a series of unlawful acts designed to secure and
+maintain a monopoly in iAPX microprocessor chips.  The complaint alleges that
+Intel illegally coerced customers to purchase Intel chips through selective
+allocations of Intel products and tying availability of the Intel 80386 to
+purchases of other products from Intel, and that Intel filed baseless lawsuits
+against AMD in order to eliminate AMD as a competitor and intimidate AMD
+customers. The complaint requests significant monetary damages (which may be
+trebled), and an injunction requiring Intel to license the 80386 and 80486 to
+AMD, or other appropriate relief. On December 17, 1991, the Court dismissed
+certain of AMD's claims relating to Intel's past practices on statute of
+limitations grounds. Intel filed a motion for partial summary judgment on a
+single AMD claim that Intel filed a baseless trademark lawsuit against AMD and
+this motion has been granted. The trial date of October 4, 1994 has been vacated
+and no new date has been set. With the Court's permission, AMD filed an amended
+complaint on March 9, 1994, alleging monopolization and attempted monopolization
+by Intel in connection with the sale of the 286, 386, 486 and Pentium
+microprocessors.
+ 
+
+         6.  Business Interference Case Against Intel.  On November 12, 1992,
+             ----------------------------------------
+the Corporation filed a proceeding against Intel in the Superior Court of Santa
+Clara County, California (Case No. 726343), for tortious interference with
+prospective economic advantage, violation of California's Unfair Competition
+Act, breach of contract and declaratory relief arising out of Intel's efforts to
+require AMD's customers to pay to Intel patent royalties if they purchased 386
+and 486 microprocessors from AMD. The patent involved, referred to as the
+Crawford '338 patent, covers various aspects of how the Intel 386
+microprocessor, the Intel 486 microprocessor and future X86 processors manage
+memory and how these microprocessors generate memory pages and page tables when
+combined with external memory and multi-tasking software such as
+Microsoft(Registered Trademark) Windows(Trademark), OS/2(Registered Trademark)
+or UNIX(Registered Trademark). The action was subsequently removed to the
+Federal District Court where AMD amended its complaint to include causes of
+action for violation of the Lanham Act and a declaration of patent invalidity
+and unenforceability. The complaint alleges that Intel is demanding royalties
+for the use of the Intel patents from the Corporation's customers, without
+informing the Corporation's
+
+                                       6
+<PAGE>
+ 
+customers that the Corporation's license arrangement with Intel protects the
+Corporation's customers from an Intel patent infringement lawsuit.  No royalties
+for the license are charged to customers who purchase these microprocessors from
+Intel.  This case is presently stayed pending resolution of the International
+Trade Commission Proceeding, discussed next.
+
+         7.  International Trade Commission Proceeding.  The United States
+             -----------------------------------------
+International Trade Commission Proceeding (the "ITC Proceeding") (Investigation
+No. 337-TA-352) was filed by Intel Corporation on May 7, 1993, against two
+respondents, Twinhead International and its U.S. subsidiary, Twinhead
+Corporation.  Twinhead is a Taiwan-based manufacturer which is a customer of
+both AMD and Intel.  Twinhead purchases microprocessors from AMD and Intel, and
+incorporates these microprocessors into computers sold by Twinhead.  Intel
+claims that the respondents induce computer end-users to infringe on what is
+known as the Crawford '338 patent when the computers containing AMD
+microprocessors are used with multi-tasking software such as Windows, Unix or
+OS/2.  Intel seeks a permanent exclusion order from entry into the United States
+of certain Twinhead personal computers and an order directing Twinhead to cease
+and desist from demonstrating, testing or otherwise using such computers in the
+United States.
+
+     AMD's dispute with Intel in the Intel Business Interference Case (Case No.
+C-92-20789, N.D. Cal) (discussed above) requests a declaration that the Crawford
+'338 patent is invalid; accordingly, AMD intervened in the ITC Proceeding as a
+real party in interest by filing a motion with the ITC to intervene on the side
+of the respondents. On July 2, 1993, the ITC granted AMD's motion to intervene
+in the ITC Proceeding on the side of respondents and to participate fully in all
+proceedings as a party. The Corporation has vigorously contested the relief
+Intel seeks. Any decision by an administrative judge would then be confirmed or
+not be confirmed by the International Trade Commission (ITC).
+
+     On February 4, 1994, the Corporation filed a motion to suspend immediately
+and thereafter to terminate the ITC proceeding on the ground that Intel is
+collaterally estopped from pursuing the relief it seeks by reason of a judgment
+soon to be entered in favor of Cyrix Corporation (also an intervenor in the ITC
+Proceeding) and against Intel in a trial involving the Crawford '338 patent in
+Texas federal court.  Intel opposed the motion, and filed a motion of its own
+requesting that the ITC proceeding be suspended, not terminated, pending
+appellate review of the Cyrix Judgment.  On February 22, 1994, the ITC
+Administrative Law Judge granted AMD's motion to suspend, and indicated his
+intent to grant AMD's request to terminate the ITC Proceeding upon entry of the
+judgment in the Texas federal court.  The Judge denied Intel's motion to suspend
+the ITC Proceeding until its appeal of the judgment in favor of Cyrix has been
+resolved.
+
+     An unfavorable outcome before the ITC could have an adverse effect on the
+Corporation's ability to sell microprocessors to Twinhead and other computer
+manufacturers in
+
+                                       7
+<PAGE>
+ 
+Taiwan and potentially, other countries.  An unfavorable outcome could have an
+immediate, material adverse impact on the Corporation's results of operations
+and financial condition.
+
+     B.  Other
+         -----
+
+         1.  In Re Advanced Micro Devices Securities Litigation.  Between
+             --------------------------------------------------
+September 8 and September 10, 1993, five class actions were filed, purportedly
+on behalf of purchasers of the Corporation's stock, alleging that the
+Corporation and various of its officers and directors violated Sections 10(b)
+and 20(a) of the Securities and Exchange Act of 1934, 15 U.S.C. (S)(S) 78j(b)
+and 78t(a), respectively, and Rule 10b-5 promulgated thereunder, 17 C.F.R. (S)
+240.10b-5, by issuing allegedly false and misleading statements about the
+Corporation's development of its 486SX personal computer microprocessor
+products, and the extent to which that development process included access to
+Intel's 386 microcode. Some or all of the complaints alleged that the
+Corporation's conduct also constituted fraud, negligent misrepresentations and
+violations of the California Corporations Code.
+
+     By order dated October 13, 1993, these five cases, as well as any cases
+that might be subsequently filed, were consolidated under the caption "In Re
+Advanced Micro Devices Securities Litigation," with the lead case for the
+consolidated actions being Samuel Sinay v. Advanced Micro Devices, Inc., et al.
+                           ----------------------------------------------------
+(No. C-93-20662-JW, N.D. Cal).  A consolidated amended class action complaint
+was filed on December 3, 1993, containing all the claims described above and 
+additional allegations that the Corporation made false and misleading statements
+about its revenues and earnings during the third quarter of its 1993 fiscal year
+as well as about potential foundry arrangements. The amended complaint seeks
+damages in an unspecified amount. On January 14, 1994, the Company filed a
+motion to dismiss various claims in the amended and consolidated class action
+complaint. The motion to dismiss was scheduled for hearing on March 25, 1994,
+but has been taken off calendar pending preliminary settlement negotiations. The
+Company has responded to initial document requests and interrogatories and has
+begun document production. No depositions have been taken. This case is in the
+early stage of discovery. The Corporation believes the ultimate outcome of this
+litigation will not have a material adverse effect upon the financial condition
+of the Corporation.
+
+         2.  George A. Bilunka, et al. v. Sanders, et al. (93-20727JW, N.D. 
+
+             --------------------------------------------
+Cal.). On September 30, 1993, an AMD shareholder, George A. Bilunka, purported
+to commence an action derivatively on the Corporation's behalf against all of
+the Corporation's directors and certain of the Corporation's officers. The
+Corporation is named as a nominal defendant. This purported derivative action
+essentially alleges that the individual defendants breached their fiduciary
+duties to the Corporation by causing, or permitting, the Corporation to make
+allegedly false and misleading statements described in In re Advanced Micro
+                                                       --------------------
+Devices Securities Litigation above about the Corporation's development of its
+- -----------------------------
+486SX personal computer microprocessor products, and the extent to which that
+development process included access to Intel's 386 microcode. This action
+alleges that a pre-suit demand on the Corporation's Board of Directors
+
+                                       8
+<PAGE>
+ 
+would have been futile because of alleged director involvement.  Damages are
+sought against the individual defendants in an unspecified amount.
+
+     On November 10, 1993, the Corporation, as nominal defendant, filed a motion
+to dismiss the action for failure to make a demand upon the Corporation's Board
+of Directors. The plaintiff then filed an amended derivative complaint on
+December 17, 1993. The Corporation again moved to dismiss the complaint. The
+motion was heard on February 4, 1994, and on March 1, 1994 the Court granted in
+part and denied in part the motion. Proceedings in this case, which the Court
+has ordered to be coordinated with the consolidated securities class actions,
+are generally in abeyance pending settlement negotiations. The Corporation
+believes that the ultimate outcome of this litigation will not have a material
+adverse effect upon the financial condition of the Corporation.
+
+         3.  SEC Investigation.  The Securities and Exchange Commission ("SEC")
+             -----------------
+has notified the Corporation that it is conducting an informal investigation of
+the Corporation regarding the Corporation's disclosures about the development of
+its AM486SX products. See Items 1 and 2 of Section I(B) hereof. The Company is
+cooperating fully with the SEC.
+
+         4.  Other Matters.  The Corporation is a defendant or plaintiff in
+             -------------
+various other actions which arose in the normal course of business. In the
+opinion of management, the ultimate disposition of these matters will not have a
+material adverse effect on the financial condition or the results of operations
+of the Corporation.
+
+  Item 7.    Financial Statements and Exhibits.
+  ---------------------------------------------
+
+   Exhibits.
+   ---------     
+      99.1   Judgment entered March 11, 1994 in 287 Microcode Litigation
+
+      99.2   Jury Verdicts dated March 10, 1994 in 287 Microcode Litigation
+
+                                       9
+<PAGE>
+ 
+                                   SIGNATURES
+                                   ----------
+
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                        ADVANCED MICRO DEVICES, INC.
+                                              (Registrant)
+
+
+                                            /s/ Larry R. Carter
+Date:  March 22, 1994                   By:____________________________________
+                                           Larry R. Carter
+                                           Vice President and
+                                           Corporate Controller
+
+                                       10
+<PAGE>
+ 
+                                 Exhibit Index
+                                 -------------
+
+                                                                      Sequential
+                                                                       Page No.
+                                                                      ----------
+
+
+99.1    Judgment entered March 11, 1994 in 287 Microcode Litigation       13
+
+99.2    Jury verdicts dated March 10, 1994 in 287 Microcode Litigation    14
+
+                                       11
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99.1 TO FORM 8-K
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 99.1
+
+                      IN THE UNITED STATES DISTRICT COURT
+                    FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+INTEL CORPORATION,                        ) No. C-90-20237-WAI
+                                          )
+               Plaintiff,                 )
+          v.                              ) JUDGMENT ON JURY VERDICT
+                                          ) -------------------------
+ADVANCED MICRO DEVICES, INC.,             )
+                                          )
+               Defendant.                 )  
+- ------------------------------------------
+
+  The above-entitled action came duly on for trial before the court and a jury 
+duly impaneled and, after a full and fair trial, argument and submission to the 
+jury, the jury duly returned its verdict finding that Defendant has proven by a
+preponderance of the evidence that it was duly licensed to copy the copyrighted 
+microcode in issue in this case and that Plaintiff had failed to prove by a 
+preponderance of the evidence that there was a lack of mutual assent to the 
+Technology Exchange Agreement of 1982, and good cause appearing therefor
+
+  IT IS ORDERED, ADJUDGED AND DECREED that Plaintiff take nothing by its 
+complaint and that Defendant go hence with its costs.
+
+
+
+DATED: 3/10/94
+
+ENTERED IN CIVIL COURT  3/11 1994
+
+
+                                                   /s/ William A. Ingram
+                                                   --------------------------
+                                                   William A. Ingram
+                                                   United States District Judge
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 99.2 TO FORM 8-K
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.2
+
+                      IN THE UNITED STATES DISTRICT COURT
+
+                    FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+
+INTEL,
+
+                   Plaintiff
+
+               V.                            NO.  C 90-20237  WAI
+
+
+ADVANCED MICRO DEVICES,
+
+                   Defendants.
+
+
+_______________________________/
+
+
+
+
+                                 JURY VERDICT
+                                 ------------
+<PAGE>
+ 
+                                SPECIAL VERDICT
+                                ---------------
+
+  We, the jury in the above-entitled case, find, by a preponderance of the
+evidence, the following special verdict on the questions submitted to us:
+
+  ANSWER QUESTION NO. 1 FIRST. 
+
+QUESTION NO. 1:
+- ---------------
+
+  DID AMD prove by a preponderance of the evidence that the disputed language, 
+"microcodes contained in Intel microcomputers and peripheral products sold by 
+Intel," as used in the 1976 Agreement and as reasonably interpreted by the 
+parties, grants rights to microcode contained in Intel microprocessors and 
+peripheral products like a math co-processor?
+
+  Answer "yes" or "no."
+
+  ANSWER: Yes [X]   No [_]
+
+
+
+SPECIAL VERDICT FORM
+
+
+
+
+
+<PAGE>
+ 
+QUESTION NO. 2:
+- ---------------
+
+  Did Intel prove by a preponderance of the evidence that in 1982 the parties 
+did not agree as to the meaning of the disputed language: "microcodes contained 
+in Intel microcomputers and peripheral products sold by Intel"?
+
+  Answer "yes" or "no."
+
+  ANSWER:  Yes [_]  No [X]
+
+
+  PLEASE HAVE YOUR FOREPERSON DATE AND SIGN THIS FORM.
+
+
+Dated: 3/10/94      Foreperson: /s/Paula B. Hoelker-Williams
+                                ----------------------------
+
+
+
+SPECIAL VERDICT FORM
+                                                                          Page 2
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

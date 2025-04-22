@@ -1,0 +1,491 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ sPVnGQwcYM+pwpK/aH0WCMV1OkPjPneXXWFo9QtJrsF7yFMaLZG/6nO8DtBk9tn1
+ o4LmAYuS2TLtidl0vL32yw==
+
+<IMS-DOCUMENT>0000002488-94-000002.txt : 19940214
+<IMS-HEADER>0000002488-94-000002.hdr.sgml : 19940214
+ACCESSION NUMBER:		0000002488-94-000002
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940210
+ITEM INFORMATION:		5
+FILED AS OF DATE:		19940211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	3674
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		94506386
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 THOMPSON PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>ADVANCED MICRO DEVICES, INC. FORM 8-K
+<TEXT>
+
+
+                                  FORM 8-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C.  20549
+
+
+                                  CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+
+                         Date of Report:  February 10, 1994
+
+
+
+                           ADVANCED MICRO DEVICES, INC.
+              ------------------------------------------------------
+              (Exact name of registrant as specified in its charter)
+
+
+
+               Delaware                   1-7882              94-1692300
+     ----------------------------      ------------      -------------------
+     (State or other jurisdiction      (Commission        (I.R.S. Employer
+           of incorporation)           File Number)      Identification No.)
+
+
+
+
+
+            915 Deguigne Dr.,
+            P.O. Box 3453
+            Sunnyvale, California                               94088-3453
+    -------------------------------------                        --------
+   (Address of principal executive office)                      (Zip Code)
+
+   Registrant's telephone number, including area code:    (408) 732-2400
+
+     Exhibit Index
+     located on sequential page  4                       Page 1 of    7
+                               ------                               ------
+     <PAGE>
+
+
+
+
+
+
+
+   Item 5.    Other Events.
+   ------     ------------
+
+
+          On February 7, 1994 Advanced Micro Devices, Inc. (AMD) issued a
+       press release announcing that AMD and Digital Equipment Corporation
+       have entered into an agreement under which Digital (trademark) will 
+       provide a foundry for AMD's Am486 (trademark) microprocessor family
+       in South Queensferry, Scotland.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                SIGNATURES
+                                ----------
+
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+     the registrant has duly caused this report to be signed on its behalf 
+     by the undersigned hereunto duly authorized.
+
+                                           ADVANCED MICRO DEVICES, INC.
+                                                   (Registrant)
+
+
+
+     Date:     February 10, 1994                By:  /s/ Larry R. Carter    
+              -------------------                   -----------------------
+                                                    Larry R. Carter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <PAGE>
+
+                                Exhibit Index
+                                -------------
+                                                                 
+                                                                    Sequential
+                                                                     Page No.
+                                                                     --------
+
+
+     28.1     Press release announcing foundry agreement                   5
+                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 1 TO THE 8-K
+<TEXT>
+
+NEWS RELEASE                                   (LOGO APPEARS HERE)
+                                               ADVANCED 
+                                                  MICRO
+                                                 DEVICES
+
+                                               901 Thompson Place
+                                               P.O. Box 3453 
+                                               Sunnyvale                       
+                                               CA  94088-3453
+                                               Tel (408) 732-2400
+
+
+
+         AMD AND DIGITAL ANNOUNCE FOUNDRY AGREEMENT
+                              
+     SUNNYVALE, CA ... February 7, 1994 ... Advanced Micro
+
+Devices and Digital Equipment Corporation today announced an
+
+agreement under which Digital trademark will become a foundry for
+
+AMD's Am486 trademark microprocessor family.  Digital will produce
+
+wafers for AMD at its South Queensferry, Scotland,
+
+manufacturing facility utilizing an adaptation of Digital's
+
+0.68-micron process technology.
+
+     "The selection of Digital Equipment Corporation as a
+
+foundry partner assures that AMD will have more production
+
+capacity to meet growing customer demand for Am486
+
+microprocessors," said W.J. Sanders III, chairman and chief
+
+executive officer of AMD.  "The participation of Digital
+
+will further assure our customers that our products will
+
+meet the highest standards of quality, performance and
+
+reliability."
+
+     "As a merchant semiconductor vendor, this relationship
+
+enables us to further capitalize on our investments in
+
+leading-edge semiconductor process technology and
+
+microprocessor manufacturing," said Robert B. Palmer,
+
+president and chief executive officer of Digital.  "This
+
+agreement will enable Digital to produce increased volumes
+
+in our South Queensferry fab, resulting in lower cost per
+
+wafer for all of Digital's semiconductor products.  Building
+
+on our world-class semiconductor design and production
+
+capabilities is a key part of our ongoing plan to return
+
+Digital to sustained profitability."
+
+                              
+
+                           (more)
+
+<PAGE>
+
+     The agreement is for two years with an option for
+
+extension at the end of that period.  Initial production
+
+shipments of Am486 products from wafers manufactured by
+
+Digital are expected to begin in the fourth quarter of 1994.
+
+AMD expects that shipments of Am486 microprocessors
+
+manufactured from die produced at the Digital facility will
+
+reach an annual run-rate of 2,000,000 units in the first
+
+half of 1995.
+
+     "From a long-term strategic perspective, this agreement
+
+also assures that AMD will have added production capacity
+
+for current and future generations of microprocessor
+
+products," Mr. Sanders said.  "With this foundry agreement,
+
+we have the ability to allocate additional 0.5-micron
+
+manufacturing capacity at our facility in Sunnyvale,
+
+California, to production of both our high-performance Am486
+
+devices and our fifth-generation K5 microprocessor products
+
+in 1995," Mr. Sanders continued.  "In effect, the Digital
+
+foundry will provide a 'bridge' during the completion and
+
+initial production ramp of our new sub 0.5-micron facility,
+
+Fab 25 in Austin, Texas, thereby assuring that AMD will have
+
+in place additional capacity to meet expected demand for our
+
+most advanced microprocessor products," Mr. Sanders
+
+concluded.
+
+     "Manufacturing the Am486 microprocessor at our Scotland
+
+facility on the same line with our Alpha AXP trademark microprocessors
+
+complements our own production plan," said Ed Caldwell,
+
+Digital's vice president of Semiconductor Operations.  "This
+
+takes advantage of our high-yielding 0.68-micron process.
+
+In addition, we will be migrating this facility to 0.5-
+
+micron technology over the next year to boost performance
+
+and output of both Alpha AXP and Am486 microprocessors."
+
+                           (more)
+<PAGE>
+
+     Digital Equipment Corporation is the world's leader in
+
+open client/server solutions from personal computing to
+
+integrated worldwide information systems.  Digital's
+
+scalable Alpha AXP platforms, storage, networking, software
+
+and services, together with industry-focused solutions from
+
+business partners, help organizations compete and win in
+
+today's global marketplace.
+
+     Advanced Micro Devices, Inc., the fifth-largest U.S.
+
+manufacturer of integrated circuits, produces
+
+microprocessors and related peripherals, memories,
+
+programmable logic devices and circuits for
+
+telecommunications, office automation and networking
+
+applications.  AMD has sales offices worldwide, and has
+
+manufacturing facilities in Sunnyvale, California;  Austin,
+
+Texas;  Bangkok, Thailand;  Penang, Malaysia;  Singapore;
+
+and Basingstoke, England.
+
+                             ###
+
+AMD news release #94CORP3          AMD-90178
+
+For more information contact:
+
+Advanced Micro Devices        Digital Equipment Corporation
+John Greenagel                Lisa Lipson
+(408) 749-3310                (508) 568-4352
+
+
+
+
+
+
+Am486 is a trademark of Advanced Micro Devices, Inc.
+Digital and Alpha AXP are trademarks of Digital Equipment
+Corporation.
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

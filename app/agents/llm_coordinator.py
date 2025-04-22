@@ -1,19 +1,37 @@
+# app/agents/llm_coordinator.py
+
+from app.agents.fundamentals_agent import run_fundamentals_agent
+from app.agents.technical_agent import run_technical_agent
+from app.agents.risk_agent import run_risk_agent
 from app.services.gemini_engine import gemini_chat
 
-def generate_final_report(fundamentals_analysis: str, technical_analysis: str, risk_analysis: str):
+
+def generate_final_report(ticker: str, fundamentals: dict, technicals: dict, risks: dict, news: list) -> dict:
     prompt = f"""
-You are a Wall Street analyst. Write a full research report for {ticker} using the following:
+You are a Wall Street analyst. Given the following data for {ticker}, write a professional-quality investment report.
 
---- Fundamentals ---
-{fundamentals_analysis}
+📊 Fundamentals:
+{fundamentals['ai_summary']}
 
---- Technical Analysis ---
-{technical_analysis}
+📈 Technicals:
+{technicals['ai_summary']}
 
---- Risk Disclosures ---
-{risk_analysis}
+⚠️ Risks:
+{risks['risk_summary']}
 
-Structure it like a professional report with clear insights, concise explanations, and a Buy/Hold/Sell recommendation at the end.
-"""
-    return gemini_chat(prompt)
+📰 Latest News:
+{news[0] if news else "No recent news available."}
 
+Format this report professionally with clear sections and use an analyst-style tone.
+    """
+
+    final_report = gemini_chat(prompt)
+
+    return {
+        "ticker": ticker,
+        "fundamentals": fundamentals,
+        "technicals": technicals,
+        "risks": risks,
+        "news": news,
+        "report": final_report
+    }

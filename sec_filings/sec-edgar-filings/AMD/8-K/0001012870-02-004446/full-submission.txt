@@ -1,0 +1,225 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DopIX/v9RtTBlklAArSrekCTSdUTbTsXBpI8wsL88/JhzbC762DNQJgzfx2TQOUP
+ uukUWL6AJevB7cJU6KmkJA==
+
+<SEC-DOCUMENT>0001012870-02-004446.txt : 20021118
+<SEC-HEADER>0001012870-02-004446.hdr.sgml : 20021118
+<ACCEPTANCE-DATETIME>20021118143350
+ACCESSION NUMBER:		0001012870-02-004446
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20021118
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20021118
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		02831210
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Washington, D.C. 20549 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"
+COLOR="#000000"><B>Form 8-K </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Current Report Pursuant to Section 13 or 15(d) of </B></FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>The Securities Exchange Act of 1934 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">Date of Report (date of earliest event reported):&nbsp;&nbsp;&nbsp;&nbsp;<B>November 18, 2002</B> </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="100%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>ADVANCED MICRO DEVICES, INC.</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="411" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="100%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Exact name of registrant as specified in its charter)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>DELAWARE</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="101" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>1-7882</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="54" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>94-1692300</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="92" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(State or other jurisdiction</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">of
+incorporation)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Commission</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">File Number)</FONT></DIV> </TD>
+
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(I.R.S. Employer</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Identification
+No.)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" WIDTH="48%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>One AMD Place,</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>P.O. Box
+3453</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Sunnyvale, California</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="150" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="48%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>94088-3453</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="92" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="48%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Address of principal executive offices)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="48%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(Zip Code)</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Registrant&#146;s telephone number,
+including area code:&nbsp;&nbsp;&nbsp;&nbsp;<B>(408) 732-2400</B> </FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Item 5.&nbsp;&nbsp;&nbsp;&nbsp;Other Events. </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">On November 18, 2002, AMD issued a press release which is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Item 7.&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements, Pro Forma Financial Information and Exhibits. </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(c)&nbsp;&nbsp;&nbsp;&nbsp;Exhibits </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="80%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="44" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="78%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="37" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="7%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="78%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Press Release dated November 18, 2002.</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>SIGNATURES </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD COLSPAN="3"> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">ADVANCED MICRO DEVICES, INC.</FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="32"> </TD> </TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Date:&nbsp;&nbsp;November 18, 2002</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="2%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">By:</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;T<SMALL>HOMAS</SMALL> M. M<SMALL>C</SMALL>C<SMALL>OY</SMALL></FONT></DIV> <HR SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+</TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="44%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Thomas M. McCoy</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Senior Vice President, General Counsel and Secretary</FONT></DIV>
+</TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>EXHIBIT INDEX </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="80%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Number</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="44" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="78%"> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="37" ALIGN="left" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="7%"> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="78%"> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Press Release dated November 18, 2002.</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV>
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE DATED NOVEMBER 18, 2002
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release dated November 18, 2002</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Exhibit 99.1 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+FACE="Times New Roman" SIZE="5" COLOR="#000000"><B><I>NEWS RELEASE </I></B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>CONTACTS: </B></FONT></DIV> <DIV
+ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Morris Denton </B></FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Corporate Public Relations </B></FONT></DIV> <DIV ALIGN="right"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>(408) 749-3310 </B></FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>email: morris.denton@amd.com </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Mike Haase </B></FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Investor Relations </B></FONT></DIV> <DIV ALIGN="right"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>(408) 749-3124 </B></FONT></DIV> <DIV ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>email: mike.haase@amd.com </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>AMD ANNOUNCES ESTIMATED RESTRUCTURING AND </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="4" COLOR="#000000"><B>OTHER SPECIAL CHARGES IN FOURTH QUARTER
+</B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="Times New Roman" SIZE="3" COLOR="#000000"><B></B><B><I>&#150; Company Expects to Record Non-Cash Charge to Eliminate </I></B><B></B></FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3" COLOR="#000000"><B></B><B><I>Net Deferred Tax Assets &#150; </I></B><B></B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>SUNNYVALE, CA &#151; NOVEMBER 18, 2002 &#151; </B>AMD (NYSE: AMD) today announced that it currently estimates that restructuring and other special charges in its fourth quarter will be in the range of $300 million to $600 million,
+inclusive of charges associated with the Company&#146;s restructuring and cost-cutting initiatives announced on November 14, 2002. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000">AMD stated that the Company also expects to record a charge to income tax expense in the fourth quarter in order to establish a 100% valuation allowance against its net deferred tax assets, which were $263 million as of the
+third quarter ended September 29, 2002. This charge to income tax expense would reduce after-tax results of operations but would not affect cash, cash flows or pre-tax results of operations for the quarter. </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The Company estimates that the impact of these two sets of charges in the fourth quarter would be $300 to $600 million on a pre-tax basis
+and $563 million to $863 million on an after-tax basis (consisting of the $300 to $600 million pre-tax charges for restructuring and other special charges and a $263 million non-cash charge to tax expense for the 100% valuation allowance).
+</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The Company plans to announce results for the fourth quarter and the year on January 16, 2003. </FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>About AMD </I></B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">AMD is a global supplier of integrated circuits for the personal and networked computer and communications markets with manufacturing facilities in the United States, Europe, Japan, and Asia. AMD, a Fortune 500 and Standard &amp;
+Poor&#146;s 500 company, produces microprocessors, Flash memory devices, and support circuitry for communications and networking applications. Founded in 1969 and based in Sunnyvale, California, AMD had revenues of $3.9 billion in 2001. (NYSE: AMD).
+</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>AMD on the Web </I></B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">For more AMD news and product information, please visit our virtual pressroom at <U>www.amd.com/news/virtualpress/index.html</U>. Additional press releases are available at
+<U>www.amd.com/news/news.html</U>. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>AMD, the AMD Arrow logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc.
+in the United States and other jurisdictions. </B></FONT></DIV>
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

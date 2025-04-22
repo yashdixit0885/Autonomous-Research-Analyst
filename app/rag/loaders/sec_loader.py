@@ -1,14 +1,19 @@
+# app/rag/loaders/sec_loader.py
+
+import os
 from bs4 import BeautifulSoup
-import html2text
 
-def load_sec_text(filepath):
-    """Load a 10-K or earnings call document from file."""
+
+def load_sec_text(filepath: str) -> str:
+    if not os.path.exists(filepath):
+        raise FileNotFoundError(f"❌ File not found: {filepath}")
+
     with open(filepath, "r", encoding="utf-8") as file:
-        raw = file.read()
+        raw_html = file.read()
 
-    # If HTML, convert to plain text
-    if "<html" in raw.lower():
-        soup = BeautifulSoup(raw, "html.parser")
-        raw = html2text.html2text(soup.get_text())
+    soup = BeautifulSoup(raw_html, "html.parser")
+    for tag in soup(["script", "style", "table"]):
+        tag.decompose()
 
-    return raw
+    return soup.get_text(separator="\n").strip()
+

@@ -1,0 +1,1569 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ auNgUr54lQJDt9Sd2GGeInckOu0n8+WyrJxW/cwBFhCuyZT9gBsEr7SeAnxumauv
+ QycdWHTZ1kO4OHp2QPGEbg==
+
+<IMS-DOCUMENT>0000898430-95-001323.txt : 19950725
+<IMS-HEADER>0000898430-95-001323.hdr.sgml : 19950725
+ACCESSION NUMBER:		0000898430-95-001323
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19950702
+FILED AS OF DATE:		19950724
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		95555539
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   Form 10-Q
+
+
+     (Mark One)
+(X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the quarterly period ended    July 2, 1995
+                                    ---------------
+
+                                      OR
+
+( )  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the transition period from __________ to __________
+
+Commission File Number          1-7882
+                      --------------------------------------
+
+                          ADVANCED MICRO DEVICES, INC
+- --------------------------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+       Delaware                               94-1692300
+- --------------------------------      ------------------------------------
+State or other jurisdiction           (I.R.S. Employer Identification No.)
+of incorporation or organization
+
+One AMD Place
+P. O. Box 3453
+Sunnyvale, California                                  94088-3453
+- ---------------------------------------------       ---------------
+(Address of principal executive offices)              (Zip Code)
+
+Registrant's telephone number, including area code:  (408) 732-2400
+                                                     --------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                              Yes   X     No
+                                 -------    -------           
+
+The number of shares of $0.01 par value common stock outstanding as of July 20,
+1995:  103,772,256
+<PAGE>
+ 
+ADVANCED MICRO DEVICES, INC.
+- ----------------------------
+
+
+INDEX
+- -----
+
+<TABLE>
+<CAPTION>
+Part I.  Financial Information                                          Page No.
+         ---------------------                                          --------
+<S>                                                                     <C>
+         Item 1.  Financial Statements
+ 
+                  Condensed Consolidated Statements of Income--
+                     Quarters Ended July 2, 1995
+                     and June 26, 1994, and Six Months Ended 
+                     July 2, 1995 and June 26, 1994                          3  
+                                                                                
+                  Condensed Consolidated Balance Sheets--                       
+                     July 2, 1995 and December 25, 1994                      4  
+                                                                                
+                  Condensed Consolidated Statements of Cash Flows--             
+                     Six Months Ended July 2, 1995                              
+                     and June 26, 1994                                       5  
+                                                                                
+                  Notes to Condensed Consolidated Financial Statements       6  
+                                                                                
+         Item 2.  Management's Discussion and Analysis of Results of            
+                     Operations and Financial Condition                      8  
+                                                                                
+Part II. Other Information                                                      
+         -----------------                                                      
+                                                                                
+         Item 4.  Submission of Matters to a Vote of Security Holders        12 
+                                                                                
+         Item 6.  Exhibits and Reports on Form 8-K                           13 
+                                                                                
+         Signature                                                           14  
+         ---------                                                  
+</TABLE> 
+
+                                       2
+<PAGE>
+ 
+I.FINANCIAL INFORMATION
+  ---------------------
+
+  ITEM 1.                   FINANCIAL STATEMENTS
+  -------                   --------------------
+       
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+ 
+                  CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                  ------------------------------------------- 
+                                  (Unaudited)
+                     (Thousands except per share amounts)
+
+
+<TABLE> 
+<CAPTION> 
+                                                       Quarter Ended                   Six Months Ended
+                                               -------------------------------  -----------------------------
+                                        
+                                                    July 2,        June 26,       July 2,        June 26,
+                                                     1995           1994           1995           1994
+                                               ---------------   -------------  ------------    -------------
+<S>                                                <C>           <C>             <C>          <C> 
+Net sales                                          $ 626,214     $  533,297      $ 1,246,310  $  1,046,377
+                                                                                           
+Expenses:                                                                                  
+  Cost of sales                                      300,959        235,623         591,731        466,060
+  Research and development                           101,032         67,889         193,532        136,110
+  Marketing, general, and administrative              97,364         91,731         194,310        184,625
+                                                   ----------    -----------    ------------  -------------
+                                                     499,355        395,243         979,573        786,795
+                                                   ----------    -----------    ------------  -------------
+                                                                                             
+Operating income                                     126,859        138,054         266,737        259,582
+                                                                                             
+Interest income and other, net                         6,657          6,366          13,370         10,548
+Interest expense                                           -           (899)             (1)        (1,638)
+                                                   ----------    -----------    ------------   -------------
+                                                                                             
+                                                                                             
+Income before income taxes and equity in joint
+  venture                                            133,516        143,521         280,106        268,492
+Provision for income taxes                            44,060         47,362          92,435         87,352
+                                                   ----------    -----------    ------------  -------------
+                                                                                             
+                                                                                             
+Income before equity in joint venture                 89,456         96,159         187,671        181,140
+Equity in net income (loss) of joint venture           2,529         (2,925)          1,115         (3,319)
+                                                   ----------    -----------    ------------  -------------
+                                                                                             
+                                                                                             
+Net income                                            91,985         93,234         188,786        177,821
+                                                                                             
+Preferred stock dividends                                  -          2,587              10          5,175
+                                                   ----------    -----------    ------------  -------------
+                                                                                             
+                                                                                             
+Net income applicable to common stockholders       $  91,985     $   90,647     $   188,776   $    172,646
+                                                   ==========    ===========    ============  =============
+                                                 
+                                                 
+Net income per common share:                       
+  Primary                                          $     .86     $      .93     $      1.81   $       1.78
+                                                   ==========    ===========    ============  ============= 
+  Fully diluted                                    $     .86     $      .89     $      1.76   $       1.71
+                                                   ==========    ===========    ============  =============
+Shares used in per share calculation:                                                            
+  Primary                                            107,170         97,394         104,091         96,814  
+                                                   ==========    ===========    ============  =============
+  Fully diluted                                      107,306        104,249         107,011        103,959 
+                                                   ==========    ===========    ============  ============= 
+</TABLE> 
+
+See accompanying notes                        
+- ----------------------
+
+                                       3
+<PAGE>
+ 
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                     -------------------------------------
+                                  (Thousands)
+
+<TABLE> 
+<CAPTION> 
+                                                     July 2,         December 25,
+                                                      1995              1994
+                                                   (Unaudited)        (Audited)
+                                                 ---------------    ---------------
+<S>                                               <C>                <C> 
+Assets
+- ------
+
+Current assets:
+  Cash and cash equivalents                       $     261,074      $     121,343
+  Short-term investments                                287,886            256,511
+                                                  --------------     --------------
+    Total cash, cash equivalents, and                   
+      short-term investments                            548,960            377,854
+  Accounts receivable, net                              366,359            337,107
+  Inventories:
+    Raw materials                                        24,570             21,604
+    Work-in-process                                      68,805             72,632
+    Finished goods                                       39,829             34,454
+                                                  --------------     --------------
+      Total inventories                                 133,204            128,690
+  Deferred income taxes                                  98,675             98,675
+  Prepaid expenses and other current assets              46,442             44,293
+                                                  --------------     --------------
+    Total current assets                              1,193,640            986,619
+Property, plant, and equipment, at cost               2,691,685          2,464,929
+Accumulated depreciation and amortization            (1,206,603)        (1,200,718)
+                                                  --------------     --------------
+    Property, plant, and equipment, net               1,485,082          1,264,211
+Investment in joint venture                             144,114            124,588
+Other assets                                             78,283             70,284
+                                                  --------------     --------------
+                                                  $    2,901,119     $   2,445,702
+                                                  ==============     ==============
+Liabilities and Stockholders' Equity
+- ------------------------------------
+
+Current liabilities:
+  Notes payable to banks                          $      29,599      $      32,459
+  Accounts payable                                      193,129            149,122
+  Accrued compensation and benefits                     114,548            104,526
+  Accrued liabilities                                    92,750             82,570
+  Litigation settlement                                  20,000             58,000
+  Income tax payable                                    111,223             53,795
+  Deferred income on shipments to distributors           94,453             83,800
+  Current portion of long-term debt and capital   
+    lease obligations                                    30,903             27,895
+                                                  --------------     --------------
+    Total current liabilities                           686,605            592,167
+
+Deferred income taxes                                    42,518             42,518
+Long-term debt and capital lease obligations, less
+  current portion                                       223,223             75,752
+Commitments and contingencies                                 -                  -
+
+Stockholders' equity:
+  Capital stock:
+    Serial preferred stock, par value                         -                 34
+    Common stock, par value                               1,038                956
+  Capital in excess of par value                        719,328            698,673
+  Retained earnings                                   1,228,407          1,035,602
+                                                  --------------     --------------
+    Total stockholders' equity                        1,948,773          1,735,265
+                                                  --------------     --------------
+                                                  $   2,901,119      $   2,445,702    
+                                                  ==============     ==============
+</TABLE> 
+
+See accompanying notes
+- ----------------------
+
+                                       4
+<PAGE>
+ 
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                -----------------------------------------------
+                                  (Unaudited)
+                                  (Thousands)
+
+<TABLE> 
+<CAPTION> 
+                                                                      Six Months Ended
+                                                                 ----------------------------
+                                                                     July 2,        June 26,
+                                                                      1995           1994
+                                                                 ------------- --------------
+<S>                                                                 <C>           <C> 
+Cash flows from operating activities:
+  Net income                                                        $  188,786    $   177,821
+  Adjustments to reconcile net income to net cash provided
+    by operating activities:
+      Depreciation and amortization                                    113,213        104,796
+      Net gain on sale of property, plant, and equipment                    (9)          (431)
+      Write-down of property, plant, and equipment                         380          1,044
+      Compensation recognized under employee stock plans                 1,467            810
+      Undistributed (income) loss of joint venture                      (1,115)         3,319
+      Net increase in deferred income taxes                                  -           (183)
+      Changes in operating assets and liabilities:              
+        Net increase in receivables, inventories, prepaid       
+            expenses, and other assets                                 (54,210)       (69,369)
+        Increase in income tax payable                                  68,078         31,261
+        Net increase in payables and accrued liabilities                74,862         10,834
+        Litigation settlement                                          (20,000)             -
+                                                                    -----------   ------------
+
+Net cash provided by operating activities                              371,452        259,902
+                                                                    -----------   ------------
+                                                                    
+Cash flows from investing activities:                               
+  Purchase of property, plant, and equipment                          (322,814)      (139,688)
+  Proceeds from sale of propery, plant, and equipment                    1,400          1,101
+  Purchase of held-to-maturity debt securities                        (358,019)      (349,157)
+  Maturities of held-to-maturity debt securities                       326,644        284,871
+  Investment in joint venture                                          (18,019)       (39,453)
+                                                                    -----------   ------------
+                                                                    
+Net cash used in investing activities                                 (370,808)      (242,326)
+                                                                    -----------   ------------
+
+Cash flows from financing activities:
+  Proceeds from borrowings                                             198,492         30,387
+  Payments on capital lease obligations and other debt                 (67,381)       (40,618)
+  Net proceeds from issuance of stock                                   10,487         16,675
+  Redemption of preferred stock                                         (2,501)             -
+  Payments of preferred stock dividends                                    (10)        (5,175)
+                                                                    -----------   ------------
+                                                               
+Net cash provided by financing activities                              139,087          1,269
+                                                                    -----------   ------------
+                                                                      
+Net increase in cash and cash equivalents                              139,731         18,845
+Cash and cash equivalents at beginning of period                       121,343         60,423
+                                                                    -----------   ------------
+
+Cash and cash equivalents at end of period                          $  261,074    $    79,268
+                                                                    ===========   ============
+                                                               
+Supplemental disclosures of cash flow information:             
+  Cash paid during the first quarter for:                      
+    Interest (net of amounts capitalized)                           $        -    $     1,983
+                                                                    ===========   ============
+    Income taxes                                                    $   24,010    $    56,272  
+                                                                    ===========   ============ 
+  Non-cash financing activities:                 
+    Equipment purchased under capital leases                        $   16,508    $    27,859
+                                                                    ===========   ============ 
+    Conversion of preferred stock to common stock                   $  164,127    $         - 
+                                                                    ===========   ============
+</TABLE> 
+
+See accompanying notes                                              
+- ----------------------
+
+                                       5
+<PAGE>
+ 
+             NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+             ----------------------------------------------------
+                                        
+1.   The results of operations for the interim periods shown in this report are
+     not necessarily indicative of results to be expected for the fiscal year.
+     In the opinion of management, the information contained herein reflects all
+     adjustments necessary to make the results of operations for the interim
+     periods a fair statement of such operations. All such adjustments are of a
+     normal recurring nature.
+
+     The company uses a 52 to 53 week fiscal year ending on the Sunday closest
+     to December 31. The quarters ended July 2, 1995 and June 26, 1994 included
+     13 weeks. The six months ended July 2, 1995 and June 26, 1994 included 27
+     and 26 weeks, respectively.
+
+     Certain prior year amounts on the Condensed Consolidated Financial
+     Statements have been reclassified to conform to the 1995 presentation.
+
+2.   AMD has three groundwater contamination sites that are on the Federal
+     Superfund list. The company is in the process of an extensive clean-up and
+     studies of its sites.
+
+3.   The effective tax rate used for the first quarters and first half of 1995
+     and 1994 was approximately 33 percent.
+
+4.   In 1993, the company and Fujitsu Limited established a joint venture,
+     "Fujitsu AMD Semiconductor Limited (FASL)." AMD's share of FASL is 49.95
+     percent, and this investment is being accounted for under the equity
+     method. For the second quarter of 1995, the company's share of FASL's
+     income was $3.9 million, which was reduced by an estimated income tax
+     provision of approximately $1.4 million.
+
+5.   The following is a summary of held-to-maturity securities as of July 2,
+     1995 (in thousands):
+
+<TABLE> 
+          <S>                                   <C> 
+          Cash and cash equivalents
+            Money market preferreds                $ 117,400
+            Commercial paper                          49,926
+            Security  repurchase agreements           38,300
+            Other                                     10,215
+                                                -------------
+            Total cash equivalents                   215,841
+            Cash                                      45,233
+                                                -------------
+            Total cash and cash equivalents        $ 261,074
+                                                =============
+          Short-term investments
+            Commercial paper                       $ 119,629
+            Certificates of deposit                  110,583
+            Corporate notes                           40,114
+            Other                                     17,560
+                                                -------------
+            Total short-term investments           $ 287,886
+                                                =============
+</TABLE> 
+ 
+     Since held-to-maturity securities are short-term in nature, changes in
+     market interest rates would not have a significant impact on the fair value
+     of these securities. These securities are carried at amortized cost which
+     approximates fair value.
+
+                                       6
+<PAGE>
+ 
+     As of July 2, 1995, the company held $12.1 million of available-for-sale
+     equity securities with a fair value of $31.7 million which is included in
+     other assets. The net unrealized holding gain on these equity securities is
+     included in retained earnings.
+
+6.   The primary net income per common share computation is based on the
+     weighted average number of common shares outstanding plus dilutive common
+     share equivalents. The fully diluted computation also includes other
+     dilutive convertible securities. In the first quarter of 1995, the company
+     called for redemption all outstanding shares of its Convertible Preferred
+     Stock. As a result, all of its outstanding Preferred Stock was either
+     redeemed or converted to the company's common stock. Shares used in the per
+     share computations are as follows:
+
+<TABLE> 
+<CAPTION> 
+                                             Quarter Ended                      Six Months Ended
+                                   --------------------------------    --------------------------------
+                                       July 2,          June 26,            July 2,          June 26,
+                                        1995              1994               1995             1994
+                                   ---------------  ---------------    ---------------  ---------------  
+                                              (Thousands)                         (Thousands)
+          <S>                      <C>              <C>                <C>              <C> 
+          Primary:
+          Common shares outstanding       103,437           93,617            100,394           93,096
+          Employee stock plans              3,733            3,777              3,697            3,718
+                                   ---------------  ---------------    ---------------  ---------------  
+                                          107,170           97,394            104,091           96,814
+                                   ===============  ===============    ===============  ===============
+ 
+          Fully diluted:
+          Common shares outstanding       103,437           93,617            100,394           93,096
+          Employee stock plans              3,869            3,778              3,931            4,008
+          Preferred stock                       -            6,854              2,686            6,855
+                                   ---------------  ---------------    ---------------  ---------------  
+                                          107,306          104,249            107,011          103,959
+                                   ===============  ===============    ===============  ===============
+</TABLE> 
+
+                                       7
+<PAGE>
+ 
+Item 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+- -------   -----------------------------------------------------------------
+          FINANCIAL CONDITION
+          -------------------
+
+The following discussion should be read in conjunction with the attached
+condensed consolidated financial statements and notes thereto, and with the
+company's audited financial statements and notes thereto for the fiscal year
+ended December 25, 1994.
+
+RESULTS OF OPERATIONS
+- ---------------------
+
+Net sales for the second quarter and first half of 1995, rose by 17 percent and
+19 percent, respectively from the corresponding periods of 1994. These increases
+were primarily attributable to growth in flash memory sales and secondarily due
+to an increase in Am486(R) sales. Net sales for the second quarter of 1995 grew
+slightly over the immediate prior quarter. This increase was primarily
+attributable to increased flash memory sales and secondarily due to increased
+sales of communication products, offset by a decline in Am486 sales.
+
+The increase in Am486 microprocessor sales in the second quarter and first six
+months of 1995 compared to the same periods a year ago was attributable to unit
+shipment growth while average selling prices declined. The decrease in Am486
+microprocessor sales from first quarter 1995 to second quarter 1995 was due to
+continued price declines while unit shipments remained relatively flat primarily
+because of production constraints early in the quarter. Further price declines
+of Am486 products are anticipated to continue.
+
+A significant portion of the company's revenues, profits, and margins in 1995
+have been and are expected to be attributable to Am486 products. The future
+outlook for AMD's microprocessor business is highly dependent upon
+microprocessor market conditions, which are subject to price declines and
+changes in demand. The company anticipates that any growth in existing and
+future generation microprocessor products will depend on market demand and the
+company's ability to meet this demand.
+
+Sales of flash memory devices for the second quarter and first six months of
+1995 increased significantly as compared to the same periods in the prior year
+primarily due to increased unit shipments. The company plans to meet projected
+long-term demand for flash memory devices primarily through a manufacturing
+joint venture, Fujitsu AMD Semiconductor Limited (FASL). The company began
+purchasing products from FASL in the first quarter of 1995.
+
+Revenues from communication products for the second quarter and first six months
+of 1995 increased as compared to the same periods a year ago primarily due to
+growth in the Ethernet family of products. For the second quarter and first six
+months of 1995, EPROM sales decreased as compared to the same periods in 1994
+primarily because of pricing pressures caused by increased competition. Sales of
+CMOS programmable logic devices (PLDs) in the second quarter and first half of
+1995 increased from comparable periods in 1994 primarily due to increased unit
+shipments.
+
+International sales for the second quarter and first half of 1995 were 58
+percent of total sales as compared to 52 percent and 54 percent, respectively
+for the comparable periods in 1994.
+
+Am486 is a registered trademark of Advanced Micro Devices, Inc.
+K86 RISC SUPERSCALAR and AMD-K5 are trademarks of Advanced Micro Devices, Inc
+
+                                       8
+<PAGE>
+ 
+Gross margins of 52 percent and 53 percent for the second quarter and first half
+of 1995 declined approximately 4 percent and 2 percent, respectively, from
+comparable periods in 1994. The decrease in gross margin was attributable
+primarily to Am486 pricing pressures and secondarily to purchase of FASL
+products, which are purchased at higher costs compared to similar products
+manufactured internally. The impact of gross margin declines caused by purchase
+of FASL products was partially offset by the company's share of FASL income in
+the second quarter of 1995. Pricing pressures on Am486 microprocessors are
+expected to continue. Gross margin is also anticipated to decline further
+through 1995 due to increasing purchases from FASL and the transition of Fab 25
+costs from research and development to cost of sales when production for revenue
+begins in the third quarter of 1995.
+
+Research and development expenses increased in the second quarter and first six
+months of 1995 from the corresponding periods in the prior year. These increases
+were primarily due to higher Fab 25 spending and secondarily due to increased
+microprocessor development cost. The company anticipates that research and
+development expenses may decline for the remainder of 1995 as compared to the
+first half of 1995, depending on the rate of transition of Fab 25 costs from
+research and development to cost of sales.
+
+Marketing, general, and administrative expenses remained relatively flat in the
+second quarter and first six months of 1995 from the corresponding periods a
+year ago.
+
+The income tax rates have remained constant at approximately 33 percent for the
+second quarter and the first six months of 1995 compared to the same periods in
+1994. The company anticipates that the income tax rate will be approximately 33
+percent for the remainder of 1995.
+
+The company enters into foreign exchange forward contracts to buy and sell
+currencies as economic hedges of the company's foreign net monetary asset
+position. In the second quarter of 1995, these hedging transactions were
+denominated in lira, yen, French franc, deutsche mark, and pound sterling. The
+maturities of these contracts are generally short-term in nature. The company
+believes its foreign exchange contracts do not subject the company to material
+risk from exchange rate movements because gains and losses on these contracts
+are designed to offset losses and gains on the net monetary asset position being
+hedged. Net foreign currency gains and losses have not been material. As of July
+2, 1995, the company had approximately $42.9 million (notional amount) of
+foreign exchange forward contracts.
+
+In the second quarter of 1995, approximately 19 percent of the company's net
+sales were denominated in foreign currencies. The company does not have sales
+denominated in local currencies in those countries which have highly
+inflationary economies. The impact on the company's operating results from
+changes in foreign currency rates individually and in the aggregate has not been
+material.
+
+The company has engaged in interest rate swaps primarily to reduce its interest
+rate exposure by changing a portion of the company's interest rate obligation
+from a floating rate to a fixed rate basis. At the end of the second quarter of
+1995, the net outstanding notional amount of interest rate swaps was $40
+million, which will mature in 1997. Gains and losses related to these interest
+rate swaps have been immaterial.
+
+                                       9
+<PAGE>
+ 
+The company primarily addresses market risk by participating as an end-user in
+various derivative markets to manage its exposure to interest and foreign
+currency exchange rate fluctuations. The counterparties to the company's foreign
+exchange forward contracts, foreign currency options, and interest rate swaps
+consist of a number of major high credit quality international financial
+institutions. The company does not believe that there is significant risk of
+nonperformance by these counterparties because the company continually monitors
+the credit ratings of such counterparties, and limits the financial exposure and
+the amount of agreements entered into with any one financial institution.
+
+FINANCIAL CONDITION
+
+Cash, cash equivalents, and short-term cash investments increased by $171.1
+million from the end of 1994 to July 2, 1995. This increase was primarily
+attributable to a $150 million term loan obtained in January of 1995. Cash
+generated from operating activities in the first half of 1995 was offset by
+investments in property, plant and equipment to expand manufacturing capacity
+primarily related to Fab 25. The company plans to continue to make significant
+capital investments throughout 1995, including an estimated $150 million for Fab
+25.
+
+Working capital increased by $112.5 million from $394.5 million at the end of
+1994 to $507.0 million in the second quarter of 1995. This increase was
+primarily due to higher cash, cash equivalents, and short-term investments.
+
+At the end of the second quarter of 1995, the company's total cash investment in
+FASL was $160.4 million as compared to $142.3 million at the end of 1994. No
+additional cash investment is currently planned for the remainder of 1995.
+
+As of the end of the second quarter of 1995, the company had the following
+financing arrangements: unsecured committed bank lines of credit of $250
+million, unutilized; long-term secured equipment lease lines of $125 million, of
+which $123 million were utilized; short-term, unsecured uncommitted bank credit
+in the amount of $131 million, of which $33 million was utilized; and an
+outstanding $150 million four-year term loan.
+
+The company's current capital plan and requirements are based on various 
+product-mix, selling-price and unit-demand assumptions and are, therefore,
+subject to revision due to future market conditions.
+
+On May 25, 1994, the Securities and Exchange Commission declared effective the
+company's shelf registration statement covering up to $400 million of its
+securities, which may be either debt securities, preferred stock, depositary
+shares representing fractions of shares of preferred stock, common stock,
+warrants to purchase common stock, or any combination of the foregoing which the
+company may offer from time to time in the future. To date, the company has not
+offered or sold any securities registered under the $400 million registration
+statement. The nature and terms of the securities will be established at the
+time of their sale. The company may offer the securities through underwriters to
+be named in the future, through agents or otherwise. It is presently expected
+that the net proceeds of any offering would be used for general corporate
+purposes including but not limited to the reduction of outstanding indebtedness,
+working capital increases and capital expenditures.
+
+The company believes that cash flows from operations and current cash balances,
+together with current and anticipated available long-term financing, will be
+sufficient to fund operations, capital investments, and research and development
+projects currently planned for the remainder of 1995.
+
+                                       10
+<PAGE>
+ 
+FACTORS THAT MAY AFFECT FUTURE RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+The semiconductor industry is generally characterized by a highly competitive
+and rapidly changing environment in which operating results are often subject to
+the effects of new product introductions, manufacturing technology innovations,
+rapid fluctuations in product demand, the availability of manufacturing
+capacity, and the ability to secure and maintain intellectual property rights.
+While the company attempts to identify and respond to rapidly changing events
+and conditions as soon as possible, the anticipation of and reaction to such
+events are an ongoing challenge.
+
+The company believes that its future results of operations and financial
+condition could be impacted by any of the following factors: market acceptance
+and timing of new products; continued market acceptance of personal computer
+industry standards applicable to the company's products; trends in the personal
+computer marketplace; capacity constraints; intense price competition;
+interruption in procuring needed manufacturing materials; disruption of
+manufacturing facilities; and changes in domestic and international economic
+conditions.
+
+The company's microprocessor products, and more specifically the company's
+current generation of 486 microprocessors, have significantly contributed, and
+are expected to significantly contribute in 1995 to the company's revenues,
+margins and profits. There can be no assurance that there will be continued
+market acceptance of Am486 microprocessors, or that the Am486 microprocessors
+will continue to generate profits and margins for the remainder of 1995 at the
+levels experienced to date. The company's 486 microprocessors are re-engineered
+versions of 486 microprocessors originally developed by Intel, and contain and
+use, under license with Intel, its 486 microcode. The company's next generation
+K86 RISC SUPERSCALAR(TM) products are being designed to be Microsoft(R)
+Windows(R)-compatible and compete with Intel's post-486 generations of X86
+microprocessors, including the Pentium and the P6. The company's K86 products
+will not be re-engineered versions of microprocessors developed by Intel, and
+pursuant to the litigation settlement agreement with Intel the company does not
+have the right to use Intel microcodes in AMD product generations following the
+486. Volume production of the initial K86 products, known as AMD-K5(TM), is
+anticipated to begin in the first half of 1996. There can be no assurance that
+the company will be able to introduce its K86 products in a timely manner to
+meet competition, that these microprocessors will not face severe price
+competition, or that superior competitive products will not be introduced. There
+can be no assurance that the K86 products will achieve market acceptance or
+desired operating results, including but not limited to profitability. Any such
+failure could adversely affect the company's future operations.
+
+The company has entered into a number of licenses and cross-licenses relating to
+several of the company's products. As is common in the semiconductor industry,
+from time to time the company has been notified that it may be infringing other
+parties' patents or copyrights. While patent and copyright owners in such
+instances often express a willingness to resolve the dispute or grant a license,
+no assurance can be given that all necessary licenses will be honored or
+obtained on satisfactory terms, nor that the ultimate resolution of any material
+dispute concerning the company's present or future products will not have an
+adverse impact on the company's future results of operations or financial
+condition.
+
+Due to the factors noted above, the company's future operations, financial
+condition, and stock price may be subject to volatility. In addition, an actual
+or anticipated shortfall in revenue, gross margins, or earnings from securities
+analysts' expectations could have an immediate adverse effect on the trading
+price of the company's common stock in any given period.
+
+                                       11
+<PAGE>
+ 
+II.  OTHER INFORMATION
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+          The company's annual meeting of stockholders, at which the proposals
+          described below were submitted to stockholders, was held on May 9,
+          1995.
+
+          Proposal No. 1 - Election of Directors. The following individuals, who
+          received the votes indicated, were elected as directors:
+
+<TABLE>
+<CAPTION>
+          NAME                           FOR                    WITHHELD
+
+          <S>                            <C>                    <C> 
+          W. J. Sanders III              88,827,903             352,282
+          Friedrich Baur                 88,804,773             375,412
+          Charles M. Blalack             88,849,214             330,971
+          R. Gene Brown                  88,865,038             315,147
+          Anthony B. Holbrook            88,815,619             364,566
+          Richard Previte                88,849,649             330,536
+          Joe L. Roby                    88,856,350             323,835
+          Leonard Silverman              88,801,257             378,928
+</TABLE>
+
+          Proposal No. 2 - The proposal to ratify the appointment of Ernst &
+          Young LLP, as the company's independent auditors for the current
+          fiscal year was approved. The results of the voting were as follows:
+
+          For:  88,656,660       Against:  414,199       Abstain:  112,326
+ 
+          Proposal No. 3 - The stockholders disapproved a stockholder proposal
+          requesting that the Board of Directors establish a nominating
+          committee composed solely of independent directors (as defined in the
+          stockholder proposal). The results of the voting were as follows:
+
+          For:  12,395,510       Against:  58,926,237    Abstain:  2,516,156
+          Broker Non-votes:  15,342,282
+
+                                       12
+<PAGE>
+ 
+ITEM 6.   EXHIBITS AND REPORTS ON FORM 8-K
+
+     A.   Exhibits
+          --------
+ 
+           3.1    Certificate of Incorporation as amended
+           3.2    Certificate of Elimination of $30.00 Convertible Exchangeable
+                  Preferred Shares
+           3.3    Certificate of Elimination of Series A Junior Participating
+                  Preferred Stock
+          27.1    Financial Data Schedule
+
+     B.   Report on Form 8-K
+          ------------------
+
+          The following report on Form 8-K was filed during the quarter for
+          which this report is filed:
+
+          1.  Current Report on Form 8-K, dated April 17, 1995, filed April 19,
+              1995, reporting under Item 5, that the Board of Directors, acting
+              through its Stockholder Rights Committee, ordered the redemption
+              of the company's preferred stock purchase rights to occur on May
+              3, 1995.
+
+                                       13
+<PAGE>
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                    ADVANCED MICRO DEVICES, INC.
+
+
+
+
+
+Date: July 24,1995              By:  /s/ Marvin Burkett
+     ---------------                 ------------------
+                                Marvin Burkett
+                                Senior Vice President,
+                                Chief Financial and
+                                Administrative Officer.
+ 
+                                Signing on behalf of the
+                                registrant and as the principal
+                                financial officer
+
+                                       14
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+                                 -------------
+
+<TABLE> 
+<CAPTION> 
+Exhibits
+- --------
+<S>            <C> 
+   3.1         Certificate of Incorporation as amended
+   3.2         Certificate of Elimination of $30.00 Convertible Exchangeable
+               Preferred Shares
+   3.3         Certificate of Elimination of Series A Junior Participating
+               Preferred Stock
+  27.1         Financial Data Schedule
+</TABLE> 
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<DESCRIPTION>CERTIFICATE OF INCORPORATION AS AMENDED
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 3.1
+ 
+                         CERTIFICATE OF INCORPORATION
+
+                                      of
+
+                         ADVANCED MICRO DEVICES, INC.
+
+                                  ---00000---
+
+      FIRST.  The name of the corporation is ADVANCED MICRO DEVICES, INC.
+
+      SECOND.  The address of its registered office in the State of Delaware is 
+No. 100 West Tenth Street, in the City of Wilmington, County of New Castle. The 
+name of its registered agent at such address is The Corporation Trust Company.
+
+      THIRD.  The nature of the business or purposes to be conducted or promoted
+is:
+      The development, manufacture and marketing of integrated circuits, 
+electronic components, and related products.
+
+      To engage in any lawful act or activity for which corporations may be 
+organized under the General Corporation Law of Delaware.
+
+<PAGE>
+ 
+      To manufacture, purchase or otherwise acquire, invest in, own, mortgage, 
+pledge, sell, assign and transfer or otherwise dispose of, trade, deal in and 
+deal with goods, wares and merchandise and personal property of every class and 
+description.
+
+      To acquire, and pay for in cash, stock or bonds of this corporation 
+or otherwise, the good will, rights, assets and property, and to undertake or 
+assume the whole  or any part of the obligations or liabilities of any person, 
+firm, association or corporation.
+
+      To acquire, hold, use, sell, assign, lease, grant licenses in respect of, 
+mortgage or otherwise dispose of letters patent of the United States or any 
+foreign country, patent rights, licenses and privileges, inventions, 
+improvements and processes, copyrights, trademarks and trade names, relating to 
+or useful in connection with any business of this corporation.
+
+      To acquire by purchase, subscription or otherwise, and to receive, hold, 
+own, guarantee, sell, assign, exchange, transfer, mortgage, pledge or otherwise 
+dispose of or deal in and with any of the shares of the capital stock, or any 
+voting trust certificates in respect of the shares of capital stock, scrip, 
+warrants, rights, bonds,
+<PAGE>
+ 
+debentures, notes, trust receipts, and other securities, obligations, choses in 
+action and evidences of indebtedness or interest issued or created by any 
+corporations, joint stock companies, syndicates, associations, firms, trusts or 
+persons, public or private, or by the government of the United States of 
+America, or by any foreign government, or by any state, territory, province, 
+municipality or other political subdivision or by any governmental agency, and 
+as owner thereof to possess and exercise all the rights, powers and privileges 
+of ownership, including the right to execute consents and vote thereon, and to 
+do any and all acts and things necessary or advisable for the preservation, 
+protection, improvement and enhancement in value thereof.
+
+      To borrow or raise moneys for any of the purposes of the corporation and, 
+from time to time without limit as to amount, to draw, make, accept, endorse, 
+execute and issue promissory notes, drafts, bills of exchange, warrants, bonds, 
+debentures and other negotiable or non-negotiable instruments and evidences of 
+indebtedness, and to secure the payment of any thereof and of the interest 
+thereon by mortgage upon or pledge, conveyance or assignment in trust of the 
+whole or any part of the property of the corporation, whether at the time owned 
+or thereafter
+<PAGE>
+ 
+acquired, and to sell, pledge or otherwise dispose of such bonds or other 
+obligations of the corporation for its corporate purposes.
+
+      To purchase, receive, take by grant, gift, devise, bequest or otherwise, 
+lease, or otherwise acquire, own, hold, improve, employ, use and otherwise deal 
+in and with real or personal property, or any interest therein, wherever 
+situated, and to sell, convey, lease, exchange, transfer or otherwise dispose 
+of, or mortgage or pledge, all or any of the corporation's property and assets, 
+or any interest therein, wherever situated.
+
+      In general, to possess and exercise all the powers and privileges granted 
+by the General Corporation Law of Delaware or by any other law of Delaware or by
+this Certificate of Incorporation together with any powers incidental thereto, 
+so far as such powers and privileges are necessary or convenient to the conduct,
+promotion or attainment of the business or purposes of the corporation.
+
+      The business and purposes specified in the foregoing clauses shall, except
+where otherwise expressed, be in nowise limited or restricted by reference to, 
+or inference from, the terms of any other clause in this certificate of 
+incorporation, but the business and pur-
+<PAGE>
+ 
+poses specified in each of the foregoing clauses of this article shall be 
+regarded as independent business and purposes.
+
+      FOURTH. The total number of shares of stock which the corporation shall 
+have authority to issue is five hundred thousand (500,000) and the par value of 
+each of such shares is Ten Cents ($.10) amounting in the aggregate to Fifty 
+Thousand Dollars ($50,000).
+
+      At all elections of directors of the corporation, each stockholder shall 
+be entitled to as many votes as shall equal the number of votes which (except 
+for such provision as to cumulative voting) he would be entitled to cast for 
+the election of directors with respect to his shares of stock multiplied by the 
+number of directors to be elected, and he may cast all of such votes for a 
+single director or may distribute them among the number to be voted for, or for 
+any two or more of them as he may see fit.
+
+      FIFTH. The name and mailing address of each incorporator is as follows:
+
+        NAME                                    MAILING ADDRESS
+        ----                                    ---------------
+   B. J. Consono                             100 West Tenth Street
+                                             Wilmington, Delaware
+<PAGE>
+ 
+        F. J. Obara, Jr.                     100 West Tenth Street
+                                             Wilmington, Delaware
+
+        J. L. Rivera                         100 West Tenth Street
+                                             Wilmington, Delaware
+
+      SIXTH. The corporation is to have perpetual existence.
+
+      SEVENTH. In furtherance and not in limitation of the powers conferred by 
+statute, the board of directors is expressly authorized:
+
+      To make, alter or repeal the by-laws of the corporation.
+
+      To authorize and cause to be executed mortgages and liens upon the real 
+and personal property of the corporation.
+
+      To set apart out of any of the funds of the corporation available for 
+dividends a reserve or reserves for any proper purpose and to abolish any such 
+reserve in the manner in which it was created.
+
+      By a majority of the whole board, to designate one or more committees, 
+each committee to consist of two or more of the directors of the corporation. 
+The board may designate one or more directors as alternate members of any 
+committee, who may replace any absent or disqualified member at any meeting of 
+the committee. Any such
+<PAGE>
+ 
+committee, to the extent provided in the resolution or in the by-laws of the 
+corporation, shall have and may exercise the powers of the board of directors in
+the management of the business and affairs of the corporation, and may authorize
+the seal of the corporation to be affixed to all papers which may require it; 
+provided, however, the by-laws may provide that in the absence or 
+disqualification of any member of such committee or committees, the member or 
+members thereof present at any meeting and not disqualified from voting, whether
+or not he or they constitute a quorum, may unanimously appoint another member of
+the board of directors to act at the meeting in the place of any such absent or 
+disqualified member.
+
+      When and as authorized by the affirmative vote of the holders of 
+two-thirds of the stock issued and outstanding having voting power given at a 
+stockholders' meeting duly called upon such notice as is required by statute, or
+when authorized by the written consent of the holders of two-thirds of the 
+voting stock issued and outstanding, to sell, lease or exchange all or 
+substantially all of the property and assets of the corporation, including its 
+good will and its corporate franchises, upon such terms and conditions and for 
+such consideration,
+
+<PAGE>
+ 
+which may consist in whole or in part of money or property including shares of 
+stock in, and/or other securities of, any other corporation or corporations, as 
+its board of directors shall deem expedient and for the best interests of the 
+corporation.
+
+      EIGHTH. Whenever a compromise or arrangement is proposed between this 
+corporation and its creditors or any class of them and/or between this 
+corporation and its stockholders or any class of them, any court of equitable 
+jurisdiction within the State of Delaware may, on the application in a summary 
+way of this corporation or of any creditor or stockholder thereof, or on the 
+application of any receiver or receivers appointed for this corporation under 
+the provisions of section 291 of Title 8 of the Delaware Code or on the 
+application of trustees in dissolution or of any receiver or receivers appointed
+for this corporation under the provisions of section 279 of Title 8 of the 
+Delaware Code order a meeting of the creditors or class of creditors, and/or of 
+the stockholders or class of stockholders of this corporation, as the case may 
+be, to be summoned in such manner as the said court directs. If a majority in 
+number representing three-fourths in value of the creditors or class of credi-
+
+<PAGE>
+ 
+tors, and/or of the stockholders or class of stockholders of this corporation, 
+as the case may be, agree to any compromise or arrangement and to any 
+reorganization of this corporation as consequence of such compromise or 
+arrangement, the said compromise or arrangement and the said reorganization 
+shall, if sanctioned by the court to which the said application has been made, 
+be binding on all the creditors or class of creditors, and/or on all the 
+stockholders or class of stockholders, of this corporation, as the case may be, 
+and also on this corporation.
+
+      NINTH. Any corporate action upon which a vote of stockholders is required 
+or permitted may be taken with the written consent of stockholders having not 
+less than fifty percent (50%) of all of the stock entitled to vote upon the 
+action if a meeting were held; provided that in no case shall the written 
+consent be by holders having less than the minimum percentage of the total vote 
+required by statute for the proposed corporate action and provided that prompt 
+notice be given to all stockholders of the taking of corporate action without a 
+meeting and by less than unanimous written consent.
+
+<PAGE>
+ 
+      TENTH. Meetings of stockholders may be held within or without the State of
+Delaware, as the by-laws may provide. The books of the corporation may be kept 
+(subject to any provision contained in the statutes) outside the State of 
+Delaware at such place or places as may be designated from time to time by the 
+board of directors or in the by-laws of the corporation. Elections of directors 
+need not be by written ballot unless the by-laws of the corporation shall so 
+provide.
+
+      ELEVENTH. The corporation reserves the right to amend, alter, change or 
+repeal any provision contained in this certificate  of incorporation, in the 
+manner now or hereafter prescribed by statute, and all rights conferred upon 
+stockholders herein are granted subject to this reservation.
+
+      WE, THE UNDERSIGNED, being each of the incorporators hereinbefore named, 
+for the purpose of forming a corporation pursuant to the General Corporation Law
+of the State of Delaware, do make this certificate, hereby declaring and 
+certifying that this is our act and deed and the facts herein stated are true, 
+and accordingly have hereunto set our hands this 1st day of May, 1969.
+
+                                                        B. J. Consono
+                                                        F. J. Obara, Jr.
+                                                        J. L. Rivera
+
+<PAGE>
+ 
+                           CERTIFICATE OF AMENDMENT
+                                      OF
+                         CERTIFICATE OF INCORPORATION
+
+                               * * * * * * * * *
+
+      Advanced Micro Devices, Inc., a corporation organized and existing under 
+and by virtue of the General Corporation Law of the State of Delaware, DOES 
+HEREBY CERTIFY;
+
+      FIRST: That at a meeting of the Board of Directors of Advanced Micro 
+Devices, Inc. resolutions were duly adopted setting forth a proposed amendment 
+to the Certificate of Incorporation of said corporation, declaring said 
+amendment to be advisable and calling a meeting of the shareholders of said 
+corporation for consideration thereof. The amended article is as follows:
+
+            "FOURTH. The total number of shares of stock which the corporation 
+shall have authority to issue is Two Hundred Fifty One Million (251,000,000) of 
+which Two Hundred Fifty Million (250,000,000) shares shall be Common Stock of 
+the par value of the One Cent ($0.01) per share and One Million (1,000,000) 
+shares shall be Serial Preferred Stock of the par value of Ten Cents ($0.10) per
+share."
+
+            "The designations and the powers, preferences and rights, and the 
+qualifications, limitations or restrictions thereof, of each class of stock of 
+the corporation shall be as follows:
+
+
+<PAGE>
+ 
+"(A) Serial Preferred Stock
+     ----------------------
+     (1) The Serial Preferred Stock may be issued from time to time in one or
+     more series and shall have such voting powers, designations, preferences
+     and relative, participating, optional or other special rights, and
+     qualifications, limitations or restrictions thereof, as may be fixed by
+     this Certificate of Incorporation or by resolution of the Board of
+     Directors providing for the issue of each such series. The Board of
+     Directors is vested with authority to fix variations in voting powers and
+     in any of the designations, preferences and relative, participating,
+     optional or other special rights and qualifications, limitations or
+     restrictions thereof as being between series of Serial Preferred Stock
+     including, without limitation, variations in the following:
+
+            (a) The distinctive designation of each series and the number of 
+     shares which shall constitute each series, which number may be increased
+     (except where otherwise provided by the Board of Directors in creating such
+     series) or decreased (but not below the number of shares thereof then
+     outstanding) from time to time by like action of the Board of Directors;
+
+            (b) The annual rate of dividends payable on shares of each series, 
+     the conditions upon which, and the dates when, such dividends shall be
+     payable and the dates (if any) from which dividends shall be cumulative;
+
+            (c) The time or times when and the price or prices at which shares 
+     of each series shall be redeemable;
+
+            (d) The obligation, if any, of the corporation to acquire shares of 
+     each series for retirement as a sinking fund;
+
+            (e) The granting, denial or limitation of voting rights of shares of
+     each series;
+
+            (f) The amount or amounts per share of each series payable in the 
+     event of any voluntary liquidation, dissolution or winding up of the 
+     corporation;
+
+            (g) The rights, if any, of the holders of shares of each series to 
+     convert such shares into or exchange such shares for Common Stock or shares
+     of any other series of Serial Preferred Stock and the terms and conditions
+     of such conversion or exchange, including any provisions for the subsequent
+     adjustment of any such conversion or exchange rights.
+
+<PAGE>
+ 
+      "Subject to variations in the voting powers, designations, preferences and
+relative, participating, optional or other special rights, and qualifications, 
+limitations or restrictions thereof as between series of Serial Preferred Stock 
+fixed by resolution of the Board of Directors in accordance with this Paragraph 
+A(1), each share of Serial Preferred Stock shall be equal to every other share 
+of Serial Preferred Stock.
+
+      "The voting powers, designations, preferences and relative, participating,
+optional or other special rights, and qualifications, limitations of 
+restrictions thereof, of the shares of each series of Serial Preferred Stock 
+shall, before the issuance of each series of Serial Preferred Stock, be set 
+forth in a certificate filed pursuant to the General Corporation Law of the 
+State of Delaware.
+
+"(B) Common Stock
+     ------------
+
+     (1) After the requirements with respect to preferential dividends upon all
+     classes and series of stock entitled thereto shall have been paid or
+     declared and set apart for payment and after the corporation shall have
+     complied with all requirements, if any, with respect to the setting aside
+     of sums as a sinking fund or for a redemption account on any class of
+     stock, then and not otherwise, the holders of Common Stock shall be
+     entitled to receive such dividends as may be declared from time to time by
+     the Board of Directors.
+
+     (2) After distribution in full of the preferential amounts to be
+     distributed to the holders of all classes and series of stock entitled
+     thereto in the event of a voluntary or involuntary liquidation, dissolution
+     or winding up of the corporation, the holders of the Common Stock shall be
+     entitled to receive all the remaining assets of the corporation.
+
+     (3) Each holder of Common Stock shall have one vote in respect of each
+     share of such stock held by him, subject, however, to such special voting
+     rights by class as are or may be granted to holders of Serial Preferred
+     Stock with respect to the election of a limited number of directors upon
+     default by the corporation in the payment of dividends of such Serial
+     Preferred Stock."
+
+     SECOND:  That, thereafter, an annual meeting of the shareholders of said 
+corporation was duly called and held, upon notice in accordance with Section 222
+of the General Corporation
+<PAGE>
+ 
+Law of the State of Delaware at which meeting the necessary number of shares as 
+required by statute were voted in favor of the amendment.
+
+      THIRD:  That said amendment was duly adopted in accordance with the 
+provisions of Section 242 of the General Corporation Law of the State of 
+Delaware. 
+
+      IN WITNESS WHEREOF, Advanced Micro Devices, Inc. has caused this 
+certificate to be signed by George M. Scalise, its Senior Vice President-Chief 
+Administrative Officer, and attested by Thomas W. Armstrong, its Assistant 
+Secretary this 1st day of October, 1985.
+
+                                              ADVANCED MICRO DEVICES, INC.
+
+
+
+
+
+                                        By:   /s/ George M. Scalise
+                                              ------------------------------
+                                                    George M. Scalise
+                                                  Senior Vice President
+                                               Chief Administrative Officer
+
+
+ATTEST:
+
+By:  /s/ Thomas W. Armstrong
+     --------------------------------
+            Thomas W. Armstrong
+            Assistant Secretary
+<PAGE>
+ 
+ 
+                           CERTIFICATE OF AMENDMENT
+                                      OF
+                         CERTIFICATE OF INCORPORATION
+
+                               * * * * * * * * *
+
+      Advanced Micro Devices, Inc., a corporation organized and existing under 
+and by virtue of the General Corporation Law of the state of Delaware, DOES 
+HEREBY CERTIFY:
+
+      FIRST: That at a meeting of the Board of Directors of Advanced Micro 
+Devices, Inc. resolutions were duly adopted setting forth proposed amendments
+to the Certificate of Incorporation of said corporation, declaring said 
+amendments to be advisable and calling a meeting of the shareholders of said 
+corporation for consideration thereof. The amended articles are as follows:
+
+            "THIRD. The nature of the business or purposes to be conducted or 
+promoted is to engage in any lawful act or activity for which corporations may 
+be organized under the General Corporation Law of Delaware.
+
+            "SIXTH. In furtherance and not in limitation of the powers conferred
+by statute, the board of directors is expressly authorized:
+<PAGE>
+ 
+To make, alter or repeal the Bylaws of the corporation.
+
+When and as authorized by the affirmative vote of the holders of two-thirds of 
+the stock issued and outstanding having voting power given at a stockholders' 
+meeting duly called upon such notice as is required by statute, or when 
+authorized by the written consent of the holders of two-thirds of the voting 
+stock issued and outstanding, to sell, lease or exchange all or substantially 
+all of the property and assets of the corporation, including its good will and 
+its corporate franchises, upon such terms and conditions and for such 
+consideration, which may consist in whole or in part of money or property 
+including shares of stock in, and/or other securities of, any other corporation 
+or corporations, as its board of directors shall deem expedient and for the best
+interests of the corporation.
+
+"SEVENTH. Meetings of stockholders may be held within or without the State of 
+Delaware, as the Bylaws may provide. The books of the corporation may be kept 
+(subject to any provision contained in the statutes) outside the State of
+
+<PAGE>
+ 
+Delaware at such place or places as may be designated from time to time by the 
+board of directors or in the Bylaws of the corporation. Elections of directors 
+need not be by written ballot unless the Bylaws of the corporation shall so  
+provide.
+
+EIGHTH. The corporation reserves the right to amend, alter, change or repeal any
+provision contained in this certificate of incorporation, in the manner now or
+hereafter prescribed by statute, and all rights conferred upon stockholders
+herein are granted subject to this reservation.
+
+NINTH. A director of the corporation shall not be personally liable to the
+corporation or its stockholders for monetary damages for breach of fiduciary
+duty as a director, except liability (i) for any breach of the director's duty
+of loyalty to the corporation or its stockholders, (ii) for acts or omissions
+not in good faith or which involve intentional misconduct or a knowing violation
+of law, (iii) under Section 174 of the Delaware General Corporation Law, or (iv)
+for any transaction from which the director derived an improper personal
+benefit.
+
+
+<PAGE>
+ 
+If the Delaware General Corporation Law hereafter is amended to authorize the 
+further elimination or limitation of the liability of directors, then the 
+liability of a director of the corporation, in addition to the limitation on 
+personal liability provided herein, shall be limited to the fullest extent 
+permitted by the amended Delaware General Corporation Law. Any repeal or 
+modification of this Article by the stockholders of the corporation shall be 
+prospective only, and shall not adversely affect any limitation on the personal
+liability of a director of the corporation for acts or omissions of such 
+director occurring prior to such amendment.
+
+      SECOND: That Articles TENTH and ELEVENTH have been deleted from the 
+Certificate.
+
+      THIRD: That, thereafter, an annual meeting of the shareholders of said 
+corporation was duly called and held, upon notice in accordance with Section 222
+of the General Corporation Law of the State of Delaware at which meeting the 
+necessary number of shares as required by statute were voted in favor of the 
+amendments.
+
+      FOURTH: That said amendments were duly adopted in accordance with the 
+provisions of Section 242 of the General Corporation Law of the State of 
+Delaware.
+<PAGE>
+ 
+      IN WITNESS WHEREOF, Advanced Micro Devices, Inc. has caused this 
+certificate to be signed by Anthony B. Holbrook, its President, and attested by 
+Richard Previte, its Secretary this 11th day of September, 1987.
+
+                                    ADVANCED MICRO DEVICES, INC.
+
+
+
+
+                                        /s/ ANTHONY B. HOLBROOK    
+                               By: ___________________________________
+                                           Anthony B. Holbrook
+                                                President
+
+
+
+ATTEST:
+
+            /s/ RICHARD PREVITE 
+By:  ______________________________________
+                Richard Previte
+                   Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.2
+<SEQUENCE>3
+<DESCRIPTION>CERT OF ELIMINATION OF CONV. PREFERRED STK
+<TEXT>
+
+<PAGE>
+ 
+                                                                     EXHIBIT 3.2
+
+                          CERTIFICATE OF ELIMINATION
+                                      OF
+                        $30.00 CONVERTIBLE EXCHANGEABLE
+                               PREFERRED SHARES
+                                      OF
+                         ADVANCED MICRO DEVICES, INC.
+
+
+     ADVANCED MICRO DEVICES, INC., a corporation organized and existing under 
+the General Corporation Law of the State of Delaware,
+
+     DOES HEREBY CERTIFY THAT:
+
+     FIRST:  At a meeting of the Board of Directors of ADVANCED MICRO DEVICES, 
+INC., resolutions were duly adopted setting forth the proposed elimination of 
+the series of Preferred Stock designated as $30.00 Convertible Exchangeable 
+Preferred Shares as set forth herein:
+
+           RESOLVED, that no shares of the series of Preferred Stock designated 
+     as $30.00 Convertible Exchangeable Preferred Shares are outstanding and
+     none will be issued; and be it
+
+           RESOLVED FURTHER, that a Certificate of Elimination be executed, 
+     which shall have the effect when filed in Delaware of eliminating from the 
+     Certificate of Incorporation the Certificate of Powers, Designations, 
+     Preferences and Rights of the $30.00 Convertible Exchangeable Preferred
+     Shares filed in the Office of the Secretary of State of Delaware on March
+     27, 1987.
+
+     SECOND:  None of the authorized shares of the series of Preferred Stock 
+designated as $30.00 Convertible Exchangeable Preferred are outstanding and none
+will be issued.
+
+     THIRD:  In accordance with the provisions of Section 151 of the General 
+Corporation Law of the State of Delaware, the Certificate of Incorporation is 
+hereby amended to eliminate the Certificate of Powers, Designations, Preferences
+and Rights of the $30.00 Convertible Exchangeable Preferred Shares filed in the 
+Office of the Secretary of State of Delaware on March 27, 1987.
+
+<PAGE>
+ 
+     IN WITNESS THEREOF, said Advanced Micro Devices, Inc. has caused this 
+certificate to be signed by Marvin D. Burkett, its Senior Vice President, Chief 
+Administrative Officer, Chief Financial Officer and Treasurer, this 9th day of 
+May, 1995.
+
+
+                                       ADVANCED MICRO DEVICES, INC.
+
+
+                                       By  /s/ Marvin D. Burkett
+                                         ---------------------------------------
+                                               MARVIN D. BURKETT
+                                         Senior Vice President,
+                                         Chief Administrative Officer,
+                                         Chief Financial Officer and Treasurer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.3
+<SEQUENCE>4
+<DESCRIPTION>CERT OF ELIMINATION OF SERIES A PREFERRED STK
+<TEXT>
+
+<PAGE>
+ 
+                                                                     EXHIBIT 3.3
+ 
+                          CERTIFICATE OF ELIMINATION
+                                      OF
+                         SERIES A JUNIOR PARTICIPATING
+                                PREFERRED STOCK
+                                      OF
+                         ADVANCED MICRO DEVICES, INC.
+
+
+     ADVANCED MICRO DEVICES, INC., a corporation organized and existing under 
+the General Corporation Law of the State of Delaware,
+
+     DOES HEREBY CERTIFY THAT:
+
+     FIRST:  At a meeting of the Board of Directors of ADVANCED MICRO DEVICES, 
+INC., resolutions were duly adopted setting forth the proposed elimination of 
+the series of Preferred Stock designated Series A Junior Participating
+Preferred Stock as set forth herein:
+
+           RESOLVED, that no shares of the series of Preferred Stock designated 
+     as Series A Junior Participating Preferred Stock are outstanding and none
+     will be issued; and be it
+
+           RESOLVED FURTHER, that a Certificate of Elimination be executed, 
+     which shall have the effect when filed in Delaware of eliminating from the 
+     Certificate of Incorporation the Certificate of Designation, Preferences
+     and Rights of the Series A Junior Participating Preferred Stock filed in
+     the Office of the Secretary of State of Delaware on February 21, 1990.
+
+     SECOND:  None of the authorized shares of the series of Preferred Stock 
+designated as Series A Junior Participating Preferred Stock are outstanding and
+none will be issued.
+
+     THIRD:  In accordance with the provisions of Section 151 of the General 
+Corporation Law of the State of Delaware, the Certificate of Incorporation is 
+hereby amended to eliminate the Certificate of Designation, Preferences
+and Rights of the Series A Junior Participating Preferred Stock.
+
+<PAGE>
+ 
+     IN WITNESS THEREOF, said Advanced Micro Devices, Inc. has caused this 
+certificate to be signed by Marvin D. Burkett, its Senior Vice President, Chief 
+Administrative Officer, Chief Financial Officer and Treasurer, this 9th day of 
+May, 1995.
+
+
+                                       ADVANCED MICRO DEVICES, INC.
+
+
+                                       By  /s/ Marvin D. Burkett
+                                         ---------------------------------------
+                                               MARVIN D. BURKETT
+                                         Senior Vice President,
+                                         Chief Administrative Officer,
+                                         Chief Financial Officer and Treasurer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+<LEGEND> THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED STATEMENTS OF INCOME AND BALANCE SHEETS AND IS QUALIFIED IN ITS 
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-1995
+<PERIOD-END>                                JUL-2-1995
+<CASH>                                         261,074
+<SECURITIES>                                   287,886
+<RECEIVABLES>                                  375,551
+<ALLOWANCES>                                   (9,192)
+<INVENTORY>                                    133,204
+<CURRENT-ASSETS>                             1,193,640
+<PP&E>                                       2,691,685
+<DEPRECIATION>                             (1,206,603)
+<TOTAL-ASSETS>                               2,901,119
+<CURRENT-LIABILITIES>                          686,605
+<BONDS>                                              0
+<COMMON>                                         1,038
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                   1,947,735
+<TOTAL-LIABILITY-AND-EQUITY>                 2,901,119
+<SALES>                                      1,245,245
+<TOTAL-REVENUES>                             1,246,310
+<CGS>                                          591,731
+<TOTAL-COSTS>                                  591,731
+<OTHER-EXPENSES>                               387,842
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   1
+<INCOME-PRETAX>                                280,106
+<INCOME-TAX>                                    92,435
+<INCOME-CONTINUING>                            188,786
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   188,786
+<EPS-PRIMARY>                                     1.81
+<EPS-DILUTED>                                     1.76
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

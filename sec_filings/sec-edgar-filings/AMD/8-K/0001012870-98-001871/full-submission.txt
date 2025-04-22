@@ -1,0 +1,326 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VCW2SAzEaQ6p34cbtd90YnZAIDnUh/I/iZdlNKcJ+nOMXGz9VHcSbrHMrrrhi5LJ
+ JJuaU3AvAY9dFOIhoLpyGQ==
+
+<SEC-DOCUMENT>0001012870-98-001871.txt : 19980723
+<SEC-HEADER>0001012870-98-001871.hdr.sgml : 19980723
+ACCESSION NUMBER:		0001012870-98-001871
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980720
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		19980722
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		98669848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+               Current Report Pursuant to Section 13 or 15(d) of
+                      The Securities Exchange Act of 1934
+
+
+        Date of Report (date of earliest event reported): July 20, 1998
+
+
+                          ADVANCED MICRO DEVICES, INC.
+                          ----------------------------
+             (Exact name of registrant as specified in its charter)
+
+ 
+ 
+          DELAWARE                    1-7882                94-1692300
+          --------                    ------                ----------
+(State or other jurisdiction       (Commission           (I.R.S. Employer
+     of incorporation)             File Number)         Identification No.)
+ 
+
+          One AMD Place,
+          P.O. Box 3453
+          Sunnyvale, California                              94088-3453
+          ---------------------                              ----------
+(address of principal executive offices)                     (Zip Code)
+
+
+Registrant's telephone number,
+ including area code:                                        (408) 732-2400
+                                                              -------------
+
+
+                                  Page 1 of 4
+<PAGE>
+ 
+Item 5.  Other Events.
+- -------  -------------
+
+          On July 20, 1998, Advanced Micro Devices, Inc. and Motorola's
+Semiconductor Products Sector announced plans for a far-reaching strategic
+alliance that includes a patent cross-license agreement and collaborative
+development of common process technology platforms for microprocessors and
+embedded flash memory.  The full text of the press release is set forth in
+Exhibit 99 attached hereto and is incorporated in this report as if fully set
+forth herein.
+
+
+
+Item 7.  Financial Statements and Exhibits.
+- -------  ----------------------------------
+
+         (c)  Exhibits:
+
+         99   Press release dated July 20, 1998
+
+                                       2
+<PAGE>
+ 
+                                   SIGNATURES
+                                   ----------
+                                        
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                              ADVANCED MICRO DEVICES, INC.
+                                     (Registrant)
+
+
+
+Date:  July 21, 1998          By: /s/ W. J. Sanders III
+                                 ---------------------------------------
+                                    W. J. Sanders III
+                                    Chairman and Chief Executive Officer
+
+                                       3
+<PAGE>
+ 
+                                 Exhibit Index
+                                 -------------
+
+
+Exhibit Number            Exhibit
+- --------------            -------
+ 
+
+     99        Press release dated July 20, 1998
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<DESCRIPTION>PRESS RELEASE DATED JULY 20, 1998
+<TEXT>
+
+<PAGE>
+ 
+                                                                      EXHIBIT 99
+
+
+                                                                       CONTACTS:
+                                                                     Scott Allen
+                                                                             AMD
+                                                                PUBLIC RELATIONS
+                                                                  (408) 749-3311
+
+                                                                    KEN PHILLIPS
+                                                                        MOTOROLA
+                                                                PUBLIC RELATIONS
+                                                                  (602) 952-3852
+
+
+
+                 AMD AND MOTOROLA ANNOUNCE PLANS FOR STRATEGIC
+                              TECHNOLOGY ALLIANCE
+
+           -Companies Intend To Cross-License Patents and Collaborate
+        on Process Technology Development for Logic and Embedded Flash-
+
+
+     SUNNYVALE, CA--July 20, 1998--Motorola's Semiconductor Products Sector
+  (NYSE: MOT) and Advanced Micro Devices (NYSE: AMD) today announced plans for a
+  far-reaching strategic alliance that includes a patent cross-license agreement
+  and collaborative development of common process technology platforms for
+  microprocessors and embedded flash memory.
+
+     Under the terms of the planned seven-year agreement, Motorola will license
+  its current copper interconnect technology and High Performance Logic Process
+  (HiPerMOS) to AMD.  The companies will collaborate on the development of
+  future logic process technology platforms featuring copper interconnects.
+  These advanced process technology platforms will be used to build powerful
+  microprocessors: PowerPC(TM) processors for Motorola and K86(TM) Microsoft
+  Windows compatible processors for AMD.  Microprocessors featuring clock speeds
+  of one gigahertz and higher will require copper interconnect technology.
+
+                                     -more-
+<PAGE>
+ 
+                                       2
+                                        
+     In turn, AMD will license its flash-memory technology to Motorola, and the
+two companies will co-develop process technology for embedded flash.  AMD is a
+leading supplier of low voltage, high density stand-alone flash devices;
+Motorola has demonstrated leadership in flash memory for embedded applications.
+Motorola expects the agreement to accelerate its embedded flash leadership and
+enhance its position as the world's number one supplier of embedded solutions.
+Motorola also will receive rights to use certain networking technology from AMD.
+
+     The collaborative development of process technologies will be undertaken
+through jointly staffed programs in Austin, TX and Sunnyvale, CA.  AMD and
+Motorola believe the benefits will include improved time-to-market across
+multiple product lines and substantially increased leverage on research and
+development spending.  Both companies expect to begin incorporating the initial
+results of this combined technology development in their respective
+manufacturing operations next year.
+
+     "Process technology is the driving force that propels semiconductor
+industry growth," said W.J. Sanders III, AMD's chairman and chief executive
+officer.  "Cutting-edge process technology is essential for industry leadership.
+Using a jointly developed, common process technology platform will allow
+Motorola and AMD to manufacture the world's most powerful processors for our
+target markets.
+
+     "Copper interconnect technology is necessary to continue to increase
+processor speed and performance and represents a key element in our 'Gigahertz
+2000' goal," Sanders continued.  "Our first co-developed logic technology,
+HiPerMOS 6L, will enable us to produce gigahertz AMD-K7(TM) microprocessors in
+our Dresden megafab in the year 2000.  Collaborating with an industry leader
+such as Motorola will put AMD on equal footing with the best of the best in
+logic process technology and in the lead in embedded flash memory technology."
+
+     "This alliance is critical to Motorola's recently announced initiative to
+quickly provide complete systems on chips," said Hector de J. Ruiz, Ph.D.,
+president of Motorola's Semiconductor Products Sector.  "AMD provides an
+intellectual property (IP) portfolio, particularly in networking solutions, that
+complements Motorola's own DigitalDNA(TM) embedded solutions.  Motorola will
+leverage its own IP and access to IP from other companies such as AMD to enable
+the best possible system-level design for customers.
+
+                                     -more-
+<PAGE>
+ 
+                                       3
+
+     "System-level design incorporates software and hardware technology,
+methodology and industry-based reuse standards to combine blocks of IP onto a
+single chip or substrate," Ruiz continued.  "This offers developers flexibility,
+performance, cost and time-to-market benefits.  AMD's expertise in flash memory
+and networking will enable us to provide enhanced solutions for our customers
+across the consumer, networking and computing, transportation and wireless
+communications industries."
+
+ABOUT PROCESS TECHNOLOGY, COPPER, FLASH
+
+     Process technology, essentially a recipe for fabricating semiconductors,
+refers to the systematic linkage of methods, materials and equipment used in
+wafer fabrication plants to produce microchips such as microprocessors, embedded
+microprocessors and microcontrollers, and memory devices.  Copper interconnect
+is the next-generation development in chip manufacturing that replaces aluminum
+and other metals, enabling manufacturers to produce higher speed devices with
+smaller feature sizes than currently available.  Flash memory, a type of non-
+volatile memory that retains data when power is turned off, allows greater
+flexibility in programming or reprogramming applications, and faster development
+of customized products.
+
+ABOUT MOTOROLA
+
+     As the world's number one producer of embedded processors, Motorola's
+Semiconductor Products Sector offers multiple DigitalDNA solutions which enable
+its customers in the consumer, networking and computing, transportation, and
+wireless communications markets, to create new business opportunities.
+Motorola's semiconductor sales were US$8 billion in 1997.
+
+     In the global marketplace, Motorola is also one of the leading providers of
+wireless communications, advanced electronic systems, components and services.
+Major equipment businesses include cellular telephone, two-way radio, paging and
+data communications, personal communications, automotive, defense and space
+electronics and computers.  Corporate sales in 1997 were US$29.8 billion.
+
+                                     -more-
+<PAGE>
+ 
+                                       4
+
+ABOUT AMD
+
+     AMD is a global supplier of integrated circuits for the personal and
+networked computer and communications markets.  AMD produces AMD-K6(R)and other
+processors, flash memories, programmable logic devices, and products for
+communications and networking applications.  Headquartered in Sunnyvale,
+California, AMD had revenues of
+US$2.4 billion in 1997.
+
+                                      ###
+
+CAUTIONARY STATEMENT
+
+     This news release contains forward-looking statements regarding Motorola's
+flash technology and AMD's microprocessors that involve risks and uncertainties
+that could cause actual results to differ materially from current plans and
+expectations.  These risks include the ability of Motorola to accelerate and
+enhance market position; each company's ability to improve time-to-market of its
+products and achieve positive affects on expenses; whether AMD will successfully
+commence manufacturing in Dresden as currently scheduled; timely development and
+introduction of the combined technology and new products using the new
+technology and market acceptance of new products; the ability to produce higher
+performance processors; AMD's ability to enhance its market position in logic
+process technology and embedded flash memory technology; Motorola's ability to
+quickly provide complete systems on chips; whether the technology alliance
+between Motorola and AMD will result in the expected benefits and be successful;
+the effect of changing worldwide economic conditions; and such risks and
+uncertainties detailed from time to time in each company's SEC reports.
+
+
+POWERPC IS A TRADEMARK OF IBM
+DIGITALDNA IS A TRADEMARK OF MOTOROLA
+K86 AND AMD-K7 ARE TRADEMARKS OF ADVANCED MICRO DEVICES, INC.
+AMD-K6, AMD, the AMD logo and combinations thereof are registered trademarks of
+Advanced Micro Devices, Inc.
+Microsoft and Windows are registered trademarks of Microsoft Corp.
+
+
+EDITOR'S NOTE: A tape recorded playback is available in the U.S. via 1-800-633-
+8284 and via 303-248-1201 (U.S.) beginning at 1:00 p.m. U.S. Pacific Daylight
+Time.  The recording will remain available until Thursday, July 23.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

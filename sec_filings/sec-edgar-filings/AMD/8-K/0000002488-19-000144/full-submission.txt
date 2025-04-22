@@ -1,0 +1,2589 @@
+<SEC-DOCUMENT>0000002488-19-000144.txt : 20190906
+<SEC-HEADER>0000002488-19-000144.hdr.sgml : 20190906
+<ACCEPTANCE-DATETIME>20190906161127
+ACCESSION NUMBER:		0000002488-19-000144
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20190903
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20190906
+DATE AS OF CHANGE:		20190906
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		191079776
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2485 AUGUSTINE DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		(408) 749-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		2485 AUGUSTINE DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>amdform8kequitysalesse.htm
+<DESCRIPTION>8-K
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!--p:b9975d02e5bb4571b7ccd2762f529eca,x:92ad6a9b65504a869ea21bbd5f9879bc-->
+<!-- Document created using Wdesk  -->
+<!-- Copyright 2019 Workiva -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:schedoi-fednote="http://fasb.org/dis/schedoi-fednote/2019-01-31" xmlns:fs-interest="http://fasb.org/dis/fs-interest/2019-01-31" xmlns:sfp-ibo="http://fasb.org/stm/sfp-ibo/2019-01-31" xmlns:sfp-sbo="http://fasb.org/stm/sfp-sbo/2019-01-31" xmlns:sic-std="http://xbrl.sec.gov/sic-std/2011-01-31" xmlns:stpr-std="http://xbrl.sec.gov/stpr-std-std-std/2018-01-31" xmlns:currency-ent-std="http://xbrl.sec.gov/currency-ent-std/2019-01-31" xmlns:lea="http://fasb.org/dis/lea/2019-01-31" xmlns:ctbl="http://fasb.org/dis/ctbl/2019-01-31" xmlns:guar="http://fasb.org/dis/guar/2019-01-31" xmlns:ru="http://fasb.org/dis/ru/2019-01-31" xmlns:stpr-all="http://xbrl.sec.gov/stpr-all-all-all/2018-01-31" xmlns:leas="http://fasb.org/dis/leas/2019-01-31" xmlns:sfp-clreo="http://fasb.org/stm/sfp-clreo/2019-01-31" xmlns:iaoi="http://fasb.org/dis/iaoi/2019-01-31" xmlns:soi-ins="http://fasb.org/stm/soi-ins/2019-01-31" xmlns:country-ent-std="http://xbrl.sec.gov/country-ent-std/2017-01-31" xmlns:country="http://xbrl.sec.gov/country/2017-01-31" xmlns:fs-insa="http://fasb.org/dis/fs-insa/2019-01-31" xmlns:naics="http://xbrl.sec.gov/naics/2017-01-31" xmlns:cce="http://fasb.org/dis/cce/2019-01-31" xmlns:inv="http://fasb.org/dis/inv/2019-01-31" xmlns:naics-ent-std="http://xbrl.sec.gov/naics-ent-std/2017-01-31" xmlns:srt-std="http://fasb.org/srt-std/2019-01-31" xmlns:stpr-ent-all="http://xbrl.sec.gov/stpr-ent-all-all-all/2018-01-31" xmlns:stpr-ent-std="http://xbrl.sec.gov/stpr-ent-std-std-std/2018-01-31" xmlns:schedoi-iiaa="http://fasb.org/dis/schedoi-iiaa/2019-01-31" xmlns:us-arcroles="http://fasb.org/us-arcroles/2019-01-31" xmlns:dccpoa="http://fasb.org/dis/dccpoa/2019-01-31" xmlns:soi-sbi="http://fasb.org/stm/soi-sbi/2019-01-31" xmlns:us-gaap-all="http://fasb.org/us-gaap-all/2019-01-31" xmlns:scf-sd="http://fasb.org/stm/scf-sd/2019-01-31" xmlns:ceclcalc3l="http://fasb.org/dis/ceclcalc3l/2019-01-31" xmlns:dei-ent-all="http://xbrl.sec.gov/dei-ent-all/2019-01-31" xmlns:deprecated="http://www.xbrl.org/2009/arcrole/deprecated" xmlns:naics-all="http://xbrl.sec.gov/naics-all/2017-01-31" xmlns:re="http://fasb.org/dis/re/2019-01-31" xmlns:srt-types="http://fasb.org/srt-types/2019-01-31" xmlns:reorg="http://fasb.org/dis/reorg/2019-01-31" xmlns:invco="http://fasb.org/dis/invco/2019-01-31" xmlns:currency-ent-all="http://xbrl.sec.gov/currency-ent-all/2019-01-31" xmlns:currency-std="http://xbrl.sec.gov/currency-std/2019-01-31" xmlns:currency-ent-dep="http://xbrl.sec.gov/currency-ent-dep/2019-01-31" xmlns:aro="http://fasb.org/dis/aro/2019-01-31" xmlns:exch="http://xbrl.sec.gov/exch/2019-01-31" xmlns:ocpfs="http://fasb.org/dis/ocpfs/2019-01-31" xmlns:currency="http://xbrl.sec.gov/currency/2019-01-31" xmlns:naics-std="http://xbrl.sec.gov/naics-std/2017-01-31" xmlns:srt-all="http://fasb.org/srt-all/2019-01-31" xmlns:codification-part="http://fasb.org/codification-part/2019-01-31" xmlns:srt="http://fasb.org/srt/2019-01-31" xmlns:deprecated1="http://www.xbrl.org/2009/role/deprecated" xmlns:sec-re="http://fasb.org/dis/sec-re/2019-01-31" xmlns:soi-int="http://fasb.org/stm/soi-int/2019-01-31" xmlns:emjv="http://fasb.org/dis/emjv/2019-01-31" xmlns:sec-suppc="http://fasb.org/dis/sec-suppc/2019-01-31" xmlns:equity="http://fasb.org/dis/equity/2019-01-31" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:se="http://fasb.org/dis/se/2019-01-31" xmlns:crcrb="http://fasb.org/dis/crcrb/2019-01-31" xmlns:edco="http://fasb.org/dis/edco/2019-01-31" xmlns:te="http://fasb.org/dis/te/2019-01-31" xmlns:dei-all="http://xbrl.sec.gov/dei-all/2019-01-31" xmlns:fs-bd="http://fasb.org/dis/fs-bd/2019-01-31" xmlns:invest-all="http://xbrl.sec.gov/invest-all/2013-01-31" xmlns:hco="http://fasb.org/dis/hco/2019-01-31" xmlns:fs-bt="http://fasb.org/dis/fs-bt/2019-01-31" xmlns:us-roles="http://fasb.org/us-roles/2019-01-31" xmlns:dr="http://fasb.org/dis/dr/2019-01-31" xmlns:ero="http://fasb.org/dis/ero/2019-01-31" xmlns:country-ent-all="http://xbrl.sec.gov/country-ent-all/2017-01-31" xmlns:schedoi-oocw="http://fasb.org/dis/schedoi-oocw/2019-01-31" xmlns:cecl="http://fasb.org/dis/cecl/2019-01-31" xmlns:rpd="http://fasb.org/dis/rpd/2019-01-31" xmlns:schedoi-sumhold="http://fasb.org/dis/schedoi-sumhold/2019-01-31" xmlns:ceclcalc2="http://fasb.org/dis/ceclcalc2/2019-01-31" xmlns:othliab="http://fasb.org/dis/othliab/2019-01-31" xmlns:soi-egm="http://fasb.org/stm/soi-egm/2019-01-31" xmlns:schedoi-shorthold="http://fasb.org/dis/schedoi-shorthold/2019-01-31" xmlns:soi="http://fasb.org/stm/soi/2019-01-31" xmlns:diha="http://fasb.org/dis/diha/2019-01-31" xmlns:debt="http://fasb.org/dis/debt/2019-01-31" xmlns:schedoi-hold="http://fasb.org/dis/schedoi-hold/2019-01-31" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:invest-std="http://xbrl.sec.gov/invest-std/2013-01-31" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:us-gaap-ent-std="http://fasb.org/us-gaap-ent-std/2019-01-31" xmlns:bc="http://fasb.org/dis/bc/2019-01-31" xmlns:sic-ent-all="http://xbrl.sec.gov/sic-ent-all/2011-01-31" xmlns:exch-ent-std="http://xbrl.sec.gov/exch-ent-std/2019-01-31" xmlns:invest-ent-all="http://xbrl.sec.gov/invest-ent-all/2013-01-31" xmlns:rcc="http://fasb.org/dis/rcc/2019-01-31" xmlns:rd="http://fasb.org/dis/rd/2019-01-31" xmlns:sfp-ucreo="http://fasb.org/stm/sfp-ucreo/2019-01-31" xmlns:eui="http://fasb.org/dis/eui/2019-01-31" xmlns:dei="http://xbrl.sec.gov/dei/2019-01-31" xmlns:ap="http://fasb.org/dis/ap/2019-01-31" xmlns:soi-reit="http://fasb.org/stm/soi-reit/2019-01-31" xmlns:fs-mort="http://fasb.org/dis/fs-mort/2019-01-31" xmlns:sec-reins="http://fasb.org/dis/sec-reins/2019-01-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sec-cndfir="http://fasb.org/dis/sec-cndfir/2019-01-31" xmlns:sr="http://fasb.org/dis/sr/2019-01-31" xmlns:currency-all="http://xbrl.sec.gov/currency-all/2019-01-31" xmlns:scf-dbo="http://fasb.org/stm/scf-dbo/2019-01-31" xmlns:fs-fhlb="http://fasb.org/dis/fs-fhlb/2019-01-31" xmlns:crcpb="http://fasb.org/dis/crcpb/2019-01-31" xmlns:dei-ent-std="http://xbrl.sec.gov/dei-ent-std/2019-01-31" xmlns:us-types="http://fasb.org/us-types/2019-01-31" xmlns:scf-inv="http://fasb.org/stm/scf-inv/2019-01-31" xmlns:scf-indira="http://fasb.org/stm/scf-indira/2019-01-31" xmlns:bsoff="http://fasb.org/dis/bsoff/2019-01-31" xmlns:exch-ent-all="http://xbrl.sec.gov/exch-ent-all/2019-01-31" xmlns:oi="http://fasb.org/dis/oi/2019-01-31" xmlns:soi-indira="http://fasb.org/stm/soi-indira/2019-01-31" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:schedoi-otsh="http://fasb.org/dis/schedoi-otsh/2019-01-31" xmlns:sfp-dbo="http://fasb.org/stm/sfp-dbo/2019-01-31" xmlns:cc="http://fasb.org/dis/cc/2019-01-31" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:crcsbp="http://fasb.org/dis/crcsbp/2019-01-31" xmlns:disops="http://fasb.org/dis/disops/2019-01-31" xmlns:reference="http://www.xbrl.org/2009/role/reference" xmlns:cn-part="http://fasb.org/cn-part/2019-01-31" xmlns:us-gaap="http://fasb.org/us-gaap/2019-01-31" xmlns:srt-roles="http://fasb.org/srt-roles/2019-01-31" xmlns:country-std="http://xbrl.sec.gov/country-std/2017-01-31" xmlns:net="http://www.xbrl.org/2009/role/net" xmlns:scf-indir="http://fasb.org/stm/scf-indir/2019-01-31" xmlns:rlnro="http://fasb.org/dis/rlnro/2019-01-31" xmlns:ts="http://fasb.org/dis/ts/2019-01-31" xmlns:us-gaap-std="http://fasb.org/us-gaap-std/2019-01-31" xmlns:naics-ent-all="http://xbrl.sec.gov/naics-ent-all/2017-01-31" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:scf-dir="http://fasb.org/stm/scf-dir/2019-01-31" xmlns:dei-std="http://xbrl.sec.gov/dei-std/2019-01-31" xmlns:ni="http://fasb.org/dis/ni/2019-01-31" xmlns:sec-mort="http://fasb.org/dis/sec-mort/2019-01-31" xmlns:fifvd="http://fasb.org/dis/fifvd/2019-01-31" xmlns:otherexp="http://fasb.org/dis/otherexp/2019-01-31" xmlns:scf-re="http://fasb.org/stm/scf-re/2019-01-31" xmlns:sec-vq="http://fasb.org/dis/sec-vq/2019-01-31" xmlns:sec-sum="http://fasb.org/dis/sec-sum/2019-01-31" xmlns:exch-std="http://xbrl.sec.gov/exch-std/2019-01-31" xmlns:invest="http://xbrl.sec.gov/invest/2013-01-31" xmlns:ir="http://fasb.org/dis/ir/2019-01-31" xmlns:sheci="http://fasb.org/stm/sheci/2019-01-31" xmlns:foct="http://fasb.org/dis/foct/2019-01-31" xmlns:soc="http://fasb.org/stm/soc/2019-01-31" xmlns:scf-sbo="http://fasb.org/stm/scf-sbo/2019-01-31" xmlns:inctax="http://fasb.org/dis/inctax/2019-01-31" xmlns:ppe="http://fasb.org/dis/ppe/2019-01-31" xmlns:country-all="http://xbrl.sec.gov/country-all/2017-01-31" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:con="http://fasb.org/dis/con/2019-01-31" xmlns:sic-ent-std="http://xbrl.sec.gov/sic-ent-std/2011-01-31" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:invest-ent-std="http://xbrl.sec.gov/invest-ent-std/2013-01-31" xmlns:fs-ins="http://fasb.org/dis/fs-ins/2019-01-31" xmlns:eps="http://fasb.org/dis/eps/2019-01-31" xmlns:stpr="http://xbrl.sec.gov/stpr/2018-01-31" xmlns:iago="http://fasb.org/dis/iago/2019-01-31" xmlns:pay="http://fasb.org/dis/pay/2019-01-31" xmlns:sic="http://xbrl.sec.gov/sic/2011-01-31" xmlns:tin-part="http://fasb.org/tin-part/2019-01-31" xmlns:acec="http://fasb.org/dis/acec/2019-01-31" xmlns:amd="http://www.amd.com/20190903" xmlns:us-gaap-entryPoint-all="http://fasb.org/us-gaap-entryPoint-all/2019-01-31" xmlns:nt="http://fasb.org/dis/nt/2019-01-31" xmlns:spc="http://fasb.org/stm/spc/2019-01-31" xmlns:exch-all="http://xbrl.sec.gov/exch-all/2019-01-31" xmlns:ides="http://fasb.org/dis/ides/2019-01-31" xmlns:sec-supins="http://fasb.org/dis/sec-supins/2019-01-31" xmlns:sic-all="http://xbrl.sec.gov/sic-all/2011-01-31" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:regop="http://fasb.org/dis/regop/2019-01-31" xmlns:sfp-cls="http://fasb.org/stm/sfp-cls/2019-01-31" xmlns:com="http://fasb.org/stm/com/2019-01-31" xmlns:soi-re="http://fasb.org/stm/soi-re/2019-01-31" xmlns:crcgen="http://fasb.org/dis/crcgen/2019-01-31" xmlns:exch-ent-dep="http://xbrl.sec.gov/exch-ent-dep/2019-01-31" xmlns:negated="http://www.xbrl.org/2009/role/negated" xmlns:ei="http://fasb.org/dis/ei/2019-01-31" xmlns:xbrldt="http://xbrl.org/2005/xbrldt">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html" />
+		<title>Document</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<div style="display:none"><ix:header><ix:hidden><ix:nonNumeric contextRef="D2019Q3Sept03" name="dei:AmendmentFlag" id="Fact-34649B91FF9D5626A132FF31E1CE818F-wk-Fact-34649B91FF9D5626A132FF31E1CE818F" format="ixt:booleanfalse">false</ix:nonNumeric><ix:nonNumeric contextRef="D2019Q3Sept03" name="dei:EntityCentralIndexKey" id="Fact-E30261AEC8BE55029AA66F79BF397293-wk-Fact-E30261AEC8BE55029AA66F79BF397293">0000002488</ix:nonNumeric></ix:hidden><ix:references><link:schemaRef xlink:href="amd-20190903.xsd" xlink:type="simple"></link:schemaRef></ix:references><ix:resources><xbrli:context id="D2019Q3Sept03">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.sec.gov/CIK">0000002488</xbrli:identifier>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2019-09-03</xbrli:startDate>
+			<xbrli:endDate>2019-09-03</xbrli:endDate>
+		</xbrli:period>
+	</xbrli:context></ix:resources></ix:header></div><div><a id="sD98371D767E45BA482358505AC5E9326"></a></div><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div><div><br/></div><div style="line-height:120%;text-align:center;"><hr></hr></div><div style="line-height:174%;text-align:center;font-size:18pt;"><span style="font-family:inherit;font-size:18pt;font-weight:bold;">UNITED STATES</span></div><div style="line-height:120%;text-align:center;font-size:18pt;"><span style="font-family:inherit;font-size:18pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</span></div><div style="line-height:144%;text-align:center;font-size:14pt;"><span style="font-family:inherit;font-size:14pt;font-weight:bold;">Washington, D.C. 20549</span></div><div style="line-height:144%;text-align:center;font-size:18pt;"><span style="font-family:inherit;font-size:18pt;font-weight:bold;">FORM </span><span><ix:nonNumeric id="d1665853e72-wk-Fact-C2A15415E1DA5E82A5352082D248689E" name="dei:DocumentType" contextRef="D2019Q3Sept03"><span style="font-size:18pt;font-weight:bold;">8-K</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:18pt;font-weight:bold;"> </span></div><div style="line-height:144%;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;"><br/></span></div><div style="line-height:144%;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;color:#231f20;font-weight:bold;">CURRENT REPORT</span></div><div style="line-height:120%;padding-top:1px;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;color:#231f20;font-weight:bold;">Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</span></div><div style="line-height:120%;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;font-weight:bold;"><span><span style="white-space:nowrap"><ix:nonNumeric id="d1665853e88-wk-Fact-0E857DEA18E15D468565C933A3D8F94C" name="dei:DocumentPeriodEndDate" contextRef="D2019Q3Sept03" format="ixt:datemonthdayyearen">September 3, 2019</ix:nonNumeric></span></span></span><span style="font-family:inherit;font-size:12pt;"> </span></div><div style="line-height:120%;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;">Date of Report (date of earliest event reported)</span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:144%;text-align:center;font-size:18pt;"><span><ix:nonNumeric id="d1665853e99-wk-Fact-D8C817A070C75B2F9FE96E51F0A1DCA7" name="dei:EntityRegistrantName" contextRef="D2019Q3Sept03"><span style="font-size:18pt;font-weight:bold;">ADVANCED MICRO DEVICES, INC.</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:18pt;font-weight:bold;"> </span></div><div style="line-height:144%;text-align:center;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;font-weight:bold;">(Exact name of registrant as specified in its charter)</span></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="4"></td></tr><tr><td style="width:34%;"></td><td style="width:17%;"></td><td style="width:14%;"></td><td style="width:35%;"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;text-align:center;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;font-weight:bold;"><span><ix:nonNumeric id="d1665853e122-wk-Fact-E0C833CB27905100A7F1EA0490F88F8D" name="dei:EntityIncorporationStateCountryCode" contextRef="D2019Q3Sept03" format="ixt-sec:stateprovnameen">Delaware</ix:nonNumeric></span></span></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;font-weight:bold;"><span><ix:nonNumeric id="d1665853e127-wk-Fact-E5D73D074CEC5DB8942220A1549F2A73" name="dei:EntityFileNumber" contextRef="D2019Q3Sept03">001-07882</ix:nonNumeric></span></span></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;font-weight:bold;"><span><ix:nonNumeric id="d1665853e137-wk-Fact-658E76AA2F615E5FAB03B17665B90D77" name="dei:EntityTaxIdentificationNumber" contextRef="D2019Q3Sept03">94-1692300</ix:nonNumeric></span></span></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;text-align:center;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">(State or other jurisdiction of incorporation or organization)</span></div></td><td colspan="2" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">(Commission File Number)</span></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;text-align:center;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">(I.R.S. Employer Identification No.)</span></div></td></tr><tr><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">&#160;</span></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">&#160;</span></div></td></tr></table></div></div><div style="line-height:144%;text-align:center;font-size:10pt;"><span><ix:nonNumeric id="d1665853e182-wk-Fact-C447B70C9C2B5E06A50F8FC2198801A0" name="dei:EntityAddressAddressLine1" contextRef="D2019Q3Sept03"><span style="font-weight:bold;">2485 Augustine Drive</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;"> </span></div><div style="line-height:144%;text-align:center;font-size:10pt;"><span><ix:nonNumeric id="d1665853e188-wk-Fact-FF8F7B5230945A37BC84A2E7F4AE79EA" name="dei:EntityAddressCityOrTown" contextRef="D2019Q3Sept03"><span style="font-weight:bold;">Santa Clara</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;">, </span><span><ix:nonNumeric id="d1665853e193-wk-Fact-116073A421F75706AFB1D327FDC273B9" name="dei:EntityAddressStateOrProvince" contextRef="D2019Q3Sept03" format="ixt-sec:stateprovnameen"><span style="font-weight:bold;">California</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;"> </span><span><ix:nonNumeric id="d1665853e198-wk-Fact-DBF3ACE922EC55DEAC6D4004CBD68106" name="dei:EntityAddressPostalZipCode" contextRef="D2019Q3Sept03"><span style="font-weight:bold;">95054</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;"> </span></div><div style="line-height:144%;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;font-weight:bold;">(Address of principal executive offices) (Zip Code)</span></div><div style="line-height:144%;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:144%;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;font-weight:bold;">(</span><span><ix:nonNumeric id="d1665853e211-wk-Fact-48655DA30E145B87B633BFEC10FA78D2" name="dei:CityAreaCode" contextRef="D2019Q3Sept03"><span style="font-weight:bold;">408</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;">) </span><span><ix:nonNumeric id="d1665853e216-wk-Fact-3CDA422F050358DBB445711C5CBA254F" name="dei:LocalPhoneNumber" contextRef="D2019Q3Sept03"><span style="font-weight:bold;">749 4000</span></ix:nonNumeric></span><span style="font-family:inherit;font-size:10pt;font-weight:bold;"> </span></div><div style="line-height:110%;text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Registrant's telephone number, including area code</span></div><div style="line-height:120%;text-align:center;padding-left:14px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;padding-bottom:1px;text-align:left;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e235-wk-Fact-BFC15328E0E854F09EFEEC3D5A5933AF" name="dei:WrittenCommunications" contextRef="D2019Q3Sept03" format="ixt-sec:boolballotbox">&#9744;</ix:nonNumeric></span></span><span style="font-family:Wingdings;font-size:10pt;"> </span><span style="font-family:inherit;font-size:10pt;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</span></div><div style="line-height:120%;padding-bottom:1px;text-align:left;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;padding-bottom:1px;text-align:left;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e244-wk-Fact-F2896330428155439298D138639C1555" name="dei:SolicitingMaterial" contextRef="D2019Q3Sept03" format="ixt-sec:boolballotbox">&#9744;</ix:nonNumeric></span></span><span style="font-family:Wingdings;font-size:10pt;"> </span><span style="font-family:inherit;font-size:10pt;color:#231f20;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;padding-bottom:1px;text-align:left;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e253-wk-Fact-9A4D6E85ADA95827AFA572DA9C551E0C" name="dei:PreCommencementTenderOffer" contextRef="D2019Q3Sept03" format="ixt-sec:boolballotbox">&#9744;</ix:nonNumeric></span></span><span style="font-family:Wingdings;font-size:10pt;"> </span><span style="font-family:inherit;font-size:10pt;color:#231f20;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;padding-bottom:1px;text-align:left;padding-left:4px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e262-wk-Fact-2872C4B5F0F95E28A2294D85FBE52CC0" name="dei:PreCommencementIssuerTenderOffer" contextRef="D2019Q3Sept03" format="ixt-sec:boolballotbox">&#9744;</ix:nonNumeric></span></span><span style="font-family:Wingdings;font-size:10pt;color:#231f20;"> </span><span style="font-family:inherit;font-size:10pt;color:#231f20;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </span></div><div style="line-height:120%;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;"><br/></span></div><div style="line-height:120%;text-align:left;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Securities registered pursuant to Section 12(b) of the Act: </span></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td style="width:35%;"></td><td style="width:21%;"></td><td style="width:44%;"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Title of each class</span></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #000000;border-right:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Trading Symbol(s)</span></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-right:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Name of each exchange on which registered</span></div></td></tr><tr><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e304-wk-Fact-6663BB43B1B35725AD5863764FA311FA" name="dei:Security12bTitle" contextRef="D2019Q3Sept03">Common Stock, $0.01 par value</ix:nonNumeric></span></span></div></td><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:Lato Black;font-size:10pt;"><span><ix:nonNumeric id="d1665853e309-wk-Fact-F7C88E9F1FA750D2BEF1122B4CA58422" name="dei:TradingSymbol" contextRef="D2019Q3Sept03">AMD</ix:nonNumeric></span></span></div></td><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #000000;border-right:1px solid #000000;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><span style="font-family:Lato Black;font-size:10pt;"><span><ix:nonNumeric id="d1665853e314-wk-Fact-EA64A70F13795228B47181B4F867799C" name="dei:SecurityExchangeName" contextRef="D2019Q3Sept03" format="ixt-sec:exchnameen">NASDAQ Global Select Market</ix:nonNumeric></span></span></div></td></tr></table></div></div><div style="line-height:120%;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;"><br/></span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</span></div><div style="line-height:120%;text-align:right;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;color:#231f20;">Emerging growth company </span><span style="font-family:inherit;font-size:10pt;"><span><ix:nonNumeric id="d1665853e324-wk-Fact-3023369A4DF0562AACFEE79CBE808340" name="dei:EntityEmergingGrowthCompany" contextRef="D2019Q3Sept03" format="ixt-sec:boolballotbox">&#9744;</ix:nonNumeric></span></span><span style="font-family:inherit;font-size:10pt;color:#231f20;"> </span></div><div style="line-height:120%;text-align:left;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. </span></div><div style="line-height:120%;text-align:right;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">&#9744;</span></div><div><br/></div><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div><hr style="page-break-after:always"></hr><div><a id="s7E1F50C7626F5A9D81DE63EC0AD58AD7"></a></div><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div><div><br/></div><div style="line-height:120%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;color:#333333;font-weight:bold;">Item&#160;3.02. Unregistered Sales of Equity Securities.</span></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">On August 21, 2019 and September 3, 2019, Advanced Micro Devices, Inc. (the &#8220;Company&#8221;) entered into agreements to issue a total of 15,750,391 shares of its common stock and an aggregate cash payment of $14,792,188.01 to certain holders of the Company&#8217;s 2.125% Convertible Senior Notes due 2026 (the &#8220;Notes&#8221;) in exchange for an aggregate principal amount of $126,000,000 of Notes.</span></div><div style="line-height:120%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">&#160;</span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">The Company issued the shares of common stock upon exchange of the Notes to the noteholders in reliance on the exemption from registration provided for under Section 3(a)(9) of the Securities Act of 1933, as amended, as the issuance was made to existing noteholders, no commission or other remuneration was paid. </span></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div style="line-height:120%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;font-weight:bold;">Item 7.01. Regulation FD Disclosure.</span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;color:#ff0000;">&#160;</span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">For earnings per share calculation purposes, the 15,750,391 shares of common stock issued to certain noteholders pursuant to the transactions described in Item 3.02 above will be included going forward in the Company&#8217;s weighted average basic share count.&#160; </span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">&#160;</span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:120%;text-align:left;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:144%;padding-bottom:16px;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div><br/></div><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div><hr style="page-break-after:always"></hr><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div><div><br/></div><div style="line-height:156%;padding-bottom:16px;text-align:center;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;font-weight:bold;">SIGNATURES</span></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</span></div><div style="line-height:144%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:144%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:336px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:144%;font-size:11pt;padding-left:0px;"><span style="font-family:inherit;font-size:11pt;">Date:   September 6, 2019</span></div></td><td style="vertical-align:top;"><div style="line-height:144%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;font-weight:bold;">ADVANCED MICRO DEVICES, INC.</span></div></td></tr></table><div style="line-height:144%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:120%;padding-bottom:9px;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:120%;padding-left:336px;font-size:12pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:43.1640625%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td style="width:20%;"></td><td style="width:80%;"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:2px;text-align:justify;padding-left:4px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">By:</span></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:2px;text-align:justify;padding-left:4px;font-size:12pt;"><span style="font-family:inherit;font-size:12pt;font-style:italic;">/s/ Harry A. Wolin</span></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:2px;text-align:justify;padding-left:4px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">Name:</span></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="padding-bottom:2px;text-align:justify;padding-left:4px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">Harry A. Wolin</span></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:2px;text-align:justify;padding-left:4px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">Title:</span></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:2px;text-align:left;padding-left:4px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;">Senior Vice President, General Counsel and Corporate Secretary</span></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">&#160;</span></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;">&#160;</span></div></td></tr></table></div></div><div style="line-height:144%;padding-top:4px;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:144%;text-align:left;padding-left:384px;text-indent:-48px;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:144%;text-align:justify;font-size:11pt;"><span style="font-family:inherit;font-size:11pt;"><br/></span></div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div><div><br/></div><div><div style="line-height:120%;font-size:10pt;"><span style="font-family:inherit;font-size:10pt;"><br/></span></div></div>	</body>
+</html>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>amd-20190903.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.amd.com/20190903" xmlns:amd="http://www.amd.com/20190903" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:import namespace="http://fasb.org/srt-types/2019-01-31" schemaLocation="http://xbrl.fasb.org/srt/2019/elts/srt-types-2019-01-31.xsd" />
+  <xsd:import namespace="http://fasb.org/srt/2019-01-31" schemaLocation="http://xbrl.fasb.org/srt/2019/elts/srt-2019-01-31.xsd" />
+  <xsd:import namespace="http://fasb.org/us-gaap/2019-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2019/elts/us-gaap-2019-01-31.xsd" />
+  <xsd:import namespace="http://fasb.org/us-roles/2019-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2019/elts/us-roles-2019-01-31.xsd" />
+  <xsd:import namespace="http://fasb.org/us-types/2019-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2019/elts/us-types-2019-01-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2009/arcrole/fact-explanatoryFact" schemaLocation="http://www.xbrl.org/lrr/arcrole/factExplanatory-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2009/role/negated" schemaLocation="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/2009/role/net" schemaLocation="http://www.xbrl.org/lrr/role/net-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/dtr/type/non-numeric" schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" />
+  <xsd:import namespace="http://www.xbrl.org/dtr/type/numeric" schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" />
+  <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/country/2017-01-31" schemaLocation="https://xbrl.sec.gov/country/2017/country-2017-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/currency/2019-01-31" schemaLocation="https://xbrl.sec.gov/currency/2019/currency-2019-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/dei/2019-01-31" schemaLocation="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/exch/2019-01-31" schemaLocation="https://xbrl.sec.gov/exch/2019/exch-2019-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/invest/2013-01-31" schemaLocation="http://xbrl.sec.gov/invest/2013/invest-2013-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/naics/2017-01-31" schemaLocation="http://xbrl.sec.gov/naics/2017/naics-2017-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/sic/2011-01-31" schemaLocation="http://xbrl.sec.gov/sic/2011/sic-2011-01-31.xsd" />
+  <xsd:import namespace="http://xbrl.sec.gov/stpr/2018-01-31" schemaLocation="https://xbrl.sec.gov/stpr/2018/stpr-2018-01-31.xsd" />
+  <xsd:annotation>
+    <xsd:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="amd-20190903_cal.xml" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:type="simple" />
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="amd-20190903_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple" />
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="amd-20190903_lab.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple" />
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="amd-20190903_pre.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:type="simple" />
+      <link:roleType id="CoverPageCoverPage" roleURI="http://www.amd.com/role/CoverPageCoverPage">
+        <link:definition>0001000 - Document - Cover Page Cover Page</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xsd:appinfo>
+  </xsd:annotation>
+</xsd:schema>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.CAL
+<SEQUENCE>3
+<FILENAME>amd-20190903_cal.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<link:linkbase xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:roleRef roleURI="http://www.amd.com/role/CoverPageCoverPage" xlink:href="amd-20190903.xsd#CoverPageCoverPage" xlink:type="simple" />
+  <link:calculationLink xlink:role="http://www.amd.com/role/CoverPageCoverPage" xlink:type="extended" />
+</link:linkbase>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>amd-20190903_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<link:linkbase xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:roleRef roleURI="http://www.amd.com/role/CoverPageCoverPage" xlink:href="amd-20190903.xsd#CoverPageCoverPage" xlink:type="simple" />
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple" />
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple" />
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple" />
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple" />
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple" />
+  <link:definitionLink xlink:role="http://www.amd.com/role/CoverPageCoverPage" xlink:type="extended" />
+</link:linkbase>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>amd-20190903_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<link:linkbase xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedPeriodStartLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedPeriodStartLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/netLabel" xlink:href="http://www.xbrl.org/lrr/role/net-2009-12-16.xsd#netLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedNetLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedNetLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTerseLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTerseLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedPeriodEndLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedPeriodEndLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTotalLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTotalLabel" xlink:type="simple" />
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="lab_dei_CoverAbstract_C1D39A123F06B2F71828727901022A4A_label_en-US" xlink:label="lab_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Cover page.</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_CoverAbstract" xlink:label="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="lab_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:type="arc" />
+    <link:label id="lab_dei_DocumentType_0D3915847FEE6951D2EC72790109EC23_terseLabel_en-US" xlink:label="lab_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Document Type</link:label>
+    <link:label id="lab_dei_DocumentType_0D3915847FEE6951D2EC72790109EC23_label_en-US" xlink:label="lab_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Document Type</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_DocumentType" xlink:label="loc_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:to="lab_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:type="arc" />
+    <link:label id="lab_dei_DocumentPeriodEndDate_D67208C972A5EDBCC01572790109486A_terseLabel_en-US" xlink:label="lab_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Document Period End Date</link:label>
+    <link:label id="lab_dei_DocumentPeriodEndDate_D67208C972A5EDBCC01572790109486A_label_en-US" xlink:label="lab_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Document Period End Date</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_DocumentPeriodEndDate" xlink:label="loc_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:to="lab_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:type="arc" />
+    <link:label id="lab_dei_EntityRegistrantName_9A203E4420653CA4D1A37279010927B0_terseLabel_en-US" xlink:label="lab_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Registrant Name</link:label>
+    <link:label id="lab_dei_EntityRegistrantName_9A203E4420653CA4D1A37279010927B0_label_en-US" xlink:label="lab_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Registrant Name</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityRegistrantName" xlink:label="loc_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:to="lab_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:type="arc" />
+    <link:label id="lab_dei_EntityIncorporationStateCountryCode_3F810925E9B12C856CC47279010AE4AB_terseLabel_en-US" xlink:label="lab_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Incorporation, State or Country Code</link:label>
+    <link:label id="lab_dei_EntityIncorporationStateCountryCode_3F810925E9B12C856CC47279010AE4AB_label_en-US" xlink:label="lab_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Incorporation, State or Country Code</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityIncorporationStateCountryCode" xlink:label="loc_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:to="lab_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:type="arc" />
+    <link:label id="lab_dei_EntityFileNumber_D8DDB19EC985948BB3647279010AC9BE_terseLabel_en-US" xlink:label="lab_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity File Number</link:label>
+    <link:label id="lab_dei_EntityFileNumber_D8DDB19EC985948BB3647279010AC9BE_label_en-US" xlink:label="lab_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity File Number</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityFileNumber" xlink:label="loc_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:to="lab_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:type="arc" />
+    <link:label id="lab_dei_EntityTaxIdentificationNumber_B7D64C638CC21DB5FCFD7279010ADF9E_terseLabel_en-US" xlink:label="lab_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Tax Identification Number</link:label>
+    <link:label id="lab_dei_EntityTaxIdentificationNumber_B7D64C638CC21DB5FCFD7279010ADF9E_label_en-US" xlink:label="lab_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Tax Identification Number</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityTaxIdentificationNumber" xlink:label="loc_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:to="lab_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:type="arc" />
+    <link:label id="lab_dei_EntityAddressAddressLine1_4CEEC3CCCA46E19DEBBF7279010AB31A_terseLabel_en-US" xlink:label="lab_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Address, Address Line One</link:label>
+    <link:label id="lab_dei_EntityAddressAddressLine1_4CEEC3CCCA46E19DEBBF7279010AB31A_label_en-US" xlink:label="lab_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Address, Address Line One</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressAddressLine1" xlink:label="loc_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:to="lab_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:type="arc" />
+    <link:label id="lab_dei_EntityAddressCityOrTown_D457B7192455EE1D9C557279010AEA13_terseLabel_en-US" xlink:label="lab_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Address, City or Town</link:label>
+    <link:label id="lab_dei_EntityAddressCityOrTown_D457B7192455EE1D9C557279010AEA13_label_en-US" xlink:label="lab_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Address, City or Town</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressCityOrTown" xlink:label="loc_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:to="lab_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:type="arc" />
+    <link:label id="lab_dei_EntityAddressStateOrProvince_DDADC1846F830290EA107279010B67FE_terseLabel_en-US" xlink:label="lab_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Address, State or Province</link:label>
+    <link:label id="lab_dei_EntityAddressStateOrProvince_DDADC1846F830290EA107279010B67FE_label_en-US" xlink:label="lab_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Address, State or Province</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressStateOrProvince" xlink:label="loc_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:to="lab_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:type="arc" />
+    <link:label id="lab_dei_EntityAddressPostalZipCode_14D28115651023AD42607279010B0ED5_terseLabel_en-US" xlink:label="lab_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Address, Postal Zip Code</link:label>
+    <link:label id="lab_dei_EntityAddressPostalZipCode_14D28115651023AD42607279010B0ED5_label_en-US" xlink:label="lab_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Address, Postal Zip Code</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressPostalZipCode" xlink:label="loc_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:to="lab_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:type="arc" />
+    <link:label id="lab_dei_CityAreaCode_7DBE97288E02F75D38EF7279010BB50F_terseLabel_en-US" xlink:label="lab_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">City Area Code</link:label>
+    <link:label id="lab_dei_CityAreaCode_7DBE97288E02F75D38EF7279010BB50F_label_en-US" xlink:label="lab_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">City Area Code</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_CityAreaCode" xlink:label="loc_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:to="lab_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:type="arc" />
+    <link:label id="lab_dei_LocalPhoneNumber_F1E37EEC40D1C42D0FC47279010BD717_terseLabel_en-US" xlink:label="lab_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Local Phone Number</link:label>
+    <link:label id="lab_dei_LocalPhoneNumber_F1E37EEC40D1C42D0FC47279010BD717_label_en-US" xlink:label="lab_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Local Phone Number</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_LocalPhoneNumber" xlink:label="loc_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:to="lab_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:type="arc" />
+    <link:label id="lab_dei_WrittenCommunications_41C887FC2ED3FA4B9F1C7279010B4579_terseLabel_en-US" xlink:label="lab_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Written Communications</link:label>
+    <link:label id="lab_dei_WrittenCommunications_41C887FC2ED3FA4B9F1C7279010B4579_label_en-US" xlink:label="lab_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Written Communications</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_WrittenCommunications" xlink:label="loc_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:to="lab_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:type="arc" />
+    <link:label id="lab_dei_SolicitingMaterial_792C87A8C8FEE81C8F177279010BE0F3_terseLabel_en-US" xlink:label="lab_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Soliciting Material</link:label>
+    <link:label id="lab_dei_SolicitingMaterial_792C87A8C8FEE81C8F177279010BE0F3_label_en-US" xlink:label="lab_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Soliciting Material</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_SolicitingMaterial" xlink:label="loc_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:to="lab_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:type="arc" />
+    <link:label id="lab_dei_PreCommencementTenderOffer_503C6878EADB9CE6501E7279010C9E84_terseLabel_en-US" xlink:label="lab_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Pre-commencement Tender Offer</link:label>
+    <link:label id="lab_dei_PreCommencementTenderOffer_503C6878EADB9CE6501E7279010C9E84_label_en-US" xlink:label="lab_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Pre-commencement Tender Offer</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_PreCommencementTenderOffer" xlink:label="loc_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:to="lab_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:type="arc" />
+    <link:label id="lab_dei_PreCommencementIssuerTenderOffer_41C3FA7ABADAC87699787279010CC23C_terseLabel_en-US" xlink:label="lab_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Pre-commencement Issuer Tender Offer</link:label>
+    <link:label id="lab_dei_PreCommencementIssuerTenderOffer_41C3FA7ABADAC87699787279010CC23C_label_en-US" xlink:label="lab_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Pre-commencement Issuer Tender Offer</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_PreCommencementIssuerTenderOffer" xlink:label="loc_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:to="lab_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:type="arc" />
+    <link:label id="lab_dei_Security12bTitle_FA82CE94FC536DDDBB1D7279010C35F0_terseLabel_en-US" xlink:label="lab_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Title of 12(b) Security</link:label>
+    <link:label id="lab_dei_Security12bTitle_FA82CE94FC536DDDBB1D7279010C35F0_label_en-US" xlink:label="lab_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Title of 12(b) Security</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_Security12bTitle" xlink:label="loc_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:to="lab_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:type="arc" />
+    <link:label id="lab_dei_TradingSymbol_E6E5D75D51BC4A731B3C7279010CC8EF_terseLabel_en-US" xlink:label="lab_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Trading Symbol</link:label>
+    <link:label id="lab_dei_TradingSymbol_E6E5D75D51BC4A731B3C7279010CC8EF_label_en-US" xlink:label="lab_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Trading Symbol</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_TradingSymbol" xlink:label="loc_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:to="lab_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:type="arc" />
+    <link:label id="lab_dei_SecurityExchangeName_0A052F707AEE5BC9CE287279010C231B_terseLabel_en-US" xlink:label="lab_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Security Exchange Name</link:label>
+    <link:label id="lab_dei_SecurityExchangeName_0A052F707AEE5BC9CE287279010C231B_label_en-US" xlink:label="lab_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Security Exchange Name</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_SecurityExchangeName" xlink:label="loc_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:to="lab_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:type="arc" />
+    <link:label id="lab_dei_EntityEmergingGrowthCompany_337F1EA29D95AAEBB5407279010C2470_terseLabel_en-US" xlink:label="lab_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Emerging Growth Company</link:label>
+    <link:label id="lab_dei_EntityEmergingGrowthCompany_337F1EA29D95AAEBB5407279010C2470_label_en-US" xlink:label="lab_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Emerging Growth Company</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityEmergingGrowthCompany" xlink:label="loc_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:to="lab_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:type="arc" />
+    <link:label id="lab_dei_EntityCentralIndexKey_116E1D96B7383FCB0A8372790109179E_terseLabel_en-US" xlink:label="lab_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Entity Central Index Key</link:label>
+    <link:label id="lab_dei_EntityCentralIndexKey_116E1D96B7383FCB0A8372790109179E_label_en-US" xlink:label="lab_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Entity Central Index Key</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityCentralIndexKey" xlink:label="loc_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:to="lab_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:type="arc" />
+    <link:label id="lab_dei_AmendmentFlag_A48DF40010855453C2787279010ADD31_terseLabel_en-US" xlink:label="lab_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en-US">Amendment Flag</link:label>
+    <link:label id="lab_dei_AmendmentFlag_A48DF40010855453C2787279010ADD31_label_en-US" xlink:label="lab_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en-US">Amendment Flag</link:label>
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_AmendmentFlag" xlink:label="loc_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:type="locator" />
+    <link:labelArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:to="lab_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:type="arc" />
+  </link:labelLink>
+</link:linkbase>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>amd-20190903_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+<XBRL>
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<link:linkbase xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:roleRef roleURI="http://www.amd.com/role/CoverPageCoverPage" xlink:href="amd-20190903.xsd#CoverPageCoverPage" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedNetLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedNetLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedPeriodEndLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedPeriodEndLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedPeriodStartLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedPeriodStartLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTerseLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTerseLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTotalLabel" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTotalLabel" xlink:type="simple" />
+  <link:roleRef roleURI="http://www.xbrl.org/2009/role/netLabel" xlink:href="http://www.xbrl.org/lrr/role/net-2009-12-16.xsd#netLabel" xlink:type="simple" />
+  <link:presentationLink xlink:role="http://www.amd.com/role/CoverPageCoverPage" xlink:type="extended">
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_CoverAbstract" xlink:label="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:type="locator" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_DocumentType" xlink:label="loc_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:type="locator" />
+    <link:presentationArc order="1" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_DocumentType_0F35F3D9DB6256AB8FC383FFBD69AC08" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_DocumentPeriodEndDate" xlink:label="loc_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:type="locator" />
+    <link:presentationArc order="2" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_DocumentPeriodEndDate_666A453D9FD15601A51321ABBB7568D2" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityRegistrantName" xlink:label="loc_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:type="locator" />
+    <link:presentationArc order="3" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityRegistrantName_ACDB4C28A8FA5421B3DAB3A93DCD65B2" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityIncorporationStateCountryCode" xlink:label="loc_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:type="locator" />
+    <link:presentationArc order="4" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityIncorporationStateCountryCode_0718367ED8445B99AD774990331150BE" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityFileNumber" xlink:label="loc_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:type="locator" />
+    <link:presentationArc order="5" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityFileNumber_366100A876AF5B6B89649DAA21DB21BE" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityTaxIdentificationNumber" xlink:label="loc_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:type="locator" />
+    <link:presentationArc order="6" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityTaxIdentificationNumber_60B7245AA3345C04A6E8B0C53113D401" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressAddressLine1" xlink:label="loc_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:type="locator" />
+    <link:presentationArc order="7" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityAddressAddressLine1_2D4E6B548589546394DE88FA65EE3DF8" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressCityOrTown" xlink:label="loc_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:type="locator" />
+    <link:presentationArc order="8" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityAddressCityOrTown_B1AB39B6203A57D7AD5A75F608CF43D8" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressStateOrProvince" xlink:label="loc_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:type="locator" />
+    <link:presentationArc order="9" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityAddressStateOrProvince_A70F549D5FFD5B9FB151EB08DB5C72BD" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityAddressPostalZipCode" xlink:label="loc_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:type="locator" />
+    <link:presentationArc order="10" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityAddressPostalZipCode_B359A3A6168650B4A09BE4830ED563BE" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_CityAreaCode" xlink:label="loc_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:type="locator" />
+    <link:presentationArc order="11" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_CityAreaCode_56C9156E994254D2BE4F78EFD5716E20" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_LocalPhoneNumber" xlink:label="loc_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:type="locator" />
+    <link:presentationArc order="12" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_LocalPhoneNumber_FA7471B03CFF517889D51B7F240E6CB8" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_WrittenCommunications" xlink:label="loc_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:type="locator" />
+    <link:presentationArc order="13" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_WrittenCommunications_E9CB622CB2C05D26A7658270A8299116" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_SolicitingMaterial" xlink:label="loc_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:type="locator" />
+    <link:presentationArc order="14" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_SolicitingMaterial_234EE4CBD4DA517180AC3BCCFC3FE17D" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_PreCommencementTenderOffer" xlink:label="loc_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:type="locator" />
+    <link:presentationArc order="15" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_PreCommencementTenderOffer_06ECA627CA135C06AC7173F03D01631F" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_PreCommencementIssuerTenderOffer" xlink:label="loc_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:type="locator" />
+    <link:presentationArc order="16" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_PreCommencementIssuerTenderOffer_4C5BAB6E1E5359EAB18F71EA296229E6" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_Security12bTitle" xlink:label="loc_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:type="locator" />
+    <link:presentationArc order="17" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_Security12bTitle_25FE0F1469375D32942C12A1209F5B4A" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_TradingSymbol" xlink:label="loc_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:type="locator" />
+    <link:presentationArc order="18" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_TradingSymbol_8DD8EE17A2105422811BF2A6952149D4" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_SecurityExchangeName" xlink:label="loc_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:type="locator" />
+    <link:presentationArc order="19" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_SecurityExchangeName_6170D791093353A49D42ADB088A84737" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityEmergingGrowthCompany" xlink:label="loc_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:type="locator" />
+    <link:presentationArc order="20" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityEmergingGrowthCompany_7E394A157BD75861B5995D5C290EE0D5" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_EntityCentralIndexKey" xlink:label="loc_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:type="locator" />
+    <link:presentationArc order="21" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_EntityCentralIndexKey_9A960572DD745D7599468415E57080CD" xlink:type="arc" />
+    <link:loc xlink:href="https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd#dei_AmendmentFlag" xlink:label="loc_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:type="locator" />
+    <link:presentationArc order="22" preferredLabel="http://www.xbrl.org/2003/role/terseLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_CoverAbstract_6498EF2AA6AE54D09286708B922DCF29" xlink:to="loc_dei_AmendmentFlag_E54EEE2BA1C750DFB7B545B8A74E380B" xlink:type="arc" />
+  </link:presentationLink>
+</link:linkbase>
+</XBRL>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>7
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+{
+ "instance": {
+  "amdform8kequitysalesse.htm": {
+   "axisCustom": 0,
+   "axisStandard": 0,
+   "contextCount": 1,
+   "dts": {
+    "calculationLink": {
+     "local": [
+      "amd-20190903_cal.xml"
+     ]
+    },
+    "definitionLink": {
+     "local": [
+      "amd-20190903_def.xml"
+     ],
+     "remote": [
+      "http://xbrl.fasb.org/us-gaap/2019/elts/us-gaap-eedm-def-2019-01-31.xml",
+      "http://xbrl.fasb.org/srt/2019/elts/srt-eedm1-def-2019-01-31.xml"
+     ]
+    },
+    "inline": {
+     "local": [
+      "amdform8kequitysalesse.htm"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "amd-20190903_lab.xml"
+     ],
+     "remote": [
+      "https://xbrl.sec.gov/dei/2019/dei-doc-2019-01-31.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "amd-20190903_pre.xml"
+     ]
+    },
+    "referenceLink": {
+     "remote": [
+      "https://xbrl.sec.gov/dei/2019/dei-ref-2019-01-31.xml"
+     ]
+    },
+    "schema": {
+     "local": [
+      "amd-20190903.xsd"
+     ],
+     "remote": [
+      "http://xbrl.fasb.org/srt/2019/elts/srt-types-2019-01-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd",
+      "http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd",
+      "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+      "http://xbrl.fasb.org/srt/2019/elts/srt-2019-01-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://xbrl.fasb.org/us-gaap/2019/elts/us-gaap-2019-01-31.xsd",
+      "http://xbrl.fasb.org/us-gaap/2019/elts/us-roles-2019-01-31.xsd",
+      "http://xbrl.fasb.org/srt/2019/elts/srt-roles-2019-01-31.xsd",
+      "https://xbrl.sec.gov/country/2017/country-2017-01-31.xsd",
+      "http://xbrl.fasb.org/us-gaap/2019/elts/us-types-2019-01-31.xsd",
+      "http://www.xbrl.org/lrr/arcrole/factExplanatory-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+      "https://xbrl.sec.gov/currency/2019/currency-2019-01-31.xsd",
+      "https://xbrl.sec.gov/dei/2019/dei-2019-01-31.xsd",
+      "https://xbrl.sec.gov/exch/2019/exch-2019-01-31.xsd",
+      "http://xbrl.sec.gov/invest/2013/invest-2013-01-31.xsd",
+      "http://xbrl.sec.gov/naics/2017/naics-2017-01-31.xsd",
+      "http://xbrl.sec.gov/sic/2011/sic-2011-01-31.xsd",
+      "https://xbrl.sec.gov/stpr/2018/stpr-2018-01-31.xsd",
+      "http://www.xbrl.org/lrr/role/deprecated-2009-12-16.xsd"
+     ]
+    }
+   },
+   "elementCount": 23,
+   "entityCount": 1,
+   "hidden": {
+    "http://xbrl.sec.gov/dei/2019-01-31": 2,
+    "total": 2
+   },
+   "keyCustom": 0,
+   "keyStandard": 97,
+   "memberCustom": 0,
+   "memberStandard": 0,
+   "nsprefix": "amd",
+   "nsuri": "http://www.amd.com/20190903",
+   "report": {
+    "R1": {
+     "firstAnchor": {
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "baseRef": "amdform8kequitysalesse.htm",
+      "contextRef": "D2019Q3Sept03",
+      "decimals": null,
+      "first": true,
+      "lang": "en-US",
+      "name": "dei:DocumentType",
+      "reportCount": 1,
+      "unique": true,
+      "unitRef": null,
+      "xsiNil": "false"
+     },
+     "groupType": "document",
+     "isDefault": "true",
+     "longName": "0001000 - Document - Cover Page Cover Page",
+     "role": "http://www.amd.com/role/CoverPageCoverPage",
+     "shortName": "Cover Page Cover Page",
+     "subGroupType": "",
+     "uniqueAnchor": {
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "baseRef": "amdform8kequitysalesse.htm",
+      "contextRef": "D2019Q3Sept03",
+      "decimals": null,
+      "first": true,
+      "lang": "en-US",
+      "name": "dei:DocumentType",
+      "reportCount": 1,
+      "unique": true,
+      "unitRef": null,
+      "xsiNil": "false"
+     }
+    }
+   },
+   "segmentCount": 0,
+   "tag": {
+    "dei_AmendmentFlag": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.",
+        "label": "Amendment Flag",
+        "terseLabel": "Amendment Flag"
+       }
+      }
+     },
+     "localname": "AmendmentFlag",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    },
+    "dei_CityAreaCode": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Area code of city",
+        "label": "City Area Code",
+        "terseLabel": "City Area Code"
+       }
+      }
+     },
+     "localname": "CityAreaCode",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_CoverAbstract": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Cover page.",
+        "label": "Cover page."
+       }
+      }
+     },
+     "localname": "CoverAbstract",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "xbrltype": "stringItemType"
+    },
+    "dei_DocumentPeriodEndDate": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "The end date of the period reflected on the cover page if a periodic report. For all other reports and registration statements containing historical data, it is the date up through which that historical data is presented.  If there is no historical data in the report, use the filing date. The format of the date is CCYY-MM-DD.",
+        "label": "Document Period End Date",
+        "terseLabel": "Document Period End Date"
+       }
+      }
+     },
+     "localname": "DocumentPeriodEndDate",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "dateItemType"
+    },
+    "dei_DocumentType": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.",
+        "label": "Document Type",
+        "terseLabel": "Document Type"
+       }
+      }
+     },
+     "localname": "DocumentType",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "submissionTypeItemType"
+    },
+    "dei_EntityAddressAddressLine1": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name",
+        "label": "Entity Address, Address Line One",
+        "terseLabel": "Entity Address, Address Line One"
+       }
+      }
+     },
+     "localname": "EntityAddressAddressLine1",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_EntityAddressCityOrTown": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Name of the City or Town",
+        "label": "Entity Address, City or Town",
+        "terseLabel": "Entity Address, City or Town"
+       }
+      }
+     },
+     "localname": "EntityAddressCityOrTown",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Code for the postal or zip code",
+        "label": "Entity Address, Postal Zip Code",
+        "terseLabel": "Entity Address, Postal Zip Code"
+       }
+      }
+     },
+     "localname": "EntityAddressPostalZipCode",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Name of the state or province.",
+        "label": "Entity Address, State or Province",
+        "terseLabel": "Entity Address, State or Province"
+       }
+      }
+     },
+     "localname": "EntityAddressStateOrProvince",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "stateOrProvinceItemType"
+    },
+    "dei_EntityCentralIndexKey": {
+     "auth_ref": [
+      "r5"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.",
+        "label": "Entity Central Index Key",
+        "terseLabel": "Entity Central Index Key"
+       }
+      }
+     },
+     "localname": "EntityCentralIndexKey",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "centralIndexKeyItemType"
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "auth_ref": [
+      "r5"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Indicate if registrant meets the emerging growth company criteria.",
+        "label": "Entity Emerging Growth Company",
+        "terseLabel": "Entity Emerging Growth Company"
+       }
+      }
+     },
+     "localname": "EntityEmergingGrowthCompany",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    },
+    "dei_EntityFileNumber": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.",
+        "label": "Entity File Number",
+        "terseLabel": "Entity File Number"
+       }
+      }
+     },
+     "localname": "EntityFileNumber",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "fileNumberItemType"
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation.",
+        "label": "Entity Incorporation, State or Country Code",
+        "terseLabel": "Entity Incorporation, State or Country Code"
+       }
+      }
+     },
+     "localname": "EntityIncorporationStateCountryCode",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "edgarStateCountryItemType"
+    },
+    "dei_EntityRegistrantName": {
+     "auth_ref": [
+      "r5"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.",
+        "label": "Entity Registrant Name",
+        "terseLabel": "Entity Registrant Name"
+       }
+      }
+     },
+     "localname": "EntityRegistrantName",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "auth_ref": [
+      "r5"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.",
+        "label": "Entity Tax Identification Number",
+        "terseLabel": "Entity Tax Identification Number"
+       }
+      }
+     },
+     "localname": "EntityTaxIdentificationNumber",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "employerIdItemType"
+    },
+    "dei_LocalPhoneNumber": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Local phone number for entity.",
+        "label": "Local Phone Number",
+        "terseLabel": "Local Phone Number"
+       }
+      }
+     },
+     "localname": "LocalPhoneNumber",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "normalizedStringItemType"
+    },
+    "dei_PreCommencementIssuerTenderOffer": {
+     "auth_ref": [
+      "r2"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.",
+        "label": "Pre-commencement Issuer Tender Offer",
+        "terseLabel": "Pre-commencement Issuer Tender Offer"
+       }
+      }
+     },
+     "localname": "PreCommencementIssuerTenderOffer",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    },
+    "dei_PreCommencementTenderOffer": {
+     "auth_ref": [
+      "r3"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.",
+        "label": "Pre-commencement Tender Offer",
+        "terseLabel": "Pre-commencement Tender Offer"
+       }
+      }
+     },
+     "localname": "PreCommencementTenderOffer",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    },
+    "dei_Security12bTitle": {
+     "auth_ref": [
+      "r0"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Title of a 12(b) registered security.",
+        "label": "Title of 12(b) Security",
+        "terseLabel": "Title of 12(b) Security"
+       }
+      }
+     },
+     "localname": "Security12bTitle",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "securityTitleItemType"
+    },
+    "dei_SecurityExchangeName": {
+     "auth_ref": [
+      "r1"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Name of the Exchange on which a security is registered.",
+        "label": "Security Exchange Name",
+        "terseLabel": "Security Exchange Name"
+       }
+      }
+     },
+     "localname": "SecurityExchangeName",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "edgarExchangeCodeItemType"
+    },
+    "dei_SolicitingMaterial": {
+     "auth_ref": [
+      "r4"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.",
+        "label": "Soliciting Material",
+        "terseLabel": "Soliciting Material"
+       }
+      }
+     },
+     "localname": "SolicitingMaterial",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    },
+    "dei_TradingSymbol": {
+     "auth_ref": [],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Trading symbol of an instrument as listed on an exchange.",
+        "label": "Trading Symbol",
+        "terseLabel": "Trading Symbol"
+       }
+      }
+     },
+     "localname": "TradingSymbol",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "tradingSymbolItemType"
+    },
+    "dei_WrittenCommunications": {
+     "auth_ref": [
+      "r6"
+     ],
+     "lang": {
+      "en-US": {
+       "role": {
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.",
+        "label": "Written Communications",
+        "terseLabel": "Written Communications"
+       }
+      }
+     },
+     "localname": "WrittenCommunications",
+     "nsuri": "http://xbrl.sec.gov/dei/2019-01-31",
+     "presentation": [
+      "http://www.amd.com/role/CoverPageCoverPage"
+     ],
+     "xbrltype": "booleanItemType"
+    }
+   },
+   "unitCount": 0
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r1": {
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r2": {
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "13e",
+   "Subsection": "4c"
+  },
+  "r3": {
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "14d",
+   "Subsection": "2b"
+  },
+  "r4": {
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "14a",
+   "Subsection": "12"
+  },
+  "r5": {
+   "Name": "Regulation 12B",
+   "Number": "240",
+   "Publisher": "SEC",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r6": {
+   "Name": "Securities Act",
+   "Number": "230",
+   "Publisher": "SEC",
+   "Section": "425"
+  }
+ },
+ "version": "2.1"
+}
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="report.css">
+<script type="text/javascript" src="Show.js">/* Do Not Remove This Comment */</script><script type="text/javascript">
+							function toggleNextSibling (e) {
+							if (e.nextSibling.style.display=='none') {
+							e.nextSibling.style.display='block';
+							} else { e.nextSibling.style.display='none'; }
+							}</script>
+</head>
+<body>
+<span style="display: none;">v3.19.2</span><table class="report" border="0" cellspacing="2" id="idp6627030384">
+<tr>
+<th class="tl" colspan="1" rowspan="1"><div style="width: 200px;"><strong>Cover Page Cover Page<br></strong></div></th>
+<th class="th"><div>Sep. 03, 2019</div></th>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_CoverAbstract', window );"><strong>Cover page.</strong></a></td>
+<td class="text">&#160;<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_DocumentType', window );">Document Type</a></td>
+<td class="text">8-K<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_DocumentPeriodEndDate', window );">Document Period End Date</a></td>
+<td class="text">Sep.  03,  2019<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityRegistrantName', window );">Entity Registrant Name</a></td>
+<td class="text">ADVANCED MICRO DEVICES, INC.<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityIncorporationStateCountryCode', window );">Entity Incorporation, State or Country Code</a></td>
+<td class="text">DE<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityFileNumber', window );">Entity File Number</a></td>
+<td class="text">001-07882<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityTaxIdentificationNumber', window );">Entity Tax Identification Number</a></td>
+<td class="text">94-1692300<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityAddressAddressLine1', window );">Entity Address, Address Line One</a></td>
+<td class="text">2485 Augustine Drive<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityAddressCityOrTown', window );">Entity Address, City or Town</a></td>
+<td class="text">Santa Clara<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityAddressStateOrProvince', window );">Entity Address, State or Province</a></td>
+<td class="text">CA<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityAddressPostalZipCode', window );">Entity Address, Postal Zip Code</a></td>
+<td class="text">95054<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_CityAreaCode', window );">City Area Code</a></td>
+<td class="text">408<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_LocalPhoneNumber', window );">Local Phone Number</a></td>
+<td class="text">749 4000<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_WrittenCommunications', window );">Written Communications</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_SolicitingMaterial', window );">Soliciting Material</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_PreCommencementTenderOffer', window );">Pre-commencement Tender Offer</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_PreCommencementIssuerTenderOffer', window );">Pre-commencement Issuer Tender Offer</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_Security12bTitle', window );">Title of 12(b) Security</a></td>
+<td class="text">Common Stock, $0.01 par value<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_TradingSymbol', window );">Trading Symbol</a></td>
+<td class="text">AMD<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_SecurityExchangeName', window );">Security Exchange Name</a></td>
+<td class="text">NASDAQ<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityEmergingGrowthCompany', window );">Entity Emerging Growth Company</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+<tr class="ro">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_EntityCentralIndexKey', window );">Entity Central Index Key</a></td>
+<td class="text">0000002488<span></span>
+</td>
+</tr>
+<tr class="re">
+<td class="pl " style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_dei_AmendmentFlag', window );">Amendment Flag</a></td>
+<td class="text">false<span></span>
+</td>
+</tr>
+</table>
+<div style="display: none;">
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_AmendmentFlag">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_AmendmentFlag</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_CityAreaCode">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Area code of city</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_CityAreaCode</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_CoverAbstract">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Cover page.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_CoverAbstract</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:stringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_DocumentPeriodEndDate">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>The end date of the period reflected on the cover page if a periodic report. For all other reports and registration statements containing historical data, it is the date up through which that historical data is presented.  If there is no historical data in the report, use the filing date. The format of the date is CCYY-MM-DD.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_DocumentPeriodEndDate</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:dateItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_DocumentType">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_DocumentType</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:submissionTypeItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityAddressAddressLine1">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Address Line 1 such as Attn, Building Name, Street Name</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityAddressAddressLine1</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityAddressCityOrTown">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Name of the City or Town</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityAddressCityOrTown</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityAddressPostalZipCode">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Code for the postal or zip code</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityAddressPostalZipCode</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityAddressStateOrProvince">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Name of the state or province.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityAddressStateOrProvince</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:stateOrProvinceItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityCentralIndexKey">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Regulation 12B<br> -Number 240<br> -Section 12<br> -Subsection b-2<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityCentralIndexKey</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:centralIndexKeyItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityEmergingGrowthCompany">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Indicate if registrant meets the emerging growth company criteria.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Regulation 12B<br> -Number 240<br> -Section 12<br> -Subsection b-2<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityEmergingGrowthCompany</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityFileNumber">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityFileNumber</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:fileNumberItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityIncorporationStateCountryCode">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Two-character EDGAR code representing the state or country of incorporation.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityIncorporationStateCountryCode</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:edgarStateCountryItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityRegistrantName">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Regulation 12B<br> -Number 240<br> -Section 12<br> -Subsection b-2<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityRegistrantName</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_EntityTaxIdentificationNumber">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Regulation 12B<br> -Number 240<br> -Section 12<br> -Subsection b-2<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_EntityTaxIdentificationNumber</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:employerIdItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_LocalPhoneNumber">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Local phone number for entity.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_LocalPhoneNumber</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:normalizedStringItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_PreCommencementIssuerTenderOffer">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Exchange Act<br> -Number 240<br> -Section 13e<br> -Subsection 4c<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_PreCommencementIssuerTenderOffer</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_PreCommencementTenderOffer">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Exchange Act<br> -Number 240<br> -Section 14d<br> -Subsection 2b<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_PreCommencementTenderOffer</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_Security12bTitle">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Title of a 12(b) registered security.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Exchange Act<br> -Number 240<br> -Section 12<br> -Subsection b<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_Security12bTitle</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:securityTitleItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_SecurityExchangeName">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Name of the Exchange on which a security is registered.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Exchange Act<br> -Number 240<br> -Section 12<br> -Subsection d1-1<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_SecurityExchangeName</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:edgarExchangeCodeItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_SolicitingMaterial">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Exchange Act<br> -Section 14a<br> -Number 240<br> -Subsection 12<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_SolicitingMaterial</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_TradingSymbol">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Trading symbol of an instrument as listed on an exchange.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>No definition available.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_TradingSymbol</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>dei:tradingSymbolItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="authRefData" style="display: none;" id="defref_dei_WrittenCommunications">
+<tr><td class="hide"><a style="color: white;" href="javascript:void(0);" onclick="top.Show.hideAR();">X</a></td></tr>
+<tr><td><div class="body" style="padding: 2px;">
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">- Definition</a><div><p>Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.</p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ References</a><div style="display: none;"><p>Reference 1: http://www.xbrl.org/2003/role/presentationRef<br> -Publisher SEC<br> -Name Securities Act<br> -Number 230<br> -Section 425<br></p></div>
+<a href="javascript:void(0);" onclick="top.Show.toggleNext( this );">+ Details</a><div style="display: none;"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><strong> Name:</strong></td>
+<td style="white-space:nowrap;">dei_WrittenCommunications</td>
+</tr>
+<tr>
+<td style="padding-right: 4px;white-space:nowrap;"><strong> Namespace Prefix:</strong></td>
+<td>dei_</td>
+</tr>
+<tr>
+<td><strong> Data Type:</strong></td>
+<td>xbrli:booleanItemType</td>
+</tr>
+<tr>
+<td><strong> Balance Type:</strong></td>
+<td>na</td>
+</tr>
+<tr>
+<td><strong> Period Type:</strong></td>
+<td>duration</td>
+</tr>
+</table></div>
+</div></td></tr>
+</table>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+begin 644 Financial_Report.xlsx
+M4$L#!!0    ( &V!)D\?(\\#P    !,"   +    7W)E;',O+G)E;'.MDD^+
+MPD ,Q;]*F?L:5\'#8CUYZ6U9_ )Q)OU#.Y,A$[%^>X>];+=44/ 87O+>CT?V
+M/S2@=AQ2V\54C'X(J32M:OP"2+8ECVG%D4)6:A:/FD=I(*+ML2'8K-<[D*F'
+M.>RGGD7E2B.5^S3%":4A+<TXP)6E/S/WJVR;A5ND9T*YKCM+1[873T$7LF<;
+M!I99-G\LCNVW<+ZT+/0:S>,*P).B0\5?UX^8 TBTH_0(:+L A#&^NQT:E8(C
+M-R."?S]PN -02P,$%     @ ;8$F3R?HAPZ"    L0   !    !D;V-0<F]P
+M<R]A<' N>&UL38Y-"\(P$$3_2NG=;BGH06) L$?!D_>0;FP@R8;-"OGYIH(?
+MMWF\81AU8\K(XK%T-8943OTJDH\ Q:X831F:3LTXXFBD(3^ G/,6+V2?$9/
+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
+MLP6=XO0,I6>.GB_HF;<_B,AQ@1P5R %]Y0E Q!H76*$"*T#?> (0L<4%UJC
+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
+M6<]>@C"MA[_)1/TUP.K795]02P,$%     @ ;8$F3PN/V ,A 0  5P0  !,
+M  !;0V]N=&5N=%]4>7!E<UTN>&ULM51-3\,P#/TK4Z]HS>#  6V[ %>8!'\@
+M)&X;-5^RO=']>]QN0V(J8FC;)8GS[/=>$BOS]VT&FG3!1UH4#7-^4(I, T%3
+MF3)$0:J$0;.$6*NL3:MK4'>SV;TR*3)$GG+/42SG3U#IM>?)XVZ_IUX4.F?O
+MC&:7HMI$>T0ZW1.6"'[(H<9ENI&$8O+<"0O)WJ(0E IU@L)Q81]+W>L&$)V%
+M?UE+5>4,V&3604I*R@C:4@/ P9?4: 3[QNABO?>[TL@O.@BQZKSZD5!>SP=O
+M/8P;&)!+*K.T!8Q)#<!NO#U+\- -)B%,,PJ*[$:.)Y96@I+J$R]Y1.A;QX(]
+M25RHK_>PGPG;83UVX=\@J6$Z[];_:'29RZ!=_,W(1TKM05\-_\GR"U!+ 0(4
+M Q0    ( &V!)D\?(\\#P    !,"   +              "  0    !?<F5L
+M<R\N<F5L<U!+ 0(4 Q0    ( &V!)D\GZ(<.@@   +$    0
+M  "  >D   !D;V-0<F]P<R]A<' N>&UL4$L! A0#%     @ ;8$F3]P:R=OM
+M    *P(  !$              ( !F0$  &1O8U!R;W!S+V-O<F4N>&UL4$L!
+M A0#%     @ ;8$F3YE<G",0!@  G"<  !,              ( !M0(  'AL
+M+W1H96UE+W1H96UE,2YX;6Q02P$"% ,4    " !M@29/7=/2W* "  "8"P
+M&               @ 'V"   >&PO=V]R:W-H965T<R]S:&5E=#$N>&UL4$L!
+M A0#%     @ ;8$F3T/RS>)4 @  \ 4  !0              ( !S L  'AL
+M+W-H87)E9%-T<FEN9W,N>&UL4$L! A0#%     @ ;8$F3[JA.8K7 0  ,@8
+M  T              ( !4@X  'AL+W-T>6QE<RYX;6Q02P$"% ,4    " !M
+M@29/XG)2U#T!   R @  #P              @ %4$   >&PO=V]R:V)O;VLN
+M>&UL4$L! A0#%     @ ;8$F3__ )@B]    A0(  !H              ( !
+MOA$  'AL+U]R96QS+W=O<FMB;V]K+GAM;"YR96QS4$L! A0#%     @ ;8$F
+M3PN/V ,A 0  5P0  !,              ( !LQ(  %M#;VYT96YT7U1Y<&5S
+;72YX;6Q02P4&      H "@"  @  !10
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+..report table.authRefData{
+	background-color: #def;
+	border: 2px solid #2F4497;
+	font-size: 1em;
+	position: absolute;
+}
+
+..report table.authRefData a {
+	display: block;
+	font-weight: bold;
+}
+
+..report table.authRefData p {
+	margin-top: 0px;
+}
+
+..report table.authRefData .hide {
+	background-color: #2F4497;
+	padding: 1px 3px 0px 0px;
+	text-align: right;
+}
+
+..report table.authRefData .hide a:hover {
+	background-color: #2F4497;
+}
+
+..report table.authRefData .body {
+	height: 150px;
+	overflow: auto;
+	width: 400px;
+}
+
+..report table.authRefData table{
+	font-size: 1em;
+}
+
+/* Report Styles */
+..pl a, .pl a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+/* table */
+..report {
+	background-color: white;
+	border: 2px solid #acf;
+	clear: both;
+	color: black;
+	font: normal 8pt Helvetica, Arial, san-serif;
+	margin-bottom: 2em;
+}
+
+..report hr {
+	border: 1px solid #acf;
+}
+
+/* Top labels */
+..report th {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+..report th.void	{
+	background-color: transparent;
+	color: #000000;
+	font: bold 10pt Helvetica, Arial, san-serif;
+	text-align: left;
+}
+
+..report .pl {
+	text-align: left;
+	vertical-align: top;
+	white-space: normal;
+	width: 200px;
+	white-space: normal; /* word-wrap: break-word; */
+}
+
+..report td.pl a.a {
+	cursor: pointer;
+	display: block;
+	width: 200px;
+	overflow: hidden;
+}
+
+..report td.pl div.a {
+	width: 200px;
+}
+
+..report td.pl a:hover {
+	background-color: #ffc;
+}
+
+/* Header rows... */
+..report tr.rh {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+}
+
+/* Calendars... */
+..report .rc {
+	background-color: #f0f0f0;
+}
+
+/* Even rows... */
+..report .re, .report .reu {
+	background-color: #def;
+}
+
+..report .reu td {
+	border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+..report .ro, .report .rou {
+	background-color: white;
+}
+
+..report .rou td {
+	border-bottom: 1px solid black;
+}
+
+..report .rou table td, .report .reu table td {
+	border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+..report .fn {
+	white-space: nowrap;
+}
+
+/* styles for numeric types */
+..report .num, .report .nump {
+	text-align: right;
+	white-space: nowrap;
+}
+
+..report .nump {
+	padding-left: 2em;
+}
+
+..report .nump {
+	padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+..report .text {
+	text-align: left;
+	white-space: normal;
+}
+
+..report .text .big {
+	margin-bottom: 1em;
+	width: 17em;
+}
+
+..report .text .more {
+	display: none;
+}
+
+..report .text .note {
+	font-style: italic;
+	font-weight: bold;
+}
+
+..report .text .small {
+	width: 10em;
+}
+
+..report sup {
+	font-style: italic;
+}
+
+..report .outerFootnotes {
+	font-size: 1em;
+}
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>11
+<FILENAME>0000002488-19-000144-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+begin 644 0000002488-19-000144-xbrl.zip
+M4$L#!!0    ( &V!)D^#U?'?3P,  .\1   0    86UD+3(P,3DP.3 S+GAS
+M9,U86V_:,!1^[Z_P\FY"BKH-5*BV=I4JL8O:5>W;9)P#6$WLS':X_/O9)B'A
+M4DH2-/4!Z?CD?)^_X\NQS>75(H[0#*1B@O>]H-7V$' J0L8G?>_Q 7]YN+Z[
+M\ZX&9Y<?,'[^>C]$-X*F,7"-KB40#2&:,SU%3R&H%S26(D9/0KZP&<%X!4+.
+M6*BPI^@48H*(UI*-4@VW0L8W,"9II/M>RO^F)&)C!J&1$('M8B.@]%D3.0']
+M@\2@$D*A[TVU3GJ^/Y_/6R0.6U3$_GD[Z+:[[8Z'3(9<]8S_J+B(\9>-P,5(
+M1BTA)R:RW?'MYQ%1D(<O=N+G'1<==+M=WWU=AZIP7Z"A#?SG[\,'-SK>X PA
+M-UHL3H34B.]D.29JY)!*:JR7"2B7!&X'N!-X:#7*0T&)=G.:H5P:9:@#^1!I
+M51#A@JAE-'C(KR;G%$*:2$@5GA"25)=1!JZD9)ZF<J2(ZLS/7CV.JZF@F@MF
+MKZ#::V9W7S&N-.$47I6S"[$MG..P=>'@O)F*8G=74Y'C3J&BZQ-)[52;::,:
+MPR*)""=:R.6M:1^G+))R@^5;06(E=JW$X&,#B8Z9P\0> ,=+*J-.JJ/"L.2(
+MQOV'6OIV _A<<,S-D2@9/4Y&&?EC!3RAFGI*ZLLH3\B%:X5'3D<)8#N^J-:E
+M MJ:B)E/1<JU7-K*].E025.'@'D#%RPUU:12F@O4\LT*NRNGC%RWZE37#=H0
+M6'4M.<@:C17 @DZK2UBCG-58!.,S4.ZJT3GFW-L#RVQ<4-13P@FCZLW5^CIJ
+M939>J(I12Q=4$9%CK($+<$T!.I&6[7.E9;%&.0L7^&T1A'.A'9-UY<XD87PL
+M5A[CL^=V+S^\[V&,W(6]EQV=AZ_U?B)% E(S<YTJO0H<P53"N.^9)P;.GQ=_
+M*(E:YAV01^SP;]XJW"EE(#2-7 [#0F/.8.MVWU-FL"/($O_?.84PKIJ3@3#.
+MWF]*$1E53<E ('J?V202JF9C(,H\O6NM.DOPVP0@9EZZUV(&\A>9P-KPD UX
+MO+_;^Q!WO>\!Y5WDG10K:- V3V?S0[CX4P(CAT066C(O_6WL%FNJ(/S)!\[>
+M'H(,G(4< &YMV*-QFYMB+RQSYB.<U31_JZAECE+I6WE6I75P]@]02P,$%
+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
+MRAR#:TCVS.:ADHB?W<84=P_1Y47>%+L.#R]A*:*) PDD3&).+4:Q&C80*8B
+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
+MRL=;E&Q)=G4C+ RJ^;D)$44%A!L2T)M. 9< ,GAZYQGAJ>@V"" \F<."JC,
+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
+M^FU'&QE@AYV18^N68CJ^HYL*?(#<5?:DC?Z?SSFAAI@V;K.N0^J<\T^327?
+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
+M3P,  .\1   0              "  0    !A;60M,C Q.3 Y,#,N>'-D4$L!
+M A0#%     @ ;8$F3XO7V7(X 0  ? (  !0              ( !?0,  &%M
+M9"TR,#$Y,#DP,U]C86PN>&UL4$L! A0#%     @ ;8$F3XHMB6N< 0  S@4
+M !0              ( !YP0  &%M9"TR,#$Y,#DP,U]D968N>&UL4$L! A0#
+M%     @ ;8$F3_2='DN!"P  'F8  !0              ( !M08  &%M9"TR
+M,#$Y,#DP,U]L86(N>&UL4$L! A0#%     @ ;8$F3[A],/6.!@  &#4  !0
+M             ( !:!(  &%M9"TR,#$Y,#DP,U]P<F4N>&UL4$L! A0#%
+M  @ ;8$F3T,;13=X&   ;9(  !H              ( !*!D  &%M9&9O<FTX
+H:V5Q=6ET>7-A;&5S<V4N:'1M4$L%!@     &  8 C@$  -@Q      $!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+<XML>
+<?xml version='1.0' encoding='utf-8'?>
+<FilingSummary>
+  <Version>3.19.2</Version>
+  <ProcessingTime/>
+  <ReportFormat>html</ReportFormat>
+  <ContextCount>1</ContextCount>
+  <ElementCount>97</ElementCount>
+  <EntityCount>1</EntityCount>
+  <FootnotesReported>false</FootnotesReported>
+  <SegmentCount>0</SegmentCount>
+  <ScenarioCount>0</ScenarioCount>
+  <TuplesReported>false</TuplesReported>
+  <UnitCount>0</UnitCount>
+  <MyReports>
+    <Report instance="amdform8kequitysalesse.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R1.htm</HtmlFileName>
+      <LongName>0001000 - Document - Cover Page Cover Page</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.amd.com/role/CoverPageCoverPage</Role>
+      <ShortName>Cover Page Cover Page</ShortName>
+      <MenuCategory>Cover</MenuCategory>
+      <Position>1</Position>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>All Reports</LongName>
+      <ReportType>Book</ReportType>
+      <ShortName>All Reports</ShortName>
+    </Report>
+  </MyReports>
+  <InputFiles>
+    <File doctype="8-K" original="amdform8kequitysalesse.htm">amdform8kequitysalesse.htm</File>
+    <File>amd-20190903.xsd</File>
+    <File>amd-20190903_cal.xml</File>
+    <File>amd-20190903_def.xml</File>
+    <File>amd-20190903_lab.xml</File>
+    <File>amd-20190903_pre.xml</File>
+  </InputFiles>
+  <SupplementalFiles/>
+  <BaseTaxonomies>
+    <BaseTaxonomy>http://xbrl.sec.gov/dei/2019-01-31</BaseTaxonomy>
+  </BaseTaxonomies>
+  <HasPresentationLinkbase>true</HasPresentationLinkbase>
+  <HasCalculationLinkbase>true</HasCalculationLinkbase>
+</FilingSummary>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>amdform8kequitysalesse_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2019-01-31"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="amd-20190903.xsd" xlink:type="simple"/>
+    <context id="D2019Q3Sept03">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000002488</identifier>
+        </entity>
+        <period>
+            <startDate>2019-09-03</startDate>
+            <endDate>2019-09-03</endDate>
+        </period>
+    </context>
+    <dei:AmendmentFlag
+      contextRef="D2019Q3Sept03"
+      id="Fact-34649B91FF9D5626A132FF31E1CE818F-wk-Fact-34649B91FF9D5626A132FF31E1CE818F">false</dei:AmendmentFlag>
+    <dei:EntityCentralIndexKey
+      contextRef="D2019Q3Sept03"
+      id="Fact-E30261AEC8BE55029AA66F79BF397293-wk-Fact-E30261AEC8BE55029AA66F79BF397293">0000002488</dei:EntityCentralIndexKey>
+    <dei:DocumentType
+      contextRef="D2019Q3Sept03"
+      id="d1665853e72-wk-Fact-C2A15415E1DA5E82A5352082D248689E">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate
+      contextRef="D2019Q3Sept03"
+      id="d1665853e88-wk-Fact-0E857DEA18E15D468565C933A3D8F94C">2019-09-03</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName
+      contextRef="D2019Q3Sept03"
+      id="d1665853e99-wk-Fact-D8C817A070C75B2F9FE96E51F0A1DCA7">ADVANCED MICRO DEVICES, INC.</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode
+      contextRef="D2019Q3Sept03"
+      id="d1665853e122-wk-Fact-E0C833CB27905100A7F1EA0490F88F8D">DE</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber
+      contextRef="D2019Q3Sept03"
+      id="d1665853e127-wk-Fact-E5D73D074CEC5DB8942220A1549F2A73">001-07882</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber
+      contextRef="D2019Q3Sept03"
+      id="d1665853e137-wk-Fact-658E76AA2F615E5FAB03B17665B90D77">94-1692300</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1
+      contextRef="D2019Q3Sept03"
+      id="d1665853e182-wk-Fact-C447B70C9C2B5E06A50F8FC2198801A0">2485 Augustine Drive</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown
+      contextRef="D2019Q3Sept03"
+      id="d1665853e188-wk-Fact-FF8F7B5230945A37BC84A2E7F4AE79EA">Santa Clara</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince
+      contextRef="D2019Q3Sept03"
+      id="d1665853e193-wk-Fact-116073A421F75706AFB1D327FDC273B9">CA</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode
+      contextRef="D2019Q3Sept03"
+      id="d1665853e198-wk-Fact-DBF3ACE922EC55DEAC6D4004CBD68106">95054</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode
+      contextRef="D2019Q3Sept03"
+      id="d1665853e211-wk-Fact-48655DA30E145B87B633BFEC10FA78D2">408</dei:CityAreaCode>
+    <dei:LocalPhoneNumber
+      contextRef="D2019Q3Sept03"
+      id="d1665853e216-wk-Fact-3CDA422F050358DBB445711C5CBA254F">749 4000</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications
+      contextRef="D2019Q3Sept03"
+      id="d1665853e235-wk-Fact-BFC15328E0E854F09EFEEC3D5A5933AF">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial
+      contextRef="D2019Q3Sept03"
+      id="d1665853e244-wk-Fact-F2896330428155439298D138639C1555">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer
+      contextRef="D2019Q3Sept03"
+      id="d1665853e253-wk-Fact-9A4D6E85ADA95827AFA572DA9C551E0C">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer
+      contextRef="D2019Q3Sept03"
+      id="d1665853e262-wk-Fact-2872C4B5F0F95E28A2294D85FBE52CC0">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle
+      contextRef="D2019Q3Sept03"
+      id="d1665853e304-wk-Fact-6663BB43B1B35725AD5863764FA311FA">Common Stock, $0.01 par value</dei:Security12bTitle>
+    <dei:TradingSymbol
+      contextRef="D2019Q3Sept03"
+      id="d1665853e309-wk-Fact-F7C88E9F1FA750D2BEF1122B4CA58422">AMD</dei:TradingSymbol>
+    <dei:SecurityExchangeName
+      contextRef="D2019Q3Sept03"
+      id="d1665853e314-wk-Fact-EA64A70F13795228B47181B4F867799C">NASDAQ</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany
+      contextRef="D2019Q3Sept03"
+      id="d1665853e324-wk-Fact-3023369A4DF0562AACFEE79CBE808340">false</dei:EntityEmergingGrowthCompany>
+</xbrl>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission.  Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,887 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MXqxFjyyEqrgdvr13Ld1lCEZCFQEqa3Kwu9OAs8TP4UpKj8tSo1hWUVgJ3SAShB+
+ y4qUlKa6PLD8zqs5psBAjQ==
+
+<SEC-DOCUMENT>0001193125-08-249520.txt : 20081208
+<SEC-HEADER>0001193125-08-249520.hdr.sgml : 20081208
+<ACCEPTANCE-DATETIME>20081208144045
+ACCESSION NUMBER:		0001193125-08-249520
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20081205
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20081208
+DATE AS OF CHANGE:		20081208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		081235558
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>CURRENT REPORT ON FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Current Report on Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>December&nbsp;5, 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Date of Report (Date of earliest event reported)
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>001-07882</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>94-1692300</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State of Incorporation)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer Identification Number)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>One AMD Place </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>P.O. Box 3453 Sunnyvale, California 94088-3453 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices) (Zip Code)
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(408) 749-4000 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>N/A </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former Name or Former Address, if Changed Since Last Report) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#120;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;1.01</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Entry into a Material Definitive Agreement. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On
+December&nbsp;5, 2008, Advanced Micro Devices, Inc. (the &#147;<B><I>Company</I></B>&#148;) entered into the Amendment (the &#147;<B><I>Amendment</I></B>&#148;) to Master Transaction Agreement with Advanced Technology Investment Company LLC, a
+limited liability company established under the laws of the Emirate of Abu Dhabi and wholly owned by the Government of the Emirate of Abu Dhabi (&#147;<B><I>ATIC</I></B>&#148;), and West Coast Hitech L.P., an exempted limited partnership organized
+under the laws of the Cayman Islands (&#147;<B><I>WCH</I></B>&#148;), acting through its general partner, West Coast Hitech G.P., Ltd., a corporation organized under the laws of the Cayman Islands (the &#147;<B><I>Master Transaction
+Agreement</I></B>&#148;), pursuant to which, among other things, (i)&nbsp;WCH will purchase 58,000,000 shares of the Company&#146;s common stock and 35,000,000 warrants to purchase the Company&#146;s common stock at a revised aggregate purchase
+price equal to 58,000,000 multiplied by the lower of (A)&nbsp;the average closing prices per share of the Company&#146;s common stock on the New York Stock Exchange (&#147;<B><I>NYSE</I></B>&#148;) during the 20 trading days immediately prior to and
+including December&nbsp;12, 2008 or (B)&nbsp;the average closing prices per share of the Company&#146;s common stock on the NYSE during the 20 trading days immediately prior to the closing date of the transactions contemplated by the Master
+Transaction Agreement (the &#147;<B><I>Closing</I></B>&#148;), (ii)&nbsp;the Company will issue to WCH an additional 5,000,000 warrants to purchase the Company&#146;s common stock at an exercise price of $0.01 per share, for a total of 35,000,000
+warrants, (iii)&nbsp;the enterprise value of the manufacturing assets to be contributed by the Company to The Foundry Company will be reduced from a multiplier of 1.13x to 0.85x of the net book value of the assets and (iv)&nbsp;the net asset
+valuation multiple on future capital calls of The Foundry Company will be reduced from 1.1x to 0.9x. Immediately following the Closing, the Company and ATIC will be the only stockholders of The Foundry Company, each of which at the Closing will have
+equal voting rights, and The Foundry Company will be owned 34.2 percent by the Company and 65.8 percent by Oyster on a fully converted to common basis. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">The foregoing description of the Amendment is qualified in its entirety by reference to the Amendment attached hereto as Exhibit 10.1, which is incorporated herein by reference, and by reference to the Master
+Transaction Agreement attached as Exhibit 10.1 to the Company&#146;s Form 8-K/A filed with the Securities and Exchange Commission on October&nbsp;22, 2008. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;7.01</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Regulation FD Disclosure. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The information in this
+Item, including the Exhibit 99.1 attached hereto, is furnished pursuant to Item&nbsp;7.01 of this Form 8-K. Consequently, it is not deemed &#147;filed&#148; for the purposes of Section&nbsp;18 of the Securities and Exchange Act of 1934, as amended,
+or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or the Securities Act of 1933, as amended, if such subsequent filing specifically references this Form 8-K.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On December&nbsp;8, 2008, the Company announced the entry into the Amendment in a press release that is attached hereto as Exhibit 99.1.
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;9.01</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Financial Statements and Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(d)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amendment to Master Transaction Agreement dated as of December&nbsp;5, 2008, by and among Advanced Micro Devices, Inc., Advanced Technology Investment Company LLC and West Coast Hitech L.P.,
+acting through its general partner, West Coast Hitech G.P., Ltd.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December&nbsp;8, 2008.</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Date: December&nbsp;8, 2008</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">ADVANCED MICRO DEVICES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Faina Medzonsky</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Faina Medzonsky</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Assistant General Counsel and Assistant Secretary</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit Index. </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amendment to Master Transaction Agreement dated as of December&nbsp;5, 2008, by and among Advanced Micro Devices, Inc., Advanced Technology Investment Company LLC and West Coast Hitech L.P.,
+acting through its general partner, West Coast Hitech G.P., Ltd.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December&nbsp;8, 2008.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>dex101.htm
+<DESCRIPTION>AMENDMENT TO MASTER TRANSACTION AGREEMENT DATED AS OF DECEMBER 5, 2008
+<TEXT>
+<HTML><HEAD>
+<TITLE>Amendment to Master Transaction Agreement dated as of December 5, 2008</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">THIS AMENDMENT TO MASTER TRANSACTION AGREEMENT (this &#147;<U>Amendment</U>&#148;), dated as of December&nbsp;5, 2008, amends the Master Transaction Agreement (the &#147;<U>Master Transaction Agreement</U>&#148;),
+dated as of October&nbsp;6, 2008, among Advanced Micro Devices, Inc., a Delaware corporation (&#147;<U>Discovery</U>&#148;), Advanced Technology Investment Company LLC, a limited liability company established under the laws of the Emirate of Abu
+Dhabi and wholly owned by the Government of the Emirate of Abu Dhabi (&#147;<U>Oyster</U>&#148;), and West Coast Hitech L.P., an exempted limited partnership organized under the laws of the Cayman Islands (&#147;<U>Pearl</U>&#148;), acting through
+its general partner, West Coast Hitech G.P., Ltd., a corporation organized under the laws of the Cayman Islands. Capitalized terms used but not defined herein shall have the meanings assigned to such terms of the Master Transaction Agreement.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">WHEREAS, the Parties hereto desire to amend the Master Transaction Agreement in accordance with Section&nbsp;14.06 of the Master
+Transaction Agreement; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">NOW, THEREFORE, in consideration of the premises and the mutual agreements and covenants hereinafter set forth, and
+intending to be legally bound, the Parties hereto hereby agree as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 1. <U>Amendments to Terms of the Master Transaction
+Agreement</U>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) The second and third recitals in the preamble of the Master Transaction Agreement are hereby amended and restated in
+their entirety to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">WHEREAS, Discovery wishes to contribute or to cause its Subsidiaries to contribute to
+FoundryCo, and the Parties wish to cause FoundryCo to acquire from Discovery and its Subsidiaries, the FoundryCo Assets in consideration of the issuance by FoundryCo to Discovery (or a Subsidiary of Discovery designated by Discovery prior to the
+Closing) of one (1)&nbsp;Class&nbsp;A Ordinary Share, one million ninety thousand nine hundred fifty (1,090,950)&nbsp;Class&nbsp;A Preferred Shares, seven hundred thousand (700,000)&nbsp;Class B Preferred Shares, and the assumption of the Assumed
+Liabilities by FoundryCo and its Subsidiaries; </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">WHEREAS, Oyster wishes (i)&nbsp;to contribute cash to FoundryCo in
+consideration of the issuance by FoundryCo to Oyster of one (1)&nbsp;Class&nbsp;A Ordinary Share, two hundred eighteen thousand one hundred ninety (218,190)&nbsp;Class&nbsp;A Preferred Shares, one hundred seventy-two thousand seven hundred sixty
+(172,760)&nbsp;Class B Preferred Shares, two hundred one million eight hundred ten thousand dollars ($201,810,000) aggregate principal amount of Class&nbsp;A Convertible Notes and eight hundred seven million two hundred forty thousand dollars
+($807,240,000) aggregate principal amount of Class B Convertible Notes; and (ii)&nbsp;to transfer cash to Discovery in consideration of the transfer by Discovery of seven hundred thousand (700,000)&nbsp;Class B Preferred Shares to Oyster; and
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) Section&nbsp;2.04(a)(iii) of the Master Transaction Agreement is hereby amended and restated in its
+entirety to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(iii) a receipt for one (1)&nbsp;Class&nbsp;A Ordinary Share, one million ninety thousand nine hundred fifty
+(1,090,950)&nbsp;Class&nbsp;A Preferred Shares, and seven hundred thousand (700,000)&nbsp;Class B Preferred Shares; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c)
+Section&nbsp;2.05(a)(i) of the Master Transaction Agreement is hereby amended and restated in its entirety to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(i) drafts
+of certificates representing one (1)&nbsp;Class&nbsp;A Ordinary Share, one million ninety thousand nine hundred fifty (1,090,950)&nbsp;Class&nbsp;A Preferred Shares, and seven hundred thousand (700,000)&nbsp;Class B Preferred Shares, registered in
+the name of Discovery or its designee and a draft of the register of members of FoundryCo showing the registration of said Class&nbsp;A Ordinary Share, Class&nbsp;A Preferred Shares, and Class B Preferred Shares; </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) Section&nbsp;2.05(b)(i) of the Master Transaction Agreement is hereby amended and restated in its entirety to read as follows: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(i) drafts of certificates representing one (1)&nbsp;Class&nbsp;A Ordinary Share, two hundred eighteen thousand one hundred ninety
+(218,190)&nbsp;Class&nbsp;A Preferred Shares, one hundred seventy-two thousand seven hundred sixty (172,760)&nbsp;Class B Preferred Shares, two hundred one million eight hundred ten thousand dollars ($201,810,000) aggregate principal amount of
+Class&nbsp;A Convertible Notes, and eight hundred seven million two hundred forty thousand dollars ($807,240,000) aggregate principal amount of Class B Convertible Notes, and a draft of the register of members of FoundryCo showing the registration
+of said Class&nbsp;A Ordinary Share, Class&nbsp;A Preferred Shares and Class B Preferred Shares; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) Section&nbsp;2.06(b)(ii) of the
+Master Transaction Agreement is hereby amended and restated in its entirety to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) a receipt for one
+(1)&nbsp;Class&nbsp;A Ordinary Share, two hundred eighteen thousand one hundred ninety (218,190)&nbsp;Class&nbsp;A Preferred Shares, one hundred seventy-two thousand seven hundred sixty (172,760)&nbsp;Class B Preferred Shares, two hundred one
+million eight hundred ten thousand dollars ($201,810,000) aggregate principal amount of Class&nbsp;A Convertible Notes, and eight hundred seven million two hundred forty thousand dollars ($807,240,000) aggregate principal amount of Class B
+Convertible Notes; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(f) Section&nbsp;2.08(c)(i) of the Master Transaction Agreement is hereby amended and restated in its entirety to read
+as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(i) In the event that the amount of the Initial Valuation Net Tangible Assets reflected on the Reference Statement of Initial
+Valuation Net Tangible Assets exceeds the amount of the Initial Valuation Net Tangible Assets reflected on the Closing Statement of Initial Valuation Net Tangible Assets by more than the Designated Amount, then the Purchase Price shall be adjusted
+downward in an amount equal to 0.85 times such excess over the Designated Amount, and FoundryCo shall make such adjustment by issuing to Oyster an additional Class&nbsp;A Convertible Note and an additional Class B Convertible Note with an aggregate
+principal amount equal to the amount of such adjustment and in the same </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%">
+<FONT FACE="Times New Roman" SIZE="2">proportion, by principal amount, as the Class&nbsp;A Convertible Note and Class B Convertible Note, respectively, issued to Oyster at Closing. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(g) Section&nbsp;2.08(c)(ii) of the Master Transaction Agreement is hereby amended and restated in its entirety to read as follows: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) In the event that the amount of the Initial Valuation Net Tangible Assets reflected on the Closing Statement of Initial Valuation Net Tangible Assets
+exceeds the amount of the Initial Valuation Net Tangible Assets reflected on the Reference Statement of Initial Valuation Net Tangible Assets by more than the Designated Amount, then the Purchase Price shall be adjusted upward in an amount equal to
+0.85 times such excess over the Designated Amount, and FoundryCo shall make such adjustment by canceling an aggregate principal amount of the Class&nbsp;A Convertible Note and the Class B Convertible Note issued to Oyster at Closing equal to the
+amount of such adjustment and in the same proportion, by principal amount, as the Class&nbsp;A Convertible Note and Class B Convertible Note, respectively, issued to Oyster at Closing. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(h) Section&nbsp;13.03(a) of the Master Transaction Agreement is hereby amended and restated in its entirety to read as follows: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">(a) Except as set forth in this Section&nbsp;13.03, all expenses incurred in connection with this Agreement and the transactions contemplated by this
+Agreement shall be paid by the Party incurring such expenses, whether or not the transactions contemplated by this Agreement are consummated. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(i) Certain defined terms in Appendix A of the Master Transaction Agreement are amended and restated in their entirety to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2">&#147;<U>Oyster/FoundryCo Cash Consideration</U>&#148; means a cash payment in the amount of one billion four hundred million dollars ($1,400,000,000) payable at the Closing by Oyster to FoundryCo in consideration of the issuance of one
+(1)&nbsp;Class&nbsp;A Ordinary Share, two hundred eighteen thousand one hundred ninety (218,190)&nbsp;Class&nbsp;A Preferred Shares, one hundred seventy-two thousand seven hundred sixty (172,760)&nbsp;Class B Preferred Shares, two hundred one
+million eight hundred ten thousand dollars ($201,810,000) aggregate principal amount of Class&nbsp;A Convertible Notes and eight hundred seven million two hundred forty thousand dollars ($807,240,000) aggregate principal amount of Class B
+Convertible Notes to Oyster at Closing. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;<U>Pearl/Discovery Cash Consideration</U>&#148; means the cash payment at Closing by Pearl to
+Discovery in exchange for the Discovery Shares and the Warrants, which payment shall be equal to (a)&nbsp;the number of Discovery Shares multiplied by (b)&nbsp;the lesser of (i)&nbsp;the average of the closing prices per share of Discovery Common
+Stock on the New York Stock Exchange for the twenty (20)&nbsp;Trading Days immediately prior to and including December&nbsp;12, 2008 and (ii)&nbsp;the average of the closing prices per share of Discovery Common Stock on the New York Stock Exchange
+for the twenty (20)&nbsp;Trading Days immediately prior to the Closing Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;<U>Purchase Price</U>&#148; shall be an amount equal to one billion seven hundred ninety million
+nine hundred fifty thousand dollars ($1,790,950,000), subject to adjustment as provided in Section&nbsp;2.08. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;<U>Trading
+Day</U>&#148; means a day during which trading in securities generally occurs on the New York Stock Exchange or, if the Discovery Common Stock is not listed on the New York Stock Exchange, on the principal other securities exchange or interdealer
+quotation system in the United States on which the Discovery Common Stock is then listed or quoted. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;<U>Warrants</U>&#148; means
+warrants to purchase thirty-five million (35,000,000)&nbsp;shares of Discovery Common Stock in the form set forth as Exhibit&nbsp;J. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(j)
+For purposes of determining whether a change in facts and circumstances constitutes a Material Adverse Effect, a Discovery Material Adverse Effect or a FoundryCo Material Adverse Effect at any point in time, the facts and circumstances at that time
+shall be compared to the facts and circumstances as of the date of this Amendment rather than the facts and circumstances as of October&nbsp;6, 2008. Except as set forth in the immediately preceding sentence, no Party waives, or is deemed to have
+waived, any of its rights under the Master Transaction Agreement concerning the conditions precedent to Closing as set forth in Article XI thereof, including without limitation conditions relating to the receipt of all Minimum Required
+Authorizations and Consents as set forth in the Master Transaction Agreement in the form originally executed on October&nbsp;6, 2008. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">Section 2. <U>Other Transaction Documents</U>. The forms of Transaction Documents other than the Master Transaction Agreement shall be correspondingly amended <I>mutatis mutandis </I>in a matter in all respects consistent with this
+Amendment. The Transaction Documents shall be amended by the amendment and restatement in their entirety of the relevant sections thereof as set forth in Appendix A hereto and such other conforming changes that may be necessary to carry out the
+intent of this Amendment. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 3. <U>Entire Agreement</U>. The Master Transaction Agreement, as amended by this Amendment, together
+with the Ancillary Agreements and any other agreement entered into contemporaneously with the execution of the Master Transaction Agreement, constitutes the entire agreement of the Parties with respect to the subject matter of the Master Transaction
+Agreement, as amended by this Amendment, and supersedes all prior agreements and undertakings, both written and oral, among the Parties hereto with respect to the subject matter thereof and hereof. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 4. <U>Severability</U>. If any term or other provision of this Amendment is invalid, illegal or incapable of being enforced by any Law or public
+policy, all other terms and provisions of this Amendment shall nevertheless remain in full force and effect for so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to
+either Party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Amendment so as to effect the original intent of the Parties as
+closely as </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent
+possible. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 5. <U>Counterparts</U>. This Amendment may be executed and delivered (including by facsimile transmission) in one or
+more counterparts, and by the different Parties in separate counterparts, each of which when executed shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 6. <U>Effect of this Amendment to Master Transaction Agreement</U>. From and after the execution of a counterpart hereof by the Parties hereto,
+any reference to the Master Transaction Agreement shall be deemed to be a reference to the Master Transaction Agreement as amended hereby. Except as expressly amended hereby, the terms and conditions of the Master Transaction Agreement shall remain
+unchanged and in full force and effect. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Section 7. <U>Governing Law</U>. This Amendment shall be governed by, and construed in accordance
+with, the Laws of the State of New York applicable to contracts executed in and to be performed in that State, without regard to principles of the conflict of laws. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">IN WITNESS WHEREOF, the Parties have caused this Amendment to Master Transaction Agreement to be executed
+as of the date first written above by their respective officers thereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">ADVANCED MICRO DEVICES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Derrick R. Meyer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Derrick R. Meyer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">President and CEO</FONT></TD></TR>
+<TR>
+<TD HEIGHT="24" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">ADVANCED TECHNOLOGY INVESTMENT COMPANY LLC</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Samer Saleh Halawa</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Samer Saleh Halawa</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Authorized Signatory</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Hani Barhoush</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Hani Barhoush</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Authorized Signatory</FONT></TD></TR>
+<TR>
+<TD HEIGHT="24" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">WEST COAST HITECH L.P.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">West Coast Hitech G.P., Ltd., its general partner</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Samer Saleh Halawa</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Samer Saleh Halawa</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Authorized Signatory</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Hani Barhoush</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Hani Barhoush</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Authorized Signatory</FONT></TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Appendix A </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Form of Funding Agreement</B>. </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman"
+SIZE="2"><U>Section&nbsp;3.02(b)</U>. On each Funding Date, the purchase price per Class&nbsp;A Preferred Share shall be the same as the purchase price per Class B Preferred Share and shall be determined by dividing (i)&nbsp;the Net Tangible Assets
+of the FoundryCo Group (derived from the most recent Fiscal Year-end audited consolidated balance sheet of FoundryCo that has been approved by the Board and calculated in accordance with the Statement of Principles set forth in <U>Appendix F</U>
+attached hereto) by (ii)&nbsp;the Number of Outstanding Preferred Shares (as of the date of the balance sheet referred to in clause (i)&nbsp;above), and multiplying such quotient by 0.90. </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Form of Shareholders&#146; Agreement</B>. </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman"
+SIZE="2"><U>Section&nbsp;2.01</U>. The share capital of FoundryCo Outstanding as of the date hereof shall consist of (i)&nbsp;two (2)&nbsp;Class&nbsp;A Ordinary Shares, one each issued to Discovery and Oyster, respectively; (ii)&nbsp;no Class B
+Ordinary Shares; (iii)&nbsp;one million three hundred nine thousand one hundred forty (1,309,140)&nbsp;Class&nbsp;A Preferred Shares and (iv)&nbsp;eight hundred seventy-two thousand seven hundred sixty (872,760)&nbsp;Class B Preferred Shares. The
+rights of the holders of the Class&nbsp;A Ordinary Shares, the Class B Ordinary Shares, the Class&nbsp;A Preferred Shares and the Class B Preferred Shares are as set forth in the Memorandum and Articles of Association. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2"><U>Appendix A: Definitions</U>: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman"
+SIZE="2">&#147;<U>Initial Convertible Notes</U>&#148; means (i)&nbsp;the two hundred one million eight hundred ten thousand dollars ($201,810,000) principal amount class A convertible promissory note issued by FoundryCo to Oyster at the Closing,
+including any paid-in-kind interest on such note, and (ii)&nbsp;the eight hundred seven million two hundred forty thousand dollars ($807,240,000) principal amount class B convertible promissory note issued by FoundryCo to Oyster at the Closing,
+including any paid-in-kind interest on such note. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Form of Registration Rights Agreement</B>. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman"
+SIZE="2"><B>Section&nbsp;1</B>. <U>Definitions</U>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">&#147;<B><I>Warrants</I></B>&#148; shall mean the 35,000,000 warrants to be issued by
+the Company to the Investor pursuant to the terms of the Master Transaction Agreement. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">4.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Form of Warrants</B>. </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2"><U>First sentence of
+introductory paragraph</U>: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Advanced Micro Devices, Inc., a Delaware corporation (the &#147;<U>Company</U>&#148;), for value received,
+hereby certifies that Pearl, or its registered permitted assigns (&#147;<U>Warrantholder</U>&#148;), is entitled, subject to the terms and conditions set forth herein, to purchase from the Company 35,000,000 shares of Common Stock, par value $0.01
+per share (the&nbsp;&#147;<U>Common Stock</U>&#148;), of the Company (such number of shares, as adjusted pursuant to the terms hereof, the&nbsp;&#147;<U>Warrant Shares</U>&#148;) at a purchase price per share of $0.01 (such purchase price, as
+adjusted pursuant to the terms hereof, the&nbsp;&#147;<U>Warrant Price</U>&#148;), at any time or from time to time not later than 5:00 p.m., Eastern time, on [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;], 201[9].
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">5.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Initial Capitalization Table of FoundryCo</B>. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="73%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="8"><FONT FACE="Times New Roman" SIZE="2"><B>Capitalization Table</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Outstanding<BR>(millions)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Shares</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Owner</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Debt</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class&nbsp;A Convertible Subordinate Note</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>1</SUP></FONT><FONT FACE="Times New Roman"
+SIZE="2"></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">202</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">201,810</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Oyster</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class B Convertible Subordinate Note</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>2</SUP></FONT><FONT FACE="Times New Roman" SIZE="2">
+</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">807</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">807,240</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Oyster</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dresden Term Loan</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">705</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3rd Party</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Silent Partner Debt</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">105</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3rd Party</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Capital Leases</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">218</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3rd Party</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Repurchase obligation in respect of minority interest in AMD Fab 36 Limited Liability Company&nbsp;&amp; Co. KG held by Leipziger Messe GmbH
+</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">174</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3rd Party</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><B>$</B></FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>2,211</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Initial&nbsp;Issuance<BR>Price (millions)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Equity</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class&nbsp;A Ordinary (Voting) Share</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Discovery</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class&nbsp;A Ordinary (Voting) Share</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Oyster</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class&nbsp;A Preferred Shares</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,091</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,090,950</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Discovery</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class&nbsp;A Preferred Shares</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">218</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">218,190</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Oyster</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Class B Preferred Shares</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">873</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">872,760</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Oyster</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><B>$</B></FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>2,182</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total Capitalization</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><B>$</B></FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>4,393</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:3px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>1</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Convertible into Class&nbsp;A Preferred Shares at a 1,000:1 ratio upon the occurrence of certain future events.
+</FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:3px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>2</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Convertible into Class B Preferred Shares at a 1,000:1 ratio upon the occurrence of certain future events.
+</FONT></P></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE DATED DECEMBER 8, 2008
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release dated December 8, 2008</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="5"><B><I>NEWS RELEASE </I></B></FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>AMD: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">PR Contact:
+Drew Prairie, (512)&nbsp;602-4425, <U>Drew.Prairie@amd.com</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">IR Contact: Ruth Cotter, (408)&nbsp;749-3887, <U>Ruth.Cotter@amd.com</U> </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>&#147;The Foundry Company&#148;: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">PR Contact: Jon Carvill,
+(512)&nbsp;284-1752, <U>Jon.Carvill@amd.com</U> </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Mubadala: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">U.S. Contact: Richard Mintz, (202)&nbsp;295-8772, <U>rmintz@mubadala.ae</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Abu Dhabi Contact: Kate Triggs, +971 50 6853 101,
+<U>ktriggs@mubadala.ae</U> </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ATIC: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">U.S. Contact: Amanda
+Orr, (202)&nbsp;295-8786, <U>amanda.orr@harbourgrp.com</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Abu Dhabi Contact: Daniel Slack-Smith, +971 50 812 5234, <U>info@advancedtechnologyic.com</U>
+</FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>AMD, the Advanced Technology Investment Company and Mubadala Amend Transaction Agreements </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>Parties to create a leading-edge semiconductor manufacturing company at the beginning of 2009 </I></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>SUNNYVALE, Calif. &#150; Dec. 08, 2008 &#150; </B>AMD (NYSE: AMD), the Advanced Technology Investment Company (ATIC) and Mubadala Development Company
+today announced amendments to the October&nbsp;6, 2008 transaction agreements for the creation of a leading-edge semiconductor manufacturing joint venture, currently known as &#147;The Foundry Company. The transactions covered by the amended
+agreements are expected to close at the beginning of 2009. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The amendments to the terms between AMD and Mubadala provide for the following:
+</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Mubadala will purchase 58&nbsp;million shares of AMD&#146;s common stock at a revised purchase price per share equal to the lower of (i)&nbsp;the average closing
+price per share of AMD&#146;s common stock on the NYSE during the 20 trading days immediately prior to and including December&nbsp;12, 2008 or (ii)&nbsp;the average closing price per share of AMD&#146;s common stock on the NYSE during the 20 trading
+days immediately prior to the closing date of the transaction. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">AMD will issue to Mubadala an additional 5&nbsp;million warrants to purchase AMD stock, for a total of 35&nbsp;million warrants. </FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The amendments to the terms between AMD and ATIC provide for the following: </FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The enterprise value of the manufacturing assets to be contributed by AMD to &#147;The Foundry Company&#148; will be reduced from a multiplier of 1.13x to 0.85x of
+the net book value of the assets. As a result, AMD will own approximately 34.2 percent and ATIC will own approximately 65.8 percent of &#147;The Foundry Company&#146;s&#148; fully-converted common stock. AMD and ATIC will each have equal voting
+rights at the close of the transaction. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The net asset valuation multiple on future capital calls of &#147;The Foundry Company&#148; will be reduced from 1.1x to 0.9x. </FONT></P></TD></TR></TABLE> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">All other material economic terms of the transaction agreements remain unchanged. ATIC will still invest $2.1 billion to purchase its stake in &#147;The
+Foundry Company&#148;, of which it will invest $1.4 billion directly in the new entity and will pay $700 million to AMD. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Forward-Looking Statement </B>
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This document contains forward-looking statements, which are made pursuant to the safe harbor provisions of the U.S. Private Securities
+Litigation Reform Act of 1995. These forward-looking statements are based on risks and uncertainties that could cause actual results to differ materially from expectations. These forward-looking statements should not be relied upon as predictions of
+future events as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will occur. You can identify forward-looking statements by the use of forward-looking terminology including
+&#147;believes,&#148; &#147;expects,&#148; &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;seeks,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;pro forma,&#148; &#147;estimates,&#148; or &#147;anticipates&#148; or the negative of
+these words and phrases or other variations of these words and phrases or comparable terminology. These forward-looking statements relate to, among other things, the terms and timing of the completion of The Foundry Company joint venture. The
+material factors that could cause actual results to differ materially from current expectations include, without limitation, the following: any inability to realize all of the anticipated benefits of our proposed The Foundry Company joint venture
+because, among other things, the revenues, cost savings, improved cash flow, growth prospects and any other benefits expected from the transaction may not be fully realized or may take longer to realize than expected; that The Foundry Company joint
+venture does not close; a downturn in the semiconductor industry; unexpected variations in market growth and demand for our products and technologies in light of the product mix that we may have available at any particular time or even a decline in
+demand; our cost reduction efforts are not effective; any inability to develop, launch and ramp new products and technologies in the volumes and mix required by the market at mature yields and on a timely basis; any inability to obtain sufficient
+manufacturing capacity or components to meet demand for our products or the under-utilization of The Foundry Company&#146;s manufacturing facilities; or the effect of political or economic instability internationally on our sales or production. We
+urge investors to review in detail the risks and uncertainties in our Securities and Exchange Commission filings, including but not limited to the Quarterly Report on Form 10-Q for the quarter ended September&nbsp;27, 2008. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Additional Information and Where to Find It </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">A preliminary proxy statement pursuant to which AMD&#146;s board of directors will solicit proxies in connection with seeking AMD stockholder approval of
+the issuance of AMD shares and warrants pursuant to the Master Transaction Agreement has been filed with the Securities and Exchange Commission (the &#147;SEC&#148;). The preliminary proxy statement will be amended to reflect the amendments to the
+terms of the transactions described above. Investors and security holders are urged to read the proxy statement, as amended, and other relevant documents filed with the SEC. Security holders may obtain a free copy of the amended proxy statement,
+when AMD files it with the SEC, and other documents filed by AMD with the SEC at the SEC&#146;s web site at http://www.sec.gov. The proxy statement and other documents may also be obtained free of charge by contacting AMD Investor Relations at
+<U>investor.relations@amd.com</U> or by telephone: (408)&nbsp;749-4000. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">AMD and its executive officers and directors may be deemed to be
+participants in the solicitation of proxies from AMD&#146;s stockholders with respect to the issuance of AMD shares and warrants pursuant to the Master Transaction Agreement. Information regarding such executive officers and directors is included in
+AMD&#146;s Proxy Statement for its 2008 Annual Meeting of Stockholders filed with the SEC on March&nbsp;14, 2008, which is available free of charge at the SEC&#146;s web site at http://www.sec.gov and by contacting AMD Investor Relations at
+<U>investor.relations@amd.com</U> or by telephone: (408)&nbsp;749-4000. Certain executive officers and directors of AMD have interests in the transaction that may differ from the interests of AMD stockholders generally. These interests will be
+described in the proxy statement when AMD files it with the SEC in the coming weeks. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About AMD </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Advanced Micro Devices (NYSE: AMD) is an innovative technology company dedicated to collaborating with customers and partners to ignite the next
+generation of computing and graphics solutions at work, home and play. For more information, visit <U>http://www.amd.com</U>. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About ATIC </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">The Advanced Technology Investment Company (ATIC) was created in 2008. A technology investment company wholly owned by the Government of Abu Dhabi, ATIC is focused on making significant investments in the advanced technology sector, both
+locally and internationally. Its mandate is to generate returns that deliver long-term benefits to the Emirate of Abu Dhabi. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">ATIC seeks to
+leverage the unique advantages it enjoys as an investor from the Emirate of Abu Dhabi to identify and realize long-term investment opportunities in the highly competitive and capital-intensive advanced technology sector. These advantages include
+significant and reliable capital, a patient investment philosophy, and a subsequently long-term investment horizon. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">For more information
+about ATIC visit <U>www.advancedtechnologyic.com</U> </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About Mubadala Development Company </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Mubadala Development Company (Mubadala) is a Public Joint Stock Company headquartered in Abu Dhabi, capital of the United Arab Emirates. Its focus is on
+developing and managing an extensive and economically diverse portfolio of commercial initiatives. It does this either independently or in partnership with leading international organizations. Mubadala&#146;s commercial strategy is fundamentally
+built on long-term capital-intensive investments that deliver strong financial returns. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The company manages a multi-billion dollar
+portfolio of local, regional, and international investments, projects and initiatives. Through its investment and development projects, Mubadala is both a catalyst for, and a reflection of, the drive for economic diversification of the Emirate of
+Abu Dhabi. Its impact is evident domestically and internationally in sectors such as energy, aerospace, real estate, healthcare, technology, infrastructure, and services. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Mubadala&#146;s sole shareholder is the Government of the Emirate of Abu Dhabi. For more information about Mubadala, its partnerships and activities please visit <U>www.mubadala.ae</U>. </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

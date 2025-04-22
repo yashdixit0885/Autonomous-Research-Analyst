@@ -1,0 +1,938 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ANu0O/kStjylONagEgfQGCCw8DJ++limn2qPmwBXeoj08dqO01fuwdDV8fLP0KmQ
+ 38Jw88pmZlMA3g9GzCy1UA==
+
+<SEC-DOCUMENT>0001193125-08-153147.txt : 20080718
+<SEC-HEADER>0001193125-08-153147.hdr.sgml : 20080718
+<ACCEPTANCE-DATETIME>20080718060613
+ACCESSION NUMBER:		0001193125-08-153147
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20080717
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20080718
+DATE AS OF CHANGE:		20080718
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		08958229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B>
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">July&nbsp;17, 2008 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Date of Report (Date of earliest event reported) </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact
+name of registrant as specified in its charter) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>001-07882</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>94-1692300</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State of Incorporation)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>One AMD Place </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>P.O. Box 3453 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Sunnyvale, California 94088-3453 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices) (Zip Code) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>(408) 749-4000 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>N/A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former Name or Former Address,
+if Changed Since Last Report) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:24px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;5.02</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On July&nbsp;17, 2008, Advanced Micro Devices, Inc. (the &#147;<B>Company</B>&#148;) and Dr.&nbsp;Hector de J. Ruiz, the Company&#146;s Chief Executive
+Officer, entered into an amendment (the &#147;<B>Amendment Agreement</B>&#148;) to the amended and restated employment agreement between the Company and Dr.&nbsp;Ruiz, dated as of December&nbsp;12, 2007. Pursuant to the Amendment Agreement,
+Dr.&nbsp;Ruiz&#146; position will change from Chief Executive Officer to Executive Chairman of the Company, effective July&nbsp;17, 2008. Dr.&nbsp;Ruiz will continue to serve as Chairman of the Company&#146;s Board of Directors. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On July&nbsp;17, 2008, the Company entered into an employment agreement with Derrick R. Meyer (the &#147;<B>Meyer Employment Agreement</B>&#148;)
+pursuant to which Mr.&nbsp;Meyer will succeed Dr.&nbsp;Ruiz as the Company&#146;s Chief Executive Officer and will become its President and Chief Executive Officer, effective July&nbsp;17, 2008. Mr.&nbsp;Meyer&#146;s annual base salary will be
+$900,000. Mr.&nbsp;Meyer is also eligible for an annual performance bonus under the Company&#146;s Executive Incentive Plan in a target amount of 200% of his base salary and a maximum amount of 400% of his base salary, to be payable upon his
+achievement of certain performance goals and objectives to be determined by the Company&#146;s Board of Directors. Mr.&nbsp;Meyer will continue to serve on the Company&#146;s Board of Directors. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the Meyer Employment Agreement, the Company will grant Mr.&nbsp;Meyer a non-qualified stock option to purchase 280,000 shares of the
+Company&#146;s common stock (the &#147;<B>Stock Option</B>&#148;) effective as of August&nbsp;15, 2008 (the &#147;<B>Grant Date</B>&#148;) under the Company&#146;s 2004 Equity Incentive Plan (the &#147;<B>2004 EIP</B>&#148;), subject to approval by
+the Company&#146;s Compensation Committee (the &#147;<B>Compensation Committee</B>&#148;). One-third of the shares subject to the Stock Option shall vest on the first anniversary of the Grant Date, and the remaining shares subject to the Stock
+Option shall vest in equal monthly installments so that all shares subject to the Stock Option shall be vested on the third anniversary of the Grant Date. Subject to the approval of the Compensation Committee, the Company will grant Mr.&nbsp;Meyer
+158,000 restricted stock units (the &#147;<B>RSUs</B>&#148;) under the 2004 EIP on the Grant Date, which RSUs shall vest in three substantially equal annual installments from the Grant Date based on Mr.&nbsp;Meyer&#146;s continued service to the
+Company through each such vesting date. In addition, subject to approval by the Compensation Committee, the Company will grant Mr.&nbsp;Meyer stock options to purchase an aggregate of 316,000 shares of the Company&#146;s common stock (the
+&#147;<B>Long Term Stock Option</B>&#148;) under the 2004 EIP in four equal installments, with the first installment to be granted on the Grant Date and each remaining installment to be granted on successive quarterly anniversaries of the Grant
+Date. One-third of the shares subject to the Long Term Stock Option Plan shall vest on the first anniversary of the Grant Date, and one-twelfth of the shares subject to the Long Term Stock Option shall thereafter vest on each quarterly anniversary
+of the Grant Date. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the terms and conditions of the Meyer Employment Agreement, the Meyer Employment Agreement may be
+terminated by (i)&nbsp;the Company&#146;s termination of Mr.&nbsp;Meyer for Cause (as defined in the Meyer Employment Agreement), (ii)&nbsp;Mr.&nbsp;Meyer&#146;s Involuntary Termination Without Cause (as defined in the Meyer Employment Agreement),
+(iii)&nbsp;Mr.&nbsp;Meyer&#146;s Constructive Termination (as defined in the Meyer Employment Agreement), (iv)&nbsp;Mr.&nbsp;Meyer&#146;s voluntary election to terminate his employment with the Company or Mr.&nbsp;Meyer&#146;s death or disability or
+(v)&nbsp;Mr.&nbsp;Meyer&#146;s discretion, in the event the Compensation Committee fails to approve any of Mr.&nbsp;Meyer&#146;s compensation subject to its approval. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">In the event of Mr.&nbsp;Meyer&#146;s Involuntary
+Termination Without Cause or Constructive Termination prior to or more than 24 months after a Change of Control (as defined in the Meyer Employment Agreement) of the Company, all equity awards then held by Mr.&nbsp;Meyer subject to vesting and based
+on Mr.&nbsp;Meyer&#146;s continued service with the Company (i.e., non-performance vesting awards) shall accelerate and become fully vested. In addition, the exercise period for such equity awards shall be extended to the earlier of the fifth (5
+</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2">)&nbsp;anniversary of the date of termination or the expiration of such awards. In the event of Mr.&nbsp;Meyer&#146;s Involuntary Termination
+Without Cause or Constructive Termination within 24 months of a Change of Control, all equity awards then held by Mr.&nbsp;Meyer shall accelerate and become fully vested. The exercise period for all such equity awards shall also be extended to the
+earlier of the fifth anniversary of the date of Mr.&nbsp;Meyer&#146;s termination or the expiration of such awards. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In the event of
+Mr.&nbsp;Meyer&#146;s Involuntary Termination Without Cause or Constructive Termination, the Company will pay Mr.&nbsp;Meyer a single lump sum amount calculated by multiplying the Severance Multiplier (as hereinafter defined) times the sum of
+Mr.&nbsp;Meyer&#146;s base salary and the target amount of his annual bonus. The &#147;<B>Severance Multiplier</B>&#148; shall be (i)&nbsp;three, in the event of Mr.&nbsp;Meyer&#146;s Involuntary Termination Without Cause or Constructive Termination
+on or prior to the fourth anniversary of the effective date of the Meyer Employment Agreement, and (ii)&nbsp;two, in the event of Mr.&nbsp;Meyer&#146;s Involuntary Termination Without Cause or Constructive Termination after the fourth anniversary of
+the effective date of the Meyer Employment Agreement. The Company will provide Mr.&nbsp;Meyer health and welfare benefits for a period of eighteen (18)&nbsp;months following the date of termination, including, at the Company&#146;s election, COBRA
+premiums for 18 months, and the Company shall pay Mr.&nbsp;Meyer an amount calculated to pay income taxes due, if any, as a result of the Company&#146;s payment on his behalf for such welfare benefits. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the Meyer Employment Agreement, Mr.&nbsp;Meyer is subject to a (i)&nbsp;two-year non-compete covenant to refrain from engaging in activities
+that would be competitive or conflict with his obligations to the Company and (ii)&nbsp;two-year non-solicitation covenant to refrain from soliciting or influencing any persons or business to direct his or its purchase of the Company&#146;s products
+to any other person or business in competition with the Company and to refrain from soliciting or influencing any persons employed by, or any consultant retained by, the Company to terminate his employment or consulting relationship with the Company
+or to become an employee of or consultant to any of the Company&#146;s competitors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">A copy of the Amendment Agreement is attached hereto
+as Exhibit 10.1 and incorporated herein by reference, and a copy of the Meyer Employment Agreement is attached hereto as Exhibit 10.2 and incorporated herein by reference. The foregoing descriptions of the Amendment Agreement and the Meyer
+Employment Agreement are qualified in their entirety by reference to the full text of the agreements. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">A copy of the press release
+announcing the management changes in the Company is attached hereto as Exhibit 99.1. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;9.01</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Financial Statements and Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(d)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amendment to Amended and Restated Employment Agreement between Advanced Micro Devices, Inc. and Hector de J. Ruiz, dated as of July 17, 2008.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Employment Agreement between Advanced Micro Devices, Inc. and Derrick Meyer, dated as of July 17, 2008.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Press release dated as of July 17, 2008.</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Date: July&nbsp;17, 2008</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">ADVANCED MICRO DEVICES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Faina Medzonsky</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Faina Medzonsky</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Assistant General Counsel and Assistant Secretary</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>INDEX TO EXHIBITS </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amendment to Amended and Restated Employment Agreement between Advanced Micro Devices, Inc. and Hector de J. Ruiz, dated as of July 17, 2008.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Employment Agreement between Advanced Micro Devices, Inc. and Derrick Meyer, dated as of July 17, 2008.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Press release dated as of July 17, 2008.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>dex101.htm
+<DESCRIPTION>AMENDMENT TO AMENDED AND RESTATED EMPLOYMENT AGREEMENT - HECTOR DE J. RUIZ
+<TEXT>
+<HTML><HEAD>
+<TITLE>Amendment to Amended and Restated Employment Agreement - Hector de J. Ruiz</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT 10.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>AMENDMENT TO EMPLOYMENT AGREEMENT </U></B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This Amendment to Employment Agreement (the &#147;Amendment&#148;) is entered into as of July&nbsp;17, 2008 (the &#147;Effective Date&#148;), between
+Hector de J. Ruiz (the &#147;Executive&#148;) and Advanced Micro Devices, Inc. (the &#147;Company&#148;). </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>RECITALS </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>WHEREAS,</B> on January&nbsp;31, 2002, the Executive and the Company entered into an Employment Agreement (the &#147;Agreement&#148;) which sets forth
+the terms of the Executive&#146;s employment with the Company; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>WHEREAS,</B> on December&nbsp;12, 2007, an amendment and restatement to
+the Agreement was made and entered into by and between the Executive and the Company; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>WHEREAS,</B> the parties wish to amend certain
+provisions of the Agreement regarding the title and position of the Executive pursuant to the terms and conditions set forth below. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><B>AGREEMENT </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>NOW</B>, <B>THEREFORE</B>, in consideration of the foregoing and the mutual agreements contained herein and
+intending to be legally bound hereby, the parties hereby agree that the Agreement shall be amended effective as of the Effective Date to the extent necessary to give effect to this Amendment as follows: </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">1. The initial paragraph of the Agreement, preceding Section&nbsp;1, shall be replaced in its entirety with the following language: </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;On behalf of the Board of Directors of Advanced Micro Devices, Inc. (including any successor thereto, &#147;AMD&#148;), I am pleased to offer you
+continued employment in the position of Executive Chairman of AMD on the terms set forth below.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">2. Section&nbsp;1(a) of the
+Agreement shall be replaced in its entirety with the following language: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;(a) You will be employed by AMD as its Executive Chairman.
+You will report directly to AMD&#146;s Board of Directors (&#147;Board&#148;). During the Employment Period (as defined below), you will also be nominated to and, if elected by the stockholders of AMD, shall serve on the Board and such committees
+that you may be appointed to by the Board and, provided that you are elected to serve on the Board, you shall serve as Chairman of the Board.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">3. Section&nbsp;9(a)(i) of the Agreement shall be replaced in its entirety with the following language:
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;(i) the assignment to you of any duties inconsistent with your title, position, authority, duties or responsibilities as
+contemplated by Section&nbsp;1, or any other action which results in a diminution in such title, position, authority, duties or responsibilities, other than an isolated, insubstantial and inadvertent action not taken in bad faith and which is
+remedied by AMD promptly after receipt of notice given by you; provided that if AMD appoints any person as President other than yourself on or after AMD&#146;s Annual Meeting in 2002, and you remain Executive Chairman of AMD, such appointment shall
+not constitute Good Reason;&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">4. Section&nbsp;10(k)(i) of the Agreement shall be replaced in its entirety with the following language:
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;(i) <U>Separation from Service; Delay of Payments in Certain Circumstances</U>. Notwithstanding any provision to the contrary in the
+Agreement, payment of any termination benefits under Section&nbsp;10 of this Agreement that are deemed deferred compensation subject to Section&nbsp;409A of the Code will be made when your termination of employment constitutes a &#147;separation
+from service&#148; within the meaning of Treas. Reg. Section&nbsp;1.409A-1(h). For purposes of determining whether a &#147;separation from service&#148; within the meaning of Treas. Reg. Section&nbsp;1.409A-1(h) has occurred with respect to deferred
+compensation under the Agreement, in applying Sections 1563(a)(1), (2)&nbsp;and (3)&nbsp;of the Code for purposes of determining a controlled group of corporations under Section&nbsp;414(b) of the Code, &#147;80 percent&#148; shall be used instead
+of &#147;at least 80 percent&#148; at each place the latter appears in Sections 1563(a)(1), (2)&nbsp;and (3)&nbsp;of the Code; and, in applying Treas. Reg. Section&nbsp;1.414(c)-2 for purposes of determining trades or businesses (whether or not
+incorporated) that are under common control for purposes of Section&nbsp;414(c) of the Code, &#147;80 percent&#148; shall be used instead of &#147;at least 80 percent&#148; at each place the latter appears in Treas. Reg. Section&nbsp;1.414(c)-2.
+Notwithstanding any provision to the contrary in the Agreement, if you are deemed at the time of your separation from service to be a &#147;specified employee&#148; for purposes of Section&nbsp;409A(a)(2)(B)(i) of the Code, to the extent delayed
+commencement of any portion of the termination benefits to which you are entitled under Section&nbsp;10 of this Agreement is required in order to avoid a prohibited distribution under Section&nbsp;409A(a)(2)(B)(i) of the Code, such portion of your
+termination benefits shall not be provided to you prior to the earlier of (i)&nbsp;the expiration of the six-month period measured from the date of your &#147;separation from service&#148; with AMD (as such term is defined in the Treasury
+Regulations issued under Section&nbsp;409A of the Code) or (ii)&nbsp;the date of your death. Upon the expiration of the applicable Code Section&nbsp;409A(a)(2)(B)(i) deferral period, all payments deferred pursuant to this Section&nbsp;10(k) (plus
+interest earned on any such amounts that are deposited to a trust as specified below) shall be paid in a lump sum to you, and any remaining payments due under the Agreement shall be paid as otherwise provided herein. In the event that payments are
+deferred pursuant to this Section&nbsp;10(k), at your request AMD shall establish an irrevocable trust and contribute to it such deferred payments during the period they are deferred. Such trust shall conform to the model &#147;rabbi trust&#148;
+agreement provided by the Internal Revenue Service in Revenue Procedure 92-64, as revised from time to time, and shall be structured as an unfunded arrangement.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">5. All references to &#147;Chief Executive Officer&#148; in Section&nbsp;10 of the Agreement shall be replaced with &#147;Executive Chairman.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">6. For the avoidance of doubt, Executive&#146;s appointment to the position of Executive Chairman, by
+itself, shall not constitute Good Reason, as defined in the Agreement or entitle Executive to any severance benefits under the Agreement. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">7. Except as set forth herein, all other terms and conditions of the Agreement shall remain in full force and effect. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">8. This
+Amendment will be governed by and construed in accordance with the laws of the State of California without reference to conflict of laws provisions. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><I>(Signature Page Follows) </I></FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>I<SMALL>N</SMALL> W<SMALL>ITNESS</SMALL> W<SMALL>HEREOF</SMALL></B><SMALL></SMALL>, the parties have
+executed this Amendment as of the date first written above. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>ADVANCED MICRO DEVICES, INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Bruce L. Claflin</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Bruce L. Claflin</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Chairman, Compensation Committee of the Board of Directors</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="19%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>EXECUTIVE</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Signature:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Hector de J. Ruiz</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Hector de J. Ruiz</FONT></TD></TR>
+</TABLE></DIV>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>dex102.htm
+<DESCRIPTION>EMPLOYMENT AGREEMENT - DERRICK MEYER
+<TEXT>
+<HTML><HEAD>
+<TITLE>Employment Agreement - Derrick Meyer</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT 10.2 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>ADVANCED MICRO DEVICES, INC. </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>EMPLOYMENT AGREEMENT</U></B> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This Employment Agreement (the &#147;<U>Agreement</U>&#148;) is effective as of July&nbsp;17, 2008 (the &#147;<U>Effective Date</U>&#148;), by and
+between Derrick Meyer (&#147;<U>Executive</U>&#148;) and Advanced Micro Devices, Inc., a Delaware corporation (the &#147;<U>Company</U>&#148;). Certain capitalized terms used in this Agreement are defined in Section&nbsp;6 below. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>RECITALS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>WHEREAS, </B>the Company
+desires to employ Executive to provide personal services to the Company, and wishes to provide Executive with certain compensation and benefits in return for Executive&#146;s services; and </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>WHEREAS,</B> Executive wishes to be employed by the Company and provide personal services to the Company in return for certain compensation and
+benefits. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>AGREEMENT </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2"><B>NOW, THEREFORE,</B> in consideration of the mutual promises and agreements contained herein, the parties hereby agree as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">1. <B><U>Duties</U></B>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Position</U></B>. From the Effective Date, Executive shall be employed as the
+President and Chief Executive Officer of the Company. In such capacity he shall have overall responsibility for the management of the Company and report to and be subject to the direction and control of the Company&#146;s Board of Directors (the
+&#147;<U>Board</U>&#148;). Executive has been appointed as a member of the Company&#146;s Board of Directors. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b)
+<B><U>Obligations to the Company</U></B>.<B> </B>Executive agrees to the best of his ability and experience that he will at all times loyally and conscientiously perform all of the duties and obligations required of and from Executive pursuant to
+the express and implicit terms hereof. During the term of Executive&#146;s employment relationship with the Company, Executive further agrees that he will devote all of his business time and attention to the business of the Company. Nothing in this
+Agreement will prevent Executive from accepting speaking or presentation engagements in exchange for honoraria or from serving on boards of charitable organizations so long as such engagements do not interfere with Executive&#146;s ability to
+fulfill his obligations under this Agreement. In addition, with the prior consent of the Board, Executive shall be permitted to serve on the boards of directors of up to two (2)&nbsp;for profit entities where the Board determines that such board
+memberships are complementary and useful to the Executive&#146;s performance of services to the Company and provided that such board service does not substantially interfere with the Executive&#146;s performance of services to the Company. To the
+extent consistent with the terms of this Agreement, Executive will comply with and be bound by the Company&#146;s operating policies, procedures and practices from time to time in effect during the term of Executive&#146;s employment. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">2. <B><U>At-Will Employment</U></B>. The Company and Executive acknowledge that Executive&#146;s
+employment is and shall continue to be at-will, as defined under applicable law, and that Executive&#146;s employment with the Company may be terminated by either party at any time for any or no reason. If Executive&#146;s employment terminates for
+any reason, Executive shall not be entitled to any payments, benefits, damages, award or compensation other than as provided in this Agreement. The rights and duties created by this Section&nbsp;2 may not be modified in any way except by a written
+agreement executed by a duly authorized member of the Board and Executive. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">3. <B><U>Compensation</U></B>. For the duties and services to
+be performed by Executive hereunder, the Company shall pay Executive, and Executive agrees to accept, the compensation described below in this Section&nbsp;3. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Salary</U></B>. Executive shall receive an annual salary of nine hundred thousand dollars ($900,000) (as may be adjusted from
+time to time, the &#147;<U>Base Salary</U>&#148;). Executive&#146;s Base Salary will be payable pursuant to the Company&#146;s normal payroll practices. Notwithstanding the foregoing, the Board shall, no less frequently than annually, review and may
+adjust Executive&#146;s Base Salary from time to time. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <B><U>Annual Bonus</U></B>. In addition to the Base Salary,
+Executive will be eligible for an annual performance bonus under the terms of the Company&#146;s Executive Incentive Plan, or a successor or alternate plan of the Company in a target amount of 200% of the Base Salary and a maximum amount of 400% of
+the Base Salary, to be payable upon achievement of 100% or more of the performance goals and objectives to be determined by the Board (as may be adjusted from time to time, the &#147;<U>Annual Bonus</U>&#148;). Notwithstanding the foregoing, the
+Board shall be entitled to, no less frequently than annually, review and may adjust Executive&#146;s Annual Bonus percentage from time to time. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">(c) <B><U>Promotion Stock Option</U></B>. On August&nbsp;15, 2008, subject to
+approval by the Compensation Committee of the Board, Executive shall be granted a non-qualified stock option to purchase 280,000 shares of the Company&#146;s common stock (the &#147;<U>Promotion Stock Option</U>&#148;). The Promotion Stock Option
+shall have a per share exercise price equal to the fair market value of the Company&#146;s common stock on the date of grant, and the term of the Promotion Stock Option shall be seven (7)&nbsp;years, subject to earlier expiration in the event of the
+termination of Executive&#146;s service with the Company. The Promotion Stock Option shall vest and become exercisable as to one-third (1/3</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>rd</SUP></FONT><FONT FACE="Times New Roman"
+SIZE="2">)&nbsp;of the shares subject thereto on the first anniversary of the date of grant, and with respect to 1/36</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"> of the aggregate shares
+subject to the Promotion Stock Option in monthly installments thereafter. Notwithstanding the foregoing, a portion of the shares subject to the Promotion Stock Option may vest on an accelerated basis pursuant to Section&nbsp;5(a)(iv) or 5(b) below.
+Except as provided herein, such Promotion Stock Option will be subject to the provisions of the Company&#146;s 2004 Equity Incentive Plan and the applicable form of stock option agreement thereunder. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) <B><U>Long Term Incentive Opportunities</U></B>. In addition to the Promotion Stock
+Option, Executive shall be granted long-term incentive opportunities as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) On August&nbsp;15, 2008, subject to
+approval by the Compensation Committee of the Board, Executive shall be granted 158,000 restricted stock units (the &#147;<U>Long Term RSUs</U>&#148;) which shall vest in three (3)&nbsp;substantially equal annual installments from the date of grant
+based on Executive&#146;s continued service to the Company through each such vesting date. Notwithstanding the foregoing, a portion of the Long Term RSUs may vest on an accelerated basis pursuant to Section 5(a)(iv) or 5(b) below. Except as provided
+herein, such Long Term RSUs will be subject to the provisions of the Company&#146;s 2004 Equity Incentive Plan and the applicable form of restricted stock unit agreement thereunder; and </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">(ii) Subject to approval by the Compensation Committee of the Board, Executive
+shall be granted non-qualified stock options to purchase an aggregate of 316,000 shares of the Company&#146;s common stock, such stock options to be granted in four (4)&nbsp;equal installments (each, a &#147;<U>Long Term Stock Option</U>&#148;) with
+the first such installment to be granted on August&nbsp;15, 2008 (the &#147;<U>Initial Date of Grant</U>&#148;) and each remaining installment to be granted on successive quarterly anniversaries of the Initial Date of Grant. Each Long Term Stock
+Option shall have a per share exercise price equal to the fair market value of the Company&#146;s common stock on the applicable date of grant, and the term of each Long Term Stock Option shall be seven (7)&nbsp;years, subject to earlier expiration
+in the event of the termination of Executive&#146;s service with the Company. Each Long Term Stock Option shall vest and become exercisable as to one-third (1/3</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>rd</SUP></FONT><FONT
+FACE="Times New Roman" SIZE="2">)&nbsp;of the shares subject thereto on the first anniversary of the Initial Date of Grant, and with respect to 1/12</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT FACE="Times New Roman"
+SIZE="2"> of the aggregate shares subject to each Long Term Stock Option on each quarterly anniversary of the Initial Date of Grant thereafter. Notwithstanding the foregoing, a portion of the shares subject to the Long Term Stock Option may vest on
+an accelerated basis pursuant to Section 5(a)(iv) or 5(b) below. Except as provided herein, such Long Term Stock Option will be subject to the provisions of the Company&#146;s 2004 Equity Incentive Plan and the applicable form of stock option
+agreement thereunder. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) <B><U>Additional Benefits</U></B>. Executive shall be eligible to participate in the
+Company&#146;s employee benefit plans of general application, including without limitation, those plans covering medical, disability and life insurance in accordance with the rules established for individual participation in any such plan and under
+applicable law and on terms no less favorable than those applicable to the Company&#146;s other senior executive officers. Executive shall be eligible for vacation and sick leave in accordance with the policies in effect during the term of this
+Agreement and will receive such other benefits as the Company generally provides to its other senior executive officers. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">4.
+<B><U>Termination of Agreement</U></B>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Termination</U></B>. This Agreement may be terminated upon the occurrence
+of any of the following events: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) The Company&#146;s termination of Executive for Cause (as defined in Section&nbsp;6
+below) (&#147;<U>Termination for Cause</U>&#148;); </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) Executive&#146;s Involuntary Termination Without Cause (as defined in Section&nbsp;6
+below), which may occur at any time at the Company&#146;s sole discretion, for any or no reason; </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(iii) Executive&#146;s
+Constructive Termination; </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(iv) The delivery of a written notice sent to the Company from Executive stating that Executive
+is electing to terminate Executive&#146;s employment with the Company (other than a Constructive Termination), or the occurrence of Executive&#146;s death or Disability (each, a &#147;<U>Voluntary Termination</U>&#148;); or </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(v) By Executive, at his sole discretion, should the Compensation Committee of the Board fail to approve any of the compensation subject
+to its approval (such as that set forth in Sections 3(c), 3(d), or 3(e)); provided, that notwithstanding any provision of this Agreement to the contrary, if Executive chooses to terminate the Agreement under this provision, all obligations and
+duties imposed upon Executive under the Agreement of any type shall terminate upon the Date of Termination. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b)
+<B><U>Notice of Termination</U></B>. Any purported termination of Executive&#146;s employment by the Company or by Executive (other than termination due to Executive&#146;s death, which shall terminate Executive&#146;s employment automatically)
+shall be communicated by a written Notice of Termination to the other party hereto in accordance with Section&nbsp;14(c). For purposes of this Agreement, &#147;<U>Notice of Termination</U>&#148; shall mean a notice that shall indicate the specific
+termination provision in this Agreement (if any) relied upon and shall set forth in reasonable detail the facts and circumstances claimed to provide a basis for termination of Executive&#146;s employment under the provision so indicated. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) <B><U>Date of Termination</U></B>. For purposes of this Agreement, &#147;<U>Date of Termination</U>&#148; shall mean (i)&nbsp;if
+Executive&#146;s employment is terminated due to Executive&#146;s death, the date of Executive&#146;s death; or (ii)&nbsp;if Executive&#146;s employment terminates for any reason other than death, the date specified in the Notice of Termination.
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) <B><U>Board of Directors</U></B>. Upon the Date of Termination, Executive shall immediately resign from the Board of
+Directors of the Company and the board of directors or comparable body of every subsidiary, parent or other affiliated corporation of the Company, and every committee thereof. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">5. <B><U>Severance Benefits</U></B>.<B> </B>Executive shall be entitled to receive severance benefits upon termination of employment only as set forth in
+this Section&nbsp;5: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Covered Termination</U></B>. In the event Executive experiences a Covered Termination (as
+defined in Section&nbsp;6 below), Executive will be entitled to receive the following severance and other benefits, provided that Executive first provides the Company with an executed and effective general release of claims against the Company and
+its affiliates in form and substance acceptable to the Company and complies with his obligations under Section&nbsp;4(d) of this Agreement, in each case, within fifty (50)&nbsp;days of such Covered Termination: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) <B><U>Accrued Base Salary</U></B>. The Company shall pay to Executive his full earned but unpaid Base Salary through the Date of
+Termination. In addition the Company shall pay to Executive all other amounts to which Executive is entitled under any compensation plan or practice of the Company on the Date of Termination; and </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) <B><U>Severance Pay</U></B>. The Company shall pay to Executive in a single lump sum
+that amount calculated by multiplying the Severance Multiplier (as defined in Section&nbsp;6) times the sum of (A)&nbsp;Executive&#146;s Base Salary and (B)&nbsp;the target amount of Executive&#146;s Annual Bonus, in each case, at the rate in effect
+immediately prior to the Date of Termination or, if higher, the rate in effect six (6)&nbsp;months prior to the Date of Termination. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(iii) <B><U>Financial and Tax Planning</U></B><I></I><B>.</B> The Company shall reimburse Executive or pay directly for personal financial planning and tax planning services up to $4,000 for twelve (12)&nbsp;months following the Date of
+Termination. Any such reimbursement shall be made on or before the last day of the calendar year following the calendar year in which the expense being reimbursed was incurred. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">(iv) <B><U>Equity Acceleration</U></B>. In the event such Covered Termination
+occurs prior to or more than twenty-four (24)&nbsp;months after the consummation of a Change of Control then on the Date of Termination, all options, restricted stock, restricted stock units and other equity awards then held by Executive that vest
+over time solely upon Executive&#146;s continued service to the Company (&#147;<U>Time-Based Awards</U>&#148;) shall become vested and, if applicable, exercisable with respect to 100% of the shares subject thereto, any restrictions thereon shall
+fully lapse and any exercise period shall be extended to the earlier of the fifth (5</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2">)&nbsp;anniversary of the Date of Termination or the
+expiration date of such Time-Based Award. This Agreement shall serve as an amendment to all of Executive&#146;s outstanding Time-Based Awards as of the Effective Date. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(v) <U><B>Other Benefits</B></U><I></I>. The Company shall provide for a period of eighteen (18)&nbsp;months following the Date of
+Termination, health and welfare benefits at least comparable to those benefits in effect on Executive&#146;s Date of Termination, including medical, dental and life insurance coverage. At the Company&#146;s election, such comparable health benefits
+may be provided by reimbursing Executive for the cost of converting a group policy to comparable individual coverage, or for the cost of COBRA premiums for eighteen (18)&nbsp;months. The Company shall also pay Executive an amount calculated to pay
+any income taxes due as a result of the payment by the Company on Executive&#146;s behalf for such welfare benefits. Such tax payment shall be calculated to place Executive in the same after-tax position as if no such income had been imposed and
+shall be paid to Executive no later than the end of the calendar year following the calendar year in which such related taxes are remitted to the appropriate tax authorities. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">(b) <B><U>Change of Control Equity Acceleration</U></B>. In the event such Covered
+Termination occurs within the twenty-four (24)&nbsp;month period commencing on the consummation of a Change of Control then on the Date of Termination, all options, restricted stock, restricted stock units and other equity awards then held by
+Executive shall become vested and, if applicable, exercisable with respect to 100% of the shares subject thereto, any restrictions thereon shall fully lapse and any exercise period shall be extended to the earlier of the fifth (5</FONT><FONT
+FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2">)&nbsp;anniversary of the Date of Termination or the expiration date of such award. This Agreement shall serve as an amendment to all of Executive&#146;s
+outstanding equity-based awards as of the Effective Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) <B><U>Death/Disability</U></B>. If Executive&#146;s employment with the Company is
+terminated as a result of death or Disability, then Executive shall not be entitled to receive payment of any severance or other benefits described in this Section&nbsp;5 other than those set forth in subsections (a)(i), (a)(iv) and (a)(v) of this
+Section&nbsp;5; provided, however that that in the case of death, the general release required in subsection (a)&nbsp;may be provided by a party with power to provide a release on behalf of Executive&#146;s estate. This Agreement shall serve as an
+amendment to all of Executive&#146;s outstanding Time-Based Awards as of the Effective Date. In addition, Executive (or his estate) will receive payment(s) for all unpaid vacation accrued as of the Date of Termination plus all other amounts to which
+Executive is entitled under any compensation plan or practice of the Company in effect on the Date of Termination. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d)
+<B><U>Voluntary Termination; Termination for Cause</U></B>. If Executive&#146;s employment with the Company is terminated as a result of a Voluntary Termination or a Termination for Cause, then Executive shall not be entitled to receive payment of
+any severance or other benefits described in this Section&nbsp;5. Executive will receive payment(s) for all earned but unpaid Base Salary and unpaid vacation accrued as of the Date of Termination plus all other amounts to which Executive is entitled
+under any compensation plan or practice of the Company in effect on the Date of Termination. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) <B><U>No
+Mitigation</U></B>. Executive shall not be required to mitigate the amount of any payment provided for in this Section&nbsp;5 by seeking other employment or otherwise, nor shall the amount of any payment or benefit provided for in this
+Section&nbsp;5 be reduced by any compensation earned by Executive as the result of employment by another employer or self-employment, by retirement benefits, by offset against any amounts (other than loans or advances to Executive by the Company)
+claimed to be owed by Executive to the Company, or otherwise. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">6. <B><U>Definition of Terms</U></B>. The following terms referred to in
+this Agreement shall have the following meanings: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) &#147;<U>Cause</U>&#148; for Executive&#146;s termination shall mean
+(i)&nbsp;Executive&#146;s repeated failure to perform assigned duties after being notified in writing of such failure with an opportunity to correct, or (ii)&nbsp;if Executive commits or participates in a willful act of embezzlement, fraud,
+misappropriation or dishonesty. For purposes of this provision, no act or failure to act, on Executive&#146;s part, shall be considered &#147;willful&#148; unless it is done, or omitted to be done, by Executive in bad faith or without reasonable
+belief that Executive&#146;s action or omission was in the best interests of the Company. Any act, or failure to act, based upon authority given pursuant to a resolution duly adopted by the Board or based upon the advice of counsel for the Company
+shall be conclusively presumed to be done, or omitted to be done, by Executive in good faith and in the best interests of the Company. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(b) &#147;<U>Change of Control</U>&#148; shall mean a change of control of the Company of a nature which would be required to be reported in response to Item&nbsp;6(e) of Schedule 14A of Regulation 14A promulgated
+under the Securities Exchange Act of 1934, as amended </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%">
+<FONT FACE="Times New Roman" SIZE="2">(&#147;Exchange Act&#148;) or in response to any other form or report to the Securities and Exchange Commission or any stock exchange on which the
+Company&#146;s shares are listed which requires the reporting of a change of control. In addition, a Change of Control shall be deemed to have occurred if (i)&nbsp;any &#147;person&#148; (as such term is used in Sections 13(d) and 14(d) of the
+Exchange Act) is or becomes the beneficial owner, directly or indirectly, of securities of the Company representing more than 50% of the combined voting power of the Company&#146;s then outstanding securities; or (ii)&nbsp;in any two year period,
+individuals who were members of the Board at the beginning of such period plus each new director whose election or nomination for election was approved by at least two-thirds of the directors in office immediately prior to such election or
+nomination, cease for any reason to constitute at least a majority of the Board, or (iii)&nbsp;a majority of the members of the Board in office prior to the happening of any event and who are still in office after such event, determines in its sole
+discretion within one year after such event, that as a result of such event there has been a Change of Control. Notwithstanding the foregoing definition, &#147;Change of Control&#148; for purposes of this Agreement, shall exclude the acquisition of
+securities representing more than 20% of the combined voting power of the Company by the Company, any of its wholly owned subsidiaries, or any trustee or other fiduciary holding securities of the Company under an employee benefit plan now or
+hereafter established by the Company. As used herein, the term &#147;beneficial owner&#148; shall have the same meaning as under Section&nbsp;13(d) of the Exchange Act, and related case law. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) &#147;<U>Code</U>&#148; means the Internal Revenue Code of 1986, as amended. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) &#147;<U>Constructive Termination</U>&#148; shall mean Executive&#146;s resignation from the Company for Good Reason that constitutes
+a &#147;separation from service&#148; within the meaning of Section&nbsp;409A of the Code and the Department of Treasury regulations and other guidance promulgated thereunder. Notwithstanding the foregoing, a resignation shall not constitute a
+&#147;Constructive Termination&#148; unless the condition constituting Good Reason that gives rise to such resignation continues more than thirty (30)&nbsp;days following Executive&#146;s written notice of such condition provided to the Board within
+ninety (90)&nbsp;days of the first occurrence of such condition. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) &#147;<U>Covered Termination</U>&#148; means
+Executive&#146;s Involuntary Termination Without Cause or Constructive Termination at any time during the term of this Agreement. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(f) &#147;<U>Disability</U>&#148; shall mean Executive&#146;s absence from Executive&#146;s duties with the Company on a full-time basis for 180 days during any consecutive twelve-month period as a result of incapacity due to mental or
+physical illness as determined by a physician selected by the Company and acceptable to Executive or by the company which administers the Company&#146;s long-term disability plan in which Executive is eligible to participate. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(g) &#147;<U>Good Reason</U>&#148; shall mean (i)&nbsp;a material diminution in the Executive&#146;s Base Salary or Annual Bonus
+opportunity; (ii)&nbsp;a material diminution in the Executive&#146;s authority, duties, or responsibilities; (iii)&nbsp;a requirement imposed by the Company that Executive report to a corporate officer or employee instead of reporting directly to
+the Board of Directors of a corporation (or similar governing body with respect to an entity other than a corporation); (iv)&nbsp;Executive&#146;s relocation by the Company of his principal place of employment to a facility that is more than fifty
+(50)&nbsp;miles from his current place of employment and, in the event such relocation occurs prior to or more than twenty four (24)&nbsp;months after the consummation of a Change in </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%">
+<FONT FACE="Times New Roman" SIZE="2">Control, in connection with which the Board requires the Executive to relocate his primary residence or (v)&nbsp;any other action or inaction that
+constitutes a material breach by the Company of this Agreement or any other agreement under which Executive provides services to the Company. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(h) &#147;<U>Grant Date Fair Value</U>&#148; shall mean the fair value of an equity award as of the date of grant as determined by the Company, in its sole discretion, in accordance with Statement of Financial
+Accounting Standard No.&nbsp;123(R), &#147;Share-Based Payment&#148;, using the valuation methods and assumptions used by the Company in accounting for equity awards as of such date of grant. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) &#147;<U>Involuntary Termination Without Cause</U>&#148; means Executive&#146;s dismissal or discharge other than for Cause that
+constitutes a &#147;separation from service&#148; within the meaning of Section&nbsp;409A of the Code and the Department of Treasury regulations and other guidance promulgated thereunder. The termination of Executive&#146;s employment as a result of
+Executive&#146;s death or Disability shall not constitute an Involuntary Termination Without Cause. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT
+FACE="Times New Roman" SIZE="2">(j) &#147;<U>Severance Multiplier</U>&#148; shall mean (i)&nbsp;in the case of a Covered Termination on or prior to the fourth (4</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT
+FACE="Times New Roman" SIZE="2">)&nbsp;anniversary of the Effective Date, three (3)&nbsp;and (ii)&nbsp;in the case of a Covered Termination after the fourth (4</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>th</SUP></FONT><FONT
+FACE="Times New Roman" SIZE="2">)&nbsp;anniversary of the Effective Date, two (2). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">7. <B><U>Tax Provisions</U></B>. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Tax Indemnity</U></B>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(i) If all or any portion of the amounts payable to Executive or on Executive&#146;s behalf under this Agreement or otherwise are subject to the excise tax imposed by Section&nbsp;4999 of the Code (or similar state
+tax and/or assessment), the Company shall pay to Executive an amount necessary to place Executive in the same after-tax position as Executive would have been in had no such excise tax or penalty been imposed. The amount payable pursuant to the
+preceding sentence shall be increased to the extent necessary to pay income and excise taxes and penalties due on such amount. The determination of the amount of any such tax indemnity shall initially be made by the independent accounting firm
+employed by the Company immediately prior to the Change of Control, or if such firm is unwilling to complete such calculations, such independent accounting or consulting firm as the Company may select in its discretion. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) If at a later date it is determined (pursuant to final regulations or published rulings of the IRS, final judgment of a court of
+competent jurisdiction or otherwise) that the amount of excise taxes and penalties payable by Executive is greater than the amount initially so determined, then the Company (or its successor) shall pay Executive an amount equal to the sum of
+(1)&nbsp;such additional excise taxes and penalties, and (2)&nbsp;any interest, fines and penalties resulting from such underpayment, plus (3)&nbsp;any additional amount necessary to reimburse Executive for any income, excise or other taxes payable
+by Executive with respect to the amounts specified in (1)&nbsp;and (2)&nbsp;above, and the reimbursement provided by this clause (3). If at a later date it is determined (pursuant to final regulations or published rulings of the IRS, final judgment
+of a court of competent jurisdiction or otherwise) that the amount of excise taxes and penalties payable by Executive is lesser than the amount initially so determined, then Executive shall pay to the Company (or its successor) an amount equal to
+such overpayment to the extent such is refunded to Executive. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(iii) Executive and the Company agree to cooperate with the person(s) calculating the
+amount of the tax indemnity, and will provide copies of whatever tax returns and other documents may be necessary to perform the calculation. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(iv) Notwithstanding anything herein to the contrary, any payment required to be made under this Section shall be made no later than the end of the calendar year following the calendar year within which the taxes
+giving rise to such payment obligation are remitted to the appropriate tax authorities. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <B><U>Section&nbsp;409A of the
+Code</U></B>. Notwithstanding any provision to the contrary in the Agreement, if Executive is deemed by the Company at the time of Executive&#146;s Date of Termination to be a &#147;specified employee&#148; for purposes of
+Section&nbsp;409A(a)(2)(B)(i) of the Code, to the extent delayed commencement of any portion of the benefits to which Executive is entitled under this Agreement is required in order to avoid a prohibited distribution under
+Section&nbsp;409A(a)(2)(B)(i) of the Code, such portion of Executive&#146;s benefits shall not be provided to Executive prior to the earlier of (a)&nbsp;the expiration of the six-month period measured from the date of Executive&#146;s
+&#147;separation from service&#148; (within the meaning of Code Section&nbsp;409A(a)(2)(A)(i)) or (b)&nbsp;the date of Executive&#146;s death. Upon the expiration of the applicable Code Section&nbsp;409A(a)(2)(B)(i) period, all payments deferred
+pursuant to this Section&nbsp;7(b) shall be paid in a lump sum to Executive (plus interest earned on any such amounts calculated based on the then applicable short-term Applicable Federal Rate for federal tax purposes) shall be paid in a lump sum to
+Executive, and any remaining payments due under the Agreement shall be paid as otherwise provided herein. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">8. <B><U>Confidentiality
+Agreement</U></B>. Executive has signed a Proprietary Information and Invention Assignment Agreement in a form acceptable to the Company that covers protection of the Company&#146;s proprietary information and assignment of inventions (the
+&#147;<U>Confidentiality Agreement</U>&#148;). Executive hereby represents and warrants to the Company that Executive has complied with all obligations under the Confidentiality Agreement and agrees to continue to abide by the terms of the
+Confidentiality Agreement and further agrees that the provisions of the Confidentiality Agreement shall survive any termination of this Agreement or of Executive&#146;s employment relationship with the Company. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">9. <B><U>Noncompetition Covenant</U></B>. Executive hereby agrees that while Executive is employed by the Company and for a period of two years
+thereafter, without the prior written consent of the Board, carry on any business or activity (whether directly or indirectly, as a partner, shareholder, principal, agent, director, affiliate, employee or consultant) that is competitive with the
+business conducted by the Company (as conducted now or during the term of this Agreement), nor engage in any other activities that conflict with Executive&#146;s obligations to the Company. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">10. <B><U>Nonsolicitation Covenant</U></B>. Executive hereby agrees that he shall not, while employed by
+the Company and for a period of two years thereafter without the prior written consent of the Board, do any of the following: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(a) <B><U>Solicit Business</U></B>. Solicit or influence or attempt to influence any client, customer or other person either directly or indirectly, to direct his or its purchase of the Company&#146;s products and/or services to any person,
+firm, corporation, institution or other entity in competition with the business of the Company; and </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <B><U>Solicit
+Personnel</U></B>. Solicit or influence or attempt to influence any person employed by the Company or any consultant then retained by the Company to terminate or otherwise cease his employment or consulting relationship with the Company or become an
+employee of or consultant to any competitor of the Company. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">11. <B><U>Nondisparagement</U></B>. Company and Executive hereby agree that
+during Executive&#146;s employment and afterward, neither will at any time orally or in writing defame or intentionally make, publish or disseminate disparaging remarks that could reasonably be expected to have an adverse impact on the business
+reputation or prospects of the other party, including any of their respective administrators, affiliates, divisions, subsidiaries, predecessor and successor corporations, and assigns, except as may be required by judicial or administrative order or
+legal process. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">12. <B><U>Conflicts</U></B>.<B> </B>Executive represents that Executive&#146;s performance of all the terms of this
+Agreement will not breach any other agreement to which Executive is a party, other than an agreement to which the Company is a party or has knowledge and which is listed on Exhibit A hereto. Executive has not, and will not during the term of this
+Agreement, enter into any oral or written agreement in conflict with any of the provisions of this Agreement, unless the Company is a party to that agreement or has consented in writing to that agreement. Executive further represents that Executive
+is entering into or has entered into an employment relationship with the Company of Executive&#146;s own free will. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">13.
+<B><U>Successors</U></B>. Any successor to the Company (whether direct or indirect and whether by purchase, lease, merger, consolidation, liquidation or otherwise) or to all or substantially all of the Company&#146;s business and/or assets shall
+assume the obligations under this Agreement and agree expressly to perform the obligations under this Agreement in the same manner and to the same extent as the Company would be required to perform such obligations in the absence of a succession.
+For all purposes under this Agreement, the term &#147;Company&#148; shall include any successor to the Company&#146;s business and assets that executes and delivers the assumption agreement described in this Section&nbsp;13 or that becomes bound by
+the terms of this Agreement by operation of law. The terms of this Agreement and all of Executive&#146;s rights hereunder shall inure to the benefit of, and be enforceable by, Executive&#146;s personal or legal representatives, executors,
+administrators, successors, heirs, distributees, devisees and legatees. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">14. <B><U>Miscellaneous Provisions</U></B>. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <B><U>Amendments and Waivers</U></B>. Any term of this Agreement may be amended or waived only with the written consent of the
+parties. No waiver by either party of any breach of, or of compliance with, any condition or provision of this Agreement by the other party shall be considered a waiver of any other condition or provision or of the same condition or provision at
+another time. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <B><U>Sole Agreement</U></B>. This Agreement and the Proprietary Information and
+Invention Assignment Agreement referenced herein set forth the entire agreement of the parties hereto in respect of the subject matter contained herein and therein and supersede all prior agreements, promises, covenants, arrangements,
+communications, representations or warranties, whether oral or written, by any officer, employee or representative of any party hereto, and any prior agreement of the parties hereto in respect of the subject matter contained herein, including,
+without limitation, that certain Amended and Restated Management Continuity Agreement previously entered into between Executive and the Company. Any of Executive&#146;s rights hereunder shall be in addition to any rights Executive may otherwise have
+under benefit plans or agreements of the Company (other than severance plans or agreements) to which Executive is a party or in which Executive is a participant, including, but not limited to, any Company sponsored employee benefit plans and
+incentive plans. The provisions of this Agreement shall not in any way abrogate Executive&#146;s rights under such other plans and agreements. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(c) <B><U>Notices</U></B>. For purposes of this Agreement, notices and all other communications provided for in this Agreement shall be in writing and shall be deemed to have been duly given when sent by facsimile,
+delivered or mailed by United States certified or registered mail, return receipt requested, postage prepaid, addressed to the Company&#146;s principal offices or Executive&#146;s last known address as contained in the Company&#146;s files, as
+applicable. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) <B><U>Choice of Law</U></B>. The validity, interpretation, construction and performance of this Agreement
+shall be governed by the laws of the State of Texas, without giving effect to the principles of conflict of laws. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e)
+<B><U>Severability</U></B>. If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. In the event that the parties cannot reach a mutually agreeable
+and enforceable replacement for such provision, then (i)&nbsp;such provision shall be excluded from this Agreement, (ii)&nbsp;the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii)&nbsp;the balance of the
+Agreement shall be enforceable in accordance with its terms. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(f) <B><U>Counterparts</U></B>. This Agreement may be executed
+in counterparts, each of which shall be deemed an original, but all of which together will constitute one and the same instrument. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(g) <U><B>Arbitration</B></U>. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) Arbitration shall be the exclusive and final forum for settling any
+disagreement, dispute, controversy or claim arising out of or in any way related to (i)&nbsp;this Agreement or the subject matter hereof or the interpretation hereof or any arrangements relating hereto or contemplated herein or the breach,
+termination or invalidity hereof; or (ii)&nbsp;the provision of or failure to provide any other benefits upon a Covered Termination pursuant to any other employment agreement, bonus or compensation plans, stock option plan, stock ownership plan,
+</FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">11 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%">
+<FONT FACE="Times New Roman" SIZE="2">stock purchase plan, life insurance plan or similar plan or agreement with the Company and/or any of its subsidiaries. If this Section&nbsp;14(g) conflicts
+with any provision in any such compensation or bonus plan, stock option plan, or any other similar plan or agreement, this provision requiring arbitration shall control. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(ii) The arbitration shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association.
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(iii) The arbitral tribunal shall consist of one arbitrator. Except as otherwise provided in Section&nbsp;14(h), the
+Company shall pay all the fees, if any, and expenses of such arbitration. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(iv) The arbitration shall be conducted in
+Austin, Texas or in any other city in the United States of America as the parties to the dispute may designate by mutual written consent. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(v) Any decision or award of the arbitral tribunal shall be final and binding upon the parties to the arbitration proceeding. The parties hereto hereby waive to the extent permitted by law any rights to appeal or to
+review of such award by any court or tribunal. The parties hereto agree that the arbitral award may be enforced against the parties to the arbitration proceeding or their assets wherever the award may be entered in any court having jurisdiction
+thereof. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(h) <B><U>Indemnification</U></B>. For nine years following the Date of Termination (or such longer period as may
+be provided under the Company&#146;s Certificate of Incorporation and Bylaws) Executive shall continue to be indemnified under the Company&#146;s Certificate of Incorporation and Bylaws at least to the same extent as prior to the Date of
+Termination, and Executive shall be covered by the directors&#146; and officers liability insurance, the fiduciary liability insurance and the professional liability insurance policies that are the same as, or provide coverage at least equivalent
+to, those the Company carried prior to the Date of Termination. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(i) <B><U>No Assignment of Benefits</U></B>. The rights of
+any person to payments or benefits under this Agreement shall not be made subject to option or assignment, either by voluntary or involuntary assignment or by operation of law, including (without limitation) bankruptcy, garnishment, attachment or
+other creditor&#146;s process, and any action in violation of this subsection (j)&nbsp;shall be void. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(j) <B><U>Employment
+Taxes</U></B>. All payments made pursuant to this Agreement will be subject to withholding of applicable income and employment taxes. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(k) <B><U>Assignment by Company</U></B>. The Company may assign its rights under this Agreement to an affiliate, and an affiliate may assign its rights under this Agreement to another affiliate of the Company or to
+the Company. The Company may not assign its duties under this Agreement, whether to an affiliate or otherwise, without Executive&#146;s prior written consent, which shall not be unreasonably withheld. Executive may not assign any of Executive&#146;s
+duties hereunder and Executive may not assign any of Executive&#146;s rights hereunder, without the written consent of the Company, which shall not be withheld unreasonably. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">12 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(l) <B><U>Expenses (Including Attorneys&#146; Fees)</U></B>. If any dispute should arise
+under this Agreement involving an effort by Executive to protect, enforce or secure rights or benefits claimed by Executive hereunder, the Company shall pay (promptly upon demand by Executive accompanied by reasonable evidence of incurrence) all
+reasonable expenses (including attorneys&#146; fees) incurred by Executive in connection with such dispute if Executive should prevail in such dispute. For this purpose, Executive shall be considered to prevail if the dispute is settled in a fashion
+that provides for a payment of cash or property to Executive or other relief requested by Executive, or if an arbitral tribunal having jurisdiction shall make a final, non-appealable determination that Executive is entitled to a payment of cash or
+property or other relief requested by Executive. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>(Signature Page Follows) </I></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">13 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>I<SMALL>N</SMALL> W<SMALL>ITNESS</SMALL> W<SMALL>HEREOF</SMALL></B><SMALL></SMALL>, the parties have
+executed this Agreement as of the date first written above. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>ADVANCED MICRO DEVICES, INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Bruce L. Claflin</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Bruce L. Claflin</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Chairman, Compensation Committee of the Board of Directors</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="19%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>EXECUTIVE</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Signature:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Derrick Meyer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Derrick Meyer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">14 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B><I>NEWS RELEASE </I></B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="79%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B><U>EDITORIAL CONTACT:</U></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B><U>INVESTOR&nbsp;CONTACT:</U></B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Drew Prairie</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Ruth Cotter</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>(512) 602-4425</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>(408) 749-3887</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>drew.prairie@amd.com</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>ruth.cotter@amd.com</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>AMD Board of Directors Elects Dirk Meyer President and CEO </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>&#150; Hector Ruiz Named Executive Chairman of AMD &#150; </I></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>SUNNYVALE, Calif. &#151; July&nbsp;17, 2008 &#151;</B> AMD (NYSE: AMD) today announced that its board of directors elected President and COO Dirk Meyer as the company&#146;s chief executive officer. Meyer succeeds Hector Ruiz, who will
+become executive chairman of AMD and chair of the board of directors. As executive chairman, Ruiz will ensure a smooth executive leadership transition, focus on driving the company&#146;s asset smart strategy to completion, and assist with
+high-level government and strategic partner relations. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;Dirk&#146;s election to CEO is the final phase of a two-year succession plan
+developed and implemented jointly by AMD&#146;s board of directors and executive team,&#148; said Robert Palmer, lead independent director. &#147;Under Hector&#146;s strong leadership, AMD drove the industry adoption of pervasive 64-bit and
+multicore computing, became a trusted enterprise-class partner to leading technology suppliers and significantly expanded its global footprint in high-growth markets like China. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;Dirk&#146;s extensive experience as a business leader and his notable engineering accomplishments before and during his 12 years at AMD make him
+ideally suited to build upon the foundation Hector created and lead AMD.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;AMD has fundamentally altered the industry landscape,
+leading the innovation agenda while delivering greater choice and better experiences for our customers and users,&#148; said Ruiz, executive chairman, AMD. &#147;Dirk is a gifted leader who possesses the right skills and experience to continue
+driving AMD and the industry forward in new, compelling directions. I am placing the company in excellent hands.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Meyer, 46, joined AMD in 1995 and made his mark as part of the design team responsible for the original
+AMD Athlon&#153; processor, a breakthrough product for AMD and the industry&#146;s first processor to break the 1GHz barrier. From 2001 to 2006, Meyer led the company&#146;s microprocessor business, overseeing related R&amp;D, manufacturing,
+operations, and marketing. His leadership skills during these five years resulted in a doubling of revenue for the microprocessor business and a substantial expansion of AMD&#146;s global profile. In 2006, Meyer was appointed president and COO, and
+in 2007, he was elected to AMD&#146;s board of directors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;I&#146;m tremendously excited by the opportunities ahead for AMD. As the
+only company that possesses expertise and leadership in both x86 microprocessor and graphics technology, AMD has a unique capability to drive the next wave of innovation through the integration of computing and graphics processors to deliver a
+better computing experience,&#148; said Meyer, president and chief executive officer, AMD. &#147;We are in the midst of re-shaping AMD&#146;s business model with the goal of delivering sustained profitability through a focus on the core technologies
+that differentiate AMD. My immediate priority is to work with the leadership team to accelerate this transformation. I appreciate the trust that the Board and Hector have placed in me. During the years that I&#146;ve worked under Hector, he has been
+an excellent leader, mentor and friend.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Ruiz, 62, joined AMD as president and chief operating officer in January 2000 and became
+AMD&#146;s chief executive officer on April&nbsp;25, 2002. He has served on AMD&#146;s board of directors since 2000 and was appointed chairman of the board of directors in 2004. His accomplishments at AMD and contributions to the industry include:
+</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Expanding AMD beyond the consumer desktop market into the commercial and enterprise market, resulting in AMD technology being used by as much as 90 of the top 100
+companies on the Forbes Global 2000 by the year 2007. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Growing AMD&#146;s customer base to include the world&#146;s top 10 computer manufacturers and the world&#146;s top 10 consumer electronics manufacturers.
+</FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Redefining the future of enterprise computing with the introduction of the AMD Opteron&#153; processor, paving the way for the industry-standard x86 architecture to
+deliver the advantages of 64-bit computing. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Sharply growing AMD&#146;s global presence, with new teams and new design centers in China, India, and other high-growth markets. In 2007, AMD&#146;s international
+sales represented 87 percent of total consolidated revenue, as compared to 66 percent in 2001. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Focusing the industry on innovating to better meet customer needs. This strategy, commonly referred to as &#147;customer-centric innovation,&#148; has become a
+hallmark of Hector and of AMD, and is a primary point of AMD&#146;s competitive differentiation.</FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Broadening AMD&#146;s platform advantage to include leading-edge graphics and paving the road for the next generation of computing, Accelerated Computing, with the
+ATI acquisition in late 2006. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Promoting fair and open competition in the global microprocessor market with AMD filing a landmark antitrust suit against Intel. Since 2005, antitrust regulators
+around the world have validated claims made by AMD regarding Intel&#146;s illegal business practices by launching independent investigations that have thus far uncovered evidence of illegal monopoly maintenance that harms consumer choice.
+</FONT></P></TD></TR></TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About AMD </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Advanced
+Micro Devices (NYSE: AMD) is a leading global provider of innovative processing solutions in the computing and graphics markets. AMD is dedicated to driving open innovation, choice and industry growth by delivering superior customer-centric
+solutions that empower consumers and businesses worldwide. For more information, visit <U>www.amd.com</U>. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">&#150; 30 &#150; </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px;padding-bottom:3px;line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2">AMD, the AMD Arrow logo, AMD Athlon<FONT FACE="Times New Roman" SIZE="1"><SUP>&#153;</SUP></FONT> and AMD
+Opteron<FONT FACE="Times New Roman" SIZE="1"><SUP>&#153;</SUP></FONT> processors are trademarks of Advanced Micro Devices, Inc. Other names are for informational purposes only and used to identify companies and products and may be trademarks of
+their respective owners. </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

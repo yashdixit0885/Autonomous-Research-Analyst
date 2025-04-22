@@ -1,0 +1,2149 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S84DVfd/PvkpkNhz8tJw7Gq9SHMDigABShs4VnV6n2pIkNOukVYRJUz+YzrpKEzQ
+ IfNkjbyh/ygW3hW1wJ+giQ==
+
+<SEC-DOCUMENT>0001012870-96-000064.txt : 19960621
+<SEC-HEADER>0001012870-96-000064.hdr.sgml : 19960621
+ACCESSION NUMBER:		0001012870-96-000064
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960619
+ITEM INFORMATION:		Other events
+FILED AS OF DATE:		19960620
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		96583421
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K FOR ADVANCED MICRO DEVICES, INC.
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                   FORM 8-K
+
+               Current Report Pursuant to Section 13 or 15(d) of
+                      The Securities Exchange Act of 1934
+
+
+                         Date of Report:  June 19, 1996
+
+
+                         ADVANCED MICRO DEVICES, INC.
+          ----------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+
+
+
+                DELAWARE                1-7882             94-1692300
+     ----------------------------    -------------    -------------------
+     (State or other jurisdiction    (Commission      (I.R.S. Employer
+      of incorporation)               File Number)     Identification No.)
+
+
+
+                One AMD Place,
+                P.O. Box 3453
+                Sunnyvale, CA                             94088-3453
+    ----------------------------------------              ----------
+    (address of principal executive offices)              (Zip Code)
+
+
+
+     Registrant's telephone number,
+     including area code:                               (408) 732-2400
+                                                        --------------
+
+
+                                 Page 1 of 34
+<PAGE>
+ 
+Item 5.  Other Events.
+- ------   ------------ 
+
+         This Current Report on Form 8-K includes the Supplemental Consolidated 
+Financial Statements which have been prepared to give retroactive effect to the 
+merger of NexGen, Inc. with and into Advanced Micro Devices, Inc. (the 
+"company" or "AMD") on January 17, 1996.
+
+SUPPLEMENTAL SELECTED FINANCIAL DATA
+
+
+<TABLE>
+<CAPTION>
+Five Years Ended December 31, 1995 
+(Dollars in thousands except per share amounts)           91             92              93              94             95
+                                                      ----------     ----------      ----------     ----------      ---------- 
+<S>                                                   <C>            <C>             <C>            <C>             <C>  
+Net sales                                             $1,226,649     $1,514,489      $1,648,280     $2,155,453      $2,468,379
+Operating income                                          97,756        257,362         282,392        469,035         222,200
+Net income                                               133,171        233,619         208,356        270,942         216,326
+Net income per common share:
+   Primary                                                  1.20           2.02            1.65           2.06            1.59
+   Fully diluted                                            1.20           1.99            1.64           2.02            1.57
+Long-term debt and capital lease obligations,
+   less current portion                                   48,238         22,213          90,066         75,752         214,965
+Total assets                                           1,304,773      1,453,768       1,944,953      2,525,721       3,078,467
+</TABLE>
+
+The company has never paid cash dividends on common stock and has no present
+plans to do so.
+
+Note:  On January 17, 1996, the company acquired NexGen, Inc. (NexGen) in a
+       transaction accounted for as a pooling-of-interests. All financial data
+       of the company, for the periods presented, has been supplementally
+       prepared to give retroactive effect to the merger with NexGen.
+
+                                       2
+
+<PAGE>
+ 
+SUPPLEMENTARY FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+1995 and 1994 by Quarter (Unaudited)                           Dec. 31,        Oct. 1,        July 2,        Apr. 2, 
+(Thousands except per share amounts)                             1995           1995           1995           1995     
+                                                               --------       --------       --------       -------- 
+<S>                                                          <C>            <C>            <C>            <C>        
+Net sales                                                      $595,178       $606,953       $638,867       $627,381
+Expenses:                                                                                                            
+ Cost of sales(1)                                               427,058        368,359        315,905        305,685 
+ Research and development                                       107,715        106,237        105,695         96,874 
+ Marketing, general, and administrative                         100,766        102,549        106,602        102,734 
+                                                               --------       --------       --------       -------- 
+                                                                635,539        577,145        528,202        505,293 
+                                                               --------       --------       --------       -------- 
+Operating income (loss)                                         (40,361)        29,808        110,665        122,088 
+                                                                                                                     
+Litigation settlement                                                 -              -              -              - 
+Interest income and other, net                                    8,024         10,408          6,975          7,058 
+Interest expense                                                 (1,665)          (315)          (501)          (578)
+                                                               --------       --------       --------       -------- 
+Income (loss) before income taxes and equity in joint venture   (34,002)        39,901        117,139        128,568
+Provision (credit) for income taxes                             (21,846)        10,212         39,016         42,824
+                                                               --------       --------       --------       -------- 
+Income (loss) before equity in joint venture                    (12,156)        29,689         78,123         85,744
+Equity in net income (loss) of joint venture                     21,500         12,311          2,529         (1,414)
+                                                               --------       --------       --------       -------- 
+Net income                                                        9,344         42,000         80,652         84,330
+                                                                                                                     
+Preferred stock dividends                                             -              -              -             10 
+                                                               --------       --------       --------       -------- 
+Net income applicable to common stockholders                   $  9,344       $ 42,000       $ 80,652       $ 84,320 
+                                                               ========       ========       ========       ========
+Net income per common share          -- Primary                $    .07       $    .30       $    .59       $    .66
+                                                               ========       ========       ========       ======== 
+                                     -- Fully diluted          $    .07       $    .30       $    .59       $    .63
+                                                               ========       ========       ========       ======== 
+Shares used in per share calculation -- Primary                 138,941        139,288        136,950        127,181
+                                                               ========       ========       ========       ======== 
+                                     -- Fully diluted           139,085        139,434        137,647        134,421
+                                                               ========       ========       ========       ======== 
+Common stock market price range      -- High                   $  29.25       $  36.50       $  39.25       $  35.88  
+                                     -- Low                    $  16.13       $  28.00       $  32.13       $  23.50  
+</TABLE>
+
+
+
+SUPPLEMENTARY FINANCIAL DATA                                  
+<TABLE>
+<CAPTION>                                                              
+1995 and 1994 by Quarter (Unaudited)                           Dec. 25,       Sept. 25,       June 26,        Mar. 27,
+(Thousands except per share amounts)                             1994           1994            1994            1994
+                                                               --------       ---------      ---------         --------
+<S>                                                           <C>            <C>            <C>              <C>
+Net sales                                                      $557,821       $550,399       $534,146         $513,087
+Expenses:                                                     
+ Cost of sales                                                  278,783        267,322        237,038          230,446
+ Research and development                                        80,778         72,133         71,025           71,390
+ Marketing, general, and administrative                          96,474         93,157         93,549           94,323
+                                                               --------       --------       --------         --------
+                                                                456,035        432,612        401,612          396,159
+                                                               --------       --------       --------         --------
+Operating income (loss)                                         101,786        117,787        132,534          116,928
+                                                              
+Litigation settlement                                           (58,000)             -              -                -
+Interest income and other, net                                    5,635            739          6,486            4,274
+Interest expense                                                   (502)          (782)        (1,569)          (1,557)
+                                                               --------       --------       --------         --------
+Income (loss) before income taxes and equity in joint venture    48,919        117,744        137,451          119,645
+Provision (credit) for income taxes                              16,504         39,252         46,895           39,581
+                                                               --------       --------       --------         --------
+Income (loss) before equity in joint venture                     32,415         78,492         90,556           80,064
+Equity in net income (loss) of joint venture                     (2,989)        (4,277)        (2,925)            (394) 
+                                                               --------       --------       --------         --------
+
+Net income                                                       29,426         74,215         87,631           79,670
+                                                              
+Preferred stock dividends                                         2,588          2,587          2,587            2,588
+                                                               --------       --------       --------         --------
+                                                              
+Net income applicable to common stockholders                   $ 26,838       $ 71,628       $ 85,044         $ 77,082
+                                                               ========       ========       ========         ========
+Net income per common share          -- Primary                $    .21       $    .58       $    .68         $    .63
+                                                               ========       ========       ========         ========
+                                     -- Fully diluted          $    .21       $    .56       $    .66         $    .61
+                                                               ========       ========       ========         ========
+Shares used in per share calculation -- Primary                 128,416        123,947        125,428          122,624
+                                                               ========       ========       ========         ========
+                                     -- Fully diluted           128,977        132,576        132,742          130,987
+                                                               ========       ========       ========         ========
+Common stock market price range      -- High                   $  30.50       $  31.00       $  31.75         $  31.75
+                                     -- Low                    $  22.25       $  24.00       $  22.63         $  16.75
+                                                              
+</TABLE> 
+
+Note:  On January 17, 1996, the company acquired NexGen, Inc. (NexGen) in a
+       transaction accounted for as a pooling-of-interests. All quarterly
+       financial data of the company, for the periods presented, has been
+       supplementally prepared to give retroactive effect to the merger with
+       NexGen.
+
+(1)  The company made certain year-end adjustments in 1995, resulting from 
+     changes in estimates related to the Nx586 product which was developed by
+     NexGen. These adjustments were material to the results of the fourth
+     quarter. The adjustment charged to cost of sales in the fourth quarter of
+     1995 was approximately $49.2 million.
+
+                                       3
+<PAGE>
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL
+CONDITION
+
+
+On January 17, 1996, the company acquired NexGen, Inc. (NexGen) in a transaction
+accounted for as a pooling-of-interests. All financial data and footnote
+information of the company, including the company's financial statements for the
+periods discussed herein have been supplementally prepared to give retroactive
+effect to the merger with NexGen.
+
+The following discussion and analysis presents historical information only. For
+information concerning trends, risks, and uncertainties that may have a material
+favorable or unfavorable impact on the company's results of operations,
+liquidity, capital resources in the future, and capital expenditure plans in
+1996, please see "Management's Discussion and Analysis of Results of Operations
+and Financial Condition" contained in the company's Annual Report on Form 10-K
+for the fiscal year ended December 31, 1995 and the company's Quarterly Report
+on Form 10-Q for the quarter ended March 31, 1996.
+
+RESULTS OF OPERATIONS
+
+Net sales of $2.5 billion in 1995 rose by approximately 15 percent from 1994.
+This increase was primarily attributable to substantial growth in Flash memory
+sales and secondarily due to an increase in sales of communication products, the
+combination of which more than offset a decline in microprocessor sales. Net
+sales in 1994 increased by approximately 31 percent from 1993 due to substantial
+growth in microprocessor sales.
+
+Sales of Flash memory devices increased in 1995 from 1994 primarily due to
+growth in unit shipments and secondarily due to a change in product mix
+resulting in higher average selling prices. During 1995, Flash memory devices
+contributed a significant portion of the company's revenues and profits.
+
+Revenues from communication products rose from 1994 to 1995 primarily due to
+growth in the Ethernet family of products. Sales of CMOS programmable logic
+devices increased from 1994 to 1995 primarily due to increased unit shipments.
+In 1995, EPROM sales decreased as compared to 1994 due to comparable declines in
+both unit shipments and average selling prices.
+
+In 1995, Am486(R) microprocessor sales decreased slightly primarily due to
+average selling price declines, partially offset by increases in unit sales.
+Am486 microprocessor products contributed a significant portion of the company's
+revenues and profits in 1994 and 1995.
+
+Am486 and Nx586 are registered trademarks of AMD.
+K86 RISC SUPERSCALAR and AMD-K5 are trademarks of AMD.
+
+                                       4
+<PAGE>
+ 
+Gross margin was 43 percent in 1995 as compared to 53 percent in 1994 and 52
+percent in 1993. The four main factors contributing to the decrease in gross
+margin in 1995, in order of significance, were first, Am486 price declines;
+second, purchase prices of FASL products, which are higher than the costs of
+similar products manufactured internally; third, negative gross margins,
+inventory reserves, and manufacturing loss accruals associated with
+significantly reduced demand for NexGen products; and fourth, the transition of
+Fab 25 costs from research and development to cost of sales when production
+commenced in September 1995. The impact of gross margin declines caused by
+purchase of FASL products during 1995 was mostly offset by the company's share
+of FASL income. The increase in gross margin from 1993 to 1994 was primarily
+attributable to increased sales from higher margin Am486 products during 1994.
+
+Research and development expenses for 1995 increased to $417 million from $295
+million in 1994, and $279 million in 1993. These increases were primarily due to
+higher Fab 25 expenses and secondarily due to increased microprocessor
+development costs.
+
+Marketing, general, and administrative expenses were $413 million for 1995, $378
+million for 1994, and $297 million for 1993. The increase from 1994 to 1995 was
+primarily attributable to promotional expenses for the sale of NexGen's Nx586(R)
+and other related products, and secondarily to higher advertising expenses. The
+incremental change from 1993 to 1994 was mainly due to increased legal and
+microprocessor advertising expenses.
+
+Interest income and other, net rose from 1994 to 1995 primarily due to higher
+interest rates during 1995 and secondarily due to a realized gain of
+approximately $3 million from equity securities sold during 1995. In 1994,
+interest income and other, net included a net charge of approximately $5 million
+resulting from the securities class action lawsuit and stockholders' derivative
+action settlements, and a gain from the damages award in an arbitration
+proceeding with Intel Corporation. Interest expense in 1995 decreased from 1994
+due to higher capitalized interest mainly related to the construction of Fab 25.
+
+The income tax rate was approximately 28, 34, and 29 percent in 1995, 1994, and
+1993, respectively. The lower tax rate in 1995 resulted from lower state taxes
+and increased benefits from low taxed foreign income. The lower tax rate in 1993
+was primarily due to available tax credit carryforwards.
+
+International sales were 56, 55, and 54 percent of total sales in 1995, 1994,
+and 1993, respectively. During 1995, approximately 17 percent of the company's
+net sales were denominated in foreign currencies. The company does not have
+sales denominated in local currencies in those countries which have highly
+inflationary economies. (A highly inflationary economy is defined in accordance
+with the Statement of Financial
+
+                                       5
+<PAGE>
+ 
+Accounting Standards No. 52 as one in which the cumulative inflation over a
+three-year consecutive period approximates 100 percent or more.) The impact on
+the company's operating results from changes in foreign currency rates
+individually and in the aggregate has not been material.
+
+The company enters into foreign exchange forward contracts to buy and sell
+currencies as economic hedges of the company's foreign net monetary asset
+position including the company's liabilities for products purchased from FASL.
+In 1995, these hedging transactions were denominated in lira, yen, French franc,
+deutsche mark, and pound sterling. The maturities of these contracts are
+generally short-term in nature. The company believes its foreign exchange
+contracts do not subject the company to material risk from exchange rate
+movements because gains and losses on these contracts are designed to offset
+losses and gains on the net monetary asset position being hedged. Net foreign
+currency gains and losses have not been material. As of December 31, 1995, the
+company had approximately $37 million (notional amount) of foreign exchange
+forward contracts (see Notes 3, 4, and 5 to the Supplemental Consolidated
+Financial Statements).
+
+The company has engaged in interest rate swaps primarily to reduce its interest
+rate exposure by changing a portion of the company's interest rate obligation
+from a floating rate to a fixed rate basis. At the end of 1995, the net
+outstanding notional amount of interest rate swaps was $190 million, of which
+$150 million will mature in 1996 and $40 million will mature in 1997. Gains and
+losses related to these interest rate swaps have been immaterial (see Notes 3,
+4, and 5 to the Supplemental Consolidated Financial Statements).
+
+The company primarily addresses market risk by participating as an end user in
+various derivative markets to manage its exposure to interest and foreign
+currency exchange rate fluctuations. The counterparties to the company's foreign
+exchange forward contracts and interest rate swaps consist of a number of major,
+high credit quality, international financial institutions. The company does not
+believe that there is significant risk of nonperformance by these counterparties
+because the company monitors the credit ratings of such counterparties, and
+reduces the financial exposure by limiting the amount of agreements entered into
+with any one financial institution.
+
+In 1995, the Financial Accounting Standards Board released the Statement of
+Financial Accounting Standards No. 121 (SFAS 121), "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of."
+SFAS 121 requires recognition of impairment of long-lived assets in the event
+the net book value of such assets exceeds the future undiscounted cash flows
+attributable to such assets. SFAS 121 is effective for fiscal years beginning
+after December 15, 1995. Adoption of SFAS 121 is not expected to have a material
+impact on the company's financial condition or results of operations.
+
+                                       6
+<PAGE>
+ 
+The company accounts for its stock option plans and its employee stock purchase
+plan in accordance with provisions of the Accounting Principles Board's Opinion
+No. 25 (APB 25), "Accounting For Stock Issued to Employees." In 1995, the
+Financial Accounting Standards Board released the Statement of Financial
+Accounting Standards No. 123 (SFAS 123), "Accounting for Stock Based
+Compensation." SFAS 123 provides an alternative to APB 25 and is effective for
+fiscal years beginning after December 15, 1995. The company expects to continue
+to account for its employee stock plans in accordance with the provisions of APB
+25. Accordingly, SFAS 123 is not expected to have any material impact on the
+company's financial condition or results of operations.
+
+FINANCIAL CONDITION
+
+Cash, cash equivalents, and short-term investments increased by $79 million from
+1994 to 1995. This increase was primarily attributable to a $150 million term
+loan obtained in January of 1995 offset by NexGen's cash used in operations. The
+$545 million of cash generated from operating activities in 1995 was used to
+fund investments in property, plant, and equipment to expand manufacturing
+capacity primarily related to Fab 25.
+
+Working capital increased by $20 million from $442 million at the end of 1994 to
+$462 million at the end of 1995. This increase was primarily due to higher cash,
+cash equivalents, and short-term investments.
+
+At the end of 1995, the company's total cash investment in FASL was $160 million
+as compared to $142 million at the end of 1994. In 1995, FASL approved
+construction of a second Flash memory fab, FASL II, at a site contiguous to the
+existing FASL facility in Aizu-Wakamatsu, Japan.
+
+On January 11, 1995, the company and Intel Corporation reached an agreement to
+settle all previously outstanding legal disputes between the two companies. As
+part of the settlement, in December 1995, the company signed a five-year,
+comprehensive patent cross-license agreement with Intel which expires on
+December 31, 2000. The agreement provides that after December 31, 1999, the
+parties will negotiate in good faith a patent cross-license agreement to be
+effective January 1, 2001. Effective January 1, 1996, the new agreement gives
+the company and Intel the rights to use each others' patents and certain
+copyrights, exclusive of microprocessor microcode copyrights. The cross-license
+is royalty-bearing for the company's products that use certain Intel
+technologies. The company is required to pay Intel minimum non-refundable
+royalties during the years 1997 to 2000.
+
+As of the end of 1995, the company had the following financing arrangements:
+unsecured committed bank lines of credit of $250 million, unutilized; long-term
+secured equipment lease lines of $132 million, which were fully utilized; short-
+term, unsecured uncommitted bank credit in the amount of $96 million, of which
+$27
+
+                                       7
+<PAGE>
+ 
+million was utilized; an outstanding $150 million four-year term loan; and
+approximately $12.5 million in short-term debt financing.
+
+RISK FACTORS
+
+The semiconductor industry is generally characterized by a highly competitive
+and rapidly changing environment in which operating results are subject to the
+effects of new product introductions, manufacturing technology innovations,
+rapid fluctuations in product demand, the availability of manufacturing
+capacity, and the ability to secure and maintain intellectual property rights.
+While the company attempts to identify and respond to rapidly changing events
+and conditions as soon as possible, the anticipation of and reaction to such
+events are an ongoing challenge. The company's future results of operations and
+financial condition may be adversely impacted by various factors. These risk
+factors are detailed in the description of the company's business, operations,
+and financial condition in the company's Form 10-K for the fiscal year ended
+December 31, 1995 under the captions "Business" and "Management's Discussion and
+Analysis of Results of Operations and Financial Condition" and in the company's
+Form 10-Q for the quarter ended March 31, 1996 under the caption "Management's
+Discussion and Analysis of Results of Operations and Financial Condition."
+
+                                       8
+<PAGE>
+ 
+The Board of Directors and Shareholders
+Advanced Micro Devices, Inc.
+
+We have audited the supplemental consolidated balance sheets of Advanced Micro 
+Devices, Inc. (formed as a result of the consolidation of Advanced Micro 
+Devices, Inc. and NexGen, Inc.) as of December 31, 1995 and December 25, 1994 
+and the related supplemental consolidated statements of income, stockholders' 
+equity, and cash flows for each of the three years in the period ended December 
+31, 1995. The supplemental consolidated financial statements give retroactive 
+effect to the merger of Advanced Micro Devices, Inc. and NexGen, Inc. on January
+17, 1996, which has been accounted for using the pooling-of-interests method as 
+described in the notes to the supplemental consolidated financial statements. 
+These supplemental financial statements are the responsibility of the management
+of Advanced Micro Devices, Inc. Our responsibility is to express an opinion on 
+these supplemental financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to obtain 
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting 
+the amounts and disclosures in financial statements. An audit also includes 
+assessing the accounting principles used and significant estimates made by 
+management, as well as evaluating the overall financial statement presentation. 
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, based on our audits, the supplemental financial statements 
+referred to above present fairly, in all material respects, the consolidated 
+financial position of Advanced Micro Devices, Inc. at December 31, 1995 and 
+December 25, 1994, and the consolidated results of its operations and its cash 
+flows for each of the three years in the period ended December 31, 1995, after 
+giving retroactive effect to the merger of NexGen, Inc., as described in the 
+notes to the supplemental consolidated financial statements, in conformity with 
+generally accepted accounting principles.
+
+
+                                                              Ernst & Young LLP
+
+
+
+
+
+
+San Jose, California
+April 30, 1996
+
+                                       9
+<PAGE>
+ 
+SUPPLEMENTAL CONSOLIDATED STATEMENTS OF INCOME
+Three Years Ended December 31, 1995
+(Thousands except per share amounts)
+<TABLE>
+<CAPTION>
+                                                                     95                94                  93
+                                                                 ----------        -----------        -----------
+<S>                                                              <C>               <C>                <C>
+Net sales                                                        $2,468,379        $ 2,155,453        $ 1,648,280
+Expenses:
+  Cost of sales                                                   1,417,007          1,013,589            789,564
+  Research and development                                          416,521            295,326            279,412  
+  Marketing, general, and administrative                            412,651            377,503            296,912   
+                                                                 ----------        -----------        -----------
+                                                                  2,246,179          1,686,418          1,365,888
+                                                                 ----------        -----------        -----------
+Operating income                                                    222,200            469,035            282,392
+
+Litigation settlement                                                     -            (58,000)                 -
+Interest income and other, net                                       32,465             17,134             16,931
+Interest expense                                                     (3,059)            (4,410)            (4,398)
+                                                                 ----------        -----------        -----------
+Income before income taxes and equity in joint venture              251,606            423,759            294,925
+Provision for income taxes                                           70,206            142,232             85,935
+                                                                 ----------        -----------        -----------
+Income before equity in joint venture                               181,400            281,527            208,990
+Equity in net income (loss) of joint venture                         34,926            (10,585)              (634)
+                                                                 ----------        -----------        -----------
+Net income                                                          216,326            270,942            208,356
+
+Preferred stock dividends                                                10             10,350             10,350
+                                                                 ----------        -----------        -----------
+
+Net income applicable to common stockholders                     $  216,316        $   260,592        $   198,006
+                                                                 ==========        ===========        ===========
+
+Net income per common share:
+  Primary                                                        $     1.59        $      2.06        $      1.65
+                                                                 ==========        ===========        ===========
+  Fully diluted                                                  $     1.57        $      2.02        $      1.64
+                                                                 ==========        ===========        ===========
+Shares used in per share calculation:
+  Primary                                                           136,208            126,674            119,925
+  Fully diluted                                                     137,815            134,142            127,167
+</TABLE> 
+
+See accompanying notes
+
+                                      10
+<PAGE>
+ 
+SUPPLEMENTAL CONSOLIDATED BALANCE SHEETS
+December 31, 1995, and December 25, 1994
+(Thousands except share and per share amounts)
+<TABLE>
+<CAPTION>
+                                                                                  95                 94
+                                                                              -----------        -----------   
+<S>                                                                           <C>                <C> 
+Assets
+Current assets:
+ Cash and cash equivalents                                                    $   126,316        $   117,997
+ Short-term investments                                                           383,349            312,924
+                                                                              -----------        -----------   
+  Total cash, cash equivalents, and short-term investments                        509,665            430,921
+ Accounts receivable, net of allowance for doubtful accounts
+  of $15,618 in 1995, and $10,469 in 1994                                         284,238            345,546
+ Inventories:                                                           
+  Raw materials                                                                    29,494             23,097
+  Work-in-process                                                                  68,827             74,892
+  Finished goods                                                                   57,665             35,514
+                                                                              -----------        -----------   
+    Total inventories                                                             155,986            133,503
+ Deferred income taxes                                                            147,489            105,238
+ Prepaid expenses and other current assets                                         40,564             46,370
+                                                                              -----------        -----------   
+  Total current assets                                                          1,137,942          1,061,578
+Property, plant, and equipment:
+ Land                                                                              28,851             28,820
+ Buildings and leasehold improvements                                             893,646            500,530
+ Equipment                                                                      1,843,662          1,456,512
+ Construction in progress                                                         180,742            492,792
+                                                                              -----------        -----------   
+  Total property, plant, and equipment                                          2,946,901          2,478,654
+ Accumulated depreciation and amortization                                     (1,305,267)        (1,209,813)
+                                                                              -----------        -----------   
+  Property, plant, and equipment, net                                           1,641,634          1,268,841
+Investment in joint venture                                                       176,821            124,588
+Other assets                                                                      122,070             70,714
+                                                                              -----------        -----------   
+                                                                              $ 3,078,467        $ 2,525,721
+                                                                              ===========        ===========   
+
+Liabilities and Stockholders' Equity
+Current liabilities:
+ Notes payable to banks                                                       $    26,770        $    32,459
+ Accounts payable                                                                 241,916            159,939
+ Accrued compensation and benefits                                                106,347            105,604
+ Accrued liabilities                                                              103,404             85,912
+ Litigation settlement                                                                  -             58,000
+ Income tax payable                                                                56,297             53,795
+ Deferred income on shipments to distributors                                     100,057             83,800
+ Current portion of long-term debt and capital lease obligations                   41,642             40,420
+                                                                              -----------        -----------   
+  Total current liabilities                                                       676,433            619,929
+Deferred income taxes                                                              84,607             32,686
+Long-term debt and capital lease obligations, less current portion                214,965             75,752
+Commitments and contingencies                                                           -                  -
+
+Stockholders' equity:
+ Capital stock:
+  Serial preferred stock (redeemed March 13, 1995), par value $.10;
+    1,000,000 shares authorized; 345,000 shares issued and 344,862
+    shares outstanding in 1994                                                          -                 34
+  Common stock, par value $.01; 250,000,000 shares authorized;
+    132,182,019 shares issued and outstanding in 1995,
+    and 121,919,102 in 1994                                                         1,050                959
+ Capital in excess of par value                                                   908,989            871,200
+ Retained earnings                                                              1,192,423            925,161
+                                                                              -----------        -----------   
+  Total stockholders' equity                                                    2,102,462          1,797,354
+                                                                              -----------        -----------   
+                                                                              $ 3,078,467        $ 2,525,721
+                                                                              ===========        ===========   
+</TABLE>
+
+See accompanying notes
+
+                                      11
+<PAGE>
+ 
+SUPPLEMENTAL CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+Three Years Ended December 31, 1995
+(Thousands)
+<TABLE>
+<CAPTION>
+                                                Preferred Stock     Common Stock
+                                               -----------------------------------
+                                               Number             Number                       Capital in                  Total
+                                                 of                 of               Warrant   Excess of    Retained   Stockholders'
+                                               Shares    Amount   Shares    Amount  Valuation  Par Value    Earnings       Equity
+                                               ------------------------------------------------------------------------------------
+
+<S>                                            <C>      <C>       <C>      <C>       <C>       <C>         <C>           <C> 
+December 27, 1992                               12,580  $  53,119  89,976  $1,122    $   -     $ 532,674   $  457,454    $1,044,369 
+                                                                                                                                    
+Issuance of preferred stock                      3,842     21,725       -       -        -             -            -        21,725 
+Issuance of common stock                             -          -     106      73        -             -            -            73 
+Valuation of warrants                                -          -       -       -      533             -            -           533 
+Issuance of shares:                                                                                                                 
+    Employee stock plans                             -          -   3,218      31        -        19,408            -        19,439 
+    Fujitsu Limited                                  -          -   1,000      10        -        22,952            -        22,962 
+Compensation recognized under                                                                                                       
+    employee stock plans                             -          -       -       -        -         1,313            -         1,313 
+Income tax benefits realized from                                                                                                   
+    employee stock option exercises                  -          -       -       -        -        43,386            -        43,386 
+Preferred stock dividends                            -          -       -       -        -             -      (10,350)      (10,350)
+Net income                                           -          -       -       -        -             -      208,356       208,356 
+                                               -------  --------- -------  ------    -----     ---------   ----------    ----------
+                                                                                                                                    
+December 26, 1993                               16,422     74,844  94,300   1,236      533       619,733      655,460     1,351,806 
+                                                                                                                                    
+Issuance of common stock                             -          -   4,676     316        -        65,170            -        65,486 
+Issuance of shares:                                                                                                                 
+    Employee stock plans                             -          -   1,970      19        -        16,911            -        16,930 
+    Fujitsu Limited                                  -          -   1,000      10        -        22,625            -        22,635 
+Compensation recognized under                                                                                                       
+    employee stock plans                             -          -       -       -        -         1,971            -         1,971 
+Conversion of preferred stock to                                                                                                    
+    common stock                               (16,078)   (74,810) 19,973       3        -       106,199            -        31,392 
+Income tax benefits realized from                                                                                                   
+    employee stock option exercises                  -          -       -       -        -        37,433            -        37,433 
+Preferred stock dividends                            -          -       -       -        -             -      (10,350)      (10,350)
+Reincorporation into a Delaware Corporation          -          -       -    (625)       -           625            -             - 
+Net income                                           -          -       -       -        -             -      270,942       270,942 
+Unrealized gain from available-for-sale                                                                                             
+    investments                                      -          -       -       -        -             -        9,109         9,109 
+                                               -------  --------- -------  ------    -----     ---------   ----------    ----------
+                                                                                                                                    
+December 25, 1994                                  344         34 121,919     959      533       870,667      925,161     1,797,354 
+                                                                                                                                    
+Changes in NexGen's stockholders'                                                                                                   
+    equity in the six months ended                                                                                                  
+    June 30, 1995                               18,161     93,548 (24,530)    352        -      (171,994)      23,803       (54,291)
+Issuance of preferred stock                      1,376     12,653       -       -        -             -            -        12,653 
+Issuance of common stock                             -          -   4,542     271        -        65,340            -        65,611 
+Issuance of shares:                                                                                                                 
+    Employee stock plans                             -          -   2,283      22        -        23,518            -        23,540 
+Compensation recognized under                                                                                                       
+    employee stock plans                             -          -       -       -        -         2,483            -         2,483 
+Conversion of preferred stock to                                                                                                    
+    common stock                               (19,881)  (106,235) 26,823      71        -       103,663            -        (2,501)
+Reincorporation into a Delaware Corporation          -          -     (33)   (625)       -           625                          - 
+Warrants exercised                                   -          -   1,178       -     (533)          533            -             - 
+Income tax benefits realized from                                                                                                   
+    employee stock option exercises                  -          -       -       -        -        15,189            -        15,189 
+Preferred stock dividends                            -          -       -       -        -             -          (10)          (10)
+Redemption of stockholder rights plan                -          -       -       -        -        (1,035)           -        (1,035)
+Net income                                           -          -       -       -        -             -      216,326       216,326 
+Unrealized gain from available-for-sale                                                                                             
+    investments and translation                                                                                                     
+    adjustment for joint venture                     -          -       -       -        -             -       27,143        27,143 
+                                               -------  --------- -------  ------    -----     ---------   ----------    ----------
+                                                                                                                                    
+December 31, 1995                                    -  $       - 132,182  $1,050    $   -     $ 908,989   $1,192,423    $2,102,462
+                                               =======  ========= =======  ======    =====     =========   ==========    ==========
+</TABLE> 
+
+See accompanying notes
+
+                                      12
+<PAGE>
+ 
+SUPPLEMENTAL CONSOLIDATED STATEMENTS OF CASH FLOWS
+Three Years Ended December 31, 1995
+(Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                               95              94               93
+                                                                           ---------      -----------       ---------
+<S>                                                                        <C>             <C>               <C> 
+Cash flows from operating activities:
+  Net income                                                               $ 216,326      $   270,942       $ 208,356
+  Adjustments to reconcile net income to net cash provided
+    by operating activities:
+    Depreciation and amortization                                            264,675          217,665         176,827
+    Accrual for litigation settlement                                              -           58,000               -
+    Net (gain) loss on sale of property, plant, and equipment                  2,152              276          (2,943)
+    Write-down of property, plant, and equipment                                 611            2,230             366
+    Net gain realized on sale of available-for-sale securities                (2,707)               -               -
+    Compensation recognized under employee stock plans                         2,483            1,971           1,313
+    Undistributed (income) loss of joint venture                             (34,926)          10,585             634
+    Changes in operating assets and liabilities:
+      Net (increase) decrease in receivables, inventories,
+        prepaid expenses, and other assets                                    19,548         (128,914)        (57,628)
+      Payment of litigation settlement                                       (58,000)               -               -
+      Net increase in deferred income taxes                                     (925)         (32,543)        (30,304)
+      Increase in income tax payable                                          11,772           61,910          70,502
+      Net increase in payables and accrued liabilities                       124,058           63,737          72,131
+                                                                           ---------      -----------       ---------
+Net cash provided by operating activities                                    545,067          525,859         439,254
+                                                                           ---------      -----------       ---------
+Cash flows from investing activities:
+  Purchase of property, plant, and equipment                                (625,900)        (552,271)       (325,981)
+  Proceeds from sale of property, plant, and equipment                         4,834            2,058           4,648
+  Purchase of available-for-sale securities                                 (817,888)         (56,328)         (4,934)
+  Proceeds from sale of available-for-sale securities                        756,373            4,849               -
+  Purchase of held-to-maturity debt securities                              (648,012)      (1,245,167)       (715,487)
+  Proceeds from maturities of held-to-maturity debt securities               642,229        1,416,431         566,773
+  Investment in joint venture                                                (18,019)        (139,175)         (3,160)
+                                                                           ---------      -----------       ---------
+Net cash used in investing activities                                       (706,383)        (569,603)       (478,141)
+                                                                           ---------      -----------       ---------
+Cash flows from financing activities:
+  Proceeds from borrowings                                                   246,345           42,025          17,528
+  Payments on capital lease obligations and other debt                      (142,937)         (70,288)        (22,616)
+  Proceeds from issuance of stock                                            101,804          136,443          64,692
+  Expenses for conversion of preferred stock and redemption of 
+   stockholder rights                                                         (3,536)               -               -
+  Payments of preferred stock dividends                                          (10)         (10,350)        (10,350)
+                                                                           ---------      -----------       ---------
+Net cash provided by financing activities                                    201,666           97,830          49,254
+                                                                           ---------      -----------       ---------
+Net increase in cash and cash equivalents                                     40,350           54,086          10,367
+Cash and cash equivalents at beginning of year                                85,966           63,911          53,544
+                                                                           ---------      -----------       ---------
+Cash and cash equivalents at end of year                                   $ 126,316      $   117,997       $  63,911
+                                                                           =========      ===========       =========
+Supplemental disclosures of cash flow information:
+  Cash paid during the year for:
+    Interest (net of amounts capitalized)                                  $   2,541      $     4,125       $   2,462
+                                                                           =========      ===========       =========
+    Income taxes                                                           $  60,329      $   111,704       $  44,433
+                                                                           =========      ===========       =========
+ Non-cash financing activities:
+    Equipment capital leases                                               $  24,422      $    34,202       $  64,512
+                                                                           =========      ===========       =========
+    Conversion of preferred stock to common stock                          $ 270,328      $   106,201       $       -
+                                                                           =========      ===========       =========
+</TABLE> 
+
+See accompanying notes
+
+                                      13
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+December 31, 1995, December 25, 1994, and December 26, 1993
+ 
+1.   NATURE OF OPERATIONS
+
+     AMD is a semiconductor manufacturer with manufacturing facilities in the
+U.S. and Asia, and sales offices throughout the world. Focusing on the personal
+and networked computing and communications markets, AMD is a global company that
+derives more than half of its revenues from international sales, mainly in
+Europe and Asia. The company provides programmable products in concert with
+applications solutions to the manufacturers of equipment for personal and
+networked computation and communications.
+
+
+2.   BUSINESS COMBINATION
+
+     On January 17, 1996, the company acquired NexGen, Inc. ("NexGen") in a 
+tax-free reorganization in which NexGen was merged directly into the company. 
+The company has exchanged approximately 29.3 million shares of AMD common stock 
+and has reserved 4.3 million shares to be exchanged for NexGen options and 
+warrants assumed by the company. The 33.6 million total shares to be exchanged 
+represent eight-tenths (0.8) of a share of the common stock of AMD for each 
+share of the common stock of NexGen outstanding or subject to an assumed warrant
+or option. The merger has been accounted for under the pooling-of-interests 
+method.
+
+The supplemental consolidated financial statements have been prepared to give
+retroactive effect to the merger of NexGen with and into AMD on January 17,
+1996. Generally accepted accounting principles prescribe giving effect to a
+consummated business combination accounted for by the pooling-of-interests
+method in financial statements that do not include the date of consummation. The
+accompanying supplemental consolidated financial statements do not extend
+through the date of the consummation, however, they will become the historical
+consolidated financial statements of the company after financial statements
+covering the date of consummation of the business combination are issued.
+
+Prior to its merger with AMD, NexGen reported on a fiscal year ending June 30.
+In the accompanying supplemental consolidated financial statements and the notes
+thereto, NexGen's financial position and operating results as of and for the
+years ended June 30, 1994 and 1995 were combined with AMD's financial position
+and operating results as of and for the years ended December 26, 1993 and
+December 25, 1994, respectively. NexGen's financial position and operating
+results for 1995, which were restated to a December 31, 1995 year end, were
+combined with AMD's financial position and operating results as of and for the
+year ended December 31, 1995. Accordingly, NexGen's operating results for the
+six months ended June 30, 1995 were duplicated in each of the years ended
+December 25, 1994 and December 31, 1995. NexGen's revenues and net loss for that
+six month period were $19.9 million and $34.4 million, respectively.
+Consolidated stockholders' equity has been reduced by $54.3 million, which
+represents NexGen's net stockholders' equity activity for the six months ended
+June 30, 1995 in order to eliminate the duplication of stockholders' equity
+activity during that period. As a result of the combination of NexGen's
+financial position as of June 30, 1995 with the financial position of AMD as of
+December 25, 1994, the beginning cash and cash equivalents balance in the
+accompanying 1995 supplemental consolidated statements of cash flows does not
+equal the December 25, 1994 cash and cash equivalents balance.
+
+A reconciliation of net sales, net income, and net income per common share of
+the company, as previously reported, NexGen and combined, including the NexGen
+income tax benefit, is as follows (in thousands, except per share amounts):
+
+<TABLE> 
+<CAPTION> 
+
+                                        1995          1994         1993
+                                      --------      --------      -------
+<S>                                 <C>           <C>            <C> 
+Net Sales:
+  AMD, as previously reported       $2,429,724     $2,134,659    $1,648,280
+  NexGen                                38,655         20,794             -
+                                    ----------     ----------    ---------- 
+  Combined                          $2,468,379     $2,155,453    $1,648,280
+                                    ==========     ==========    ==========
+
+Net Income (Loss):
+  AMD, as previously reported         $300,521       $305,266      $228,781  
+  NexGen                              (126,727)       (45,795)      (23,708)
+  NexGen income tax benefit             42,532         11,471         3,283
+                                    ----------     ----------    ---------- 
+  Combined                            $216,326       $270,942      $208,356
+                                    ==========     ==========    ==========
+
+Net Income Per Common Share
+ (Primary):
+  AMD, as previously reported            $2.85          $3.02         $2.30
+                                    ==========     ==========    ==========
+  Combined                               $1.59          $2.06         $1.65
+                                    ==========     ==========    ==========
+Net Income Per Common Share 
+ (Fully Diluted):   
+  AMD, as previously reported            $2.81          $2.92         $2.24
+                                    ==========     ==========    ==========
+  Combined                               $1.57          $2.02         $1.64 
+                                    ==========     ==========    ==========
+</TABLE> 
+
+3.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+FISCAL YEAR. The company uses a 52- to 53-week fiscal year ending on the last
+Sunday in December, which resulted in a 53-week year ended December 31, 1995.
+This compares with a 52-week fiscal year for 1994 and 1993, which ended on
+December 25 and 26, respectively.
+
+PRINCIPLES OF CONSOLIDATION. The supplemental consolidated financial statements
+include the accounts of the company and its subsidiaries. Upon consolidation,
+all significant intercompany accounts and transactions are eliminated. Also
+included in the financial statements of the company, under the equity method of
+accounting, is the company's 49.95 percent investment in Fujitsu AMD
+Semiconductor Limited (FASL).
+
+FOREIGN CURRENCY TRANSLATION. The U.S. dollar is the functional currency for the
+company's wholly-owned foreign subsidiaries. Translation adjustments, resulting
+from the process of
+
+                                      14
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+ 
+translating foreign currency financial statements into U.S. dollars, are
+included in operations. The functional currency of the company's unconsolidated
+joint venture is the Japanese yen. Translation adjustments relating to the
+translation of these statements have not been material, and therefore, are not
+disclosed as a separate component of stockholders' equity.
+
+CASH EQUIVALENTS. Cash equivalents consist of financial instruments which are
+readily convertible to cash and have original maturities of three months or less
+at the time of acquisition.
+
+INVESTMENTS. The company classifies its marketable debt and equity securities
+into held-to-maturity and available-for-sale categories in accordance with the
+provisions of the Statement of Financial Accounting Standards No. 115 (SFAS No.
+115), "Accounting for Certain Instruments in Debt and Equity Securities." In
+accordance with the FASB staff Special Report, "A Guide to Implementation of
+Statement 115 on Accounting for Certain Investments in Debt and Equity
+Securities," the company chose to reclassify, as of December 31, 1995, all cash
+equivalents and short-term investments that were classified as held-to-maturity
+at that time from held-to-maturity to available-for-sale. Securities classified
+as available-for-sale are reported at fair market value with the related
+unrealized gains and losses included in retained earnings. Realized gains and
+losses and declines in value of securities judged to be other than temporary are
+included in interest income and other, net. Interest and dividends on all
+securities are included in interest income and other, net.
+
+     Investments with maturities between three and twelve months are considered
+short-term investments. Short-term investments consist of money market auction
+preferred stocks and debt securities such as commercial paper, time deposits,
+certificates of deposit, bankers' acceptances, and marketable direct obligations
+of the United States Treasury.
+
+FOREIGN EXCHANGE FORWARD CONTRACTS. Foreign exchange forward contracts are used
+to hedge the company's net monetary asset positions in its foreign subsidiaries
+and the company's liabilities for products purchased from FASL. Realized gains
+and losses from these hedges are included in operations. Premiums and discounts,
+if any, are amortized over the life of the contract and included in operations.
+
+FOREIGN CURRENCY OPTIONS. Foreign currency options are used to hedge firm
+commitments with respect to the company's joint venture (FASL) investment.
+Realized gains and losses from these hedges are deferred and included in other
+assets or accrued liabilities, respectively. They are recognized in operations
+in the same period as the hedged transactions. Premiums and discounts, if any,
+are amortized over the life of the contract and included in operations.
+
+INTEREST RATE SWAPS. The company enters into interest rate swaps primarily to
+reduce its interest rate exposure by changing a portion of the company's
+interest rate exposure from a floating rate to a fixed rate basis. The
+differential between fixed and floating rates to be paid or received is accrued
+and recognized as an adjustment to interest expense. Accordingly, the related
+amount payable to or receivable from counterparties is included in other current
+assets or accrued liabilities.
+
+INVENTORIES. Inventories are stated principally at standard cost adjusted to
+approximate the lower of cost (first-in, first-out method) or market (net
+realizable value).
+
+PROPERTY, PLANT, AND EQUIPMENT. Property, plant, and equipment is stated at
+cost. Depreciation and amortization are provided principally on the straight-
+line basis over the estimated useful lives of the assets for financial reporting
+purposes and on accelerated methods for tax purposes. Estimated useful lives for
+financial reporting purposes are as follows: machinery and equipment 3 to 5
+years; buildings up to 26 years; and leasehold improvements are the shorter of
+the remaining terms of the leases or the estimated economic useful lives of the
+improvements.
+
+     In 1995, the Financial Accounting Standards Board released the Statement of
+Financial Accounting Standards No. 121 (SFAS 121), "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of."
+SFAS 121 requires recognition of impairment of long-lived assets in the event
+the net book value of such assets exceeds the future undiscounted cash
+
+                                      15
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+ 
+flows attributable to such assets. SFAS 121 is effective for fiscal years
+beginning after December 15, 1995. Adoption of SFAS 121 is not expected to have
+a material impact on the company's financial position or results of operations.
+
+DEFERRED INCOME ON SHIPMENTS TO DISTRIBUTORS. A portion of sales is made to
+distributors under terms allowing certain rights of return and price protection
+on unsold merchandise held by the distributors. These agreements can be canceled
+by either party upon written notice, at which time the company generally
+repurchases unsold inventory. Accordingly, recognition of sales to distributors
+and related gross profits are deferred until the merchandise is resold by the
+distributors.
+
+ADVERTISING EXPENSES. The company accounts for advertising costs as expense in
+the period in which they are incurred. Advertising expense for 1995, 1994, and
+1993 was approximately $44 million, $32 million, and $22 million, respectively.
+
+NET INCOME PER COMMON SHARE. Primary net income per common share is based upon
+weighted average common and dilutive common equivalent shares outstanding using
+the treasury stock method. Dilutive common equivalent shares include stock
+options, warrants, and restricted stock. Fully diluted net income per common
+share is computed using the weighted average common and dilutive common
+equivalent shares outstanding, plus other dilutive shares outstanding which are
+not common equivalent shares. Other dilutive shares which are not common
+equivalent shares include convertible preferred stock and convertible notes.
+
+     All share information has been adjusted on a retroactive basis herein to
+give effect to the merger with NexGen and the conversion of NexGen shares on a
+0.8 to one share of AMD common stock.
+
+EMPLOYEE STOCK PLANS. The company accounts for its stock option plans and its
+employee stock purchase plan in accordance with provisions of the Accounting
+Principles Board's Opinion No. 25 (APB 25), "Accounting For Stock Issued to
+Employees." In 1995, the Financial Accounting Standards Board released the
+Statement of Financial Accounting Standards No. 123 (SFAS 123), "Accounting for
+Stock Based Compensation." SFAS 123 provides an alternative to APB 25 and is
+effective for fiscal years beginning after December 15, 1995. The company
+expects to continue to account for its employee stock plans in accordance with
+the provisions of APB 25. Accordingly, SFAS 123 is not expected to have any
+material impact on the company's financial position or results of operations.
+
+USE OF ESTIMATES. The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results inevitably will differ from those estimates,
+and such differences may be material to the financial statements.
+
+YEAR-END ADJUSTMENTS (UNAUDITED). The company made certain year-end adjustments
+in 1995, resulting from changes in estimates related to the Nx586 product which
+was developed by NexGen. These adjustments were material to the results of the
+fourth quarter. These adjustments, related to accounts receivable and inventory,
+were charged primarily to net sales and cost of sales and reduced operating
+income by approximately $51.7 million.
+
+4.   FINANCIAL INSTRUMENTS
+
+FINANCIAL INSTRUMENTS WITH OFF-BALANCE-SHEET RISK
+
+As part of the company's asset and liability management, the company enters into
+various types of transactions that involve financial instruments with off-
+balance-sheet risk. These instruments are entered into in order to manage
+financial market risk, including interest rate and foreign exchange risk. The
+notional values, carrying amounts, and fair values are tabled below.
+
+Foreign exchange forward contracts
+
+The company enters into foreign exchange forward contracts to buy and sell
+currencies as economic hedges of its net monetary asset positions in its foreign
+subsidiaries and liabilities for products. 
+
+                                      16
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+purchased from FASL. The hedging transactions in 1995 were denominated in lira,
+yen, French franc, deutsche mark, and pound sterling. The maturities of these
+contracts are generally less than six months.
+
+Foreign currency options
+
+The joint venture (FASL) investments are denominated in yen, and therefore, are
+subject to exposure due to fluctuations in yen exchange rates. Thus, the company
+hedges its exposures on certain firm commitments relating to the FASL investment
+with foreign currency options denominated in yen. The maturities of these
+options are generally less than six months. No foreign currency options were
+outstanding as of December 31, 1995.
+
+Interest rate swaps
+
+The company engaged in interest rate swaps primarily to reduce its interest rate
+exposure on its term loan and on a building lease obligation by changing a
+portion of the company's interest rate obligation from a floating rate to a
+fixed rate basis without exchanges of the underlying notional amounts. The fixed
+interest rates are based on one to five year swap rates, and the floating
+interest rates are based on three or six months LIBOR. These interest rate swaps
+will mature in 1996 and 1997.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS WITH OFF-BALANCE-SHEET RISK
+
+The estimates of fair value were obtained using prevailing financial market
+information as of December 31, 1995. In certain instances where judgment is
+required in estimating fair value, price quotes were obtained from certain of
+the company's counterparty financial institutions.
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                                                  1995                                   1994
+                                              ---------------------------------      ---------------------------------
+                                              Notional     Carrying       Fair       Notional     Carrying       Fair
+                                               amount       amount       value        amount       amount       value
+                                              ---------------------------------      ---------------------------------
+<S>                                           <C>            <C>        <C>          <C>            <C>        <C> 
+Interest rate instruments:
+     Swaps                                    $190,000       $(518)     $(1,694)     $ 40,000       $(518)     $   228 
+
+Foreign exchange instruments:
+     Foreign exchange forward contracts         36,670        (102)        (102)       32,651         536          536
+     Foreign currency options                        -           -            -        12,662           -         (200)
+</TABLE> 
+
+
+FAIR VALUE OF OTHER FINANCIAL INSTRUMENTS
+
+The carrying value of short-term debt approximates fair value due to its short-
+term maturity. The fair value of long-term debt was estimated using discounted
+cash flow analysis based on estimated interest rates for similar types of
+borrowing arrangements.
+
+The carrying amounts and estimated fair values of the company's other financial
+instruments are as follows:
+
+                                      17
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                               1995                   1994         
+                                   -------------------    -------------------  
+                                   Carrying     Fair      Carrying     Fair  
+                                    Amount     Value       Amount     Value  
+                                   --------   --------    --------   -------- 
+<S>                                <C>        <C>         <C>        <C>     
+Short-term debt:                                                              
+  Notes payable                    $ 26,770   $ 26,770    $ 32,459   $ 32,459 
+Long-term debt                                             
+(excluding capital leases)          179,301    180,920      33,433     32,755
+</TABLE> 
+
+
+SECURITIES HELD-TO-MATURITY AND AVAILABLE-FOR-SALE
+
+The following is a summary of held-to-maturity and available-for-sale securities
+included in cash and cash equivalents and short-term investments as of December
+31, 1995 and December 25, 1994.
+
+<TABLE> 
+<CAPTION> 
+                                                Available-for-sale     Held-to-maturity     Available-for-sale 
+  (Thousands)                                          1995                  1994                  1994        
+                                                ------------------     ----------------     ------------------ 
+<S>                                             <C>                    <C>                  <C>                
+  Certificates of deposit                       $           15,002     $          4,997     $                - 
+  Treasury notes                                            10,437                    -                 14,348 
+  Federal agency notes                                      14,065                    -                      - 
+  Security repurchase agreements                            53,370               50,800                 17,998 
+  Commercial paper                                          14,914               24,760                      - 
+  Other debt securities                                        434                1,672                      - 
+                                                ------------------     ----------------     ------------------ 
+Total cash equivalents                          $          108,222     $         82,229     $           32,346 
+                                                ==================     ================     ================== 
+                                                                                                               
+  Certificates of deposit                       $           70,551     $         95,342     $            3,716 
+  Municipal notes and bonds                                 52,256                    -                      - 
+  Corporate notes                                           37,898              101,850                      - 
+  Treasury notes                                            60,989               44,877                 15,997 
+  Commercial paper                                          46,656               14,442                      - 
+  Money market auction preferred stocks                    114,999               36,700                      - 
+                                                ------------------     ----------------     ------------------ 
+Total short-term investments                    $          383,349     $        293,211     $           19,713
+                                                ==================     ================     ================== 
+</TABLE> 
+
+     On November 15, 1995, the FASB staff issued a Special Report, "A Guide to
+Implementation of Statement 115 on Accounting for Certain Investments in Debt
+and Equity Securities." In accordance with provisions in that Special Report,
+the company chose to reclassify cash equivalents and short-term investments from
+held-to-maturity to available-for-sale. At the date of the transfer, the
+amortized cost of those securities was approximately $480.7 million. Since the
+securities transferred on December 31, 1995 are short-term in nature, changes in
+market interest rates did not
+
+                                      18
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+have a significant impact on the fair value of these securities. The net
+unrealized gain on these securities was immaterial.
+
+     The available-for-sale equity securities that the company held, included in
+other assets, had a cost and fair value of $14.5 million and $75.1 million,
+respectively, as of December 31, 1995, and a cost and fair value of $9.4 million
+and $18.5 million, respectively, as of December 25, 1994. At December 31, 1995,
+the total net unrealized holding gain on these equity securities, net of tax,
+was approximately $42.5 million, of which $33.4 million was recorded in 1995.
+The entire, net of tax, unrealized holding gain is included in retained
+earnings.
+
+     As of December 31, 1995, the company did not own any securities classified
+as trading.
+
+5. CONCENTRATIONS OF CREDIT RISK
+
+Financial instruments that potentially subject the company to concentrations of
+credit risk consist primarily of cash equivalents, short-term investments, trade
+receivables, and financial instruments used in hedging activities.
+
+     The company places its cash equivalents and short-term investments with
+high credit quality financial institutions and, by policy, limits the amount of
+credit exposure with any one financial institution. Investments in time deposits
+and certificates of deposit are acquired from banks having combined capital,
+surplus, and undistributed profits of not less than $200 million. Investments in
+commercial paper and money market auction preferred stocks of industrial firms
+and financial institutions are rated A1, P1 or better, investments in tax-exempt
+securities including municipal notes and bonds are rated AA, Aa or better, and
+investments in repurchase agreements must have securities of the type and
+quality listed above as collateral.
+
+     Concentrations of credit risk with respect to trade receivables are limited
+because a large number of geographically diverse customers make up the company's
+customer base, thus spreading the trade credit risk. The company controls credit
+risk through credit approvals, credit limits, and monitoring procedures. The
+company performs in-depth credit evaluations of all new customers and requires
+letters of credit, bank guarantees and advance payments, if deemed necessary.
+Bad debt expenses have not been material.
+
+     The counterparties to the agreements relating to the company's foreign
+exchange and interest rate instruments consist of a number of major, high credit
+quality, international financial institutions. The company does not believe that
+there is significant risk of nonperformance by these counterparties because the
+company monitors the credit ratings of such counterparties, and limits the
+financial exposure and the amount of agreements entered into with any one
+financial institution. While the notional amounts of financial instruments are
+often used to express the volume of these transactions, the potential accounting
+loss on these transactions if all counterparties failed to perform is limited to
+the amounts, if any, by which the counterparties' obligations under the
+contracts exceed the obligations of the company to the counterparties.
+
+6. CONCENTRATIONS OF OTHER RISKS
+
+PRODUCTS. Microprocessor products and Flash memory devices contributed a
+significant portion of the  company's revenues and profits in 1995. The company
+expects that its ability to maintain or expand its current levels of revenues
+and profits in the future will depend upon, among other things, its success in
+developing and marketing, in a timely manner, its next generation of
+microprocessor products, the K86 RISC SUPERSCALAR(TM) products, and future
+generations of Flash memory devices.
+
+                                      19
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+MARKETS. The markets for the company's products are characterized by rapid
+technological developments, evolving industry standards, changes in customer
+requirements, frequent new product introductions and enhancements, and short
+product life cycles. The market for microprocessors and Flash memory devices is
+primarily dependent upon the market for personal computers (PC). From time to
+time, the PC industry has experienced significant downturns, often in connection
+with, or in anticipation of, declines in general economic conditions. These
+downturns have been characterized by diminished product demand, production
+overcapacity, and resultant accelerated erosion of average selling prices. The
+company's business could be materially and adversely affected by industry-wide
+fluctuations in the PC marketplace in the future.
+
+INVENTORIES. Given the volatility of the market, the company makes inventory
+provisions for potentially excess and obsolete inventory based on backlog and
+forecasted demand. However, such backlog demand is subject to revisions,
+cancellations, and rescheduling. Actual demand will inevitably differ from such
+anticipated demand, and such differences may have a material effect on the
+financial statements.
+
+CUSTOMERS. The company markets and sells its products primarily to a broad base
+of customers comprised of Distributors and Original Equipment Manufacturers
+(OEM's) of computation and communication equipment. One of the company's
+distributors, Arrow Electronics, Inc., accounted for approximately 12 percent of
+1995 net sales. No other Distributor or OEM customer constituted 10 percent or
+more of net sales in 1995.
+
+INTERNATIONAL OPERATIONS. The company derives more than half of its revenues
+from international sales. However, only a portion of the company's international
+sales were denominated in foreign currencies. Further, the company does not have
+any sales denominated in the local currencies of those countries which have
+highly inflationary economies.
+
+     Nearly all product assembly and final testing of the company's products are
+performed at its manufacturing facilities in Penang, Malaysia; Singapore; and
+Bangkok, Thailand; or by subcontractors in Asia. Wafer fabrication of certain
+products is performed at foundries in Asia. FASL wafer fabrication facilities
+are located in Aizu-Wakamatsu, Japan. Foreign manufacturing entails political
+and economic risks, including political instability, expropriation, currency
+controls and fluctuations, changes in freight and interest rates, and exemptions
+for taxes and tariffs. For example, if the company were unable to assemble and
+test its products abroad, or if air transportation between the United States,
+the company's overseas facilities and customers worldwide were disrupted, there
+could be a material adverse effect on the company's operations.
+
+MATERIALS.  Certain of the raw materials used by the company in the manufacture
+of its products are available from a limited number of suppliers.  For example,
+several types of integrated circuit packages purchased by the company, as well
+as by the majority of other companies in the semiconductor industry, are
+principally supplied by Japanese companies.  Shortages could occur in various
+essential materials due to interruption of supply or increased demand in the
+industry.  If the company were unable to procure certain of such materials, it
+would be required to reduce its manufacturing operations, which could have a
+material adverse effect upon its results of operations.
+
+7. SERIAL PREFERRED STOCK
+
+In March 1987, the company sold 345,000 shares of Convertible Exchangeable
+Preferred Stock, $.10 par value. Dividends were payable quarterly in arrears at
+an annual rate of $30 per share (6 
+
+                                      20
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+percent) cumulative from the date of original issue. The preferred stock was
+redeemable for cash at any time at the option of the company, in whole or in
+part, at prices declining to $500 per share at March 15, 1997, plus unpaid
+dividends. The preferred stock was convertible at any time at the option of the
+holder into common stock at the initial conversion rate of 19.873 common shares
+for each preferred share.
+
+     On February 10, 1995, the company called all outstanding shares of its
+preferred stock for redemption on March 13, 1995, at a redemption price of
+$509.00 per share, plus $7.30 of accrued and unpaid dividends. Prior to the
+redemption date, 343,427 shares of preferred stock were surrendered for
+conversion which resulted in the issuance of 6,824,694 shares of the company's
+common stock. Pursuant to previous arrangements, on March 14, 1995, the company
+sold 28,518 shares of its common stock to certain institutions and used the
+proceeds to fund the redemption of 1,435 shares of preferred stock which were
+not converted.
+
+     NexGen's 19,536,328 shares of Convertible Preferred Stock issued and
+outstanding as of May 24, 1995 were converted into 19,970,328 shares of its
+Common Stock in conjunction with its initial public offering on May 24, 1995. As
+of June 30, 1994, 13,583,459 shares of Convertible Preferred Stock were issued
+and outstanding.
+
+8. STOCKHOLDER RIGHTS PLAN
+
+In February 1990, the company adopted a stockholder rights plan and declared a
+dividend distribution of preferred stock purchase rights at the rate of one
+right for each share of common stock held as of the close of business on
+February 20, 1990.  The rights were not exercisable, or transferable apart from
+the common stock, until certain events occurred.  The rights were redeemable at
+any time at the option of the company.
+
+     On May 3, 1995, the company redeemed all its preferred stock purchase
+rights for a redemption price of $.01 per right (approximately $1 million) paid
+on May 24, 1995, to the holders of the company's common stock as of the
+redemption date.
+
+9. WARRANTS
+
+On May 24, 1995, the effective date of NexGen's initial public offering, all
+previously issued preferred series warrants were converted into warrants to
+purchase common stock. All outstanding warrants are held by related parties. The
+following summarizes the warrants outstanding as of December 31, 1995:
+
+<TABLE> 
+<CAPTION> 
+         WARRANT HOLDER                           WARRANTS       WARRANT PRICE
+- ------------------------------------------------------------------------------
+<S>                                               <C>            <C> 
+Warrants issued in connection with Promissory
+ Notes and Preferred Stock Offering                   493,280    $0.63-$9.38
+
+Warrants issued in connection with consulting         
+ services                                             280,000       $5.00
+
+Warrants issued to sales agent                        682,392    $5.00-$9.38
+
+ Total warrants issued and outstanding 
+   as of December 31, 1995                          1,455,672    $0.63-$9.38
+</TABLE> 
+
+     For the year ended December 31, 1995 warrants previously issued to purchase
+1,364,000 shares of common stock were exercised on a cashless basis for
+1,178,010 shares of common stock. Warrants for an additional 540 shares of
+common stock are claimed to be outstanding by certain warrant holders. All
+warrants are currently exercisable at December 31, 1995.
+
+                                      21
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+10. INCOME TAXES
+
+Provision for income taxes consists of:
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                           1995            1994         1993     
+                                  -------------   ------------   ------------ 
+<S>                               <C>             <C>            <C>         
+Current:                                                                    
+  U.S. Federal                    $      58,683   $    154,448   $     83,574
+  U.S. State and Local                    1,855         13,001          3,640 
+  Foreign National and Local             10,594          7,350          2,332
+Deferred:                                                        
+  U.S. Federal                            1,295        (29,733)        (5,206)
+  U.S. State and Local                   (3,167)        (2,820)         1,798
+  Foreign National and Local                946            (14)          (203)
+                                  -------------   ------------   ------------
+Provision for income taxes        $      70,206   $    142,232   $     85,935
+                                  =============   ============   ============
+</TABLE> 
+
+     Tax benefits resulting from the exercise of nonqualified stock options and
+the disqualifying disposition of shares acquired under the company's incentive
+stock option and stock purchase plans reduced taxes currently payable as shown
+above by $15.2 million, $37.4 million, and $43.4 million in 1995, 1994, and
+1993, respectively. Such benefits were credited to capital in excess of par
+value when realized.
+
+     Under SFAS No. 109, deferred income taxes reflect the net tax effects of
+tax carryforwards and temporary differences between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts used for
+income tax purposes. Significant components of the company's deferred tax assets
+and liabilities as of December 31, 1995, December 25, 1994, and December 26,
+1993 are as follows:
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                                        1995            1994         1993      
+                                               -------------   ------------   ------------ 
+<S>                                            <C>             <C>            <C>         
+Deferred tax assets:                                                                     
+ Net operating loss carryovers                 $      62,796   $     30,840   $     21,820
+ Deferred distributor income                          40,583         31,396         31,349
+ Inventory reserves                                   29,665         18,809         14,935 
+ Accrued expenses not currently deductible            35,639         39,467         21,799
+ Federal and state tax credit carryovers               6,249          2,873         30,888
+ Other                                                49,850         39,081         27,569
+                                               -------------   ------------   ------------ 
+  Total deferred tax assets                          224,782        162,466        148,360
+ Less: valuation allowance                           (33,386)       (14,445)       (43,335)
+                                               -------------   ------------   ------------ 
+  Net deferred tax assets                            191,396        148,021        105,025
+                                               -------------   ------------   ------------ 
+Deferred tax liabilities:                                                     
+ Depreciation                                       (109,141)       (59,614)       (44,886)
+ Other                                               (19,373)       (15,855)       (20,154)
+                                               -------------   ------------   ------------
+  Total deferred tax liabilities                    (128,514)       (75,469)       (65,040)
+                                               -------------   ------------   ------------  
+Net deferred tax assets                        $      62,882   $     72,552   $     39,985 
+                                               =============   ============   ============
+</TABLE> 
+
+                                      22
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+ 
+Approximately $26.4 million of the 1993 valuation allowance for deferred tax
+assets, attributable to stock option deductions, was credited to equity upon
+realization in 1994.
+
+     Pretax income from foreign operations was approximately $60.6 million in
+1995, $45.7 million in 1994, and $40.0 million in 1993.
+
+     As of December 31, 1995, the company has net operating loss carryovers of
+approximately $179.4 million for federal income tax purposes. The federal
+carryovers expire on various dates through 2009. No significant state
+carryforwards exist due to the capitalization of research and development
+expenditures for state purposes and state statutory limitations on the amount of
+net operating losses which may be carried forward to subsequent years.
+
+     Under the Tax Reform Act of 1986, the amounts of and the benefit from net
+operating losses that can be carried forward may be limited in certain
+circumstances. Because of changes in ownership greater than 50 percent,
+realization of the company's net operating loss carryforwards incurred prior to
+July 1992 and January 1996 may be subject to annual limitations of approximately
+$3.9 million and $27.3 million, respectively. These annual limitations should 
+result in the availability of all carryforwards by the year 2004.
+
+     The following is a reconciliation between statutory federal income taxes
+and the total provision for income taxes:
+
+<TABLE> 
+<CAPTION> 
+                                                 1995                 1994                1993       
+                                        --------------------   -----------------    -----------------  
+(Thousands except percent)                  Tax        Rate      Tax        Rate      Tax        Rate  
+                                        --------------------   -----------------    -----------------  
+<S>                                     <C>            <C>     <C>          <C>     <C>          <C>   
+Statutory federal                                                                                      
+  income tax provision                  $   88,062     35.0 %  $ 148,316    35.0 %  $ 103,224    35.0 %
+State taxes net of federal benefit             216      0.1        6,601     1.6        3,535     1.2  
+Tax exempt Foreign Sales                                                                               
+  Corporation income                        (6,848)    (2.7)      (8,955)   (2.1)      (7,236)   (2.5) 
+Tax credits utilized                             -        -            -       -       (5,004)   (1.7) 
+Foreign income                                                                                         
+  at other than U.S. rates                 (11,503)    (4.6)      (9,633)   (2.3)     (10,398)   (3.5) 
+Other                                          279      0.1        5,903     1.4        1,814     0.6   
+                                        ----------     ----    ---------    ----    ---------    ----
+                                        $   70,206     27.9 %  $ 142,232    33.6 %  $  85,935    29.1 %  
+                                        ==========     ====    =========    ====    =========    ====
+</TABLE> 
+
+     No provision has been made for income taxes on approximately $264.6 million
+of cumulative undistributed earnings of certain foreign subsidiaries because it
+is the company's intention to permanently invest such earnings. If such earnings
+were distributed, additional taxes of $92.6 million would accrue.
+
+     The company's Far East assembly and test plants in Singapore and Thailand
+are operated under various tax holidays which expire in whole or in part during
+1996 and 1998. Possible extensions of the holiday period, as well as other tax
+incentives, are anticipated to result in minimal tax liabilities in these
+countries through 1998. The net impact of these tax holidays was an increase in
+net income of approximately $6.2 million ($0.04 per share) in 1995.
+
+11. DEBT
+
+The company has certain debt agreements that contain provisions regarding
+restrictions on cash dividends, maintenance of specified working capital and net
+worth levels, and specific financial ratio requirements.  At December 31, 1995,
+the company was in compliance with all restrictive covenants 
+
+                                      23
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+of such debt agreements and all retained earnings was restricted as to payments
+of cash dividends on common stock.
+
+  Significant elements of uncommitted, unsecured revolving lines of credit are:
+
+<TABLE> 
+<CAPTION> 
+(thousands except percent)                      1995             1994
+                                            -----------       -----------
+<S>                                         <C>               <C> 
+Total lines of credit                       $   345,801       $   378,182
+Portion of lines of credit available to       
+  foreign subsidiaries                           95,801           128,182
+Amounts outstanding at year-end:
+  Short-term                                     26,770            32,459
+Short-term borrowings:
+  Average daily borrowings                       29,666            33,449
+  Maximum amount outstanding at
+    any month-end                                36,105            35,384
+  Weighted monthly average interest
+    rate                                           4.19 %            4.32 %
+  Average interest rate on amounts
+    outstanding at year-end                        4.41 %            4.42 %
+</TABLE> 
+
+     Interest on foreign and short-term domestic borrowings is negotiated at the
+time of the borrowing.
+
+     Information with respect to the company's long-term debt and capital lease
+obligations at year-end is:
+
+                                      24
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                                                                    1995            1994   
+                                                                            ----------      ---------
+<S>                                                                         <C>             <C>       
+Term loan with variable interest at 7.06% at December 31, 1995                                        
+   payable quarterly through 1998                                           $  150,000      $       -
+10%-11% Convertible notes payable due on March 1, 1996                           1,774          2,500 
+Promissory notes with principal and 6.88% interest payable                                            
+   annually through January 2000, secured by a partnership                                            
+   interest                                                                     10,276         11,946 
+12% Note payable due on June 1, 1996                                            10,000         10,000 
+Mortgage with principal and 9.88% interest payable in monthly                                          
+   installments through April 2007                                               2,167          2,382 
+Obligations under capital leases                                                77,306         82,739 
+Obligations secured by equipment                                                 4,990          6,482 
+Other                                                                               94            123 
+                                                                            ----------      ---------
+                                                                               256,607        116,172 
+Less: current portion                                                          (41,642)       (40,420)
+                                                                            ----------      ---------
+Long-term debt and capital lease obligations, less current portion          $  214,965      $  75,752
+                                                                            ==========      ========= 
+</TABLE> 
+
+     On January 5, 1995, the company obtained a $150 million single term four-
+year loan with a consortium of eight commercial banks. The loan has a floating
+interest rate based on the three months LIBOR and requires quarterly interest
+payments with the principal to be paid at the end of the term in 1998. The
+interest rate on the loan at December 31, 1995 was 7.06 percent.
+
+     For each of the next five years and beyond, long-term debt and capital
+lease obligations are:
+
+<TABLE> 
+<CAPTION> 
+                                                         Long-term
+                                                           Debt                 Capital
+(Thousands)                                           (Principal only)          Leases
+                                                      ----------------         ---------
+<S>                                                      <C>                   <C> 
+1996                                                     $  15,420             $  27,304
+1997                                                         3,802                26,255
+1998                                                       154,033                21,532
+1999                                                         2,326                 6,949
+2000                                                         2,493                 1,182
+Beyond 2000                                                  1,227                     -
+                                                         ---------             ---------
+Total                                                      179,301                83,222
+Less: Amount representing interest                               -                 5,916
+                                                         ---------             ---------
+Total at present value                                   $ 179,301             $  77,306
+                                                         =========             =========
+</TABLE> 
+     Obligations under the lease agreements are collateralized by the assets
+leased. Total assets leased were approximately $141.9 million and $131.7
+million at December 31, 1995 and December 25, 1994, respectively. Accumulated
+amortization of these leased assets was approximately $95.6 million and $60.5
+million at December 31, 1995 and December 25, 1994, respectively.
+
+                                      25
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+12. INTEREST EXPENSE & INTEREST INCOME AND OTHER, NET
+
+INTEREST EXPENSE
+
+<TABLE> 
+<CAPTION> 
+(Thousands)              1995          1994          1993
+                      ----------    ----------    ----------
+<S>                   <C>           <C>           <C>
+Interest expense      $   21,102    $   12,704    $   11,482
+Interest capitalized     (18,043)       (8,294)       (7,084)
+                      ----------    ----------    ----------
+                      $    3,059    $    4,410    $    4,398
+                      ==========    ==========    ==========
+</TABLE> 
+     In 1995, interest expense primarily consisted of interest payments on the
+$150 million four-year term loan the company entered into on January 5, 1995;
+and interest capitalized primarily related to the construction of Fab 25.
+
+INTEREST INCOME AND OTHER, NET
+
+<TABLE> 
+<CAPTION> 
+(Thousands)              1995           1994          1993
+                      ----------    ----------    ----------
+<S>                   <C>           <C>           <C> 
+Interest income       $   29,518    $   23,331    $   16,431
+Other income (loss)        2,947        (6,197)          500
+                      ----------    ----------    ----------
+                      $   32,465    $   17,134    $   16,931
+                      ==========    ==========    ==========
+</TABLE> 
+     In 1995, other income (loss) primarily consisted of the $2.7 million
+realized gain on an equity investment in Seeq Corporation. In 1994, other income
+(loss) primarily consisted of the $33 million settlement cost related to the
+class action lawsuits and stockholders' derivative action offset by an $18
+million gain resulting from an award of damages in the arbitration proceedings
+with Intel. Also included in other income (loss) for all years presented is the
+net gain (loss) on the sale of assets.
+
+13. FOREIGN AND DOMESTIC OPERATIONS
+
+     The company is currently engaged in a single line of business: The design,
+development, manufacture, and sale of programmable products in concert with
+applications solutions to the manufacturers of equipment for personal and
+networked computation and communications.
+
+     Operations outside the United States include both manufacturing and sales.
+Manufacturing subsidiaries are located in Malaysia, Singapore, and Thailand.
+Sales subsidiaries are in Europe and Asia.
+
+     The following is a summary of operations by entities within geographic
+areas for the three years ended December 31, 1995:
+
+                                      26
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                                       1995             1994             1993
+                                               ----------      -----------      ----------
+<S>                                            <C>             <C>              <C> 
+Sales to unaffiliated customers:
+  North America                                $1,780,240      $1,544,844       $1,174,410
+  Europe                                          491,293         483,632          343,600
+  Asia                                            196,846         126,977          130,270
+                                               ----------      -----------      ----------                        
+                                               $2,468,379      $2,155,453       $1,648,280
+                                               ==========      ==========       ==========
+Transfers between geographic areas                                              
+  (eliminated in consolidation):                                                
+  North America                                $  743,117      $  563,303       $  444,378
+  Asia                                            396,158         323,050          277,496
+                                               ----------      -----------      ----------
+                                               $1,139,275      $  886,353       $  721,874
+                                               ==========      ==========       ==========
+Operating income:                                                               
+  North America                                $  164,549      $  423,027       $  243,015
+  Europe                                           18,922          15,860            8,376
+  Asia                                             38,729          30,148           31,001
+                                               ----------      -----------      ----------
+                                               $  222,200      $  469,035       $  282,392
+                                               ==========      ==========       ==========
+Identifiable assets:                                                            
+  North America                                $2,636,675      $2,170,099       $1,663,199
+  Europe                                           85,664         120,070           88,003
+  Asia                                            463,530         361,144          312,529
+  Eliminations                                   (107,402)       (125,592)        (118,778)
+                                               ----------      -----------      ----------
+                                               $3,078,467      $2,525,721       $1,944,953
+                                               ==========      ==========       ==========
+U.S. export sales:                                                              
+  Asia                                         $  485,625      $  436,120       $  314,268
+  Europe                                          206,328         126,752          109,226
+                                               ----------      -----------      ----------
+                                               $  691,953      $  562,872       $  423,494 
+                                               ==========      ==========       ==========
+</TABLE> 
+  Sales to unaffiliated customers are based on the location of the company's
+subsidiary.  Transfers between geographic areas consist of products and services
+that are sold at amounts generally above cost and are consistent with governing
+tax regulations.  Operating income is total sales less operating expenses.
+Identifiable assets are those assets used in each geographic area.  Export sales
+are United States foreign direct sales to unaffiliated customers primarily in
+Europe and Asia.
+
+14. EMPLOYEE BENEFIT PLANS
+
+STOCK OPTION PLANS. The company has several stock option plans under which key
+employees have been granted incentive (ISOs) and nonqualified (NSOs) stock
+options to purchase the company's common stock.  Generally, options are
+exercisable within four years from the date of grant and expire five to ten
+years after the date of grant.  ISOs granted under the plans have exercise
+prices of not less than 100 percent of the fair market value of the common stock
+at the date of grant.  Exercise prices of NSOs may not be less than 50 percent
+of the fair market value of the common stock at the date of grant.  At December
+31, 1995, 3,101 employees, including 161 employees originally from NexGen, were
+eligible and participating in the plans.
+
+  The following is a summary of stock option exercises:
+
+                                      27
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE> 
+<CAPTION> 
+(Thousands)                                  1995         1994          1993
+                                            -------      -------      -------
+<S>                                         <C>          <C>          <C> 
+Aggregate exercise price                    $15,195      $10,355      $14,066
+Options exercised                             2,313        2,218        2,855
+</TABLE> 
+
+  A summary of the stock option plans at December 31, 1995 and December 25, 1994
+is shown below.
+
+<TABLE> 
+<CAPTION> 
+(Thousands except per share amounts)         1995          1994                
+                                           --------      --------          
+<S>                                         <C>           <C>                
+Options:                                                 
+  Outstanding at beginning of year           14,825        13,957
+  Granted                                     4,327         4,389
+  Canceled                                     (510)         (376)
+  Exercised                                  (2,313)       (2,218)
+                                           --------      -------- 
+    Outstanding at end of year               16,329        15,752
+                                           ========      ========
+  Exercisable at beginning of year            8,784         7,848
+  Exercisable at end of year                 10,374         9,711
+  Available for grant at beginning                       
+    of year                                   3,386         1,419
+  Available for grant at end of year            751         3,150
+  Aggregate exercise price of options                    
+    outstanding at end of year             $269,953      $211,437
+  Average exercise price of options                      
+    outstanding at end of year             $  16.53      $  13.42
+</TABLE> 
+
+STOCK APPRECIATION RIGHTS PLANS. The company maintains three stock
+appreciation rights plans under which stock appreciation rights (SARs) either
+have been or may be granted to key employees.  The number of SARs exercised plus
+common stock issued under the stock option plans may not exceed the number of
+shares authorized under the stock option plans.  SARs may be granted in tandem
+with outstanding stock options, in tandem with future stock option grants, or
+independently of any stock options.  Generally, the terms of SARs granted under
+the plans are similar to those of options granted under the stock option plans,
+including exercise prices, exercise dates, and expiration dates.  To date, the
+company has granted only limited SARs, which become exercisable only in the
+event of certain changes in control of the company.
+
+STOCK PURCHASE PLAN. The company has a stock purchase plan that allows
+participating employees to purchase, through payroll deductions, shares of the
+company's common stock at 85 percent of the fair market value at specified
+dates.  At December 31, 1995, 6,723 employees were eligible to participate in
+the plan and 482,182 common shares remained available for issuance under the
+plan.  Beginning in 1995, NexGen had a stock purchase plan that allowed
+participating employees to purchase shares of NexGen's common stock at 85
+percent of the fair market value at specified dates.  At December 31, 1995, 161
+employees were eligible to participate in the plan and 365,504 common shares
+remained available for issuance under the plan.  A summary of stock purchased
+under these plans is shown below.
+
+                                      28
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE>
+<CAPTION>
+(Thousands except 
+employee participants)           1995       1994       1993
+                              -------     ------     ------
+<S>                           <C>         <C>        <C>
+Aggregate purchase price      $11,457     $8,115     $6,413
+Shares purchased                  501        412        387
+Employee participants           2,825      1,941      1,684
+</TABLE>
+ 
+PROFIT SHARING PROGRAM. The company has a profit sharing program to which the
+Board of Directors has authorized semiannual contributions.  Profit sharing
+contributions were $44.7 million in 1995, $57.0 million in 1994, and $33.9
+million in 1993.
+
+RETIREMENT SAVINGS PLAN. The company has a retirement savings plan, commonly
+known as a 401(k) plan, that allows participating United States employees to
+contribute from 1 percent to 15 percent of their pre-tax salary subject to
+I.R.S. limits.  The company makes a matching contribution calculated at 50 cents
+on each dollar of the first 3 percent of participant contributions, to a maximum
+of 1.5 percent of eligible compensation.  The company's contributions to the
+401(k) plan were $4.3 million, $3.7 million, and $3.2 million for 1995, 1994,
+and 1993, respectively.  There are four investment funds in which each employee
+may invest contributions in whole percentage increments.  NexGen had a 401(k)
+plan which allowed employees to contribute from one percent to ten percent of
+their pre-tax salary subject to I.R.S. limits.  NexGen did not match employee
+contributions.
+
+RESTRICTED STOCK AWARD PLAN. The company established the 1987 restricted stock
+award plan under which up to two million shares of common stock may be issued to
+employees, subject to terms and conditions determined at the discretion of the
+Board of Directors.  The company entered into agreements to issue 226,427,
+180,000, and 19,000 shares in 1995, 1994, and 1992, respectively.  To date,
+agreements covering 212,212 shares have been canceled without issuance and
+1,252,964 shares have been issued pursuant to prior agreements.  At December 31,
+1995, agreements covering 436,427 shares were outstanding under the plan and
+310,609 shares remained available for future awards.  Outstanding awards vest
+under varying terms within five years.
+
+15. COMMITMENTS
+
+The company leases certain of its facilities under agreements which expire at
+various dates through 2011.  The company also leases certain of its
+manufacturing and office equipment for terms ranging from one to six years.
+Rent expense was $37.2 million, $32.4 million, and $32.3 million in 1995, 1994,
+and 1993, respectively.
+
+  For each of the next five years and beyond, noncancelable long-term operating
+lease obligations and commitments to purchase manufacturing supplies and
+services are as follows:
+
+                                      29
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE>
+<CAPTION>
+                            Operating               Purchase
+(Thousands)                  Leases               Commitments
+                            ---------             -----------
+<S>                         <C>                   <C>
+1996                         $29,955                $23,492
+1997                          23,150                  4,868
+1998                          17,781                  4,868
+1999                          11,717                  4,868
+2000                          11,144                  3,797
+Beyond 2000                   11,503                 27,900
+</TABLE>
+
+  Included in 1996 purchase commitments is $18.4 million for Nx586 inventory. 
+The Company has fully reserved for these commitments. See footnote 3, year end 
+adjustments.
+ 
+  The operating lease of the company's corporate sales and marketing facility
+expires in December 1998.  The company has the option of extending the lease
+agreement or purchasing the building for $40 million.  The company may also
+consider alternative financing arrangements.
+
+  At December 31, 1995, the company had commitments of approximately $93 million
+for the construction or acquisition of additional property, plant, and
+equipment.
+
+  The company is currently planning to build a submicron wafer fabrication and
+design facility in Dresden, Germany at an estimated cost of approximately $1.5
+billion over 5 years.  The German federal and state governments will provide
+financing assistance to the facility through grants and allowances, loan
+guarantees, and loan interest subsidies.  As of December 31, 1995, the company
+had commitments to make cash investments and loans, in aggregate, in this
+facility amounting to approximately $350 million over the next 4 years.
+
+   In December 1995, the company signed a five-year, comprehensive patent cross-
+license agreement with Intel.  The cross-license is royalty-bearing for the
+company's products that use certain Intel technologies.  The company is required
+to pay Intel minimum non-refundable royalties during the years from 1997 to
+2000.
+
+16.  INVESTMENT IN JOINT VENTURE
+
+  In 1993, the company and Fujitsu Limited established a joint venture, Fujitsu
+AMD Semiconductor Limited (FASL), to manufacture Flash memory devices.  The
+company's share of FASL is 49.95 percent and the investment is being accounted
+for under the equity method.  In 1995, the company invested an additional $18.0
+million in FASL, and the company's share of FASL net income during 1995 was
+$34.9 million, net of income taxes of approximately $18.8 million. At December
+31, 1995, the adjustment related to the translation of the FASL financial
+statements into U.S. dollars resulted in a decrease of approximately $6.2
+million to the investment in FASL.
+
+  Pursuant to a cross-equity provision between AMD and Fujitsu Limited, the
+company purchased $12.7 million of Fujitsu Limited shares, with certain resale
+restrictions. Under the same provision, Fujitsu Limited has purchased 2 million
+shares of AMD common stock, and is required to purchase an additional 2.5
+million shares over the next several years, for a total investment not to exceed
+$100 million.  No purchases were made in 1995.
+
+  The following is condensed unaudited financial data of FASL:
+
+                                      30
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE> 
+<CAPTION> 
+Three years ended December 31, 1995
+(Unaudited)
+(Thousands)                              1995         1994          1993   
+                                       --------     --------      -------
+<S>                                    <C>          <C>           <C>    
+Net sales                              $252,069     $      -      $     - 
+Operating income (loss)                 117,411      (32,203)      (1,772)
+Net income (loss)                       107,563      (32,293)      (1,772) 
+</TABLE> 
+ 
+<TABLE> 
+<CAPTION> 
+December 31, 1995, and December 25, 1994
+(Unaudited)
+(Thousands)                               1995         1994  
+                                        --------     --------
+<S>                                     <C>          <C>     
+Current assets                          $161,810     $ 10,907 
+Non-current assets                       326,252      263,380
+Current liabilities                      107,524       29,362
+Non-current liabilities                      284           60 
+</TABLE> 
+
+17.  CONTINGENCIES
+
+I.   LITIGATIONS
+
+A.   CLASS ACTION LAWSUITS. On November 3 and 15, 1995, two class action
+lawsuits were filed, purportedly on behalf of purchasers of the company's stock
+from April 11, 1995, to September 25, 1995, alleging that the company and
+various of its officers and directors violated sections of the Securities
+Exchange Act of 1934 Rule 10b-5 promulgated thereunder by issuing allegedly
+false and misleading statements concerning the development and production of the
+AMD-K5(TM). The complaints seek damages in an unspecified amount. Based upon
+information presently known to management, the company does not believe that the
+ultimate resolution of these lawsuits will have a material adverse effect upon
+the financial condition or results of operations of the company.
+
+B.   AMD v. ALTERA CORPORATION. This litigation, which began in 1994, involves
+multiple claims and counterclaims for patent infringement relating to the
+company's and Altera Corporation's programmable logic devices. Based upon
+information presently known to management, the company does not believe that the
+ultimate resolution of this lawsuit will have a material adverse effect upon the
+financial condition or results of operations of the company.
+
+C. THORN EMI NORTH AMERICA, INC. v. AMD. This litigation was filed in 1995 and
+alleged that AMD infringed a patent owned by Thorn EMI North America, Inc.
+relating to the processes used by AMD to manufacture microprocessors. The
+litigation was settled and has been dismissed. The settlement will not have a
+material adverse effect upon the financial condition or results of operations of
+the company.
+
+II.  SEC INVESTIGATION
+
+     The Securities and Exchange Commission (SEC) began an informal
+investigation of the company in 1993 concerning the company's disclosures
+relating to the development of microcode for one of its Am486 products. The
+company has been cooperating fully with the SEC. Based upon information
+presently known to management, the company does not believe that the ultimate
+resolution of the investigation will have a material adverse effect upon the
+financial condition or results of operations of the company.
+
+                                      31
+<PAGE>
+ 
+NOTES TO SUPPLEMENTAL CONSOLIDATED FINANCIAL STATEMENTS
+ 
+III. ENVIRONMENTAL MATTERS
+
+     CLEAN-UP ORDERS. Since 1981, the company has discovered, investigated, and
+begun remediation of three sites where releases from underground chemical tanks
+at its facilities in Santa Clara County, California adversely affected the
+groundwater. The chemicals released into the groundwater were commonly in use in
+the semiconductor industry in the wafer fabrication process prior to 1979. At
+least one of the released chemicals (which is no longer used by the company) has
+been identified as a probable carcinogen.
+
+     In 1991, the company received four Final Site Clean-up Requirements Orders
+from the California Regional Water Quality Control Board, San Francisco Bay
+Region ("RWQCB") relating to the three sites. One of the orders named the
+company as well as TRW Microwave, Inc. and Philips Semiconductors Corporation.
+Another of the orders named the company as well as National Semiconductor
+Corporation.
+
+     The three sites in Santa Clara County are on the National Priorities List
+(Superfund). If the company fails to satisfy federal compliance requirements or
+inadequately performs the compliance measures, the government (a) can bring an
+action to enforce compliance, or (b) can undertake the desired response actions
+itself and later bring an action to recover its costs, and penalties, which is
+up to three times the costs of clean-up activities, if appropriate. With regard
+to certain claims related to this matter the statute of limitations has been
+tolled.
+
+     The company has computed and recorded the estimated environmental liability
+in accordance with applicable accounting rules and has not recorded any
+potential insurance recoveries in determining the estimated costs of the clean-
+up. The amount of environmental charges to earnings has not been material during
+the last three fiscal years. The company believes that the potential liability,
+if any, in excess of amounts already accrued with respect to the foregoing
+environmental matters will not have a material adverse effect on the financial
+condition or results of operations of the company.
+
+IV.  OTHER MATTERS
+
+     The company is a defendant or plaintiff in various other actions which
+arose in the normal course of business. In the opinion of management, the
+ultimate disposition of these matters will not have a material adverse effect on
+the financial condition or results of operations of the company.
+
+18.  SHELF REGISTRATION STATEMENT
+
+On May 25, 1994, the Securities and Exchange Commission declared effective the
+company's shelf registration statement covering up to $400 million of its
+securities, which may be either debt securities, preferred stock, depositary
+shares representing fractions of shares of preferred stock, common stock,
+warrants to purchase common stock, or any combination of the foregoing which the
+company may offer from time to time in the future. The nature and terms of the
+securities will be established at the time of their sale. The company may offer
+the securities through underwriters to be named in the future, through agents or
+otherwise. The net proceeds of any offering will be used for general corporate
+purposes, which may include the reduction of outstanding indebtedness, working
+capital increases, and capital expenditures. To date, the company has not
+offered or sold any securities registered under the $400 million registration
+statement.
+
+                                      32
+<PAGE>
+ 
+              CONSENT OF ERNST & YOUNG, LLP INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in the Registration Statement on
+Form S-8 (No. 33-16095) pertaining to the Advanced Micro Devices, Inc. 1987
+Restricted Stock Award Plan, in the Registration Statement on Form S-8 (No. 33-
+39747) pertaining to the Advanced Micro Devices, Inc. 1991 Employee Stock
+Purchase Plan, in the Registration Statements on Form S-8 (Nos. 33-10319, 33-
+36596 and 33-46578) pertaining to the Advanced Micro Devices, Inc. 1982 and 1986
+Stock Option Plans and the 1980 and 1986 Stock Appreciation Rights Plans, in the
+Registration Statements on Form S-8 (Nos. 33-46577 and 33-55107) pertaining to
+the Advanced Micro Devices, Inc., 1992 Stock Incentive Plan, in the Registration
+Statement on Form S-8 (No. 33-00969) pertaining to the Advanced Micro Devices,
+Inc. 1991 Employee Stock Purchase Plan and to the 1995 Stock Plan of NexGen,
+Inc., in the Registration Statement on Form S-3 (No. 33-52943) pertaining to up
+to $400,000,000 in the aggregate of debt securities, preferred stock, depositary
+shares evidencing fractions of preferred shares, common stock and warrants to
+purchase common stock, and in the Registration Statement on Form S-4 (No. 33-
+64911) pertaining to shares issued in connection with the acquisition of NexGen,
+Inc. and Post-Effective Amendment No. 1 thereto on Form S-8, and Form S-8 (No.
+333-04797) pertaining to the Advanced Micro Devices, Inc. 1996 Stock Incentive
+Plan, of our report dated April 30, 1996, with respect to the supplemental
+consolidated financial statements of Advanced Micro Devices, Inc. included
+herein.
+
+
+                                   Ernst & Young LLP
+
+June 17, 1996
+San Jose, California
+
+                                      33
+<PAGE>
+ 
+                                  SIGNATURES
+                                  ----------
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                      ADVANCED MICRO DEVICES, INC.
+                                              (Registrant)
+
+
+
+Date:  June 20, 1996                  By: /s/ Marvin D. Burkett
+                                          -------------------------------
+                                          Marvin D. Burkett
+                                          Senior Vice President, Chief
+                                          Financial and Administrative
+                                          Officer and Treasurer
+
+                                      34
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

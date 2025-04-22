@@ -1,0 +1,388 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TvBwXAc5pjg13Xm9ZQls97BbAQ/vDpEnUBY1Oc5mW9ef07uhomD8e/5U8s1DRyXy
+ fJlNdXUa4bPlUBKc6BczLA==
+
+<SEC-DOCUMENT>0001012870-03-001576.txt : 20030404
+<SEC-HEADER>0001012870-03-001576.hdr.sgml : 20030404
+<ACCEPTANCE-DATETIME>20030403181032
+ACCESSION NUMBER:		0001012870-03-001576
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030331
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20030404
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		03639294
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>SECURITIES
+AND EXCHANGE COMMISSION </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Washington, D.C. 20549 </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>FORM 8-K </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>CURRENT REPORT </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>Pursuant to Section 13 or 15(d) of </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>the Securities Exchange Act of 1934 </B></FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Date of Report (date of earliest event
+reported):&nbsp;&nbsp;&nbsp;&nbsp;March 31, 2003 </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"
+COLOR="#000000"><B><U>ADVANCED MICRO DEVICES, INC.</U> </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Exact name of registrant as specified in its charter)
+</B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>Delaware</U></B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>1-7882</U></B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>94-1692300</U></B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Commission</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>File Number)</B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Identification No.)</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>One AMD Place,</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>P.O. Box 3453</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>Sunnyvale,
+California</U></B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><U>94088-3453</U></B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Address of Principal Executive Offices)</B></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" WIDTH="31%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>(Zip Code)</B></FONT></P></TD></TR>
+</TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>Registrant&#146;s telephone number, including area code: (<U>408) 732-2400</U> </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Item
+5.&nbsp;&nbsp;&nbsp;&nbsp;Other Events. </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">On
+March 31, 2003, the registrant and Fujitsu Limited issued a press release announcing the execution of a Memorandum of Understanding to establish a new Flash memory semiconductor joint venture company. The full text of the press release is attached
+hereto as Exhibit 99.1 and is incorporated into this item of this report as if fully set forth herein. </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Item 7.&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements, </B><B><I>Pro Forma</I></B><B> Financial Information and Exhibits. </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">(c)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Exhibits </FONT></TD></TR></TABLE><P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The following exhibits are filed as part of this Report: </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="85%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>No.</B></FONT></P><HR WIDTH="20" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="94%"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>Exhibit</B></FONT></P><HR WIDTH="37" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="5"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right" WIDTH="5%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">99.1</FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="94%"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Press Release dated March 31, 2003.</FONT></P></TD></TR>
+</TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B><U>SIGNATURES</U> </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD COLSPAN="3"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3" WIDTH="44%"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">A<SMALL>DVANCED</SMALL> M<SMALL>ICRO</SMALL> D<SMALL>EVICES</SMALL>,
+I<SMALL>NC</SMALL>.</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" WIDTH="2%"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Date:</FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="44%"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">April 2, 2003</FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="2%"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">By:</FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="44%"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">/s/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OBERT</SMALL> J. R<SMALL>IVET</SMALL></FONT></P><HR
+SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="44%"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Robert J. Rivet</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Senior Vice President, Chief Financial Officer</FONT></P></TD></TR>
+</TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE DATED MARCH 31, 2003
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release dated March 31, 2003</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Exhibit 99.1 </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD VALIGN="top" WIDTH="48%"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>[LOGO OF AMD]</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>NEWS RELEASE</I></B></FONT></P> <P><FONT SIZE=2><BR></FONT><br><FONT
+SIZE=2><BR></FONT><br><FONT SIZE=2><BR></FONT><br><FONT SIZE=2><BR></FONT></P></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right" WIDTH="48%"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>[LOGO OF FUJITSU]</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>AMD Contact:</B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Tim Martin</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>AMD Public Relations</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>512.602.6047</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Email: <U>timothy.martin@amd.com</U></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Mike Haase</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Investor Relations</B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>(408) 749-3124</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B><U>mike.haase@amd.com</U></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B>Fujitsu Contact:</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Yuri Momomoto, Robert Pomeroy</B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Fujitsu Limited Public &amp; Investor Relations</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>+81 (0) 3-3215-5236</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>Press Inquiries:
+<U>http://pr.fujitsu.com/en/news/pressinquiries.html</U></B></FONT></P></TD></TR>
+</TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>AMD
+AND FUJITSU ANNOUNCE </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>NEW FLASH MEMORY COMPANY </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>&#151;New company will contend for leadership in Flash memory market&#151; </I></B></FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B>SUNNYVALE, CA&#151;MARCH 31, 2003</B>&#151;AMD (NYSE: AMD)
+and Fujitsu Limited (TSE: 6702, &#147;Fujitsu&#148;) today announced they have executed a Memorandum of Understanding (MOU) to establish a new Flash memory semiconductor company headquartered in Sunnyvale, California. A Japan headquarters will be
+located in Tokyo. The new company, to be called FASL LLC, will be based on the integration of AMD and Fujitsu&#146;s Flash memory businesses, including their existing joint manufacturing venture, Fujitsu AMD Semiconductor Limited. The new company is
+expected to begin operations in the third quarter of this year. </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">-more- </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The
+combination of a customer-centric approach, industry-leading technology expertise, integrated manufacturing, and a streamlined business model is intended to create the pre-eminent global Flash memory provider. </FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#147;Customers are looking for a strong, collaborative partner in the Flash memory category, and that&#146;s what we intend to create
+with this new company,&#148; said Hector Ruiz, AMD president and chief executive officer. &#147;AMD and Fujitsu have a long history of cooperation. Our joint manufacturing venture, which commenced in 1993, has been a model of success for
+U.S.-Japanese joint ventures. Today we are taking that relationship to the next level. I believe this new flash memory company will have all of the necessary ingredients, including scale of operations and revenues, to contend for market leadership.
+This is the right move, at the right time, for both our customers and our companies.&#148; </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000">The MOU provides for: </FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">AMD to own a 60% interest in the new company and Fujitsu to own a 40% interest; the financial results will be consolidated in AMD&#146;s financial statements
+</FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Contributions of gross assets with a net book value in excess of $2.5 billion </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">AMD to appoint the CEO of the company, Bertrand Cambou, AMD senior vice president, Memory Group </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Fujitsu to appoint the first chairman of the board, Masamichi Ogura, Fujitsu corporate senior vice president &amp; group president, Electronic Devices Business Group
+</FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">A board of directors consisting of ten members, six appointed by AMD and four appointed by Fujitsu </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">A marketing arrangement whereby the new company will sell Flash memory products through AMD and Fujitsu and their respective sales forces, under a product brand name
+to be announced by the start of operations of the new company </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">An initial global workforce of approximately 7,000. </FONT></TD></TR></TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">-more- </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">AMD expects to contribute its:
+</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Flash memory group </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Fab 25 in Austin, Texas </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Research and development center known as the Submicron Development Center (SDC) in Sunnyvale, California </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Final Flash memory assembly and test operations in Thailand, Malaysia, and China </FONT></TD></TR></TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Fujitsu plans to contribute its: </FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Flash memory business division </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Fujitsu Microelectronics (Malaysia) (FMM) final assembly and test operations </FONT></TD></TR></TABLE><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">Fujitsu and AMD plan to jointly contribute: </FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#149;</FONT></TD>
+<TD WIDTH="006" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">The ongoing 50-50 manufacturing joint venture Fujitsu AMD Semiconductor Limited (FASL) located in Aizu-Wakamatsu, Japan </FONT></TD></TR></TABLE><P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#147;We expect this new company to be a more formidable
+competitor in the Flash memory business,&#148; said Masamichi Ogura, Fujitsu Limited corporate senior vice president and group president of Fujitsu&#146;s Electronic Devices Business Group. &#147;By joining together in a more comprehensive alliance,
+we can improve our market position through consolidated research and development efforts, as well as benefit from greater access to each other&#146;s technology and manufacturing expertise. Both AMD and Fujitsu share a common goal to make FASL a
+market leader in the Flash memory business and today&#146;s MOU is an important step towards reaching that goal.&#148; </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">-more- </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>CAUTIONARY STATEMENT
+</I></B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">This release contains forward-looking statements, which are made pursuant to the safe harbor provisions of the
+Private Securities Litigation Reform Act of 1995. Investors are cautioned that forward-looking statements in this release involve risks that could cause actual results to differ materially from current expectations. Risks include the possibility
+that the transaction might not be implemented because the memorandum of understanding is non-binding and is subject to the execution of definitive documents and regulatory approvals, the possibility that the new combined company will not be
+successful because of problems integrating the operations and employees of the two companies or in achieving the efficiencies and other advantages intended by the transaction, and the possibility that global business and economic conditions will
+worsen resulting in lower than currently expected demand for Flash memory products. We urge investors to review in detail the other risks and uncertainties in the company&#146;s Securities and Exchange Commission filings, including but not limited
+to the report on Form 10-K for the year ended December 29, 2002. </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><B><I>About AMD </I></B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">AMD is a global supplier of integrated circuits for the personal and networked
+computer and communications markets with manufacturing facilities in the United States, Europe, Japan, and Asia. AMD, a Fortune 500 and Standard &amp; Poor&#146;s 500 company, produces microprocessors, Flash memory devices, and support circuitry for
+communications and networking applications. Founded in 1969 and based in Sunnyvale, California, AMD had revenues of approximately $2.7 billion in 2002. (NYSE: AMD). </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">-more- </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>AMD on the Web
+</I></B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">For more information about AMD products, please visit our virtual pressroom at
+<U>www.amd.com/news/virtualpress/index.html</U>. Additional press releases and information about AMD and its products are available at <U>www.amd.com/news/news.html</U>. </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><B>AMD, the AMD Arrow logo, and combinations thereof, are trademarks of Advanced Micro Devices, Inc. Other company names used
+in this publication are for identification purposes only and may be trademarks of their respective companies. </B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><B><I>About Fujitsu Limited </I></B></FONT></P><P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000">Fujitsu is a leading provider of customer-focused IT and communications solutions for the global marketplace. Pace-setting technologies, high-reliability/performance computing and telecommunications platforms, and a worldwide corps
+of systems and services experts make Fujitsu uniquely positioned to unleash the infinite possibilities of the broadband Internet to help its customers succeed. Headquartered in Tokyo, Fujitsu Limited (TSE:6702) reported consolidated revenues of 5
+trillion yen (about US$38 billion) for the fiscal year ended March 31, 2002. </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">For more information, please see:
+<U>http://www.fujitsu.com/</U> </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">&#151;30&#151; </FONT></P><P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

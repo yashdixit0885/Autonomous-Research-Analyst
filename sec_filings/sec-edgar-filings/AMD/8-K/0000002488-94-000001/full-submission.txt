@@ -1,0 +1,465 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Opjm7EkQuASoHHxVfibhY7w51Y43l3xQTgIXlD4KJDTCAIOt1F0P1SpzQ/7dnuyl
+ Nok5Kc+cJLzSVMhOa8PECw==
+
+<IMS-DOCUMENT>0000002488-94-000001.txt : 19940128
+<IMS-HEADER>0000002488-94-000001.hdr.sgml : 19940128
+ACCESSION NUMBER:		0000002488-94-000001
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940127
+ITEM INFORMATION:		5
+FILED AS OF DATE:		19940127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	3674
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		94503220
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 THOMPSON PL
+		STREET 2:		P O BOX 3453
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+		BUSINESS PHONE:		4087322400
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>ADVANCED MICRO DEVICES, INC. FORM 8-K
+<TEXT>
+
+
+                                  FORM 8-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C.  20549
+
+
+                                  CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+
+                         Date of Report:  January 27, 1994
+
+
+
+                           ADVANCED MICRO DEVICES, INC.
+              ------------------------------------------------------
+              (Exact name of registrant as specified in its charter)
+
+
+
+               Delaware                   1-7882              94-1692300
+     ----------------------------      ------------      -------------------
+     (State or other jurisdiction      (Commission        (I.R.S. Employer
+           of incorporation)           File Number)      Identification No.)
+
+
+
+
+
+            915 Deguigne Dr.,
+            P.O. Box 3453
+            Sunnyvale, California                                 94088-3453
+    -------------------------------------                        --------
+   (Address of principal executive office)                      (Zip Code)
+
+   Registrant's telephone number, including area code:    (408) 732-2400
+
+     Exhibit Index
+     located on sequential page  4                       Page 1 of    7
+                               ------                               ------
+     <PAGE>
+
+
+
+
+
+
+
+   Item 5.    Other Events.
+   ------     ------------
+
+
+          On January 26, 1994, Advanced Micro Devices, Inc. (AMD) issued a
+       press release announcing that Compaq Computer Corporation and AMD  
+       had entered into an agreement under which AMD will supply
+       microprocessors to Compaq.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <PAGE>
+
+
+
+
+
+
+
+                                SIGNATURES
+                                ----------
+
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+     the registrant has duly caused this report to be signed on its behalf 
+     by the undersigned hereunto duly authorized.
+
+                                           ADVANCED MICRO DEVICES, INC.
+                                                   (Registrant)
+
+
+
+     Date:     January 27, 1994                By:  /s/ Larry R. Carter    
+              -------------------                   -----------------------
+                                                    Larry R. Carter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <PAGE>
+
+                                Exhibit Index
+                                -------------
+                                                                 
+                                                                    Sequential
+                                                                     Page No.
+                                                                     --------
+
+
+     28.1     Press release announcing an agreement                
+              with Compaq Computer Corporation                          5    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 1 TO THE 8-K
+<TEXT>
+
+NEWS RELEASE                                   (LOGO APPEARS HERE)
+                                               ADVANCED 
+                                                  MICRO
+                                                 DEVICES
+
+                                               901 Thompson Place
+                                               P.O. Box 3453 
+                                               Sunnyvale                       
+                                               CA  94088-3453
+                                               Tel (408) 732-2400
+
+                                    
+                    ADVANCED MICRO DEVICES ANNOUNCES
+                     LONG-TERM AGREEMENT WITH COMPAQ
+                                    
+          SUNNYVALE, CA ... January 26, 1994 ... Advanced Micro Devices
+  announced today that it has entered into a long-term agreement under which
+  AMD will supply current and future generations of Microsoft registered
+  trademark Windows trademark -compatible microprocessors to Compaq Computer
+  Corporation.  AMD said initial shipments of Am486 trademark microprocessors
+  will commence in the current quarter.
+
+    "Advanced Micro Devices is excited at the prospect of working more       
+  closely with one of the world's premier personal computer 
+  manufacturers," said W.J. Sanders III, chairman and chief executive 
+  officer.  "'Differentiation within standards' will be the key to success 
+  for computer and chip vendors in the '90s.  Our challenge is to provide 
+  Compaq with high-volume microprocessor products that will assist them in 
+  achieving their goal of becoming the world's leading supplier of personal 
+  computers.
+
+    "Compaq's commitment to building personal computers that maximize
+  ease-of-use and incorporate features to enhance user productivity make them 
+  an ideal technology partner for AMD," Mr. Sanders continued.
+  
+                                   (more)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "This agreement completes the triad of enabling agreements that will 
+  catapult AMD into the forefront of the digital revolution made possible 
+  by the ubiquitous microprocessor.  The first of these agreements is 
+  our joint venture with Fujitsu Limited.  That alliance permits AMD and 
+  Fujitsu to build and share a billion-dollar, state-of-the-art, dedicated 
+  manufacturing facility in Japan for sub-0.5-micron flash memory products 
+  while AMD is simultaneously investing in a second billion-dollar, wholly 
+  owned, dedicated manufacturing facility for sub-0.5-micron microprocessor 
+  products at our Austin, Texas, site.  The second agreement is our 
+  technology collaboration with Hewlett-Packard Company under
+  which we are currently jointly developing 0.35-micron logic technology for
+  the next generation of microprocessors. 
+
+    "Finally, the agreement with Compaq will be of enormous 
+  value in our efforts to develop innovative, silicon-based solutions that 
+  provide the determinant technology for higher performance, improved 
+  functionality and ease-of-use in a broad range of information devices.  By
+  working with Compaq, a proven technology leader who has demonstrated an 
+  ability to produce world-class Windows-compatible products, AMD will derive 
+  significant benefits in the form of assistance in the definition of future
+  microprocessor requirements, as well as system-level compatibility and 
+  verification from Compaq -- the world's foremost authority on PC 
+  compatibility.  AMD believes that competition is the driving force
+  of innovation and technological progress which ultimately benefit 
+  end-users."
+                               (more)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       "Compaq's philosophy of providing differentiated 
+  personal computers within widely accepted industry standards closely 
+  parallels AMD's corporate mission, which is to provide our customers with 
+  industry-standard products with a performance edge that reduce the cost 
+  and shorten the time to market for our customers worldwide," 
+  Mr. Sanders concluded. 
+                                   ###
+                                                      
+  AMD news release #94CORP2
+  For more information contact:           John Greenagel (408) 749-3310
+                                                 AMD-90176                   
+
+  Microsoft is a registered trademark of Microsoft Corporation
+  Windows is a trademark of Microsoft Corporation
+  Am486 is a trademark of Advanced Micro Devices, Inc.
+  
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

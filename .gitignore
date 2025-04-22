@@ -1,39 +1,85 @@
-# .gitignore
+# =========================
+# Python
+# =========================
 __pycache__/
 *.py[cod]
-*.sqlite3
-*.dylib
+*.pyo
 *.so
+*.egg-info/
 *.log
-.env
-chroma_store*/
-chroma_store_backup*/
-sec_filings/
-*.ipynb_checkpoints
-ara/lib/
-venv/
-.env.*
-node_modules/
-ara/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib
-ara/lib/python3.11/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so
-ara/lib/python3.11/site-packages/onnxruntime/capi/libonnxruntime.1.21.0.dylib
-
-# Python virtual environment
-/ara/
-/venv/
-/.venv/
-/env/
-
-# Large binary files
-*.dylib
-*.so
-
-# ChromaDB storage
-/chroma_store/
-/chroma_store_backup*/
-*.sqlite3
-
-# Misc
+*.tmp
 .DS_Store
-.env.local
-.env.development.local
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ara/
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# =========================
+# ChromaDB
+# =========================
+chroma_store/
+chroma_store_backup_*/
+*.sqlite3
+*.db
+
+# =========================
+# Model Artifacts & HF Cache
+# =========================
+*.pt
+*.bin
+*.onnx
+*.dylib
+*.h5
+*.ckpt
+__huggingface__
+.cache/
+transformers_cache/
+hub/
+
+# =========================
+# Frontend Build
+# =========================
+dist/
+build/
+node_modules/
+.npm/
+
+# =========================
+# Misc & Uploads
+# =========================
+logs/
+*.zip
+*.tar.gz
+*.tar
+uploads/
+*.pdf
+
+# =========================
+# Git Large File Exclusions
+# =========================
+*.lfs
+*.lock
+*.csv
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Test files
+# =========================
+test_*.py

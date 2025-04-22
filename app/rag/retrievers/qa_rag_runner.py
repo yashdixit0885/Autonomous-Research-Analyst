@@ -1,70 +1,98 @@
-from langchain.vectorstores import Chroma
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from dotenv import load_dotenv
-import os
+# app/rag/retrievers/qa_rag_runner.py
+import time
+from functools import lru_cache
+import asyncio
+from typing import Optional
+import concurrent.futures
 
-load_dotenv()
+from app.services.gemini_engine import gemini_chat
+from app.rag.store.chroma_utils import load_vectorstore
 
-# Set up retriever
-embedding_model = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2",
-    model_kwargs={"device": "cpu"},
-    encode_kwargs={"batch_size": 32, "normalize_embeddings": True}
-)
+DEFAULT_QUESTION = "Summarize the key findings from this company's SEC filings."
+CACHE_SIZE = 100  # Number of vectorstores to cache
+TIMEOUT_SECONDS = 15  # Reduced timeout
+MAX_CONTEXT_LENGTH = 4000  # Maximum context length for Gemini
+SIMILARITY_THRESHOLD = 0.9  # Increased from 0.8 to 0.9
 
-vectordb = Chroma(
-    persist_directory="chroma_store",
-    embedding_function=embedding_model
-)
+@lru_cache(maxsize=CACHE_SIZE)
+def get_cached_vectorstore(ticker: str):
+    """Cache the vectorstore to avoid repeated disk reads"""
+    return load_vectorstore(ticker)
 
-retriever = vectordb.as_retriever(search_kwargs={"k": 5})
+def query_vectorstore(
+    ticker: str, 
+    question: str = DEFAULT_QUESTION, 
+    k: int = 3,  # Reduced from 4 to 3
+    timeout: int = TIMEOUT_SECONDS
+) -> str:
+    """
+    Query the Chroma vectorstore for the given ticker and question,
+    and use Gemini to generate a contextual answer.
+    """
+    try:
+        # Load the vectorstore from cache
+        start_time = time.time()
+        vectordb = get_cached_vectorstore(ticker)
+        print(f"[{ticker}] Loaded vectorstore in {time.time() - start_time:.2f}s")
 
-# Option 1: Use Gemini (commented)
-# from langchain_google_genai import ChatGoogleGenerativeAI
-# llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0)
+        # Search for relevant context with score threshold
+        start_time = time.time()
+        docs = vectordb.similarity_search_with_score(question, k=k)
+        print(f"[{ticker}] Retrieved top {len(docs)} docs in {time.time() - start_time:.2f}s")
 
-# Option 2: Use Mistral LLM
+        if not docs:
+            return "No relevant context found in the filings."
 
+        # Print similarity scores for debugging
+        print(f"[{ticker}] Similarity scores:")
+        for i, (doc, score) in enumerate(docs):
+            print(f"  Doc {i+1}: {score:.4f}")
 
-llm = ChatGoogleGenerativeAI(
-    model="gemini-1.5-pro",
-    temperature=0.2,
-    google_api_key=os.getenv("GEMINI_API_KEY")
-)
+        # Filter documents by score and build context
+        context_chunks = []
+        total_length = 0
+        
+        for doc, score in docs:
+            if score < SIMILARITY_THRESHOLD:  # Only include highly relevant chunks
+                content = doc.page_content.strip()
+                if len(content) > 100:  # Basic relevance threshold
+                    if total_length + len(content) <= MAX_CONTEXT_LENGTH:
+                        context_chunks.append(content)
+                        total_length += len(content)
+                    else:
+                        break
 
-# Prompt Template
-template = """
-You are a financial research analyst. Use the following SEC filing context to answer the question truthfully and professionally.
+        if not context_chunks:
+            return "No sufficiently relevant context found in the filings."
 
-Context:
+        context = "\n\n".join(context_chunks)
+
+        # Compose Gemini prompt
+        prompt = f"""
+You are a professional financial analyst. Use the following context extracted from the company's SEC filings to answer the user's question.
+
+--- Context from SEC Filings ---
 {context}
 
-Question:
+--- Question ---
 {question}
 
-Answer as if writing to an investor:
-"""
+Provide a clear, concise answer grounded in the context. If the context doesn't contain enough information to answer the question, say so.
+        """
 
-prompt = PromptTemplate(
-    input_variables=["context", "question"],
-    template=template,
-)
+        # Make Gemini API call with timeout
+        start_time = time.time()
+        try:
+            # Run Gemini in a separate thread to handle timeout
+            with concurrent.futures.ThreadPoolExecutor() as executor:
+                future = executor.submit(gemini_chat, prompt)
+                result = future.result(timeout=timeout)
+        except concurrent.futures.TimeoutError:
+            return "The request timed out. Please try again with a more specific question."
+            
+        print(f"[{ticker}] Gemini responded in {time.time() - start_time:.2f}s")
+        return result
 
-# Setup RetrievalQA chain
-qa_chain = RetrievalQA.from_chain_type(
-    llm=llm,
-    retriever=retriever,
-    chain_type="stuff",
-    chain_type_kwargs={"prompt": prompt}
-)
-
-# Test query
-if __name__ == "__main__":
-    question = "What are the major risk factors AMD listed in their 10-K?"
-    result = qa_chain.run(question)
-    print("\n📘 RAG Answer:")
-    print(result)
+    except Exception as e:
+        print(f"❌ Error in query_vectorstore: {str(e)}")
+        return f"An error occurred while processing your question: {str(e)}"

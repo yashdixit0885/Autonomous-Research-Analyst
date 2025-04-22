@@ -1,0 +1,200 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WFKVG++YGtk8CSaJYeKF3pq/9JML5W/OmnhgMFYRM5UK37rT1TehPZKWnNuAA6Kq
+ 0snNqx6agajHDHLuXZuvpA==
+
+<SEC-DOCUMENT>0001012870-02-000222.txt : 20020414
+<SEC-HEADER>0001012870-02-000222.hdr.sgml : 20020413
+ACCESSION NUMBER:		0001012870-02-000222
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20020123
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20020123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07882
+		FILM NUMBER:		02515430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMD PL
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3453
+		BUSINESS PHONE:		4087322400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMD PLACE
+		STREET 2:		MS 68
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088-3450
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 8-K
+
+                Current Report Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+
+       Date of Report (date of earliest event reported): January 23, 2002
+
+
+                          ADVANCED MICRO DEVICES, INC.
+                          ----------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+
+         DELAWARE                    1-7882                       94-1692300
+         --------                    ------                       ----------
+(State or other jurisdiction       (Commission                 (I.R.S. Employer
+     of incorporation)             File Number)              Identification No.)
+
+
+
+            One AMD Place,
+            P.O. Box 3453
+        Sunnyvale, California                                     94088-3453
+- ----------------------------------------                          ----------
+(address of principal executive offices)                          (Zip Code)
+
+
+Registrant's telephone number,                                    (408) 732-2400
+        including area code:                                      --------------
+
+<PAGE>
+
+
+Item 5.  Other Events.
+
+     On January 23, 2002, AMD issued a press release which is attached hereto as
+Exhibit 99.1 and is incorporated by reference herein.
+
+
+Item 7.  Financial Statements, Pro Forma Financial Information and Exhibits.
+
+(c)      Exhibits
+
+         The following exhibits are filed as part of this Report:
+
+         No.     Exhibit
+         --      -------
+         99.1    Press Release dated January 23, 2002
+
+
+<PAGE>
+
+                                   SIGNATURES
+                                   ----------
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                      ADVANCED MICRO DEVICES, INC.
+
+
+
+Date:  January 23, 2002               By: /s/ Robert J. Rivet
+                                          --------------------------------------
+                                          Robert J. Rivet
+                                          Senior Vice President, Chief Financial
+                                          Officer
+
+
+<PAGE>
+
+
+EXHIBIT INDEX
+
+No.     Exhibit
+- --      -------
+99.1    Press Release dated January 23, 2002
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.txt
+<DESCRIPTION>PRESS RELEASE DATED JANUARY 23, 2002
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+                                                                       CONTACTS:
+                                                                  John Greenagel
+                                                            AMD Public Relations
+
+                                                                  (408) 749-3310
+                                                  E-mail: john.greenagel@amd.com
+                                                          ----------------------
+
+                                                                    Toni Beckham
+                                                          AMD Investor Relations
+                                                                  (408) 749-3127
+                             E-Mail: investorrelations-ca.communications@amd.com
+
+         Advanced Micro Devices Announces Intention to Offer Convertible
+                               Senior Debentures
+
+SUNNYVALE, CA - January 23, 2002 - AMD today announced its intention to commence
+an offering of $500,000,000 in principal amount of Convertible Senior Debentures
+to be issued pursuant to Rule 144A.
+
+     The company expects that the initial purchasers will have the option to
+purchase an additional $100,000,000 of Convertible Senior Debentures for a
+period of 13 days from the execution of a purchase agreement. The company
+intends to use the proceeds generated from the offering for capital
+expenditures, working capital and general corporate purposes.
+
+     The Debentures and common stock issuable upon conversion have not been
+registered under the Securities Act of 1933, as amended, or any state securities
+laws and may not be offered or sold in the United States absent registration or
+an applicable exemption from registration requirements.
+
+     This release contains forward-looking statements, which are made pursuant
+to the safe harbor provisions of the Private Securities Litigation Reform Act of
+1995. Investors are cautioned that forward-looking statements in this release
+involve risks and uncertainty that could cause actual results to differ
+materially from current expectations.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

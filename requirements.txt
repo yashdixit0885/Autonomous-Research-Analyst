@@ -1,26 +1,43 @@
+# Core packages
 fastapi
 uvicorn
-pandas
-numpy>=1.26
-yfinance
-html2text
+python-dotenv
+
+# LangChain + Chroma
 langchain
 langchain-community
 langchain-huggingface
-langchain-google-genai
-langchain-core
 chromadb
-python-dotenv
-tqdm
 sentence-transformers
-pytest
-pytest-asyncio
-httpx
+torch
 
-# Gemini integration
-google-generativeai==0.8.4
-google-ai-generativelanguage==0.6.15
+# Embeddings
+langchainhub
+langchain-text-splitters
+langchain-core
+langchain-chroma
+langchain-openai
+langchain-google-genai
+langchain-mistralai
 
-chromadb[client]==0.4.13
+# LLMs and Vector Tools
+google-generativeai
+sentencepiece
+protobuf
+
+# Financial + Data
+yfinance
+pandas
+requests
+
+# SEC Filings
 sec-edgar-downloader
-hf_xet
+html2text
+beautifulsoup4
+
+# Utilities
+tqdm
+tenacity
+httpx
+pydantic
+feedparser
